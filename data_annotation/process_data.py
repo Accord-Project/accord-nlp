@@ -1,4 +1,5 @@
 # Created by Hansi at 02/05/2023
+import os
 import re
 
 import numpy as np
@@ -37,6 +38,17 @@ def clean_text_df(file_path, cleaned_file_path):
     df.to_csv(cleaned_file_path, index=False, encoding='utf-8')
 
 
+def group_entities(file_path, output_foler):
+    df = pd.read_excel(file_path, sheet_name='Entities')
+    tags = ['object', 'property', 'quality', 'value']
+
+    for tag in tags:
+        df_tag = df[df['tag'] == tag]
+        freq_data = df_tag['value'].value_counts()
+        df_freq = pd.DataFrame(freq_data, columns=['value'])
+        df_freq.to_csv(os.path.join(output_foler, f'{tag}.csv'), encoding='utf-8')
+
+
 if __name__ == '__main__':
     file1_path = 'data/UK-All-self-contained-Sentences.csv'
     file2_path = 'data/round3/Data_Round3_TeamH.csv'
@@ -49,4 +61,4 @@ if __name__ == '__main__':
 
     # file_path='data/UK-All-self-contained-Sentences.csv'
     # output_path= 'data/without_dups.csv'
-    # drop_duplicates(file_path, output_path)
+    # identify_own_duplicates(file_path, output_path)
