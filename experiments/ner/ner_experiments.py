@@ -64,7 +64,7 @@ for prediction in predictions:
 
 actuals = test_df["label"].tolist()
 actual_labels = [sub.split() for sub in actuals]
-print_eval_ner(actuals, final_predictions)
+print_eval_ner(actual_labels, final_predictions)
 
 flat_predictions = [j for sub in final_predictions for j in sub]
 test_data["predictions"] = flat_predictions
