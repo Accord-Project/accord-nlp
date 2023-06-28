@@ -1287,6 +1287,9 @@ class NERModel:
             "f1_score": [],
             "train_loss": [],
             "eval_loss": [],
+            "precision_strict": [],
+            "recall_strict": [],
+            "f1_score_strict": [],
             **extra_metrics,
         }
 
