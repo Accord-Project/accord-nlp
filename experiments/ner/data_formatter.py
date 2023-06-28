@@ -6,6 +6,7 @@ import re
 
 import pandas as pd
 from nltk.tokenize import word_tokenize
+from sklearn.model_selection import train_test_split
 
 
 def validate_indices(input_path, output_path):
@@ -146,7 +147,10 @@ def format_iob(input_path, output_path):
                     iob_string = f'{iob_string} {token_label}'
                 i = i + 1
 
-            output_df.loc[n] = [id, processed_sentence, iob_string, metadata]
+            if len(processed_sentence.split(' ')) == len(iob_string.split(' ')):
+                output_df.loc[n] = [id, processed_sentence, iob_string, metadata]
+            else:
+                print(f'Error: Mismatching tokens and labels were found for Sentence {id}.')
 
         output_df.to_csv(output_path, encoding='utf-8', index=False)
 
@@ -156,6 +160,6 @@ if __name__ == '__main__':
     output_path = '../../data/final/validated-entities.csv'
     # validate_indices(input_path, output_path)
 
-    input_path = '../../data/final/final-entities.csv'
-    output_path = '../../data/final/processed-entities2.csv'
+    input_path = '../../data/ner/validated-entities.csv'
+    output_path = '../../data/ner/processed-entities.csv'
     format_iob(input_path, output_path)
