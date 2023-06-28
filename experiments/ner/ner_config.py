@@ -16,7 +16,7 @@ ner_args = {
     'max_seq_length': 256,  # 128
     'train_batch_size': 8,  # 32
     'gradient_accumulation_steps': 1,
-    'eval_batch_size': 8,
+    'eval_batch_size': 512,
     'num_train_epochs': 3,
     'weight_decay': 0,
     'learning_rate': 1e-5,
