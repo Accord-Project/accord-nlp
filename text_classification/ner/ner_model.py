@@ -874,14 +874,14 @@ class NERModel:
         os.makedirs(eval_output_dir, exist_ok=True)
         output_eval_file = os.path.join(eval_output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
-            if args.classification_report:
-                writer.write("Default classification report:\n")
-                cls_report = classification_report(out_label_list, preds_list)
-                writer.write("{}\n".format(cls_report))
+            # if args.classification_report:
+            writer.write("Default classification report:\n")
+            cls_report = classification_report(out_label_list, preds_list)
+            writer.write("{}\n".format(cls_report))
 
-                writer.write("Strict classification report:\n")
-                cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2)
-                writer.write("{}\n".format(cls_report_strict))
+            writer.write("Strict classification report:\n")
+            cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2)
+            writer.write("{}\n".format(cls_report_strict))
 
             for key in sorted(result.keys()):
                 writer.write("{} = {}\n".format(key, str(result[key])))
