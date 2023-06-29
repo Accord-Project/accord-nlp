@@ -13,7 +13,7 @@ ner_args = {
 
     'fp16': False,
     'fp16_opt_level': 'O1',
-    'max_seq_length': 256,  # 128
+    'max_seq_length': 128,  # 256, 128 (max-104)
     'train_batch_size': 8,  # 32
     'gradient_accumulation_steps': 1,
     'eval_batch_size': 512,
