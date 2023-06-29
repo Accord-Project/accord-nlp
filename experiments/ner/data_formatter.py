@@ -6,7 +6,6 @@ import re
 
 import pandas as pd
 from nltk.tokenize import word_tokenize
-from sklearn.model_selection import train_test_split
 
 
 def validate_indices(input_path, output_path):
@@ -28,7 +27,7 @@ def regex_escape_chars(text):
     :param text:
     :return:
     """
-    if text == '.': text = "\."
+    text = text.replace(".", "\.")
     text = text.replace("(", "\(")
     text = text.replace(")", "\)")
     return text
@@ -95,15 +94,27 @@ def process_entities(sentence, filtered_df):
 
         entity_tokens = word_tokenize(entity_text)
         i = 0
+        last_index_pair = (0, 0)
         for entity_token in entity_tokens:
             escaped_sub_token = regex_escape_chars(entity_token)
-            index_pair = [(int(row['start']) + ele.start(), int(row['start']) + ele.end()) for ele in
-                          re.finditer(escaped_sub_token, entity_text)][0]
+            # index_pairs = [(int(row['start']) + ele.start(), int(row['start']) + ele.end()) for ele in
+            #               re.finditer(r'\b{}\b'.format(escaped_sub_token), entity_text)]
+            index_pairs = [(int(row['start']) + ele.start(), int(row['start']) + ele.end()) for ele in
+                          re.finditer(escaped_sub_token, entity_text)]
+
+            if len(index_pairs) == 1:
+                index_pair = index_pairs[0]
+            else:
+                diffs = [pair[0]-last_index_pair[1] for pair in index_pairs]
+                min_positive_lst_index = diffs.index(min(filter(lambda x: x >= 0, diffs)))
+                index_pair = index_pairs[min_positive_lst_index]
+
             if i == 0:
                 dict_entities[f'{entity_token}-{index_pair[0]}-{index_pair[1]}'] = [entity_token, f'B-{label}']
             else:
                 dict_entities[f'{entity_token}-{index_pair[0]}-{index_pair[1]}'] = [entity_token, f'I-{label}']
             i = i + 1
+            last_index_pair = index_pair
 
     return dict_entities
 
@@ -120,7 +131,7 @@ def format_iob(input_path, output_path):
 
     ids = df['example_id'].unique().tolist()
 
-    output_df = pd.DataFrame(columns=['example_id', 'content', 'label', 'metadata'])
+    output_df = pd.DataFrame(columns=['example_id', 'content', 'processed_content', 'label', 'metadata'])
 
     for n in range(len(ids)):
         id = ids[n]
@@ -148,7 +159,7 @@ def format_iob(input_path, output_path):
                 i = i + 1
 
             if len(processed_sentence.split(' ')) == len(iob_string.split(' ')):
-                output_df.loc[n] = [id, processed_sentence, iob_string, metadata]
+                output_df.loc[n] = [id, sentence, processed_sentence, iob_string, metadata]
             else:
                 print(f'Error: Mismatching tokens and labels were found for Sentence {id}.')
 
@@ -156,10 +167,11 @@ def format_iob(input_path, output_path):
 
 
 if __name__ == '__main__':
-    input_path = '../../data/final/Final-Data.xlsx'
-    output_path = '../../data/final/validated-entities.csv'
+    input_path = '../../data/Final-Data.xlsx'
+    output_path = '../../data/ner/validated-entities.csv'
     # validate_indices(input_path, output_path)
 
     input_path = '../../data/ner/validated-entities.csv'
     output_path = '../../data/ner/processed-entities.csv'
     format_iob(input_path, output_path)
+
