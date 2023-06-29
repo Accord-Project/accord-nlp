@@ -25,24 +25,26 @@ train_df = pd.read_csv(train_file_path, encoding='utf-8')
 test_df = pd.read_csv(test_file_path, encoding='utf-8')
 
 train_token_df = []
-train_sentence_id = 0
+# train_sentence_id = 0
 for index, row in train_df.iterrows():
-    tokens = row["content"].split()
+    train_sentence_id = row["example_id"]
+    tokens = row["processed_content"].split()
     labels = row["label"].split()
     for token, label in zip(tokens, labels):
         train_token_df.append([train_sentence_id, token, label])
-    train_sentence_id = train_sentence_id + 1
+    # train_sentence_id = train_sentence_id + 1
 
 train_data = pd.DataFrame(train_token_df, columns=["sentence_id", "words", "labels"])
 
 test_token_df = []
-test_sentence_id = 0
+# test_sentence_id = 0
 for index, row in test_df.iterrows():
-    tokens = row["content"].split()
+    test_sentence_id = row["example_id"]
+    tokens = row["processed_content"].split()
     labels = row["label"].split()
     for token, label in zip(tokens, labels):
         test_token_df.append([test_sentence_id, token, label])
-    test_sentence_id = test_sentence_id + 1
+    # test_sentence_id = test_sentence_id + 1
 
 test_data = pd.DataFrame(test_token_df, columns=["sentence_id", "words", "labels"])
 
@@ -62,10 +64,16 @@ for prediction in predictions:
             raw_prediction.append(value)
     final_predictions.append(raw_prediction)
 
+sentences = test_df["processed_content"].tolist()
+converted_predictions = []
+for final_prediction, sentence in zip(final_predictions, sentences):
+    final_prediction += (len(sentence.split()) - len(final_prediction)) * ["O"]
+    converted_predictions.append(final_prediction)
+
 actuals = test_df["label"].tolist()
 actual_labels = [sub.split() for sub in actuals]
-print_eval_ner(actual_labels, final_predictions)
+print_eval_ner(actual_labels, converted_predictions, eval_file_path=os.path.join(ner_args['output_dir'], 'eval.txt'))
 
-flat_predictions = [j for sub in final_predictions for j in sub]
+flat_predictions = [j for sub in converted_predictions for j in sub]
 test_data["predictions"] = flat_predictions
 test_data.to_csv(os.path.join(ner_args['output_dir'], 'predictions.csv'), encoding='utf-8', index=False)
