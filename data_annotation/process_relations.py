@@ -138,7 +138,7 @@ def process_relations(json_path, list_relations, final_annotation_path, output_f
     df_examples = pd.DataFrame(examples, columns=['example_id', 'content', 'metadata'])
 
     # get tagged_token_ids of finalised span annotations
-    df_annotations = pd.read_csv(final_annotation_path)
+    df_annotations = pd.read_csv(final_annotation_path, encoding='utf-8')
     if filter:
         df_final_annotations = df_annotations[df_annotations['decision'] == 'finalised'].copy()
         tagged_token_ids = df_final_annotations['tagged_token_id'].to_list()
@@ -188,12 +188,12 @@ def process_relations(json_path, list_relations, final_annotation_path, output_f
 
 
 if __name__ == '__main__':
-    json_path = 'data/round2/accord-r2-b_annotations.json'
-    final_annotation_path = 'data/round2/accord-r1-b-tags.csv'
-    output_folder_path = 'data/round2/'
+    json_path = '../data/r7/json/accord-r7-m_annotations.json'
+    final_annotation_path = '../data/curation/accord-tags-curated.csv'
+    output_folder_path = '../data/curation/'
 
     list_basic_relations = get_relations(json_path)
     list_relations = format_relations(json_path, list_basic_relations)
 
     process_relations(json_path, list_relations, final_annotation_path, output_folder_path, majority_vote=2,
-                      filter=False)
+                      filter=True)
