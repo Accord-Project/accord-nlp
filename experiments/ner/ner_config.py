@@ -14,10 +14,10 @@ ner_args = {
     'fp16': False,
     'fp16_opt_level': 'O1',
     'max_seq_length': 128,  # 256, 128 (max-104)
-    'train_batch_size': 8,  # 32
+    'train_batch_size': 16,  # 32
     'gradient_accumulation_steps': 1,
     'eval_batch_size': 512,
-    'num_train_epochs': 3,
+    'num_train_epochs': 5,
     'weight_decay': 0,
     'learning_rate': 1e-5,
     'adam_epsilon': 1e-8,
@@ -67,5 +67,4 @@ ner_args = {
     "config": {},
     "local_rank": -1,
     "encoding": None,
-
 }
