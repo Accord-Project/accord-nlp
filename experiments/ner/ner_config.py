@@ -52,7 +52,7 @@ ner_args = {
     "multiprocessing_chunksize": 500,
     'silent': False,
 
-    'wandb_project': "ACCORD-NLP",
+    'wandb_project': "accord_nlp/ner",
     'wandb_kwargs': {},
 
     "use_early_stopping": True,
