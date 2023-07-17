@@ -107,7 +107,7 @@ class NERModel:
         """  # noqa: ignore flake8"
 
         MODEL_CLASSES = {
-            "auto": (AutoConfig, AutoTokenizer, AutoModelForTokenClassification),
+            "auto": (AutoConfig, AutoModelForTokenClassification, AutoTokenizer),
             "bert": (BertConfig, BertForTokenClassification, BertTokenizer),
             'xlnet': (XLNetConfig, XLNetForTokenClassification, XLNetTokenizer),
             "bertweet": (RobertaConfig, RobertaForTokenClassification, BertweetTokenizer),
