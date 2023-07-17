@@ -58,12 +58,23 @@ def process_sentence(sentence):
             sub_tokens = word_tokenize(tokens[i])  # tokenise using NLTK
             if len(sub_tokens) > 1:
                 token_start = token_indices[i][0]
+                last_index_pair = (0, 0)
                 for sub_token in sub_tokens:
                     final_tokens.append(sub_token)
 
                     escaped_sub_token = regex_escape_chars(sub_token)
-                    final_indices.append([(token_start + ele.start(), token_start + ele.end()) for ele in
-                                          re.finditer(escaped_sub_token, tokens[i])][0])
+                    # final_indices.append([(token_start + ele.start(), token_start + ele.end()) for ele in
+                    #                       re.finditer(escaped_sub_token, tokens[i])][0])
+                    index_pairs = [(token_start + ele.start(), token_start + ele.end()) for ele in
+                                   re.finditer(escaped_sub_token, tokens[i])]
+                    if len(index_pairs) == 1:
+                        index_pair = index_pairs[0]
+                    else:
+                        diffs = [pair[0] - last_index_pair[1] for pair in index_pairs]
+                        min_positive_lst_index = diffs.index(min(filter(lambda x: x >= 0, diffs)))
+                        index_pair = index_pairs[min_positive_lst_index]
+                    final_indices.append(index_pair)
+                    last_index_pair = index_pair
             else:
                 final_tokens.append(tokens[i])
                 final_indices.append(token_indices[i])
@@ -173,5 +184,6 @@ if __name__ == '__main__':
 
     input_path = '../../data/ner/validated-entities.csv'
     output_path = '../../data/ner/processed-entities.csv'
-    format_iob(input_path, output_path)
+    # format_iob(input_path, output_path)
+
 
