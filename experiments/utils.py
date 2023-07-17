@@ -16,6 +16,24 @@ def split_data(file_path, output_folder, test_size=0.2):
     test_df.to_csv(os.path.join(output_folder, 'test.csv'), encoding='utf-8', index=False)
 
 
+def format_ner_data(df):
+    """
+    Convert dataframe to NER model's input format
+    :param df:
+    :return:
+    """
+    token_lst = []
+    for index, row in df.iterrows():
+        sentence_id = row["example_id"]
+        tokens = row["processed_content"].split()
+        labels = row["label"].split()
+        for token, label in zip(tokens, labels):
+            token_lst.append([sentence_id, token, label])
+
+    token_df = pd.DataFrame(token_lst, columns=["sentence_id", "words", "labels"])
+    return token_df
+
+
 def print_eval_ner(actuals, preds, eval_file_path=None):
     f = None
     if eval_file_path is not None:

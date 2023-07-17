@@ -7,8 +7,7 @@ import pandas as pd
 from sklearn.model_selection import KFold, train_test_split
 
 from experiments.ner.ner_config import SEED, ner_args
-from experiments.ner.ner_experiments import format_data
-from experiments.utils import print_eval_ner
+from experiments.utils import print_eval_ner, format_ner_data
 from text_classification.ner.ner_model import NERModel
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
@@ -46,10 +45,10 @@ for train, test in splits:
     train, eval = train_test_split(train_df, test_size=0.1, random_state=SEED)
     print(f'train size: {train.shape}')
     print(f'eval size: {eval.shape}')
-    train_token_df = format_data(train)
-    eval_token_df = format_data(eval)
+    train_token_df = format_ner_data(train)
+    eval_token_df = format_ner_data(eval)
 
-    test_token_df = format_data(test_df)
+    test_token_df = format_ner_data(test_df)
 
     tags = train_token_df['labels'].unique().tolist()
     ner_args['best_model_dir'] = os.path.join(base_best_model_dir, f'fold_{fold_i}')
