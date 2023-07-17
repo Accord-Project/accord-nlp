@@ -28,6 +28,7 @@ folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 data_file_path = "../../data/ner/all.csv"
 data_df = pd.read_csv(data_file_path, encoding='utf-8')
 data_df = data_df.head(100)
+print(f'data size: {data_df.shape}')
 
 splits = folds.split(data_df)
 fold_i = 0
