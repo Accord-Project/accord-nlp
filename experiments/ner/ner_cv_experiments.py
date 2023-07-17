@@ -21,6 +21,7 @@ MODEL_TYPE = arguments.model_type
 MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 k_folds = int(arguments.k_folds)
+ner_args['wandb_project'] = 'group-demo2'
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
@@ -33,6 +34,9 @@ splits = folds.split(data_df)
 fold_i = 0
 base_best_model_dir = ner_args['best_model_dir']
 os.makedirs(base_best_model_dir, exist_ok=True)
+
+all_converted_predictions = []
+all_actual_labels = []
 
 for train, test in splits:
     print(f'fold {fold_i}')
@@ -82,6 +86,11 @@ for train, test in splits:
     test_token_df.to_csv(os.path.join(ner_args['best_model_dir'], 'predictions.csv'), encoding='utf-8', index=False)
 
     shutil.copyfile(os.path.join(ner_args['output_dir'], "training_progress_scores.csv"),
-                    os.path.join(ner_args['best_model_dir'], f"training_progress_scores_{fold_i}.csv"))
+                    os.path.join(base_best_model_dir, f"training_progress_scores_{fold_i}.csv"))
+
+    all_converted_predictions.extend(converted_predictions)
+    all_actual_labels.extend(actual_labels)
     fold_i = fold_i + 1
 
+# evaluation of all folds
+print_eval_ner(all_actual_labels, all_converted_predictions, eval_file_path=os.path.join(base_best_model_dir, 'full_eval.txt'))
