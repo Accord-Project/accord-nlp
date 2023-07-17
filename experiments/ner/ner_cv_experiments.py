@@ -21,11 +21,11 @@ MODEL_TYPE = arguments.model_type
 MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 k_folds = int(arguments.k_folds)
-ner_args['wandb_project'] = 'group-demo2'
+ner_args['wandb_project'] = 'ner-cv'
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
-data_file_path = "../../data/ner/all.csv"
+data_file_path = "data/ner/all.csv"
 data_df = pd.read_csv(data_file_path, encoding='utf-8')
 data_df = data_df.head(100)
 print(f'data size: {data_df.shape}')
