@@ -14,7 +14,7 @@ parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
 parser.add_argument('--model_type', required=False, help='model type', default="bert")
 parser.add_argument('--cuda_device', required=False, help='cuda device', default=0)
-parser.add_argument('--k_folds', required=False, help='k folds', default=2)
+parser.add_argument('--k_folds', required=False, help='k folds', default=5)
 arguments = parser.parse_args()
 
 MODEL_TYPE = arguments.model_type
