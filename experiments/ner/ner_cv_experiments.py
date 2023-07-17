@@ -36,7 +36,7 @@ os.makedirs(base_best_model_dir, exist_ok=True)
 
 for train, test in splits:
     print(f'fold {fold_i}')
-    ner_args['wandb_kwargs'] = {'group': MODEL_NAME.split('/')[-1], 'job_type': fold_i}
+    ner_args['wandb_kwargs'] = {'group': f"{MODEL_NAME.split('/')[-1]}-cv", 'job_type': str(fold_i)}
 
     print('train: %s, test: %s' % (data_df.iloc[train].shape, data_df.iloc[test].shape))
     train_df = data_df.iloc[train]
