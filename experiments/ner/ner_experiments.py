@@ -46,34 +46,9 @@ eval_token_df = format_data(eval)
 
 test_token_df = format_data(test_df)
 
-# train_token_df = []
-# # train_sentence_id = 0
-# for index, row in train_df.iterrows():
-#     train_sentence_id = row["example_id"]
-#     tokens = row["processed_content"].split()
-#     labels = row["label"].split()
-#     for token, label in zip(tokens, labels):
-#         train_token_df.append([train_sentence_id, token, label])
-#     # train_sentence_id = train_sentence_id + 1
-#
-# train_data = pd.DataFrame(train_token_df, columns=["sentence_id", "words", "labels"])
-#
-# test_token_df = []
-# # test_sentence_id = 0
-# for index, row in test_df.iterrows():
-#     test_sentence_id = row["example_id"]
-#     tokens = row["processed_content"].split()
-#     labels = row["label"].split()
-#     for token, label in zip(tokens, labels):
-#         test_token_df.append([test_sentence_id, token, label])
-#     # test_sentence_id = test_sentence_id + 1
-#
-# test_data = pd.DataFrame(test_token_df, columns=["sentence_id", "words", "labels"])
-
 tags = train_token_df['labels'].unique().tolist()
 model = NERModel(MODEL_TYPE, MODEL_NAME, labels=tags, args=ner_args)
 
-# train_df, eval_df = train_test_split(train_data, test_size=0.1, random_state=SEED)
 model.train_model(train_token_df, eval_df=eval_token_df)
 
 model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=tags, args=ner_args)
