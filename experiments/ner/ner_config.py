@@ -8,7 +8,8 @@ SEED = 157
 
 ner_args = {
     'output_dir': os.path.join(TEMP_DIRECTORY, "outputs"),
-    'best_model_dir':  os.path.join(TEMP_DIRECTORY, "outputs/best_model"),
+    # 'best_model_dir':  os.path.join(TEMP_DIRECTORY, "outputs/best_model"),
+    'best_model_dir':  os.path.join("outputs/best_model"),
     'cache_dir': os.path.join(TEMP_DIRECTORY, "cache_dir"),
 
     'fp16': False,
@@ -52,7 +53,8 @@ ner_args = {
     "multiprocessing_chunksize": 500,
     'silent': False,
 
-    'wandb_project': "ner",
+    # 'wandb_project': "ner",
+    'wandb_project': "ACCORD-NLP",
     'wandb_kwargs': {},
 
     "use_early_stopping": True,
