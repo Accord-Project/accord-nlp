@@ -3,7 +3,7 @@ statsmodels
 matplotlib
 openpyxl
 nltk
-# PyTorch
+# PyTorch - https://pytorch.org/get-started/locally/
 transformers==4.16.2
 seqeval
 tensorboardX

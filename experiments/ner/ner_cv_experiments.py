@@ -15,6 +15,9 @@ parser.add_argument('--model_name', required=False, help='model name', default="
 parser.add_argument('--model_type', required=False, help='model type', default="bert")
 parser.add_argument('--cuda_device', required=False, help='cuda device', default=0)
 parser.add_argument('--k_folds', required=False, help='k folds', default=5)
+# set if the wandb login cannot be allowed during the run
+parser.add_argument('--wandb_api_key', required=False, help='wandb api key', default=None)
+parser.add_argument('--wandb_run_name', required=False, help='wandb run name', default=None)
 arguments = parser.parse_args()
 
 MODEL_TYPE = arguments.model_type
@@ -22,12 +25,14 @@ MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 k_folds = int(arguments.k_folds)
 ner_args['wandb_project'] = 'ner-cv'
+if arguments.wandb_api_key is not None:
+    os.environ['WANDB_API_KEY'] = arguments.wandb_api_key
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
 data_file_path = "data/ner/all.csv"
 data_df = pd.read_csv(data_file_path, encoding='utf-8')
-data_df = data_df.head(100)
+# data_df = data_df.head(100)
 print(f'data size: {data_df.shape}')
 
 splits = folds.split(data_df)
@@ -40,7 +45,10 @@ all_actual_labels = []
 
 for train, test in splits:
     print(f'fold {fold_i}')
-    ner_args['wandb_kwargs'] = {'group': f"{MODEL_NAME.split('/')[-1]}-cv", 'job_type': str(fold_i)}
+    if arguments.wandb_run_name is not None:
+        ner_args['wandb_kwargs'] = {'group': arguments.wandb_run_name, 'job_type': str(fold_i)}
+    else:
+        ner_args['wandb_kwargs'] = {'group': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}", 'job_type': str(fold_i)}
 
     print('train: %s, test: %s' % (data_df.iloc[train].shape, data_df.iloc[test].shape))
     train_df = data_df.iloc[train]
