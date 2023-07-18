@@ -15,6 +15,7 @@ parser.add_argument('--model_name', required=False, help='model name', default="
 parser.add_argument('--model_type', required=False, help='model type', default="bert")
 parser.add_argument('--cuda_device', required=False, help='cuda device', default=0)
 parser.add_argument('--k_folds', required=False, help='k folds', default=5)
+parser.add_argument('--wandb_api_key', required=False, help='wandb api key', default=None)
 arguments = parser.parse_args()
 
 MODEL_TYPE = arguments.model_type
@@ -22,6 +23,7 @@ MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 k_folds = int(arguments.k_folds)
 ner_args['wandb_project'] = 'ner-cv'
+os.environ['WANDB_API_KEY'] = arguments.wandb_api_key
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
