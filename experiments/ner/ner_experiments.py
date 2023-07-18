@@ -69,7 +69,7 @@ for final_prediction, sentence in zip(final_predictions, sentences):
 
 actuals = test_df["label"].tolist()
 actual_labels = [sub.split() for sub in actuals]
-print_eval_ner(actual_labels, converted_predictions, eval_file_path=os.path.join(ner_args['best_model_dir'], 'eval.txt'))
+print_eval_ner(actual_labels, converted_predictions, eval_file_path=os.path.join(ner_args['best_model_dir'], 'test_eval.txt'))
 
 flat_predictions = [j for sub in converted_predictions for j in sub]
 test_token_df["predictions"] = flat_predictions
