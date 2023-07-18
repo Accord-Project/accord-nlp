@@ -2,3 +2,9 @@ scikit-learn
 statsmodels
 matplotlib
 openpyxl
+nltk
+# PyTorch
+transformers==4.16.2
+seqeval
+tensorboardX
+wandb
