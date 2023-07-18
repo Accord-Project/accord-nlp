@@ -14,4 +14,5 @@
 #conda activate tf
 source activate accord
 
-srun python3 experiments/ner/ner_cv_experiments.py --model_name bert-base-cased --model_type bert --k_folds 2
+#srun python3 experiments/ner/ner_cv_experiments.py --model_name bert-base-cased --model_type bert --k_folds 2
+python -m experiments.ner.ner_cv_experiments --model_name bert-base-cased --model_type bert --k_folds 2
