@@ -23,13 +23,14 @@ MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 k_folds = int(arguments.k_folds)
 ner_args['wandb_project'] = 'ner-cv'
-os.environ['WANDB_API_KEY'] = arguments.wandb_api_key
+if arguments.wandb_api_key is not None:
+    os.environ['WANDB_API_KEY'] = arguments.wandb_api_key
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
 data_file_path = "data/ner/all.csv"
 data_df = pd.read_csv(data_file_path, encoding='utf-8')
-data_df = data_df.head(100)
+# data_df = data_df.head(100)
 print(f'data size: {data_df.shape}')
 
 splits = folds.split(data_df)

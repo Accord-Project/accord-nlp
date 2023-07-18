@@ -18,7 +18,7 @@ ner_args = {
     'train_batch_size': 16,  # 32
     'gradient_accumulation_steps': 1,
     'eval_batch_size': 512,
-    'num_train_epochs': 1,
+    'num_train_epochs': 5,
     'weight_decay': 0,
     'learning_rate': 1e-5,
     'adam_epsilon': 1e-8,
