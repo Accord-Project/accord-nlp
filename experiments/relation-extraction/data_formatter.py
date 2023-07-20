@@ -112,11 +112,11 @@ def pair_entities(data_path, output_path=None):
     return output_df
 
 
-def get_non_related_pairs(entity_file, relation_file):
-    # df['first_name'], df['last_name'] = np.where(df['country'] == 'Japan', (df['last_name'], df['first_name']),
-    #                                              (df['first_name'], df['last_name']))
-
-    relations_df = pd.read_csv(entity_file, encoding='utf-8')
+def get_non_related_pairs(entity_path, relation_path, output_path):
+    relations_df = pd.read_csv(relation_path, encoding='utf-8')
+    relations_df = relations_df[['example_id', 'content', 'metadata', 'entity1_start', 'entity1_end',
+                                 'entity1_value', 'entity1_tag', 'entity2_start', 'entity2_end',
+                                 'entity2_value', 'entity2_tag', 'relation_type']]
     # sort entities
     relations_df['entity1_start'], relations_df['entity1_end'], relations_df['entity1_value'], relations_df[
         'entity1_tag'], relations_df['entity2_start'], relations_df['entity2_end'], relations_df['entity2_value'], \
@@ -131,6 +131,22 @@ def get_non_related_pairs(entity_file, relation_file):
                                                        'entity1_tag'], relations_df['entity2_start'],
                                                    relations_df['entity2_end'], relations_df['entity2_value'], \
                                                    relations_df['entity2_tag']))
+    # relations_df.to_csv(output_path, encoding='utf-8', index=False)
+
+    entity_pairs_df = pair_entities(entity_path)
+
+    # merge two DataFrames and create indicator column
+    df_all = entity_pairs_df.merge(relations_df.drop_duplicates(),
+                                   on=['example_id', 'content', 'metadata', 'entity1_start', 'entity1_end',
+                                       'entity1_value', 'entity1_tag', 'entity2_start', 'entity2_end',
+                                       'entity2_value', 'entity2_tag'], how='left', indicator=True)
+
+    # create DataFrame with rows that exist in first DataFrame only
+    non_related_pairs_df = df_all[df_all['_merge'] == 'left_only']
+    non_related_pairs_df.loc[:, 'relation_type'] = 'None'
+    non_related_pairs_df = non_related_pairs_df.drop('_merge', axis=1)
+
+    non_related_pairs_df.to_csv(output_path, encoding='utf-8', index=False)
 
 
 if __name__ == '__main__':
@@ -144,4 +160,9 @@ if __name__ == '__main__':
 
     data_path = '../../data/ner/validated-entities.csv'
     output_path = '../../data/re/all_pairs.csv'
-    pair_entities(data_path, output_path)
+    # pair_entities(data_path, output_path)
+
+    entity_path = '../../data/ner/validated-entities.csv'
+    relation_path = '../../data/re/validated.csv'
+    output_path = '../../data/re/none_relations.csv'
+    get_non_related_pairs(entity_path, relation_path, output_path)
