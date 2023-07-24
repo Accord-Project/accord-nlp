@@ -30,7 +30,8 @@ class ModelArgs:
     config: dict = field(default_factory=dict)
     custom_layer_parameters: list = field(default_factory=list)
     custom_parameter_groups: list = field(default_factory=list)
-    dataloader_num_workers: int = field(default_factory=get_default_process_count)
+    # dataloader_num_workers: int = field(default_factory=get_default_process_count)
+    dataloader_num_workers: int = 1
     do_lower_case: bool = False
     dynamic_quantize: bool = False
     early_stopping_consider_epochs: bool = False
@@ -155,6 +156,30 @@ class LanguageModelingArgs(ModelArgs):
     handle_chinese_chars: bool = True
     strip_accents: bool = True
     local_rank: int = -1
+
+@dataclass
+class REArgs(ModelArgs):
+    """
+    Model args for a RE_Model
+    """
+
+    model_class: str = "REModel"
+    labels_list: list = field(default_factory=list)
+    labels_map: dict = field(default_factory=dict)
+    lazy_delimiter: str = "\t"
+    lazy_labels_column: int = 1
+    lazy_loading: bool = False
+    lazy_loading_start_line: int = 1
+    lazy_text_a_column: bool = None
+    lazy_text_b_column: bool = None
+    lazy_text_column: int = 0
+    onnx: bool = False
+    regression: bool = False
+    sliding_window: bool = False
+    stride: float = 0.8
+    tie_value: int = 1
+    special_tags: list = None
+
 
 
 
