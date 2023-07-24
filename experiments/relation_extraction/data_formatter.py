@@ -70,14 +70,21 @@ def tag_entities(input_path, output_path, add_entity_tag=False):
     else:
         df['tagged_sentence'] = df.apply(
             lambda row: tag_sentence(row['content'], row['entity1_start'], row['entity1_end'], row['entity2_start'],
-                                     row['entity2_end'], row['entity1_tag', row['entity2_tag']]), axis=1)
+                                     row['entity2_end'], row['entity1_tag'], row['entity2_tag']), axis=1)
 
     df = df[['example_id', 'content', 'metadata', 'tagged_sentence', 'relation_type']]
     df.to_csv(output_path, encoding='utf-8', index=False)
 
 
-def pair_entities(data_path, output_path=None):
-    df = pd.read_csv(data_path, encoding='utf-8')
+def pair_entities(entity_path, output_path=None):
+    """
+    Pair all entities in entity_path per sentence
+    :param entity_path: .csv (final-entities)
+        compulsory columns: example_id, content, metadata, start, end, value, tag
+    :param output_path: .csv
+    :return:
+    """
+    df = pd.read_csv(entity_path, encoding='utf-8')
 
     ids = df['example_id'].unique().tolist()
     data_list = []
@@ -113,6 +120,16 @@ def pair_entities(data_path, output_path=None):
 
 
 def get_non_related_pairs(entity_path, relation_path, output_path):
+    """
+    Identify the entity pairs which are not found in relations
+    :param entity_path: .csv (final-entities)
+        compulsory columns: example_id, content, metadata, start, end, value, tag
+    :param relation_path: .csv (final-relations)
+        compulsory columns: example_id, content, metadata, entity1_start, entity1_end, entity1_tag, entity2_start,
+        entity2_end, entity2_tag, relation_type
+    :param output_path: .csv
+    :return:
+    """
     relations_df = pd.read_csv(relation_path, encoding='utf-8')
     relations_df = relations_df[['example_id', 'content', 'metadata', 'entity1_start', 'entity1_end',
                                  'entity1_value', 'entity1_tag', 'entity2_start', 'entity2_end',
@@ -154,9 +171,9 @@ if __name__ == '__main__':
     output_path = '../../data/re/validated.csv'
     # validate_indices(input_path, output_path)
 
-    input_path = '../../data/re/validated.csv'
-    output_path = '../../data/re/all.csv'
-    # tag_entities(input_path, output_path, add_entity_tag=False)
+    input_path = '../../data/re/none_relation_pairs.csv'
+    output_path = '../../data/re/none_relations.csv'
+    tag_entities(input_path, output_path, add_entity_tag=False)
 
     data_path = '../../data/ner/validated-entities.csv'
     output_path = '../../data/re/all_pairs.csv'
@@ -165,4 +182,4 @@ if __name__ == '__main__':
     entity_path = '../../data/ner/validated-entities.csv'
     relation_path = '../../data/re/validated.csv'
     output_path = '../../data/re/none_relations.csv'
-    get_non_related_pairs(entity_path, relation_path, output_path)
+    # get_non_related_pairs(entity_path, relation_path, output_path)
