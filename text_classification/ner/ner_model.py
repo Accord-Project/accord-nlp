@@ -603,6 +603,9 @@ class NERModel:
                                             logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                             logger.info(" Training terminated.")
                                             train_iterator.close()
+
+                                        if args.wandb_project:
+                                            wandb.finish()
                                         return (
                                             global_step,
                                             tr_loss / global_step
@@ -629,6 +632,9 @@ class NERModel:
                                             logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                             logger.info(" Training terminated.")
                                             train_iterator.close()
+
+                                        if args.wandb_project:
+                                            wandb.finish()
                                         return (
                                             global_step,
                                             tr_loss / global_step
@@ -689,6 +695,9 @@ class NERModel:
                                     logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                     logger.info(" Training terminated.")
                                     train_iterator.close()
+
+                                if args.wandb_project:
+                                    wandb.finish()
                                 return (
                                     global_step,
                                     tr_loss / global_step
@@ -714,6 +723,9 @@ class NERModel:
                                     logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                     logger.info(" Training terminated.")
                                     train_iterator.close()
+
+                                if args.wandb_project:
+                                    wandb.finish()
                                 return (
                                     global_step,
                                     tr_loss / global_step
