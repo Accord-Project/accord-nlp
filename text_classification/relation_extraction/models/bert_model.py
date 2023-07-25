@@ -83,8 +83,6 @@ class BertForSequenceClassification(BertPreTrainedModel):
         )
         # Complains if input_embeds is kept
 
-        print(f'output: {outputs}')
-
         processed_output = process_embeddings(outputs, entity_positions, self.merge_type, self.pool)
 
         pooled_output = self.dropout(processed_output)
