@@ -36,7 +36,15 @@ class BertForSequenceClassification(BertPreTrainedModel):
         loss, logits = outputs[:2]
     """  # noqa: ignore flake8"
 
-    def __init__(self, config, weight=None, merge_type=None, merge_n=1):
+    def __init__(self, config, weight=None, merge_type=None, merge_n=2):
+        """
+
+        :param config:
+        :param weight:
+        :param merge_type: (not implemented currently)
+        :param merge_n: int, optional
+            number of embeddings that need to be merged/concatenated to pass through the linear kayer
+        """
         super(BertForSequenceClassification, self).__init__(config)
         self.num_labels = config.num_labels
 

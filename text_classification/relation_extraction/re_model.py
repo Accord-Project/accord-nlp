@@ -74,7 +74,7 @@ class REModel:
             cuda_device=-1,
             onnx_execution_provider=None,
             merge_type=None,
-            merge_n=1,
+            merge_n=2,
             **kwargs,
     ):
 
@@ -134,6 +134,7 @@ class REModel:
                     self.args.labels_map = {int(key): value for key, value in self.args.labels_map.items()}
             else:
                 self.args.labels_map = {label: i for i, label in enumerate(self.args.labels_list)}
+            num_labels = len(self.args.labels_list)
         else:
             len_labels_list = 2 if not num_labels else num_labels
             self.args.labels_list = [i for i in range(len_labels_list)]

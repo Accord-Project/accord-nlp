@@ -734,9 +734,9 @@ class LazyClassificationDataset(Dataset):
         return self.num_entries
 
 
-def get_first_entity_output(all_embeddings, entity_positions, tensor_indices):
+def get_entity_output(all_embeddings, entity_positions, tensor_indices):
     """
-    Get entity first sub-token embeddings
+    Get entity sub-token embeddings
 
     :param all_embeddings: tensor of all embeddings
         if batch_size=8, max_seq_length=120, token_embedding_dimension=768, size of all_embeddings=([8,120,178])
@@ -752,8 +752,8 @@ def get_first_entity_output(all_embeddings, entity_positions, tensor_indices):
     """
     list_outputs = []
     for i in range(0, entity_positions.shape[1]):
-        first_token_positions = torch.add(entity_positions[:, i], 1)
-        temp_output = all_embeddings[tensor_indices, first_token_positions, :]
+        # first_token_positions = torch.add(entity_positions[:, i], 1)
+        temp_output = all_embeddings[tensor_indices, entity_positions[:, i], :]
         list_outputs.append(temp_output)
     return torch.cat(list_outputs, 1)
 
@@ -762,4 +762,4 @@ def process_embeddings(outputs, entity_positions, merge_type, pool):
     indices = [i for i in range(0, entity_positions.shape[0])]
     tensor_indices = torch.tensor(indices, dtype=torch.long)
 
-    return get_first_entity_output(outputs[0], entity_positions, tensor_indices)
+    return get_entity_output(outputs[0], entity_positions, tensor_indices)
