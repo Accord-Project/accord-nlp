@@ -8,7 +8,7 @@ import torch
 from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 
-from experiments.evaluation import macro_f1, macro_recall, macro_precision, print_eval_re
+from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, print_eval_results
 from experiments.relation_extraction.re_config import re_args, SEED
 from text_classification.relation_extraction.re_model import REModel
 
@@ -63,7 +63,7 @@ model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, 
 predictions, raw_outputs = model.predict(test_df["text"].tolist())
 test_df['predictions'] = predictions
 
-print_eval_re(test_df['labels'].tolist(), predictions)
+print_eval_results(test_df['labels'].tolist(), predictions, eval_file_path=os.path.join(re_args['best_model_dir'], 'test_eval.txt'))
 test_df.to_csv(os.path.join(re_args['best_model_dir'], 'predictions.csv'), encoding='utf-8', index=False)
 
 shutil.copyfile(os.path.join(re_args['output_dir'], "training_progress_scores.csv"),
