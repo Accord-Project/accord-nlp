@@ -14,4 +14,4 @@
 #conda activate tf
 source activate accord
 
-python -m experiments.re.re_experiment --model_name bert-base-cased --model_type bert --wandb_api_key API_KEY
+python -m experiments.relation_extraction.re_experiment --model_name bert-base-cased --model_type bert --wandb_api_key API_KEY
