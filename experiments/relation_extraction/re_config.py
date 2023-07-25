@@ -14,10 +14,10 @@ re_args = {
     'fp16': False,
     'fp16_opt_level': 'O1',
     'max_seq_length': 128,
-    'train_batch_size': 2,
+    'train_batch_size': 16,
     'gradient_accumulation_steps': 1,
-    'eval_batch_size': 8,
-    'num_train_epochs': 1,
+    'eval_batch_size': 64,
+    'num_train_epochs': 3,
     'weight_decay': 0,
     'learning_rate': 1e-5,
     'adam_epsilon': 1e-8,
@@ -27,15 +27,15 @@ re_args = {
     'do_lower_case': False,
     'n_fold': 1,
 
-    'logging_steps': 8,
-    'save_steps': 8,
+    'logging_steps': 16,
+    'save_steps': 16,
     "no_cache": False,
     "no_save": False,
     "save_recent_only": True,
     'save_model_every_epoch': False,
     'evaluate_during_training': True,
     "evaluate_during_training_silent": False,
-    'evaluate_during_training_steps': 8,
+    'evaluate_during_training_steps': 16,
     "evaluate_during_training_verbose": True,
     'use_cached_eval_features': False,
     "save_best_model": True,
@@ -46,13 +46,13 @@ re_args = {
     'overwrite_output_dir': True,
     'reprocess_input_data': True,
 
-    # 'process_count': cpu_count() - 2 if cpu_count() > 2 else 1,
-    'process_count': 1,
-    # 'n_gpu': 1,
-    'n_gpu': 0,
-    'use_multiprocessing': False,
-    # "multiprocessing_chunksize": 500,
-    "multiprocessing_chunksize": -1,
+    'process_count': cpu_count() - 2 if cpu_count() > 2 else 1,
+    # 'process_count': 1,
+    'n_gpu': 1,
+    # 'n_gpu': 0,
+    'use_multiprocessing': True,
+    "multiprocessing_chunksize": 500,
+    # "multiprocessing_chunksize": -1,
     'silent': False,
 
     'wandb_project': None,
@@ -65,12 +65,7 @@ re_args = {
     "early_stopping_metric_minimize": True,
     "early_stopping_consider_epochs": False,
 
-    # "tagging": True,
-    # "begin_tag": "<begin>",
-    # "end_tag": "<end>",
-    # "merge_type": "cls",  # "cls, "concat", "add", "avg", "entity-pool", "entity-first", "entity-last", "cls-*"
     "special_tags": ["<e1>", "<e2>"],  # Should be either begin_tag or end_tag
-    # Need to be provided only for the merge_types: concat, add and avg. For others this will be automatically set.
 
     "manual_seed": SEED,
 
