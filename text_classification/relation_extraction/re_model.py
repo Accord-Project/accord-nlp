@@ -10,6 +10,7 @@ from __future__ import absolute_import, division, print_function
 import glob
 import logging
 import math
+import numbers
 import os
 import random
 import shutil
@@ -642,7 +643,10 @@ class REModel:
                             **kwargs,
                         )
                         for key, value in results.items():
-                            tb_writer.add_scalar("eval_{}".format(key), value, global_step)
+                            # if value is scaler:
+                            # if np.isscalar(value):
+                            if isinstance(value, numbers.Number):
+                                tb_writer.add_scalar("eval_{}".format(key), value, global_step)
 
                         output_dir_current = os.path.join(output_dir, "checkpoint-{}".format(global_step))
 
@@ -657,7 +661,8 @@ class REModel:
                         training_progress_scores["global_step"].append(global_step)
                         training_progress_scores["train_loss"].append(current_loss)
                         for key in results:
-                            training_progress_scores[key].append(results[key])
+                            if isinstance(results[key], numbers.Number):
+                                training_progress_scores[key].append(results[key])
                         report = pd.DataFrame(training_progress_scores)
                         report.to_csv(
                             os.path.join(args.output_dir, "training_progress_scores.csv"), index=False,
@@ -750,7 +755,8 @@ class REModel:
                 training_progress_scores["global_step"].append(global_step)
                 training_progress_scores["train_loss"].append(current_loss)
                 for key in results:
-                    training_progress_scores[key].append(results[key])
+                    if isinstance(results[key], numbers.Number):
+                        training_progress_scores[key].append(results[key])
                 report = pd.DataFrame(training_progress_scores)
                 report.to_csv(os.path.join(args.output_dir, "training_progress_scores.csv"), index=False)
 
@@ -1533,7 +1539,7 @@ class REModel:
         return {metric: values[-1] for metric, values in metric_values.items()}
 
     def _create_training_progress_scores(self, multi_label, **kwargs):
-        extra_metrics = {key: [] for key in kwargs}
+        extra_metrics = {key: [] for key in kwargs if 'report' not in key}
         if multi_label:
             training_progress_scores = {
                 "global_step": [],
