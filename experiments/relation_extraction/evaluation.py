@@ -15,7 +15,7 @@ def macro_precision(y_true, y_pred):
 
 
 def cls_report(y_true,y_pred):
-    classification_report(y_true, y_pred, digits=4)
+    return classification_report(y_true, y_pred, digits=4)
 
 
 def print_eval_results(actuals, preds, eval_file_path=None):
