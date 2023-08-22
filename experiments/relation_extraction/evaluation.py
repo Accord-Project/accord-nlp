@@ -14,17 +14,21 @@ def macro_precision(y_true, y_pred):
     return precision_score(y_true, y_pred, average='macro')
 
 
+def cls_report(y_true,y_pred):
+    classification_report(y_true, y_pred, digits=4)
+
+
 def print_eval_results(actuals, preds, eval_file_path=None):
     f = None
     if eval_file_path is not None:
         f = open(eval_file_path, "w")
 
-    cls_report = classification_report(actuals, preds)
+    cl_report = classification_report(actuals, preds, digits=4)
     print("Classification report:\n")
-    print(cls_report)
+    print(cl_report)
     if eval_file_path is not None:
         f.write("Default classification report:\n")
-        f.write("{}\n".format(cls_report))
+        f.write("{}\n".format(cl_report))
 
     result = {
         "mcc": matthews_corrcoef(actuals, preds),

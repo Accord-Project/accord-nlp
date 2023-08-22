@@ -5,10 +5,10 @@ import shutil
 
 import pandas as pd
 import torch
-from sklearn.metrics import classification_report
 from sklearn.model_selection import train_test_split
 
-from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, print_eval_results
+from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, print_eval_results, \
+    cls_report
 from experiments.relation_extraction.re_config import re_args, SEED
 from text_classification.relation_extraction.re_model import REModel
 
@@ -58,7 +58,7 @@ test_df = test_df[['example_id', 'text', 'labels']]
 re_args['labels_list'] = train_df['labels'].unique().tolist()
 model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), args=re_args)
 
-model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision, cls_report=classification_report)
+model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision, cls_report=cls_report)
 
 predictions, raw_outputs = model.predict(test_df["text"].tolist())
 test_df['predictions'] = predictions
