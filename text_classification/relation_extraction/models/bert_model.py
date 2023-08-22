@@ -43,7 +43,7 @@ class BertForSequenceClassification(BertPreTrainedModel):
         :param weight:
         :param merge_type: (not implemented currently)
         :param merge_n: int, optional
-            number of embeddings that need to be merged/concatenated to pass through the linear kayer
+            number of embeddings that need to be merged/concatenated to pass through the linear layer
         """
         super(BertForSequenceClassification, self).__init__(config)
         self.num_labels = config.num_labels
