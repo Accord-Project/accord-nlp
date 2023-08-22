@@ -57,8 +57,9 @@ test_df = test_df[['example_id', 'text', 'labels']]
 
 re_args['labels_list'] = train_df['labels'].unique().tolist()
 model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), args=re_args)
-
 model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision, cls_report=cls_report)
+
+model = REModel(MODEL_TYPE, re_args['best_model_dir'], use_cuda=torch.cuda.is_available(), args=re_args)
 
 predictions, raw_outputs = model.predict(test_df["text"].tolist())
 test_df['predictions'] = predictions
