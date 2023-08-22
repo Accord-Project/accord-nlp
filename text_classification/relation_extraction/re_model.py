@@ -261,6 +261,13 @@ class REModel:
                 [self.model.bert.config.hidden_size])
             self.model.roberta.embeddings.word_embeddings.weight[-2, :] = torch.rand(
                 [self.model.bert.config.hidden_size])
+
+        elif model_name == "albert":
+            self.model.albert.embeddings.word_embeddings.weight[-1, :] = torch.rand(
+                [self.model.albert.config.hidden_size])
+            self.model.albert.embeddings.word_embeddings.weight[-2, :] = torch.rand(
+                [self.model.albert.config.hidden_size])
+
         self.model.resize_token_embeddings(len(self.tokenizer))
 
 
