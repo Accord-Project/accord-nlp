@@ -1,7 +1,6 @@
 # Created by Hansi at 21/07/2023
 
 # source - https://github.com/huggingface/transformers/blob/v4.31.0/src/transformers/models/albert/modeling_albert.py
-import torch
 import torch.nn as nn
 from torch.nn import CrossEntropyLoss, MSELoss
 from transformers import AlbertPreTrainedModel, AlbertModel
@@ -49,7 +48,7 @@ class AlbertForSequenceClassification(AlbertPreTrainedModel):
         super(AlbertForSequenceClassification, self).__init__(config)
         self.num_labels = config.num_labels
 
-        self.transformer = AlbertModel(config)
+        self.albert = AlbertModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.pool = None
         if merge_type is not None and "-pool" in merge_type:
@@ -74,7 +73,7 @@ class AlbertForSequenceClassification(AlbertPreTrainedModel):
         entity_positions=None
     ):
 
-        outputs = self.transformer(
+        outputs = self.albert(
             input_ids=input_ids,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids,
