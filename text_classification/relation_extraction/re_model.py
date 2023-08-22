@@ -46,6 +46,7 @@ from transformers import (
 from transformers.convert_graph_to_onnx import convert, quantize
 
 from text_classification.config.model_args import REArgs
+from text_classification.relation_extraction.models.albert_model import AlbertForSequenceClassification
 from text_classification.relation_extraction.models.bert_model import BertForSequenceClassification
 from text_classification.relation_extraction.models.roberta_model import RobertaForSequenceClassification
 from text_classification.relation_extraction.utils import (InputExample, LazyClassificationDataset,
@@ -97,7 +98,7 @@ class REModel:
 
         MODEL_CLASSES = {
             "bert": (BertConfig, BertForSequenceClassification, BertTokenizer),
-            # "albert": (AlbertConfig, AlbertForSequenceClassification, AlbertTokenizer),
+            "albert": (AlbertConfig, AlbertForSequenceClassification, AlbertTokenizer),
             # "electra": (ElectraConfig, ElectraForSequenceClassification, ElectraTokenizer),
             "roberta": (RobertaConfig, RobertaForSequenceClassification, RobertaTokenizer),
             # "layoutlm": (LayoutLMConfig, LayoutLMForSequenceClassification, LayoutLMTokenizer),
