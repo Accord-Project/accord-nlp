@@ -828,6 +828,8 @@ class REModel:
                                     if not self.args.evaluate_during_training
                                     else training_progress_scores,
                                 )
+        if args.wandb_project:
+            wandb.finish()
 
         return (
             global_step,
