@@ -13,8 +13,6 @@ from experiments.relation_extraction.re_config import re_args, SEED
 from text_classification.relation_extraction.re_model import REModel
 
 
-# def test():
-
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
 parser.add_argument('--model_type', required=False, help='model type', default="bert")
@@ -28,9 +26,6 @@ MODEL_TYPE = arguments.model_type
 MODEL_NAME = arguments.model_name
 cuda_device = int(arguments.cuda_device)
 re_args['wandb_project'] = 'relation-extraction'
-
-# MODEL_TYPE = 'bert'
-# MODEL_NAME = 'bert-base-cased'
 
 wandb_run_name = None
 if arguments.wandb_api_key is not None:
@@ -70,6 +65,3 @@ test_df.to_csv(os.path.join(re_args['best_model_dir'], 'predictions.csv'), encod
 shutil.copyfile(os.path.join(re_args['output_dir'], "training_progress_scores.csv"),
                 os.path.join(re_args['best_model_dir'], f"training_progress_scores.csv"))
 
-
-# if __name__ == '__main__':
-#     test()
