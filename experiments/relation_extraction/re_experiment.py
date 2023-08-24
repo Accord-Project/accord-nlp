@@ -50,7 +50,7 @@ test_df = pd.read_csv(test_file_path, encoding='utf-8')
 test_df = test_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
 test_df = test_df[['example_id', 'text', 'labels']]
 
-re_args['labels_list'] = train_df['labels'].unique().tolist()
+# re_args['labels_list'] = train_df['labels'].unique().tolist()
 model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), args=re_args)
 model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision, cls_report=cls_report)
 
