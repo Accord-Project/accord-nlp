@@ -6,8 +6,9 @@ import shutil
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import ner_args, SEED
-from experiments.utils import print_eval_ner, format_ner_data
+from experiments.utils import format_ner_data
 from text_classification.ner.ner_model import NERModel
 
 
@@ -46,12 +47,12 @@ eval_token_df = format_ner_data(eval)
 
 test_token_df = format_ner_data(test_df)
 
-tags = train_token_df['labels'].unique().tolist()
-model = NERModel(MODEL_TYPE, MODEL_NAME, labels=tags, args=ner_args)
+# tags = train_token_df['labels'].unique().tolist()
+model = NERModel(MODEL_TYPE, MODEL_NAME, labels=ner_args['labels_list'], args=ner_args)
 
 model.train_model(train_token_df, eval_df=eval_token_df)
 
-model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=tags, args=ner_args)
+model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=ner_args['labels_list'], args=ner_args)
 predictions, raw_outputs = model.predict(test_df["content"].tolist())
 final_predictions = []
 for prediction in predictions:

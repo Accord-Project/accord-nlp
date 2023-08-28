@@ -63,6 +63,8 @@ ner_args = {
     "early_stopping_metric_minimize": True,
     "early_stopping_consider_epochs": False,
 
+    "labels_list": ["O", "B-quality", "B-property", "I-property", "I-quality", "B-object", "I-object", "B-value", "I-value"],
+
     "manual_seed": SEED,
 
     "config": {},
