@@ -250,6 +250,7 @@ class REModel:
         # self.tokenizer.add_tokens([self.args.begin_tag, self.args.end_tag], special_tokens=True)
         self.tokenizer.add_tokens(new_tokens, special_tokens=True)
 
+        # new embeddings will be added to the bottom of the matrix
         self.model.resize_token_embeddings(len(self.tokenizer))
 
         # if model_type == "bert":
@@ -260,34 +261,6 @@ class REModel:
         #
         #     print(self.model.bert.embeddings.word_embeddings.weight[-1, :])
         #     print(self.model.bert.embeddings.word_embeddings.weight[-2, :])
-        #
-        # elif model_name == "xlmroberta":
-        #     self.model.roberta.embeddings.word_embeddings.weight[-1, :] = torch.rand(
-        #         [self.model.bert.config.hidden_size])
-        #     self.model.roberta.embeddings.word_embeddings.weight[-2, :] = torch.rand(
-        #         [self.model.bert.config.hidden_size])
-        #
-        # elif model_name == "albert":
-        #     self.model.albert.embeddings.word_embeddings.weight[-1, :] = torch.rand(
-        #         [self.model.albert.config.hidden_size])
-        #     self.model.albert.embeddings.word_embeddings.weight[-2, :] = torch.rand(
-        #         [self.model.albert.config.hidden_size])
-
-        # self.model.resize_token_embeddings(len(self.tokenizer))
-
-
-        # if self.args.tagging:
-        #     new_special_tokens_dict = {"additional_special_tokens": [self.args.begin_tag, self.args.end_tag]}
-        #     self.tokenizer.add_special_tokens(new_special_tokens_dict)
-        #     # new_token_id = self.tokenizer.convert_tokens_to_ids([self.args.begin_tag])[0]
-        #
-        #     embedding_size = self.model.bert.embeddings.word_embeddings.weight.size(1)
-        #     new_embeddings = torch.FloatTensor(len(new_special_tokens_dict["additional_special_tokens"]),
-        #                                        embedding_size).uniform_(-0.1, 0.1)
-        #     new_embedding_weight = torch.cat((self.model.bert.embeddings.word_embeddings.weight.data, new_embeddings), 0)
-        #     self.model.bert.embeddings.word_embeddings.weight.data = new_embedding_weight
-        #     self.model.config.vocab_size = self.model.config.vocab_size + len(
-        #         new_special_tokens_dict["additional_special_tokens"])
 
         if self.args.wandb_project and not wandb_available:
             warnings.warn("wandb_project specified but wandb is not available. Wandb disabled.")
@@ -708,6 +681,9 @@ class REModel:
                                             logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                             logger.info(" Training terminated.")
                                             train_iterator.close()
+                                        if args.wandb_project:
+                                            wandb.finish()
+
                                         return (
                                             global_step,
                                             tr_loss / global_step
@@ -734,6 +710,10 @@ class REModel:
                                             logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                             logger.info(" Training terminated.")
                                             train_iterator.close()
+
+                                        if args.wandb_project:
+                                            wandb.finish()
+
                                         return (
                                             global_step,
                                             tr_loss / global_step
@@ -798,6 +778,10 @@ class REModel:
                                     logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                     logger.info(" Training terminated.")
                                     train_iterator.close()
+
+                                if args.wandb_project:
+                                    wandb.finish()
+
                                 return (
                                     global_step,
                                     tr_loss / global_step
@@ -822,6 +806,10 @@ class REModel:
                                     logger.info(f" Patience of {args.early_stopping_patience} steps reached")
                                     logger.info(" Training terminated.")
                                     train_iterator.close()
+
+                                if args.wandb_project:
+                                    wandb.finish()
+
                                 return (
                                     global_step,
                                     tr_loss / global_step
