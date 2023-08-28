@@ -39,18 +39,16 @@ from transformers import (
     BertTokenizer,
     RobertaConfig,
     RobertaTokenizer,
-    LayoutLMConfig,
-    LayoutLMTokenizer,
     get_linear_schedule_with_warmup,
 )
 from transformers.convert_graph_to_onnx import convert, quantize
 
-from text_classification.config.model_args import REArgs
-from text_classification.relation_extraction.models.albert_model import AlbertForSequenceClassification
-from text_classification.relation_extraction.models.bert_model import BertForSequenceClassification
-from text_classification.relation_extraction.models.roberta_model import RobertaForSequenceClassification
-from text_classification.relation_extraction.utils import (InputExample, LazyClassificationDataset,
-    convert_examples_to_features, sweep_config_to_sweep_values,)
+from accord_nlp.text_classification.config.model_args import REArgs
+from accord_nlp.text_classification.relation_extraction.models.albert_model import AlbertForSequenceClassification
+from accord_nlp.text_classification.relation_extraction.models.bert_model import BertForSequenceClassification
+from accord_nlp.text_classification.relation_extraction.models.roberta_model import RobertaForSequenceClassification
+from accord_nlp.text_classification.relation_extraction.utils import (InputExample, LazyClassificationDataset,
+                                                                      convert_examples_to_features, sweep_config_to_sweep_values, )
 
 try:
     import wandb

@@ -7,7 +7,7 @@ from torch.nn import CrossEntropyLoss, MSELoss
 from transformers import ROBERTA_PRETRAINED_MODEL_ARCHIVE_LIST, RobertaConfig, RobertaModel
 from transformers.models.roberta.modeling_roberta import RobertaPreTrainedModel
 
-from text_classification.relation_extraction.utils import process_embeddings
+from accord_nlp.text_classification.relation_extraction.utils import process_embeddings
 
 
 class RobertaClassificationHead(nn.Module):

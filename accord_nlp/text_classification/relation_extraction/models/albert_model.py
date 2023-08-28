@@ -1,15 +1,15 @@
 # Created by Hansi at 21/07/2023
 
-# source - https://github.com/huggingface/transformers/blob/v4.31.0/src/transformers/models/bert/modeling_bert.py#L1517
+# source - https://github.com/huggingface/transformers/blob/v4.31.0/src/transformers/models/albert/modeling_albert.py
 import torch.nn as nn
 from torch.nn import CrossEntropyLoss, MSELoss
-from transformers import BertPreTrainedModel, BertModel
+from transformers import AlbertPreTrainedModel, AlbertModel
 
-from text_classification.relation_extraction.utils import process_embeddings
+from accord_nlp.text_classification.relation_extraction.utils import process_embeddings
 
 
-class BertForSequenceClassification(BertPreTrainedModel):
-    r"""
+class AlbertForSequenceClassification(AlbertPreTrainedModel):
+    """
         **labels**: (`optional`) ``torch.LongTensor`` of shape ``(batch_size,)``:
             Labels for computing the sequence classification/regression loss.
             Indices should be in ``[0, ..., config.num_labels - 1]``.
@@ -28,8 +28,8 @@ class BertForSequenceClassification(BertPreTrainedModel):
             list of ``torch.FloatTensor`` (one for each layer) of shape ``(batch_size, num_heads, sequence_length, sequence_length)``:
             Attentions weights after the attention softmax, used to compute the weighted average in the self-attention heads.
     Examples::
-        tokenizer = BertTokenizer.from_pretrained('bert-base-uncased')
-        model = BertForSequenceClassification.from_pretrained('bert-base-uncased')
+        tokenizer = AlbertTokenizer.from_pretrained('albert-base-v2')
+        model = AlbertForSequenceClassification.from_pretrained('albert-base-v2')
         input_ids = torch.tensor(tokenizer.encode("Hello, my dog is cute")).unsqueeze(0)  # Batch size 1
         labels = torch.tensor([1]).unsqueeze(0)  # Batch size 1
         outputs = model(input_ids, labels=labels)
@@ -45,17 +45,16 @@ class BertForSequenceClassification(BertPreTrainedModel):
         :param merge_n: int, optional
             number of embeddings that need to be merged/concatenated to pass through the linear layer
         """
-        super(BertForSequenceClassification, self).__init__(config)
+        super(AlbertForSequenceClassification, self).__init__(config)
         self.num_labels = config.num_labels
 
-        self.bert = BertModel(config)
+        self.albert = AlbertModel(config)
         self.dropout = nn.Dropout(config.hidden_dropout_prob)
         self.pool = None
         if merge_type is not None and "-pool" in merge_type:
             self.pool = nn.AdaptiveAvgPool1d(config.hidden_size)
 
         self.classifier = nn.Linear(config.hidden_size * merge_n, self.config.num_labels)
-
         self.weight = weight
 
         self.init_weights()
@@ -74,16 +73,17 @@ class BertForSequenceClassification(BertPreTrainedModel):
         entity_positions=None
     ):
 
-        outputs = self.bert(
-            input_ids,
+        outputs = self.albert(
+            input_ids=input_ids,
             attention_mask=attention_mask,
             token_type_ids=token_type_ids,
             position_ids=position_ids,
             head_mask=head_mask,
+            # inputs_embeds=inputs_embeds,
         )
-        # Complains if input_embeds is kept
 
         processed_output = process_embeddings(outputs, entity_positions, self.merge_type, self.pool)
+        # pooled_output = outputs[1]
 
         pooled_output = self.dropout(processed_output)
         logits = self.classifier(pooled_output)
