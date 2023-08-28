@@ -6,8 +6,9 @@ import shutil
 import pandas as pd
 from sklearn.model_selection import train_test_split
 
+from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import ner_args, SEED
-from experiments.utils import print_eval_ner, format_ner_data
+from experiments.utils import format_ner_data
 from text_classification.ner.ner_model import NERModel
 
 
