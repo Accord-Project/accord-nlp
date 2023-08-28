@@ -9,7 +9,7 @@ from sklearn.model_selection import KFold, train_test_split
 from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import SEED, ner_args
 from experiments.utils import format_ner_data
-from text_classification.ner.ner_model import NERModel
+from accord_nlp.text_classification.ner.ner_model import NERModel
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")

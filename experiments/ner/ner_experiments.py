@@ -9,7 +9,7 @@ from sklearn.model_selection import train_test_split
 from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import ner_args, SEED
 from experiments.utils import format_ner_data
-from text_classification.ner.ner_model import NERModel
+from accord_nlp.text_classification.ner.ner_model import NERModel
 
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')

@@ -10,7 +10,7 @@ from sklearn.model_selection import train_test_split
 from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, print_eval_results, \
     cls_report
 from experiments.relation_extraction.re_config import re_args, SEED
-from text_classification.relation_extraction.re_model import REModel
+from accord_nlp.text_classification.relation_extraction.re_model import REModel
 
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
