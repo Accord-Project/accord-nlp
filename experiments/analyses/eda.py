@@ -28,10 +28,34 @@ def plot_seq_length_histo(texts, plot_path=None):
     plt.show()
 
 
+def plot_bar_chart(values, plot_path=None):
+    list_unique = list(set(values))
+    counts = [values.count(value) for value in list_unique]
+
+    fig = plt.figure(figsize=(10, 8))
+    barcontainer = plt.bar(list_unique,counts)
+
+    plt.bar_label(barcontainer, counts, label_type='edge')
+    plt.xticks(rotation=45)
+
+    plt.xlabel('Relation Type')
+    plt.ylabel('Counts')
+
+    if plot_path is not None:
+        plt.savefig(plot_path, bbox_inches = 'tight')
+    plt.show()
+
+
 if __name__ == '__main__':
     data_path = '../../data/ner/processed-entities.csv'
     plot_path = '../../data/ner/seq_histogram.png'
 
     df = pd.read_csv(data_path, encoding='utf-8')
     texts = df['processed_content'].tolist()
-    plot_seq_length_histo(texts, plot_path=None)
+    # plot_seq_length_histo(texts, plot_path=None)
+
+    data_path = '../../data/re/test.csv'
+    plot_path = '../../data/re/classes_test.png'
+    df = pd.read_csv(data_path, encoding='utf-8')
+    values = df['relation_type'].tolist()
+    plot_bar_chart(values, plot_path)
