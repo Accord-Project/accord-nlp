@@ -54,7 +54,6 @@ class InformationExtractor:
         """
         # preprocess
         sentence = self.preprocess(sentence)
-        print(sentence)
 
         # NER
         ner_predictions, ner_raw_outputs = self.ner_model.predict([sentence])
