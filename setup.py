@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Accord-Project/NLP-Framework",
     keywords=['NLP', 'NER', 'Relation Extraction'],
-    packages=find_packages(include=("accord_nlp",)),
+    # packages=find_packages(include=("accord_nlp",)),
     classifiers=[
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: Apache Software License",
