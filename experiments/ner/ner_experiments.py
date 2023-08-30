@@ -4,13 +4,13 @@ import os
 import shutil
 
 import pandas as pd
+import torch
 from sklearn.model_selection import train_test_split
 
+from accord_nlp.text_classification.ner.ner_model import NERModel
 from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import ner_args, SEED
 from experiments.utils import format_ner_data
-from accord_nlp.text_classification.ner.ner_model import NERModel
-
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
@@ -32,7 +32,8 @@ if arguments.wandb_api_key is not None:
 if arguments.wandb_run_name is not None:
     ner_args['wandb_kwargs'] = {'name': arguments.wandb_run_name}
 else:
-    ner_args['wandb_kwargs'] = {'name': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}"}
+    ner_args['wandb_kwargs'] = {
+        'name': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}"}
 
 train_file_path = "data/ner/train.csv"
 test_file_path = "data/ner/test.csv"
@@ -48,11 +49,13 @@ eval_token_df = format_ner_data(eval)
 test_token_df = format_ner_data(test_df)
 
 # tags = train_token_df['labels'].unique().tolist()
-model = NERModel(MODEL_TYPE, MODEL_NAME, labels=ner_args['labels_list'], args=ner_args)
+model = NERModel(MODEL_TYPE, MODEL_NAME, labels=ner_args['labels_list'], use_cuda=torch.cuda.is_available(),
+                 cuda_device=cuda_device, args=ner_args)
 
 model.train_model(train_token_df, eval_df=eval_token_df)
 
-model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=ner_args['labels_list'], args=ner_args)
+model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=ner_args['labels_list'],
+                 use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=ner_args)
 predictions, raw_outputs = model.predict(test_df["content"].tolist())
 final_predictions = []
 for prediction in predictions:
@@ -70,7 +73,8 @@ for final_prediction, sentence in zip(final_predictions, sentences):
 
 actuals = test_df["label"].tolist()
 actual_labels = [sub.split() for sub in actuals]
-print_eval_ner(actual_labels, converted_predictions, eval_file_path=os.path.join(ner_args['best_model_dir'], 'test_eval.txt'))
+print_eval_ner(actual_labels, converted_predictions,
+               eval_file_path=os.path.join(ner_args['best_model_dir'], 'test_eval.txt'))
 
 flat_predictions = [j for sub in converted_predictions for j in sub]
 test_token_df["predictions"] = flat_predictions
@@ -78,4 +82,3 @@ test_token_df.to_csv(os.path.join(ner_args['best_model_dir'], 'predictions.csv')
 
 shutil.copyfile(os.path.join(ner_args['output_dir'], "training_progress_scores.csv"),
                 os.path.join(ner_args['best_model_dir'], f"training_progress_scores.csv"))
-
