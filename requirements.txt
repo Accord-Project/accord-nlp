@@ -3,9 +3,12 @@ statsmodels
 matplotlib
 openpyxl
 nltk
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
 # PyTorch - https://pytorch.org/get-started/locally/
 transformers==4.16.2
 seqeval
 tensorboardX
 wandb
 sentencepiece
+# graphviz - conda install -c anaconda graphviz (https://anaconda.org/anaconda/graphviz)

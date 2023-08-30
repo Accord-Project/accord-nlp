@@ -7,11 +7,10 @@ import pandas as pd
 import torch
 from sklearn.model_selection import train_test_split
 
+from accord_nlp.text_classification.relation_extraction.re_model import REModel
 from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, print_eval_results, \
     cls_report
 from experiments.relation_extraction.re_config import re_args, SEED
-from text_classification.relation_extraction.re_model import REModel
-
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
@@ -34,7 +33,8 @@ if arguments.wandb_api_key is not None:
 if arguments.wandb_run_name is not None:
     re_args['wandb_kwargs'] = {'name': arguments.wandb_run_name}
 else:
-    re_args['wandb_kwargs'] = {'name': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}"}
+    re_args['wandb_kwargs'] = {
+        'name': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}"}
 
 train_file_path = "data/re/generated/train.csv"
 test_file_path = "data/re/generated/test.csv"
@@ -51,17 +51,19 @@ test_df = test_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'l
 test_df = test_df[['example_id', 'text', 'labels']]
 
 # re_args['labels_list'] = train_df['labels'].unique().tolist()
-model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), args=re_args)
-model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision, cls_report=cls_report)
+model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=re_args)
+model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision,
+                  cls_report=cls_report)
 
-model = REModel(MODEL_TYPE, re_args['best_model_dir'], use_cuda=torch.cuda.is_available(), args=re_args)
+model = REModel(MODEL_TYPE, re_args['best_model_dir'], use_cuda=torch.cuda.is_available(), cuda_device=cuda_device,
+                args=re_args)
 
 predictions, raw_outputs = model.predict(test_df["text"].tolist())
 test_df['predictions'] = predictions
 
-print_eval_results(test_df['labels'].tolist(), predictions, eval_file_path=os.path.join(re_args['best_model_dir'], 'test_eval.txt'))
+print_eval_results(test_df['labels'].tolist(), predictions,
+                   eval_file_path=os.path.join(re_args['best_model_dir'], 'test_eval.txt'))
 test_df.to_csv(os.path.join(re_args['best_model_dir'], 'predictions.csv'), encoding='utf-8', index=False)
 
 shutil.copyfile(os.path.join(re_args['output_dir'], "training_progress_scores.csv"),
                 os.path.join(re_args['best_model_dir'], f"training_progress_scores.csv"))
-
