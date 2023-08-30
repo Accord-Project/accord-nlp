@@ -1,0 +1,2 @@
+from accord_nlp.information_extraction.ie_pipeline import InformationExtractor
+
