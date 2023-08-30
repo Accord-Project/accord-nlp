@@ -1,5 +1,6 @@
 # Created by Hansi at 28/08/2023
 import torch
+from nltk import word_tokenize
 
 from accord_nlp.information_extraction.convertor import entity_pairing, graph_building
 from accord_nlp.text_classification.ner.ner_model import NERModel
@@ -30,6 +31,13 @@ class InformationExtractor:
         self.re_model = REModel(re_model_info[0], re_model_info[1], use_cuda=torch.cuda.is_available(),
                                 cuda_device=cuda_device, args=re_model_info[2])
 
+    def preprocess(self, sentence):
+        # remove white spaces at the beginning and end of the text
+        sentence = sentence.strip()
+        # tokenise
+        sentence = ' '.join(word_tokenize(sentence))
+        return sentence
+
     def sentence_to_graph(self, sentence):
         """
         Generate a graph based on the information contained in a sentence
@@ -39,6 +47,10 @@ class InformationExtractor:
         :param sentence: str
         :return: graphviz graph
         """
+        # preprocess
+        sentence = self.preprocess(sentence)
+        print(sentence)
+
         # NER
         ner_predictions, ner_raw_outputs = self.ner_model.predict([sentence])
 
@@ -50,12 +62,12 @@ class InformationExtractor:
         entity_pair_df['prediction'] = re_predictions
 
         # build graph
-        graph = graph_building(entity_pair_df, view=True)
+        graph = graph_building(entity_pair_df, view=False)
 
         return graph
 
 
 if __name__ == '__main__':
-    sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm .'
+    sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm.'
     ie = InformationExtractor()
     ie.sentence_to_graph(sentence)
