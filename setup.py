@@ -8,7 +8,7 @@ setup(
     version="0.1.0",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",
-    description="ACCORD - NLP for information extraction for text",
+    description="ACCORD - Information extraction from text",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/Accord-Project/NLP-Framework",
