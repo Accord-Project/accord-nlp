@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     distname="accord-nlp",
-    version="0.1.6",
+    version="0.1.7",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",
     description="ACCORD - Information extraction from text",
@@ -13,7 +13,7 @@ setup(
     long_description_content_type="text/markdown",
     url="https://github.com/Accord-Project/NLP-Framework",
     keywords=['NLP', 'NER', 'Relation Extraction'],
-    # packages=find_packages(include=("accord_nlp",)),
+    packages=find_packages(exclude=("data_annotation", "experiments", "data_preparation")),
     classifiers=[
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: Apache Software License",
