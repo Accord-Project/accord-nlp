@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     distname="accord-nlp",
-    version="0.1.7",
+    version="0.1.8",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",
     description="ACCORD - Information extraction from text",
