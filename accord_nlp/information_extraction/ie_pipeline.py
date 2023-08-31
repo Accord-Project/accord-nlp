@@ -1,8 +1,8 @@
 # Created by Hansi at 28/08/2023
 
-import nltk
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+# import nltk
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
 
 import torch
 from nltk import word_tokenize
@@ -71,7 +71,7 @@ class InformationExtractor:
         return graph
 
 
-if __name__ == '__main__':
-    sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm.'
-    ie = InformationExtractor()
-    ie.sentence_to_graph(sentence)
+# if __name__ == '__main__':
+#     sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm.'
+#     ie = InformationExtractor()
+#     ie.sentence_to_graph(sentence)
