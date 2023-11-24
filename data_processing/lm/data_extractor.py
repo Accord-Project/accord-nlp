@@ -3,6 +3,7 @@
 import os
 # nltk.download('punkt')
 import re
+from os.path import isfile
 
 import nltk
 import pandas as pd
@@ -44,6 +45,11 @@ def split_sentences_spacy(text):
 
 
 def remove_pointers(text):
+    '''
+    Remove bullet points (e.g. 1., 1), G1., 1.2, etc.) from text
+    :param text: str
+    :return: cleaned text:str
+    '''
     sub_pointer_patterns = [pattern_symbols, pattern_numbers, pattern_roman_numbers]
 
     has_pointers = True
@@ -64,6 +70,33 @@ def remove_pointers(text):
     return text
 
 
+def fix_spacing_issues(input_file, output_file):
+    '''
+    Fix line break issues caused during pdf to txt conversion.
+    This merges the text in the same paragraph together and separate the text that should have line breaks (e.g. section headings)
+    :param input_file: .txt file
+    :param output_file: .txt file
+    :return: updated text: str
+    '''
+    with open(input_file, encoding='utf-8') as fr:
+        text = fr.read()
+
+    lines = text.split('\n')
+    updated_text = ''
+
+    for line in lines:
+        if line.isspace() or len(line)==0:
+            continue
+        else:
+            if line[-1] != ' ':
+                updated_text = updated_text + line + '\n\n'
+            else:
+                updated_text = updated_text + line
+    with open(output_file, 'w', encoding='utf-8') as f:
+        f.write(updated_text)
+    return updated_text
+
+
 def extract_sentences(txt_file, output_folder, domain):
     # spacy pipeline for sentence splitting
     nlp.disable_pipe("parser")
@@ -77,7 +110,7 @@ def extract_sentences(txt_file, output_folder, domain):
     merged_text = re.sub('\n', ' ', merged_text)
     splits = merged_text.split(tag_line_break)
 
-    cleaned_splits = []
+    # cleaned_splits = []
     all_text = []
     sentences = []
     non_sentences = []
@@ -87,15 +120,17 @@ def extract_sentences(txt_file, output_folder, domain):
         text = ' '.join(text.split())  # remove additional spaces
         text = remove_pointers(text)  # remove pointers
         text = text.strip()  # remove additional spaces at the beginning and end
-        cleaned_splits.append(text)
+        # cleaned_splits.append(text)
 
         # split into sentences
         text_list = split_sentences_spacy(text)
 
         for text_unit in text_list:
+            text_unit = remove_pointers(str(text_unit))  # remove pointers if there are any after sentence splitting
             id = f'{i}_UK_{domain}'
             all_text.append([id, text_unit])
-            if len(pattern_end.findall(str(text_unit))) == 0 or len(pattern_word.findall(str(text_unit))) < 3:
+            # if the text is too short or have no structural ending as sentence or bullet point, mark it as a non sentence
+            if len(pattern_word.findall(str(text_unit))) < 3 or len(pattern_end.findall(str(text_unit))) == 0:
                 non_sentences.append([id, text_unit])
             else:
                 sentences.append([id, text_unit])
@@ -114,10 +149,28 @@ def extract_sentences(txt_file, output_folder, domain):
 
 
 if __name__ == '__main__':
-    chapter = 'Approved_Document_A'
-    domain = 'DocA_Structure'
+    # # fix line issues in text files
+    # input_folder = '../../data/sentences/1-Raw Text Data - AllChaptersContent/'
+    # input_files = [f for f in os.listdir(input_folder) if isfile(os.path.join(input_folder, f))]
+    # output_folder = '../../data/sentences/txt_processed/'
+    #
+    # for input_file in input_files:
+    #     print(f'processing {input_file}...')
+    #     file_name = os.path.splitext(input_file)[0]
+    #     fix_spacing_issues(os.path.join(input_folder, input_file), os.path.join(output_folder, f'{file_name}.txt'))
 
-    txt_file = os.path.join('../../data/sentences/txt', f'Text-{chapter}-Content.txt')
-    output_folder = '../../data/lm/DocA_Structure'
+    # extract sentences
+    input_folder = '../../data/sentences/txt_processed/'
+    input_files = [f for f in os.listdir(input_folder) if isfile(os.path.join(input_folder, f))]
+    output_folder = '../../data/lm/uk_building_codes'
 
-    extract_sentences(txt_file, output_folder, domain)
+    for input_file in input_files:
+        file_name = os.path.splitext(input_file)[0]
+        splits = file_name.split('-')
+        domain = f'UK_{splits[1]}'
+        print(f'processing {domain}')
+
+        extract_sentences(os.path.join(input_folder, input_file), os.path.join(output_folder, domain), domain)
+
+
+
