@@ -17,7 +17,7 @@ model_type = 'hub' > Falcon-Instruct, flan-t5 (query via inference API, thus, ca
 
 
 class QAModel:
-    def __int__(
+    def __init__(
             self,
             model_id,
             model_type,  # pipeline, hub
@@ -42,7 +42,7 @@ class QAModel:
                 max_length=max_length,
             )
 
-            self.llm = HuggingFacePipeline(pipeline=pipeline, model_kwargs={'temperature': temperature})
+            self.llm = HuggingFacePipeline(pipeline=_pipeline, model_kwargs={'temperature': temperature})
 
         elif model_type == 'hub':
             self.llm = HuggingFaceHub(repo_id=model_id,
