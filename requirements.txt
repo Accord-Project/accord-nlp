@@ -12,3 +12,5 @@ tensorboardX
 wandb
 sentencepiece
 # graphviz - conda install -c anaconda graphviz (https://anaconda.org/anaconda/graphviz)
+langchain
+accelerate
