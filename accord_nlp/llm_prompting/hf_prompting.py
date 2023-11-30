@@ -2,10 +2,17 @@
 import logging
 
 import torch
-from langchain import HuggingFaceHub
-from langchain import HuggingFacePipeline
-from langchain import PromptTemplate, LLMChain
+
+# from langchain import HuggingFaceHub
+# from langchain import HuggingFacePipeline
+# from langchain import PromptTemplate, LLMChain
+
+from langchain.llms import HuggingFaceHub, HuggingFacePipeline
+from langchain.prompts import PromptTemplate
+from langchain.chains import LLMChain
+
 from transformers import AutoTokenizer, pipeline
+
 
 logger = logging.getLogger(__name__)
 
@@ -69,3 +76,4 @@ class QAModel:
             _question = f'{question} {sample}'
             response = llm_chain.run(question)
             responses.append(response)
+        return responses
