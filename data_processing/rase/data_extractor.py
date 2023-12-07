@@ -8,6 +8,8 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from nltk.tokenize import word_tokenize
 
+from experiments.analyses.eda import plot_histo, plot_bar_chart
+
 
 def clean_text(text):
     cleaned_text = ' '.join(text.split())
@@ -201,6 +203,82 @@ def html_to_sections_bulk(input_folder, output_folder):
     print([[a, levels.count(a)] for a in set(levels)])
 
 
+def merge_json(input_folder, output_file):
+    input_files = [f for f in os.listdir(input_folder) if isfile(os.path.join(input_folder, f))]
+    all_data = []
+    for input_file in input_files:
+        file_name = os.path.splitext(input_file)[0]
+
+        with open(os.path.join(input_folder, input_file)) as json_file:
+            data = json.load(json_file)
+
+        for j in data:
+            j['source'] = file_name
+        print(f'{file_name}: {len(data)}')
+        all_data.extend(data)
+
+    with open(output_file, "w", encoding='utf-8') as final:
+        json.dump(all_data, final)
+
+
+def validate_json(input_file, output_folder):
+    with open(input_file) as json_file:
+        data = json.load(json_file)
+
+    validated_data = []
+    data_with_sections = []
+    data_without_sections = []
+
+    for j in data:
+        text = clean_text(j['block_text'])
+        block_tokens = word_tokenize(text)
+
+        for sect in j['sections']:
+            sect['text'] = clean_text(sect['text'])
+
+        block_obj = {'block_text': text, 'sections': j['sections'],
+                     'seq_length': len(block_tokens), 'source': j['source']}
+        validated_data.append(block_obj)
+        if len(j['sections']) == 0:
+            data_without_sections.append(block_obj)
+        else:
+            data_with_sections.append(block_obj)
+
+    with open(os.path.join(output_folder, 'all.json'), "w", encoding='utf-8') as final:
+        json.dump(validated_data, final)
+    with open(os.path.join(output_folder, 'data_with_sections.json'), "w", encoding='utf-8') as final:
+        json.dump(data_with_sections, final)
+    with open(os.path.join(output_folder, 'data_without_sections.json'), "w", encoding='utf-8') as final:
+        json.dump(data_without_sections, final)
+
+
+def get_stats(json_file, plot_folder):
+    with open(json_file) as j_file:
+        data = json.load(j_file)
+
+    seq_lengths = []
+    levels = []
+    section_categories = []
+
+    for j in data:
+        seq_lengths.append(j['seq_length'])
+        for sect in j['sections']:
+            levels.append(sect['level'])
+            section_categories.append(sect['category'])
+
+    print('\nseq length stats:')
+    plot_histo(seq_lengths, plot_path=os.path.join(plot_folder, 'seq_length_histo.png'))
+
+    print('\nlevel stats:')
+    print(f'max: {max(levels)}')
+    print(f'min: {min(levels)}')
+    print([[a, levels.count(a)] for a in set(levels)])
+
+    print('\nsection category stats:')
+    print([[a, section_categories.count(a)] for a in set(section_categories)])
+    plot_bar_chart(section_categories, plot_path=os.path.join(plot_folder, 'categories.png'))
+
+
 if __name__ == '__main__':
     html_file = '../data/input/BB100-Section4.html'
     json_file = '../data/test.json'
@@ -208,4 +286,12 @@ if __name__ == '__main__':
 
     input_folder = '../data/input'
     output_folder = '../data/output2'
-    html_to_sections_bulk(input_folder, output_folder)
+    # html_to_sections_bulk(input_folder, output_folder)
+
+    input_folder = '../../data/rase/validated-text-blocks'
+    output_file = '../../data/rase/validated-text-blocks.json'
+    # merge_json(input_folder, output_file)
+
+    # validate_json('../../data/rase/validated-text-blocks.json', '../../data/rase/final_data')
+
+    get_stats('../../data/rase/final_data/data_with_sections.json', '../../data/rase/final_data/plots')
