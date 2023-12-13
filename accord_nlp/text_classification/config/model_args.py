@@ -88,6 +88,7 @@ class ModelArgs:
     weight_decay: int = 0
     skip_special_tokens: bool = True
     use_hf_datasets: bool = False
+    optimizer: str = "AdamW"
 
     def update_from_dict(self, new_values):
         if isinstance(new_values, dict):
