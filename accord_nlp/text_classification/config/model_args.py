@@ -87,8 +87,6 @@ class ModelArgs:
     warmup_steps: int = 0
     weight_decay: int = 0
     skip_special_tokens: bool = True
-    use_hf_datasets: bool = False
-    optimizer: str = "AdamW"
 
     def update_from_dict(self, new_values):
         if isinstance(new_values, dict):
@@ -158,6 +156,9 @@ class LanguageModelingArgs(ModelArgs):
     handle_chinese_chars: bool = True
     strip_accents: bool = True
     local_rank: int = -1
+    use_hf_datasets: bool = False
+    optimizer: str = "AdamW"
+    adam_betas: tuple = field(default_factory=lambda: (0.9, 0.999))
 
 @dataclass
 class REArgs(ModelArgs):
