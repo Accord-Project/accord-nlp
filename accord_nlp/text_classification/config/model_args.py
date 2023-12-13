@@ -159,6 +159,7 @@ class LanguageModelingArgs(ModelArgs):
     use_hf_datasets: bool = False
     optimizer: str = "AdamW"
     adam_betas: tuple = field(default_factory=lambda: (0.9, 0.999))
+    scheduler: str = "linear_schedule_with_warmup"
 
 @dataclass
 class REArgs(ModelArgs):
