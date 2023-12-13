@@ -7,6 +7,7 @@ nltk
 # nltk.download('averaged_perceptron_tagger')
 # PyTorch - https://pytorch.org/get-started/locally/
 transformers==4.16.2
+# transformers==4.35.2
 seqeval
 tensorboardX
 wandb
