@@ -27,7 +27,7 @@ wandb_kwargs = {'name': f"{MODEL_NAME.split('/')[-1]}"}
 
 
 with open('output_file.txt', 'wb') as wfd:
-    for f in ['data/lm/sentences.csv']:
+    for f in ['data/lm/all_text.csv']:
         with open(f,'rb') as fd:
             next(fd)
             shutil.copyfileobj(fd, wfd)
