@@ -36,8 +36,8 @@ else:
     re_args['wandb_kwargs'] = {
         'name': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}"}
 
-train_file_path = "data/re/generated/train.csv"
-test_file_path = "data/re/generated/test.csv"
+train_file_path = "data/re/generated-train/train.csv"
+test_file_path = "data/re/test.csv"
 train_df = pd.read_csv(train_file_path, encoding='utf-8')
 train_df = train_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
 train_df = train_df[['example_id', 'text', 'labels']]
