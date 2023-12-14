@@ -884,11 +884,11 @@ class NERModel:
         with open(output_eval_file, "w") as writer:
             # if args.classification_report:
             writer.write("Default classification report:\n")
-            cls_report = classification_report(out_label_list, preds_list)
+            cls_report = classification_report(out_label_list, preds_list, digits=4)
             writer.write("{}\n".format(cls_report))
 
             writer.write("Strict classification report:\n")
-            cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2)
+            cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2, digits=4)
             writer.write("{}\n".format(cls_report_strict))
 
             for key in sorted(result.keys()):
