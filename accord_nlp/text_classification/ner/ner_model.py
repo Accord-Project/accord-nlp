@@ -6,6 +6,7 @@ from __future__ import absolute_import, division, print_function
 import glob
 import logging
 import math
+import numbers
 import os
 import random
 import shutil
@@ -557,7 +558,8 @@ class NERModel:
                             **kwargs,
                         )
                         for key, value in results.items():
-                            tb_writer.add_scalar("eval_{}".format(key), value, global_step)
+                            if isinstance(value, numbers.Number):
+                                tb_writer.add_scalar("eval_{}".format(key), value, global_step)
 
                         if args.save_eval_checkpoints:
                             self.save_model(output_dir_current, optimizer, scheduler, model=model, results=results)
