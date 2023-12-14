@@ -874,6 +874,7 @@ class NERModel:
                                                 scheme=IOB2),
             "f1_score_strict": f1_score(out_label_list, preds_list, average="macro", mode="strict",
                                                 scheme=IOB2),
+
             **extra_metrics,
         }
 
@@ -883,13 +884,13 @@ class NERModel:
         output_eval_file = os.path.join(eval_output_dir, "eval_results.txt")
         with open(output_eval_file, "w") as writer:
             # if args.classification_report:
-            writer.write("Default classification report:\n")
-            cls_report = classification_report(out_label_list, preds_list, digits=4)
-            writer.write("{}\n".format(cls_report))
-
-            writer.write("Strict classification report:\n")
-            cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2, digits=4)
-            writer.write("{}\n".format(cls_report_strict))
+            # writer.write("Default classification report:\n")
+            # cls_report = classification_report(out_label_list, preds_list, digits=4)
+            # writer.write("{}\n".format(cls_report))
+            #
+            # writer.write("Strict classification report:\n")
+            # cls_report_strict = classification_report(out_label_list, preds_list, mode="strict", scheme=IOB2, digits=4)
+            # writer.write("{}\n".format(cls_report_strict))
 
             for key in sorted(result.keys()):
                 writer.write("{} = {}\n".format(key, str(result[key])))
@@ -1287,7 +1288,7 @@ class NERModel:
         return inputs
 
     def _create_training_progress_scores(self, **kwargs):
-        extra_metrics = {key: [] for key in kwargs}
+        extra_metrics = {key: [] for key in kwargs if 'report' not in key}
         training_progress_scores = {
             "global_step": [],
             "precision": [],
