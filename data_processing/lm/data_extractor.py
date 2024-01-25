@@ -8,6 +8,7 @@ from os.path import isfile
 import nltk
 import pandas as pd
 import spacy
+from nltk import word_tokenize
 from tqdm import tqdm
 
 nlp = spacy.load("en_core_web_lg")
@@ -148,6 +149,48 @@ def extract_sentences(txt_file, output_folder, domain):
     df_non_sent.to_csv(os.path.join(output_folder, 'non_sentences.csv'), encoding='utf-8', index=False)
 
 
+def merge_csv(input_folder, output_file):
+    folders = [x[0] for x in os.walk(input_folder)]
+    print(folders)
+
+    folders = folders[1:]
+    print(folders)
+
+    dfs = []
+
+    for folder in folders:
+        # doc_name = os.path.splitext(folder)[0]
+        doc_name = os.path.basename(folder)
+
+        df = pd.read_csv(os.path.join(folder, 'all.csv'), encoding='utf-8')
+
+        if 'text-fixed' in df.columns:
+            df = df[['id', 'text-fixed']]
+            df = df.rename(columns={'text-fixed': 'text'})
+
+        df['word_count'] = df.apply(lambda row: len(pattern_word.findall(str(row['text']))), axis=1)
+        df = df[df['word_count'] > 2]
+        df = df[['id', 'text']]
+
+        dfs.append(df)
+
+    final_df = pd.concat(dfs, ignore_index=True)
+    final_df.to_csv(output_file, encoding='utf-8', index=False)
+
+
+def seq_lengths(input_csv):
+    df = pd.read_csv(input_csv, encoding='utf-8')
+    df['seq_length'] = df.apply(lambda row: len(str(row['text']).split()), axis=1)
+    print(df['seq_length'].describe())
+
+
+def token_count(input_csv):
+    df = pd.read_csv(input_csv, encoding='utf-8')
+    df['token_count'] = df.apply(lambda row: len(word_tokenize(row['text'])), axis=1)
+    print(df['token_count'].describe())
+    print(f"total: {df['token_count'].sum()}")
+
+
 if __name__ == '__main__':
     # # fix line issues in text files
     # input_folder = '../../data/sentences/1-Raw Text Data - AllChaptersContent/'
@@ -160,17 +203,25 @@ if __name__ == '__main__':
     #     fix_spacing_issues(os.path.join(input_folder, input_file), os.path.join(output_folder, f'{file_name}.txt'))
 
     # extract sentences
-    input_folder = '../../data/sentences/txt_processed/'
-    input_files = [f for f in os.listdir(input_folder) if isfile(os.path.join(input_folder, f))]
-    output_folder = '../../data/lm/uk_building_codes'
+    # input_folder = '../../data/sentences/txt_processed/'
+    # input_files = [f for f in os.listdir(input_folder) if isfile(os.path.join(input_folder, f))]
+    # output_folder = '../../data/lm/uk_building_codes'
+    #
+    # for input_file in input_files:
+    #     file_name = os.path.splitext(input_file)[0]
+    #     splits = file_name.split('-')
+    #     domain = f'UK_{splits[1]}'
+    #     print(f'processing {domain}')
+    #
+    #     extract_sentences(os.path.join(input_folder, input_file), os.path.join(output_folder, domain), domain)
 
-    for input_file in input_files:
-        file_name = os.path.splitext(input_file)[0]
-        splits = file_name.split('-')
-        domain = f'UK_{splits[1]}'
-        print(f'processing {domain}')
+    input_folder = '../../data/lm/uk_building_codes'
+    output_file = '../../data/lm/uk_building_codes/all_text.csv'
+    # merge_csv(input_folder, output_file)
 
-        extract_sentences(os.path.join(input_folder, input_file), os.path.join(output_folder, domain), domain)
+    # seq_lengths('../../data/lm/uk_building_codes/all_sentences.csv')
+    token_count('../../data/lm/uk_building_codes/all_sentences.csv')
+
 
 
 
