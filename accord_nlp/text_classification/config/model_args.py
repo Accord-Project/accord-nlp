@@ -156,6 +156,10 @@ class LanguageModelingArgs(ModelArgs):
     handle_chinese_chars: bool = True
     strip_accents: bool = True
     local_rank: int = -1
+    use_hf_datasets: bool = False
+    optimizer: str = "AdamW"
+    adam_betas: tuple = field(default_factory=lambda: (0.9, 0.999))
+    scheduler: str = "linear_schedule_with_warmup"
 
 @dataclass
 class REArgs(ModelArgs):

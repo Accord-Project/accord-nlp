@@ -3,19 +3,27 @@ from seqeval.metrics import classification_report, precision_score, recall_score
 from seqeval.scheme import IOB2
 
 
+def cls_report(y_true, y_pred):
+    return classification_report(y_true, y_pred, digits=4)
+
+
+def strict_cls_report(y_true, y_pred):
+    return classification_report(y_true, y_pred, mode="strict", scheme=IOB2, digits=4)
+
+
 def print_eval_ner(actuals, preds, eval_file_path=None):
     f = None
     if eval_file_path is not None:
         f = open(eval_file_path, "w")
 
-    cls_report = classification_report(actuals, preds)
+    cls_report = classification_report(actuals, preds, digits=4)
     print("Default classification report:\n")
     print(cls_report)
     if eval_file_path is not None:
         f.write("Default classification report:\n")
         f.write("{}\n".format(cls_report))
 
-    cls_report_strict = classification_report(actuals, preds, mode="strict", scheme=IOB2)
+    cls_report_strict = classification_report(actuals, preds, mode="strict", scheme=IOB2, digits=4)
     print("Strict classification report:\n")
     print(cls_report_strict)
 
