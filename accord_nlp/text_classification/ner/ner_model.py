@@ -83,7 +83,7 @@ class NERModel:
             model_name,
             labels=None,
             args=None,
-            use_cuda=True,
+            use_cuda=torch.cuda.is_available(),
             cuda_device=-1,
             onnx_execution_provider=None,
             **kwargs,
@@ -94,7 +94,7 @@ class NERModel:
         Args:
             model_type: The type of model (bert, roberta)
             model_name: Default Transformer model name or path to a directory containing Transformer model file (pytorch_model.bin).
-            labels (optional): A list of all Named Entity labels.  If not given, ["O", "B-MISC", "I-MISC",  "B-PER", "I-PER", "B-ORG", "I-ORG", "B-LOC", "I-LOC"] will be used.
+            labels (optional): A list of all Named Entity labels.  If not given, ["O", "B-quality", "B-property", "I-property", "I-quality", "B-object", "I-object", "B-value", "I-value"] will be used.
             args (optional): Default args will be used if this parameter is not provided. If provided, it should be a dict containing the args that should be changed in the default args.
             use_cuda (optional): Use GPU if available. Setting to False will force model to use CPU only.
             cuda_device (optional): Specific GPU that should be used. Will use the first available GPU by default.
@@ -149,17 +149,15 @@ class NERModel:
         elif self.args.labels_list:
             pass
         else:
-            self.args.labels_list = [
-                "O",
-                "B-MISC",
-                "I-MISC",
-                "B-PER",
-                "I-PER",
-                "B-ORG",
-                "I-ORG",
-                "B-LOC",
-                "I-LOC",
-            ]
+            self.args.labels_list = ["O",
+                                     "B-quality",
+                                     "B-property",
+                                     "I-property",
+                                     "I-quality",
+                                     "B-object",
+                                     "I-object",
+                                     "B-value",
+                                     "I-value"]
         self.num_labels = len(self.args.labels_list)
 
         config_class, model_class, tokenizer_class = MODEL_CLASSES[model_type]
