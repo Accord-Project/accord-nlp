@@ -2,6 +2,8 @@
 from accord_nlp.text_classification.relation_extraction.re_model import REModel
 
 re_args = {
+    "labels_list": ["selection", "necessity", "none", "greater", "part-of", "equal", "greater-equal", "less-equal",
+                    "not-part-of", "less"],
     "special_tags": ["<e1>", "<e2>"],  # Should be either begin_tag or end_tag
 }
 
