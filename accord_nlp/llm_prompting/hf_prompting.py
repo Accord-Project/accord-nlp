@@ -74,6 +74,6 @@ class QAModel:
 
         for sample in samples:
             _question = f'{question} {sample}'
-            response = llm_chain.run(question)
+            response = llm_chain.run(question=_question)
             responses.append(response)
         return responses
