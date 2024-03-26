@@ -1,8 +1,8 @@
 # Created by Hansi at 28/08/2023
 
-# import nltk
-# nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
+import nltk
+nltk.download('punkt')
+nltk.download('averaged_perceptron_tagger')
 
 import torch
 from nltk import word_tokenize
@@ -34,10 +34,10 @@ class InformationExtractor:
         # self.ner_model = NERModel(ner_model_info[0], ner_model_info[1], labels=ner_model_info[2]['labels_list'] if ner_model_info else None,
         #                           use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=ner_model_info[2] if ner_model_info else None)
         self.ner_model = NERModel(ner_model_info[0], ner_model_info[1], use_cuda=torch.cuda.is_available(),
-                                  cuda_device=cuda_device, args=ner_model_info[2] if ner_model_info else None)
+                                  cuda_device=cuda_device, args=ner_model_info[2] if len(ner_model_info) > 2 else None)
 
         self.re_model = REModel(re_model_info[0], re_model_info[1], use_cuda=torch.cuda.is_available(),
-                                cuda_device=cuda_device, args=re_model_info[2] if re_model_info else None)
+                                cuda_device=cuda_device, args=re_model_info[2] if len(re_model_info) > 2 else None)
 
     def preprocess(self, sentence):
         # remove white spaces at the beginning and end of the text
@@ -63,12 +63,12 @@ class InformationExtractor:
 
         # pair entities to predict their relations
         entity_pair_df = entity_pairing(sentence, ner_predictions[0])
-        print(entity_pair_df.to_string())
+        # print(entity_pair_df.to_string())
 
         # relation extraction
         re_predictions, re_raw_outputs = self.re_model.predict(entity_pair_df['output'].tolist())
         entity_pair_df['prediction'] = re_predictions
-        print(entity_pair_df.to_string())
+        # print(entity_pair_df.to_string())
 
         # build graph
         graph = graph_building(entity_pair_df, view=True)

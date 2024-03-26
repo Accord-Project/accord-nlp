@@ -8,3 +8,8 @@ if __name__ == '__main__':
     ie = InformationExtractor()
     ie.sentence_to_graph(sentence)
 
+    ner_model_info = ('roberta', 'ACCORD-NLP/ner-roberta-large'),
+    re_model_info = ('roberta', 'ACCORD-NLP/re-roberta-large'),
+    ie = InformationExtractor(ner_model_info=ner_model_info, re_model_info=re_model_info)
+    ie.sentence_to_graph(sentence)
+
