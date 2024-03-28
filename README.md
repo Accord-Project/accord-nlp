@@ -7,7 +7,10 @@ sector necessitates the interpretation of building codes, regulations, and stand
 As these codes primarily exist in textual form, Natural Language Processing (NLP) is integral to decode this data while 
 capturing the underlying linguistics and domain-specific characteristics.
 
-# Installation
+## Index
+1. [Installation](#installation)
+
+# Installation <a name="installation"> </a>
 
 As the initial step, Pytorch needs to be installed. The recommended Pytorch version is 2.0.1. Please refer to [PyTorch](https://pytorch.org/get-started/locally/#start-locally) 
 installation page for the specific installation command for your platform.
