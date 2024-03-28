@@ -7,10 +7,7 @@ sector necessitates the interpretation of building codes, regulations, and stand
 As these codes primarily exist in textual form, Natural Language Processing (NLP) is integral to decode this data while 
 capturing the underlying linguistics and domain-specific characteristics.
 
-## Index
-1. [Installation](#installation)
-
-# Installation <a name="installation"> </a>
+## Installation <a name="installation"> </a>
 
 As the initial step, Pytorch needs to be installed. The recommended Pytorch version is 2.0.1. Please refer to [PyTorch](https://pytorch.org/get-started/locally/#start-locally) 
 installation page for the specific installation command for your platform.
@@ -18,25 +15,25 @@ installation page for the specific installation command for your platform.
 Once PyTorch has been installed, accord-nlp can be installed either from the source or as a Python package via pip. 
 The latter approach is recommended. 
 
-## From Source
+### From Source
 ```
 git clone https://github.com/Accord-Project/accord-nlp.git
 cd accord-nlp
 pip install -r requirements.txt
 ```
 
-## From pip
+### From pip
 ```
 pip install accord-nlp
 ```
 
-# Features
-1. Data Augmentation
-2. Entity Classification
-3. Relation Classification
-4. Information Extraction
+## Features
+1. [Data Augmentation](#da)
+2. [Entity Classification](#ner)
+3. [Relation Classification](#re)
+4. [Information Extraction](#ie)
 
-## Data Augmentation
+### Data Augmentation <a name="da"> </a>
 
 Data augmentation supports the synthetic oversampling of relation annotated data within a domain-specific context. It 
 can be used using the following code. The original experiment script is available [here]().
@@ -53,7 +50,7 @@ output_path = '<.csv file path to save newly created data>'
 rda.replace_entities(relations_path, entities_path, output_path, n=12)
 ```
 
-### Available Datasets
+#### Available Datasets
 
 The data augmentation approach was applied to the relation-annotated training data in the CODE-ACCORD corpus. 2,912 
 synthetic data samples were generated, resulting in a training set of 6,375 relations. More details about the data 
@@ -69,7 +66,7 @@ data_files = {"augmented_train": "augmented.csv"}
 augmented_train = Dataset.to_pandas(load_dataset("ACCORD-NLP/CODE-ACCORD-Relations", data_files=data_files, split="augmented_train"))
 ```
 
-## Entity Classification
+### Entity Classification <a name="ner"> </a>
 
 The entity classification problem is formulated as a sequence labelling problem and fine-tuned the following transformer-based 
 architecture to build entity classifiers. 
@@ -118,7 +115,7 @@ Our paper provides more details about the experiments and evaluations conducted.
 </table>
 
 
-### Available Models
+#### Available Models
 
 All the fine-tuned models are available in [HuggingFace](https://huggingface.co/ACCORD-NLP), and can be accessed using the following code.
 
@@ -130,7 +127,7 @@ predictions, raw_outputs = model.predict(['The gradient of the passageway should
 print(predictions)
 ```
 
-## Relation Classification
+### Relation Classification <a name="re"> </a>
 
 The following transformer-based architecture is adapted for relation classification. Four additional tokens: <e1>, </e1>, 
 <e2> and </e2> are involved to format the model's input.
@@ -191,7 +188,7 @@ Our paper provides more details about the experiments and evaluations conducted.
     </tbody>
 </table>
 
-### Available Models
+#### Available Models
 
 All the fine-tuned models are available in [HuggingFace](https://huggingface.co/ACCORD-NLP), and can be accessed using the following code.
 
@@ -203,7 +200,7 @@ predictions, raw_outputs = model.predict(['The <e1>gradient<\e1> of the passagew
 print(predictions)
 ```
 
-## Information Extraction
+### Information Extraction <a name="ie"> </a>
 
 The Information Extraction(IE) pipeline comprises four integral components: (1) entity classifier, (2) entity pairer, 
 (3) relation classifier and (4) graph builder, as illustrated in the following figure. Overall, when provided with a 
