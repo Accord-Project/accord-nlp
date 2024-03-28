@@ -1,8 +1,8 @@
 # Created by Hansi at 28/08/2023
-
-import nltk
-nltk.download('punkt')
-nltk.download('averaged_perceptron_tagger')
+# import nltk
+# nltk.download('punkt')
+# nltk.download('averaged_perceptron_tagger')
+import logging
 
 import torch
 from nltk import word_tokenize
@@ -11,28 +11,33 @@ from accord_nlp.information_extraction.convertor import entity_pairing, graph_bu
 from accord_nlp.text_classification.ner.ner_model import NERModel
 from accord_nlp.text_classification.relation_extraction.re_model import REModel
 
-SEED = 157
-
-ner_args = {
-    "labels_list": ["O", "B-quality", "B-property", "I-property", "I-quality", "B-object", "I-object", "B-value",
-                    "I-value"],
-}
-
-re_args = {
-    "labels_list": ["selection", "necessity", "none", "greater", "part-of", "equal", "greater-equal", "less-equal",
-                    "not-part-of", "less"],
-    "special_tags": ["<e1>", "<e2>"],  # Should be either begin_tag or end_tag
-}
+logger = logging.getLogger(__name__)
 
 
 class InformationExtractor:
     def __init__(
             self,
-            ner_model_info=('roberta', 'ACCORD-NLP/ner-roberta-large', ner_args),
-            re_model_info=('roberta', 'ACCORD-NLP/re-roberta-large', re_args),
-            cuda_device=0):
-        # self.ner_model = NERModel(ner_model_info[0], ner_model_info[1], labels=ner_model_info[2]['labels_list'] if ner_model_info else None,
-        #                           use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=ner_model_info[2] if ner_model_info else None)
+            ner_model_info=('roberta', 'ACCORD-NLP/ner-roberta-large'),
+            re_model_info=('roberta', 'ACCORD-NLP/re-roberta-large'),
+            cuda_device=0,
+            debug=False):
+
+        """
+        Initialise an information extraction pipeline
+
+        :param ner_model_info: tuple
+            (<model_type>, <model_name>) OR (<model_type>, <model_name>, <args as a dictionary>)
+        :param re_model_info: tuple
+            (<model_type>, <model_name>) OR (<model_type>, <model_name>, <args as a dictionary>)
+        :param cuda_device: int (optional)
+        :param debug: boolean (optional)
+            If debug=True, intermediate outputs will be logged
+        """
+
+        self.debug = debug
+        if self.debug:
+            logging.basicConfig(level=logging.INFO)
+
         self.ner_model = NERModel(ner_model_info[0], ner_model_info[1], use_cuda=torch.cuda.is_available(),
                                   cuda_device=cuda_device, args=ner_model_info[2] if len(ner_model_info) > 2 else None)
 
@@ -40,10 +45,8 @@ class InformationExtractor:
                                 cuda_device=cuda_device, args=re_model_info[2] if len(re_model_info) > 2 else None)
 
     def preprocess(self, sentence):
-        # remove white spaces at the beginning and end of the text
-        sentence = sentence.strip()
-        # tokenise the sentence
-        sentence = ' '.join(word_tokenize(sentence))
+        sentence = sentence.strip()  # remove white spaces at the beginning and end of the text
+        sentence = ' '.join(word_tokenize(sentence))  # tokenise the sentence
         return sentence
 
     def sentence_to_graph(self, sentence):
@@ -60,25 +63,21 @@ class InformationExtractor:
 
         # NER
         ner_predictions, ner_raw_outputs = self.ner_model.predict([sentence])
+        if self.debug:
+            logger.info(f'Entity predictions: {ner_predictions}')
 
         # pair entities to predict their relations
         entity_pair_df = entity_pairing(sentence, ner_predictions[0])
-        # print(entity_pair_df.to_string())
 
         # relation extraction
         re_predictions, re_raw_outputs = self.re_model.predict(entity_pair_df['output'].tolist())
         entity_pair_df['prediction'] = re_predictions
-        # print(entity_pair_df.to_string())
+        if self.debug:
+            logger.info('Relation predictions:')
+            for pred, sample in zip(re_predictions, entity_pair_df['output']):
+                logger.info(f'{sample}: {pred}')
 
         # build graph
         graph = graph_building(entity_pair_df, view=True)
 
         return graph
-
-
-# if __name__ == '__main__':
-#     # sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm.'
-#     # sentence = 'The access route for pedestrians/wheelchair users shall not be steeper than 1:20.'
-#     sentence = 'The gradient of the passageway should not exceed five per cent.'
-#     ie = InformationExtractor()
-#     ie.sentence_to_graph(sentence)
