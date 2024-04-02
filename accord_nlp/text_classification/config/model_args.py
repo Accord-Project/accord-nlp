@@ -3,9 +3,8 @@
 import json
 import os
 import sys
-from dataclasses import asdict, dataclass, field, fields
+from dataclasses import asdict, dataclass, field
 from multiprocessing import cpu_count
-import warnings
 
 from torch.utils.data import Dataset
 
@@ -161,6 +160,7 @@ class LanguageModelingArgs(ModelArgs):
     adam_betas: tuple = field(default_factory=lambda: (0.9, 0.999))
     scheduler: str = "linear_schedule_with_warmup"
 
+
 @dataclass
 class REArgs(ModelArgs):
     """
@@ -168,7 +168,10 @@ class REArgs(ModelArgs):
     """
 
     model_class: str = "REModel"
-    labels_list: list = field(default_factory=list)
+    # added to support huggingface models, and needs to be changed if a different labels list is used
+    labels_list: list = field(
+        default_factory=lambda: ["selection", "necessity", "none", "greater", "part-of", "equal", "greater-equal",
+                                 "less-equal", "not-part-of", "less"])
     labels_map: dict = field(default_factory=dict)
     lazy_delimiter: str = "\t"
     lazy_labels_column: int = 1
@@ -182,10 +185,5 @@ class REArgs(ModelArgs):
     sliding_window: bool = False
     stride: float = 0.8
     tie_value: int = 1
-    special_tags: list = None
-
-
-
-
-
-
+    # added to support huggingface models, and needs to be changed if a different special tags are used
+    special_tags: list = field(default_factory=lambda: ["<e1>", "<e2>"])

@@ -71,7 +71,7 @@ class REModel:
             num_labels=None,
             weight=None,
             args=None,
-            use_cuda=True,
+            use_cuda=torch.cuda.is_available(),
             cuda_device=-1,
             onnx_execution_provider=None,
             merge_type=None,
