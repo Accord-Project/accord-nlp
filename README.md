@@ -1,10 +1,10 @@
 # ACCORD NLP Framework
 
-This repository contains the NLP framework developed by ACCORD project. 
+This repository contains the NLP framework developed by the ACCORD project. 
 
 The optimisation of Automated Compliance Checking (ACC) within the Architecture, Engineering, and Construction (AEC) 
 sector necessitates the interpretation of building codes, regulations, and standards into machine-processable formats. 
-As these codes primarily exist in textual form, Natural Language Processing (NLP) is integral to decode this data while 
+As these codes primarily exist in textual form, Natural Language Processing (NLP) is integral to decoding this data while 
 capturing the underlying linguistics and domain-specific characteristics.
 
 ## Installation <a name="installation"> </a>
@@ -234,6 +234,7 @@ ie.sentence_to_graph(sentence)
 
 ```
 
+Also, a live demo of the Information Extractor is available in [HuggingFace](https://huggingface.co/spaces/ACCORD-NLP/information-extractor). 
 
 
 
