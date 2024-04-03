@@ -124,7 +124,8 @@ def extract_sentences(txt_file, output_folder, domain):
         # cleaned_splits.append(text)
 
         # split into sentences
-        text_list = split_sentences_spacy(text)
+        doc = nlp(text)
+        text_list = list(doc.sents)
 
         for text_unit in text_list:
             text_unit = remove_pointers(str(text_unit))  # remove pointers if there are any after sentence splitting
