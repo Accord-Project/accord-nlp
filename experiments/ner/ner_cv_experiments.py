@@ -1,15 +1,18 @@
-# Created by Hansi at 17/07/2023
+# Created by Hansi on 17/07/2023
+
+# NER cross-validation experiment
 import argparse
 import os
 import shutil
 
-import pandas as pd
+from datasets import Dataset
+from datasets import load_dataset
 from sklearn.model_selection import KFold, train_test_split
 
+from accord_nlp.text_classification.ner.ner_model import NERModel
 from experiments.ner.evaluation import print_eval_ner
 from experiments.ner.ner_config import SEED, ner_args
 from experiments.utils import format_ner_data
-from accord_nlp.text_classification.ner.ner_model import NERModel
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
@@ -31,9 +34,9 @@ if arguments.wandb_api_key is not None:
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
-data_file_path = "data/ner/all.csv"
-data_df = pd.read_csv(data_file_path, encoding='utf-8')
-# data_df = data_df.head(100)
+train_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='train'))
+test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='test'))
+data_df = train_df.append(test_df, ignore_index=True)
 print(f'data size: {data_df.shape}')
 
 splits = folds.split(data_df)
@@ -49,7 +52,9 @@ for train, test in splits:
     if arguments.wandb_run_name is not None:
         ner_args['wandb_kwargs'] = {'group': arguments.wandb_run_name, 'job_type': str(fold_i)}
     else:
-        ner_args['wandb_kwargs'] = {'group': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}", 'job_type': str(fold_i)}
+        ner_args['wandb_kwargs'] = {
+            'group': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}",
+            'job_type': str(fold_i)}
 
     print('train: %s, test: %s' % (data_df.iloc[train].shape, data_df.iloc[test].shape))
     train_df = data_df.iloc[train]
@@ -102,4 +107,5 @@ for train, test in splits:
     fold_i = fold_i + 1
 
 # evaluation of all folds
-print_eval_ner(all_actual_labels, all_converted_predictions, eval_file_path=os.path.join(base_best_model_dir, 'full_eval.txt'))
+print_eval_ner(all_actual_labels, all_converted_predictions,
+               eval_file_path=os.path.join(base_best_model_dir, 'full_eval.txt'))
