@@ -1,10 +1,13 @@
 # Created by Hansi at 21/07/2023
+
+# Relation extraction train-test experiment
 import argparse
 import os
 import shutil
 
-import pandas as pd
 import torch
+from datasets import Dataset
+from datasets import load_dataset
 from sklearn.model_selection import train_test_split
 
 from accord_nlp.text_classification.relation_extraction.re_model import REModel
@@ -36,21 +39,22 @@ else:
     re_args['wandb_kwargs'] = {
         'name': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}"}
 
-train_file_path = "data/re/generated-train/train.csv"
-test_file_path = "data/re/test.csv"
-train_df = pd.read_csv(train_file_path, encoding='utf-8')
+data_files = {"augmented_train": "augmented.csv"}
+train_df = Dataset.to_pandas(
+    load_dataset("ACCORD-NLP/CODE-ACCORD-Relations", data_files=data_files, split="augmented_train"))
+test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='test'))
+
 train_df = train_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
 train_df = train_df[['example_id', 'text', 'labels']]
+
+test_df = test_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
+test_df = test_df[['example_id', 'text', 'labels']]
 
 train, eval = train_test_split(train_df, test_size=0.1, random_state=SEED, stratify=train_df['labels'].tolist())
 print(f'train size: {train.shape}')
 print(f'eval size: {eval.shape}')
 
-test_df = pd.read_csv(test_file_path, encoding='utf-8')
-test_df = test_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
-test_df = test_df[['example_id', 'text', 'labels']]
-
-# re_args['labels_list'] = train_df['labels'].unique().tolist()
+re_args['labels_list'] = train_df['labels'].unique().tolist()
 model = REModel(MODEL_TYPE, MODEL_NAME, use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=re_args)
 model.train_model(train, eval_df=eval, macro_f1=macro_f1, macro_r=macro_recall, macro_p=macro_precision,
                   cls_report=cls_report)
