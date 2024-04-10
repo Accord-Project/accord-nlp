@@ -37,7 +37,7 @@ For the binary classification task, we applied different Machine Learning techni
         <tr>
             <td>TF.IDF (5-cross validation)</td>
             <td>96.6%</td>
-            <td><stong>99.3%</stong></td>
+            <td><b>99.3%</b></td>
             <td>99.1%</td>
         </tr>
         <tr>
