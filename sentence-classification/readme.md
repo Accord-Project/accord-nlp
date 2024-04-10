@@ -94,7 +94,7 @@ To run Python code for the two classification tasks using different classifiers 
    pip install transformers
    ```
 ### Code
-The code for both classification phases is available [here]().
+The code for both classification phases is available [here](https://github.com/Accord-Project/accord-nlp/tree/main/sentence-classification/Code).
 
 ## Limitations
 
