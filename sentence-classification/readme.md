@@ -65,7 +65,6 @@ For the binary classification task, we applied different Machine Learning techni
         <tr>
             <td>TF.IDF</td>
             <td>92%</td>
-            <td>93%</td>
             <td rowspan="2">95%</td>
         </tr>
         <tr>
