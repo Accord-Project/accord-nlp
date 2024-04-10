@@ -22,7 +22,7 @@ For the binary classification task, we applied different Machine Learning techni
         <tr>
             <th>Model</th>
             <th>Logistic Regression</th>
-            <th>**Random Forest**</th>
+            <th><strong>Random Forest</strong></th>
             <th>Support VectorMachine</th>
             <th>BERT</th>th
         </tr>
@@ -37,7 +37,7 @@ For the binary classification task, we applied different Machine Learning techni
         <tr>
             <td>TF.IDF (5-cross validation)</td>
             <td>96.6%</td>
-            <td>**99.3%**</td>
+            <td><stong>99.3%</stong></td>
             <td>99.1%</td>
         </tr>
         <tr>
