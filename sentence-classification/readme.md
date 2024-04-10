@@ -17,6 +17,8 @@ The binary classification task involves ~ 26k clauses available [here](https://g
 
 For the binary classification task, we applied different Machine Learning techniques (Logistic Regression, Random Forest, SVM) with different NLP techniques for data representation, namely _tf.idf_ and _word2vec_. We also applied BERT as a deep learning technique.  The combination of the Random Forest classifier with TF-IDF features, assessed through 5-fold cross-validation, outperformed all other configurations, marking it as the most effective model for distinguishing between the two clauses categories as shown in the table below. Conversely, in the trinary classification scenario, BERT, with its profound contextual understanding achieved the highest accuracy, distinguishing itself as the premier model for classifying the self-contained clauses into three distinct categories: _numerical_, _subjective_, and _combined_. 
 
+1. Phase 1: Binary classification: self-contained / non-self-contained
+
 <table>
     <thead>
         <tr>
@@ -46,6 +48,29 @@ For the binary classification task, we applied different Machine Learning techni
             <td>87%</td>
             <td>98.9%</td>
             <td>95.6%</td>
+        </tr>
+    </tbody>
+</table>
+
+2. Phase 2: Trinary classification: numerical, subjective, combined
+   <table>
+    <thead>
+        <tr>
+            <th>Model</th>
+            <th><b>Random Forest</b></th>
+            <th>BERT</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>TF.IDF</td>
+            <td>92%</td>
+            <td>93%</td>
+            <td rowspan="2">95%</td>
+        </tr>
+        <tr>
+            <td>word2vec</td>
+            <td>93%</td>
         </tr>
     </tbody>
 </table>
