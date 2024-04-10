@@ -22,9 +22,9 @@ For the binary classification task, we applied different Machine Learning techni
         <tr>
             <th>Model</th>
             <th>Logistic Regression</th>
-            <th><strong>Random Forest</strong></th>
+            <th><b>Random Forest</b></th>
             <th>Support VectorMachine</th>
-            <th>BERT</th>th
+            <th>BERT</th>
         </tr>
     </thead>
     <tbody>
