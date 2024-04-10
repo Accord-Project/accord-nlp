@@ -4,10 +4,10 @@ This repository contains the single-clause classification research developed und
 
 ## Description 
 
-This project involves a two-phase classification process. 
+This project involves a two-phase classification task. 
 
-1. Clauses are identified as either _self-contained_, thus interpretable without external references, or not; _non-self-contained_ (Binary classification). This distinction is instrumental for the subsequent machine processing of these regulations.
-2. The _self-contained clauses_ are further classified into _subjective_, _numerical_, or _combined_ (trinary classification) categories. This step is essential for practitioners, enabling quick identification of clauses suitable for direct automation and highlighting those requiring human intervention.
+1. Phase 1: Clauses are identified as either _self-contained_, thus interpretable without external references, or not; _non-self-contained_ (Binary classification). This distinction is instrumental for the subsequent machine processing of these regulations.
+2. Phase 2: The _self-contained clauses_ are further classified into _subjective_, _numerical_, or _combined_ (trinary classification) categories. This step is essential for practitioners, enabling quick identification of clauses suitable for direct automation and highlighting those requiring human intervention.
 
 ## Data
 
@@ -73,3 +73,30 @@ For the binary classification task, we applied different Machine Learning techni
         </tr>
     </tbody>
 </table>
+
+## Implementation 
+
+To run Python code for the two classification tasks using different classifiers and features, such as logistic regression, random forest, SVM, BERT, and feature representations like TF-IDF and Word2Vec, Python libraries that specialise in machine learning and natural language processing need to be installed, essentially: 
+
+* **Scikit-learn**: For traditional machine learning classifiers like logistic regression, random forest, and SVM, and for TF-IDF features.
+  ### Installation:
+   ```
+   pip install scikit-learn
+   ```
+* **Gensim**: For Word2Vec feature extraction.
+    ### Installation:
+   ```
+   pip install gensim
+   ```
+* **Transformers**: For using BERT and other transformer models.
+  ### Installation:
+   ```
+   pip install transformers
+   ```
+The code for both classification phases is available [here]().
+
+## Limitations
+
+* Only single clauses were considered.
+* Manual annotation required to create the groundtruth, which is costly in term of time and resources.
+
