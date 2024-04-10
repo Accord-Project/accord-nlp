@@ -79,20 +79,21 @@ For the binary classification task, we applied different Machine Learning techni
 To run Python code for the two classification tasks using different classifiers and features, such as logistic regression, random forest, SVM, BERT, and feature representations like TF-IDF and Word2Vec, Python libraries that specialise in machine learning and natural language processing need to be installed, essentially: 
 
 * **Scikit-learn**: For traditional machine learning classifiers like logistic regression, random forest, and SVM, and for TF-IDF features.
-  ### Installation:
+  ##### Installation:
    ```
    pip install scikit-learn
    ```
 * **Gensim**: For Word2Vec feature extraction.
-    ### Installation:
+    ##### Installation:
    ```
    pip install gensim
    ```
 * **Transformers**: For using BERT and other transformer models.
-  ### Installation:
+  ##### Installation:
    ```
    pip install transformers
    ```
+### Code
 The code for both classification phases is available [here]().
 
 ## Limitations
