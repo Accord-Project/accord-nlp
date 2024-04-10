@@ -99,5 +99,5 @@ The code for both classification phases is available [here]().
 ## Limitations
 
 * Only single clauses were considered.
-* Manual annotation required to create the groundtruth, which is costly in term of time and resources.
+* Manual annotation is required to create the groundtruth, which is costly in term of time and resources.
 
