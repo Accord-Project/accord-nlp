@@ -10,7 +10,7 @@ This project leverages Large Language Models (LLMs), specifically GPT-3.5, to au
 
 **Step1: Finetuning**
 
-Head over to [this code]()
+Proceed to [this code](https://github.com/Accord-Project/accord-nlp/blob/main/rase-to-json/RegGenisv2.ipynb)
 
 Re-run from section __Dataset For Finetuning__ to __Creating Finetuning Job__ , a finetuned model id will be generatd
 
@@ -112,7 +112,7 @@ __NB: After further investigation, it was discovered that if NLT is sent directl
 
 
 ### Code
-The code for all experiments and related outputs is available [here](https://github.com/Falu-G/Regu-Genius/tree/main).
+The code for all experiments, data and related outputs is available [here](https://github.com/Falu-G/Regu-Genius/tree/main).
 
 ## Limitations
 
