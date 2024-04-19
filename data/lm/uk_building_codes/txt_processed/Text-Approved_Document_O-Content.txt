@@ -1,0 +1,2644 @@
+Section 0: Introduction
+
+Summary
+
+0.1  This approved document is Approved Document O: Overheating. It gives guidance on how to comply with Part O of the Building Regulations.
+
+0.2  This approved document contains the following sections.
+
+Approved document section
+
+Section 0: Introduction Section 1: Simplified method Section 2: Dynamic thermal modelling Related Building Regulations requirements
+
+n/a
+
+Requirement O1(1) of Schedule 1
+
+Section 3: Ensuring the overheating mitigation strategy is usable
+
+Requirement O1(2)(a) of Schedule 1
+
+Section 4: Providing information
+
+Regulation 40B Appendix A: Key terms
+
+Appendix B: Compliance checklist
+
+Appendix C: Areas with a high risk of its buildings overheating
+
+Appendix D: Calculating equivalent area
+
+Appendix E: Standards referred to
+
+Appendix F: Documents referred to
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Application 0.3  The guidance in this approved document applies to new residential buildings only. Residential buildings within the scope of Part O and this approved document are detailed in Table 0.1. Title
+
+Purpose for which the building is intended to be used
+
+Residential (dwellings)
+
+Dwellings, which includes both dwellinghouses and flats.
+
+Residential (institutional)
+
+Home, school or other similar establishment, where people sleep on the premises. The building may be living accommodation for the care or maintenance of any of the following. a.  Older and disabled people, due to illness or other physical or mental condition. b.  People under the age of 5 years.
+
+Residential (other)
+
+Residential college, hall of residence and other student accommodation, and living accommodation for children aged 5 years and older.
+
+Building Regulations 2010  Approved Document O, 2021 edition 1
+
+Table 0.1  Residential buildings within the scope of this approved documentONLINE VERSIONONLINE VERSIONShared communal rooms and common spaces 0.4  Shared communal rooms and common spaces of buildings containing more than one residential unit fall within the scope of this approved document. Live/work units
+
+0.5  A unit that contains both living accommodation and space for commercial purposes (e.g. as a workshop or office) should be treated as a residential building, as long as the commercial part can revert to residential use. 0.6  The commercial part of a building can revert to residential use if all of the following apply.
+
+a.  There is direct access between the commercial space and the residential accommodation.
+
+b.  The commercial space and the residential accommodation are within the same thermal envelope.
+
+c.  The residential accommodation comprises a substantial proportion of the total area of the unit. What constitutes a ‘substantial proportion’ should be assessed on a case-by-case basis by the building control body. NOTE: A large non-residential building that contains a small flat for a manager is not treated as a residential building. A residential building that contains a room used as an office or utility space is still treated as a residential building.
+
+Mixed-use developments 0.7  The guidance in this approved document applies only to the parts of a mixed-use building that are for residential purposes and any corridor that serves residential units.
+
+Alternative approaches
+
+0.8  The guidance in this approved document is the suggested approach to meet the requirements of the Building Regulations. Alternative approaches are possible but they should be discussed and agreed with a building control body before building work starts.
+
+0.9  The legal requirements of the Building Regulations must be met, regardless of whether the guidance in this approved document is followed or alternative measures are taken.
+
+0.10  If alternative ways of mitigating overheating are adopted, the overall level of overheating risk reduction should not be lower than the approved document provides. It is the responsibility of those undertaking the work to demonstrate compliance. Selected key interactions with other parts of the Building Regulations
+
+0.11  The approved documents set out what, in ordinary circumstances, may be accepted as one way to comply with the Building Regulations. It remains the responsibility of those designing or undertaking building work to assess, on a case-by-case basis, whether specific circumstances require additional or alternative measures to achieve compliance with the regulatory requirements. There are interactions between many of the requirements of the Building Regulations and the following paragraphs provide guidance on some key interactions.
+
+2 Approved Document O, 2021 edition Building Regulations 2010
+
+ONLINE VERSIONONLINE VERSIONInteraction with Part B
+
+0.12  This approved document, Approved Document O, gives guidance on window openings for removing excess heat from residential buildings. Approved Document B gives guidance on the size of escape windows. Where escape windows are provided to comply with Approved Document B, any extra glazing will impact the risk of overheating. Interaction with Part F
+
+0.13  This approved document, Approved Document O, includes guidance on providing means of removing excess heat from residential buildings. Where openings are used, the amount of ventilation for removing excess heat is likely to be higher than the purge ventilation required for Part F. The higher amount of ventilation applies – see Section 1 or Section 2 of this approved document, depending on the method of compliance.
+
+Interaction with Part J
+
+0.14  Ventilation fans might cause combustion gases to spill from open-flued appliances and fill the room instead of going up the flue or chimney. This can occur even if the combustion appliance and fan are in separate rooms. 0.15  The guidance in Approved Document J should be followed when installing and testing ventilation appliances and combustion appliances must operate safely whether or not fans are running.
+
+Interaction with Part L
+
+0.16  Solar gains in winter can reduce the amount of space heating required to be delivered by the heating system. Reducing summer overheating by limiting glazing areas will impact winter solar gains and therefore increase the need for space heating. 0.17  Poorly insulated pipework, particularly in community heating schemes, can be a major contributor to overheating. Control of heat losses from pipework is dealt with under Part L of the Building Regulations and the guidance in Approved Document L should be followed.
+
+Interaction with Part K and Part M
+
+0.18  Where manual controls are provided, they should be within reasonable reach of the occupants, to comply with Approved Documents K and M. Interaction with Part K
+
+0.19  This approved document, Approved Document O, gives guidance on increased levels of protection from falling from openings compared to Part K. Interaction with Part Q
+
+0.20 This approved document, Approved Document O, gives guidance on security considerations when providing large openings for removing excess heat. The locking systems of windows and doors should also conform to guidance given in Approved Document Q on the security of doors and windows in dwellings. Building Regulations 2010  Approved Document O, 2021 edition 3
+
+ONLINE VERSIONONLINE VERSIONRequirement O1
+
+This section deals with requirement O1 of Schedule 1 to the Building Regulations 2010.
+
+Limits on application
+
+Requirement
+
+Requirement
+
+O1 Overheating mitigation
+
+(1)  Reasonable provision must be made in respect of a dwelling, institution or any other building containing one or more rooms for residential purposes, other than a room in a hotel (“residences”) to—
+
+(a)  limit unwanted solar gains in summer;
+
+(b)   provide an adequate means to remove heat from the indoor environment.
+
+(2) In meeting the obligations in paragraph (1)—
+
+(a)   account must be taken of the safety of any occupant, and their reasonable enjoyment of the residence; and
+
+(b)   mechanical cooling may only be used where insufficient heat is capable of being removed from the indoor environment without it.
+
+Intention
+
+The aim of requirement O1 is to protect the health and welfare of occupants of the building by reducing the occurrence of high indoor temperatures.
+
+In the Secretary of State’s view, requirement O1 is met by designing and constructing the building to achieve both of the following.
+
+a.  Limiting unwanted solar gains in summer.
+
+b.  Providing an adequate means of removing excess heat from the indoor environment.
+
+NOTE: The guidance and regulations are written for the purposes of protecting health and welfare. Following this guidance does not guarantee the comfort of building occupants.
+
+In the Secretary of State’s view, compliance with requirement O1 can be demonstrated by using one of the following methods.
+
+a.  The simplified method for limiting solar gains and providing a means of removing excess heat, as set out in Section 1. b.  The dynamic thermal modelling method, as set out in Section 2.
+
+4 Approved Document O, 2021 edition Building Regulations 2010
+
+O1ONLINE VERSIONONLINE VERSION Section 1: Simplified method
+
+1.1  This section details a simplified method for demonstrating compliance with requirement O1. It is suitable for any building within the scope of requirement O1. NOTE: Appendix B of this approved document includes a compliance checklist. The designer may use this checklist to demonstrate compliance to building control bodies. Categorising residential buildings (simplified method)
+
+1.2  For the simplified method, the strategy to reduce overheating risk should be selected according to the location of the new residential building and whether it has cross-ventilation, following paragraphs 1.3 to 1.5. 1.3  For the purposes of following the simplified method, the building’s overheating risk category is determined by its location in one of the following areas.
+
+a. ‘Moderate risk’ location – England, excluding high risk parts of London in (b).
+
+b. ‘High risk’ location – urban and some suburban parts of London detailed in Appendix C.
+
+NOTE: Appendix C also provides guidance for some parts of central Manchester.
+
+1.4  For the purposes of following the simplified method, it should be identified whether the dwellinghouse or each residential unit, shared communal room and common space is able to have cross-ventilation, i.e. it has openings on opposite façades.
+
+NOTE: Having openings on façades that are not opposite does not meet the approved document definition of cross-ventilation, e.g. in a corner flat.
+
+NOTE: A multi-occupancy residential building should not be categorised as having or not having cross-ventilation. Each residential unit, shared communal room and common space should be categorised separately.
+
+1.5  The building’s overheating risk category based on location and whether it is cross-ventilated should be used to select the relevant guidance for both of the following purposes.
+
+a.  To limit unwanted solar gains in summer – follow paragraphs 1.6 to 1.9.
+
+b.  To provide an appropriate means of removing excess heat from the indoor environment – follow paragraphs 1.10 to 1.13.
+
+Limiting solar gains
+
+1.6  To limit solar gains, all of the following standards should be followed.
+
+a.  The maximum glazing area of the building or part of the building given in Table 1.1 or Table 1.2. This should be determined using the orientation of the façade that has the largest area of glazing. b.  The maximum glazing area of the most glazed room given in Table 1.1 or Table 1.2. This should be determined using the orientation of the façade that has the largest area of glazing.
+
+c.  Shading for buildings in the high risk location, following paragraph 1.9.
+
+Building Regulations 2010  Approved Document O, 2021 edition 5
+
+O1ONLINE VERSIONONLINE VERSION1.7  Buildings or parts of buildings with cross-ventilation should not exceed the maximum glazing areas in Table 1.1.
+
+High risk location
+
+Moderate risk location
+
+Largest glazed  façade orientation
+
+Maximum area of glazing (% floor area)
+
+Maximum area of glazing in the most glazed room (% floor area of room)
+
+Maximum area of glazing (% floor area)
+
+Maximum area of glazing in the most glazed room (% floor area of room)
+
+North
+
+East
+
+South
+
+West
+
+15
+
+18
+
+15
+
+18
+
+37
+
+37
+
+22
+
+37
+
+18
+
+18
+
+15
+
+11
+
+37
+
+37
+
+30
+
+22
+
+NOTE:
+
+1.  Floor area and floor area of room are as defined in Appendix A. 1.8  Buildings or parts of buildings with no cross-ventilation should not exceed the maximum glazing areas in Table 1.2.
+
+High risk location
+
+Moderate risk location
+
+Largest glazed  façade orientation
+
+Maximum area of glazing (% floor area)
+
+Maximum area of glazing in the most glazed room (% floor area of room)
+
+Maximum area of glazing (% floor area)
+
+Maximum area of glazing in the most glazed room (% floor area of room)
+
+North
+
+East
+
+South
+
+West
+
+15
+
+11
+
+11
+
+11
+
+26
+
+18
+
+11
+
+18
+
+18
+
+18
+
+15
+
+11
+
+26
+
+26
+
+15
+
+11
+
+NOTE:
+
+1.  Floor area and floor area of room are as defined in Appendix A.
+
+1.9  Residential buildings in the high risk location should, in addition to following the maximum glazing areas in Table 1.1 and Table 1.2, provide shading for glazed areas between compass points north-east and north-west via the south. Shading should be provided by one of the following means.
+
+a.  External shutters with means of ventilation.
+
+b.  Glazing with a maximum g-value of 0.4 and a minimum light transmittance of 0.7.
+
+c.  Overhangs with 50 degrees altitude cut-off on due south-facing façades only.
+
+Removing excess heat
+
+1.10  Buildings or parts of buildings with cross-ventilation should equal or exceed the minimum free areas in Table 1.3.
+
+6 Approved Document O, 2021 edition Building Regulations 2010
+
+O1Table 1.1  Limiting solar gains for buildings or parts of buildings with cross-ventilation(1)Table 1.2  Limiting solar gains for buildings or parts of buildings without cross-ventilation(1)ONLINE VERSIONONLINE VERSION Total minimum free area(1)
+
+High risk location
+
+Moderate risk location
+
+The greater of the following: a. 6% of the floor area(2)
+
+b. 70% of the glazing area(3) The greater of the following: a. 9% of the floor area(2)
+
+b. 55% of the glazing area(3) Bedroom minimum free area
+
+13% of the floor area of the room(4)
+
+4% of the floor area of the room(4)
+
+NOTES:
+
+1.  The total minimum free area is the free area for the whole dwellinghouse, residential unit, shared communal room or common space, including any bedrooms.
+
+2. ‘Floor area’ is a key term. See Appendix A.
+
+3. ‘Glazing area’ is a key term. See Appendix A.
+
+4. ‘Floor area of the room’ is a key term. See Appendix A.
+
+1.11  Buildings or parts of buildings with no cross-ventilation should equal or exceed the minimum free areas in Table 1.4.
+
+Total minimum free area(1)
+
+High risk location
+
+Moderate risk location
+
+The greater of the following: a. 10% of the floor area(2)
+
+b. 95% of the glazing area(3) The greater of the following: a. 12% of the floor area(2)
+
+b. 80% of the glazing area(3)  Bedroom minimum free area
+
+13% of the floor area of the room(4)
+
+4% of the floor area of the room(4)
+
+NOTES:
+
+1.  The total minimum free area is the free area for the whole dwellinghouse, residential unit, shared communal room or common space, including any bedrooms.
+
+2. ‘Floor area’ is a key term. See Appendix A.
+
+3. ‘Glazing area’ is a key term. See Appendix A.
+
+4. ‘Floor area of the room’ is a key term. See Appendix A.
+
+1.12  Openings should be designed to achieve the free areas in paragraphs 1.10 and 1.11. The equivalent area of the opening should meet or exceed the free area of the opening. The equivalent area of the opening should be assessed by either of the following means.
+
+a.  Measurement of the product to BS EN 13141-1.
+
+b.  Calculation using Appendix D.
+
+NOTE: A system for purge ventilation should be provided in each habitable room to demonstrate compliance with Part F of the Building Regulations. The guidance in Section 1 of Approved Document F, Volume 1: Dwellings gives minimum standards for purge ventilation. When following this simplified method, applying the guidance in paragraphs 1.10 to 1.12 will usually result in free areas that exceed the free areas in Approved Document F, Volume 1: Dwellings.
+
+1.13  The simplified method is not suitable for buildings with more than one residential unit which use a communal heating or hot water system with significant amounts of horizontal heating or hot water distribution pipework. Main distribution routes should be through vertical risers to minimise heat gains into common spaces.
+
+Building Regulations 2010  Approved Document O, 2021 edition 7
+
+O1Table 1.3  Minimum free areas for buildings or parts of buildings with cross-ventilation Table 1.4  Minimum free areas for buildings or parts of buildings without cross-ventilationONLINE VERSIONONLINE VERSION Section 2: Dynamic thermal modelling 2.1  This section details a dynamic thermal modelling method for demonstrating compliance with requirement O1. It provides a standardised approach to predicting overheating risk for residential buildings using dynamic thermal modelling as an alternative to the simplified method in Section 1. 2.2  The methodology is suitable for all residential buildings. It may offer the designer additional design flexibility over the solutions in Section 1 in the following situations. a.  Residential buildings with very high levels of insulation and airtightness.
+
+b.  Residential buildings with specific site conditions that mean the building is not well represented by the two locations in paragraph 1.3, for example Manchester city centre (see Appendix C).
+
+NOTE: Local microclimates may not be well reflected by the geographically closest weather file.
+
+c.  Residential buildings that are highly shaded by neighbouring properties, structures or landscape.
+
+Dynamic thermal modelling method 2.3  To demonstrate compliance using the dynamic thermal modelling method, all of the following guidance should be followed. a.  CIBSE’s TM59 methodology for predicting overheating risk.
+
+b.  The limits on the use of CIBSE’s TM59 methodology set out in paragraphs 2.5 and 2.6. c.  The acceptable strategies for reducing overheating risk in paragraphs 2.7 to 2.11.
+
+2.4  The building control body should be provided with a report that demonstrates that the residential building passes CIBSE’s TM59 assessment of overheating. This report should contain the details in CIBSE’s TM59, section 2.3. NOTE: Appendix B of this approved document includes a compliance checklist. The designer may use this checklist to demonstrate compliance to the building control body.
+
+Limits on CIBSE’s TM59 modelling
+
+2.5  CIBSE’s TM59 method requires the modeller to make choices. The dynamic thermal modelling method in this section applies limits to these choices, which are detailed in paragraph 2.6. These limits should be applied when following the guidance in CIBSE’s TM59. 2.6  All of the following limits on CIBSE’s TM59, section 3.3, apply.
+
+a.  When a room is occupied during the day (8am to 11pm), openings should be modelled to do all of the following. i.  Start to open when the internal temperature exceeds 22°C.
+
+ii.  Be fully open when the internal temperature exceeds 26°C.
+
+iii.  Start to close when the internal temperature falls below 26°C.
+
+iv.  Be fully closed when the internal temperature falls below 22°C. 8 Approved Document O, 2021 edition Building Regulations 2010
+
+O1ONLINE VERSIONONLINE VERSIONb.  At night (11pm to 8am), openings should be modelled as fully open if both of the following apply.
+
+i.  The opening is on the first floor or above and not easily accessible.
+
+ii.  The internal temperature exceeds 23°C at 11pm. c.  When a ground floor or easily accessible room is unoccupied, both of the following apply.
+
+i. In the day, windows, patio doors and balcony doors should be modelled as open, if this can be done securely, following the guidance in paragraph 3.7 below.
+
+ii.  At night, windows, patio doors and balcony doors should be modelled as closed.
+
+d.  An entrance door should be included, which should be shut all the time. Acceptable strategies for reducing overheating risk
+
+Limiting solar gains 2.7  Solar gains in summer should be limited by any of the following means. a.  Fixed shading devices, comprising any of the following. i.  Shutters.
+
+ii.  External blinds.
+
+iii.  Overhangs.
+
+iv.  Awnings.
+
+b.  Glazing design, involving any of the following solutions.
+
+i.  Size.
+
+ii.  Orientation.
+
+iii.  g-value.
+
+iv.  Depth of the window reveal.
+
+c.  Building design – for example, the placement of balconies.
+
+d.  Shading provided by adjacent permanent buildings, structures or landscaping.
+
+2.8  Although internal blinds and curtains provide some reduction in solar gains, they should not be taken into account when considering whether requirement O1 has been met.
+
+2.9  Foliage, such as tree cover, can provide some reduction in solar gains. However, it should not be taken into account when considering whether requirement O1 has been met.
+
+NOTE: Examples of solar shading and their effectiveness are provided in the Building Research Establishment’s BR 364 Solar Shading of Buildings.
+
+Building Regulations 2010  Approved Document O, 2021 edition 9
+
+O1ONLINE VERSIONONLINE VERSIONRemoving excess heat
+
+2.10  Excess heat should be removed from the residential building by any of the following means. a.  Opening windows (the effectiveness of this method is improved by cross-ventilation).
+
+b.  Ventilation louvres in external walls.
+
+c.  A mechanical ventilation system.
+
+d.  A mechanical cooling system
+
+2.11  The building should be constructed to meet requirement O1 using passive means as far as reasonably practicable. It should be demonstrated to the building control body that all practicable passive means of limiting unwanted solar gains and removing excess heat have been used first before adopting mechanical cooling. Any mechanical cooling (air-conditioning) is expected to be used only where requirement O1 cannot be met using openings.
+
+NOTE: Any method to reduce overheating risk in residential buildings must comply with all other parts of the Building Regulations. Particular attention should be paid to the requirements of Part F and the guidance in Approved Document F, Volume 1: Dwellings on noise and maintenance. NOTE: A system for purge ventilation should be provided in each habitable room to demonstrate compliance with Part F of the Building Regulations. The guidance in Section 1 of Approved Document F, Volume 1: Dwellings should be followed for the minimum standards for purge ventilation. A larger amount of purge ventilation may be required than that in Approved Document F, Volume 1: Dwellings in order to satisfy requirement O1 on providing an adequate means to remove excess heat from the indoor environment.
+
+10  Approved Document O, 2021 edition Building Regulations 2010
+
+O1ONLINE VERSIONONLINE VERSIONRequirement O1(2)(a)
+
+This section deals with requirement O1(2)(a) of Schedule 1 to the Building Regulations 2010.
+
+Limits on application
+
+Requirement
+
+Requirement
+
+O1 Overheating mitigation
+
+(1)  Reasonable provision must be made in respect of a dwelling, institution or any other building containing one or more rooms for residential purposes, other than a room in a hotel (“residences”) to—
+
+(a)  limit unwanted solar gains in summer;
+
+(b)   provide an adequate means to remove heat from the indoor environment.
+
+(2)   In meeting the obligations in paragraph (1)—
+
+(a)   account must be taken of the safety of any occupant, and their reasonable enjoyment of the residence; and
+
+(b)   mechanical cooling may only be used where insufficient heat is capable of being removed from the indoor environment without it. Intention In the Secretary of State’s view, requirement O1(2)(a) is met in a new residential building if the building’s overheating mitigation strategy for use by occupants takes account of all of the following.
+
+a.  Noise at night – paragraphs 3.2 to 3.4.
+
+b.  Pollution – paragraph 3.5.
+
+c.  Security – paragraphs 3.6 and 3.7.
+
+d.  Protection from falling – paragraphs 3.8 to 3.10.
+
+e.  Protection from entrapment – paragraph 3.11.
+
+Building Regulations 2010  Approved Document O, 2021 edition 11
+
+O1(2)(a)ONLINE VERSIONONLINE VERSION Section 3: Ensuring the overheating mitigation strategy is usable
+
+3.1  The standards in this section may mean that the standards of the simplified method cannot be met. For example, if external noise is an issue, it is unlikely that windows would be opened by an occupant and therefore the minimum free areas of the simplified method cannot be met. In such cases, dynamic thermal modelling should be used.
+
+Noise
+
+3.2 In locations where external noise may be an issue (for example, where the local planning authority considered external noise to be an issue at the planning stage), the overheating mitigation strategy should take account of the likelihood that windows will be closed during sleeping hours (11pm to 7am).
+
+3.3  Windows are likely to be closed during sleeping hours if noise within bedrooms exceeds the following limits.
+
+a.  40dB LAeq,T, averaged over 8 hours (between 11pm and 7am).
+
+b.  55dB LAFmax, more than 10 times a night (between 11pm and 7am).
+
+3.4  Where in-situ noise measurements are used as evidence that these limits are not exceeded, measurements should be taken in accordance with the Association of Noise Consultants’ Measurement of Sound Levels in Buildings with the overheating mitigation strategy in use.
+
+NOTE: Guidance on reducing the passage of external noise into buildings can be found in the National Model Design Code: Part 2 – Guidance Notes (MHCLG, 2021) and the Association of Noise Consultants’ Acoustics, Ventilation and Overheating: Residential Design Guide (2020).
+
+Pollution
+
+3.5  Buildings located near to significant local pollution sources should be designed to minimise  the intake of external air pollutants. Guidance is given in Section 2 of Approved Document F, Volume 1: Dwellings.
+
+Security
+
+3.6  When determining the free area available for ventilation during sleeping hours, only the proportion of openings that can be opened securely should be considered to provide useful ventilation. This particularly applies in the following locations, where openings may be vulnerable to intrusion by a casual or opportunistic burglar.
+
+a.  Ground floor bedrooms.
+
+b.  Easily accessible bedrooms.
+
+3.7  Open windows or doors can be made secure by using any of the following.
+
+a.  Fixed or lockable louvred shutters.
+
+b.  Fixed or lockable window grilles or railings.
+
+12  Approved Document O, 2021 edition Building Regulations 2010
+
+O1(2)(a)ONLINE VERSIONONLINE VERSIONProtection from falling
+
+3.8  Openings which are intended to be open for long periods to reduce overheating risk might pose a higher risk of falls from height. Only the proportion of openings which can be opened with a very low risk of occupants falling from height should be considered to form part of the overheating mitigation strategy.
+
+3.9  Openings that can be opened wider than 100mm may form part of the overheating mitigation strategy where they meet all of the following conditions. a.  Window handles on windows that open outwards are not more than 650mm from the inside face of the wall when the window is at its maximum openable angle. b.  Guarding meets the minimum standards in Table 3.1.
+
+c.  Guarding does not allow children to easily climb it. For example, horizontal bars should generally be avoided. NOTE: To ensure safe operation it may be necessary to reduce the size of the outward opening windows and provide more windows to meet the required free area.
+
+Change in floor level between inside and outside
+
+Guarding height(1) Less than 600mm
+
+More than 600mm
+
+See Approved Document K
+
+1.1m Less than
+
+100mm(2)
+
+1.1m
+
+NOTES:
+
+1.  This approved document has increased levels of protection from falling compared to Approved Document K. Where applicable, the higher standard applies. 2.  Guarding should be sized to prevent the passage of a 100mm sphere.
+
+3.10  Guarding for large openings could include, but is not limited to, either of the following.
+
+a.  Shutters with a child-proof lock.
+
+b.  Fixed guarding.
+
+Building Regulations 2010  Approved Document O, 2021 edition 13
+
+O1(2)(a)Table 3.1  Guarding heights ONLINE VERSIONONLINE VERSION Protection from entrapment
+
+3.11  Louvered shutters, window railings and ventilation grilles should not allow body parts to become trapped. They should comply with all of the following.
+
+a.  Not allow the passage of a 100mm diameter sphere.
+
+b.  Any hole which allows the passage of an 8mm diameter rod should also allow the passage of a 25mm diameter rod. Such holes should not taper in a way that allows finger entrapment. c.  Any looped cords must be fitted with child safety devices.
+
+14  Approved Document O, 2021 edition Building Regulations 2010
+
+O1(2)(a)ONLINE VERSIONONLINE VERSIONRegulation 40B: Providing information
+
+This section deals with the requirements of regulation 40B of the Building Regulations 2010.
+
+Regulation
+
+Information about overheating
+
+40B. (1)  This regulation applies to building work in respect of a building where Part O of Schedule 1 applies.
+
+(2)   The person carrying out the work must, not later than five days after the work has been completed, give sufficient information to the owner about the provision made in accordance with Part O so that the systems in place further to Part O can be operated in such a manner as to protect against overheating.
+
+Intention
+
+When a new residential building is erected, information about the building must be given to the owner of the building to allow them to use the overheating mitigation strategy effectively. In the Secretary of State’s view, regulation 40B is met by providing information in accordance with Section 4.
+
+Building Regulations 2010  Approved Document O, 2021 edition 15
+
+R40BONLINE VERSIONONLINE VERSION Section 4: Providing information
+
+4.1  Sufficient information about the overheating mitigation strategy and its maintenance requirements must be given to owners so that it can be used effectively. The information should be provided in a clear manner, for a non-technical audience. 4.2  The following information should be provided, where relevant.
+
+a.  The overall overheating mitigation strategy. Examples of possible strategies are given below.
+
+i.  Appropriately sized windows that do not let in too much direct sun, and therefore increase the internal temperature, but which open fully to allow cool air in.
+
+ii.  Roller shutters with ventilation louvres.
+
+b.  The location of each element of the overheating mitigation strategy.
+
+c. Instructions for the operation of each element of the overheating mitigation strategy.
+
+d.  The time of day that different parts of the strategy should be used. For example, the shutters should be used in the day and the windows opened only when it is cooler outside.
+
+e.  The time of year when the strategy should be used. For example, all summer from May to September or only in hot weather.
+
+f.  Manufacturer’s contact details.
+
+g.  The location of controls and instructions for setting of controls, e.g. timer controls.
+
+h.  The location of sensors and how to recalibrate them.
+
+i.  Cleaning and maintenance instructions.
+
+Home User Guide
+
+4.3  A Home User Guide should be provided for new dwellings as described in Section 9 of Approved Document L, Volume 1: Dwellings. The Home User Guide should contain a section on ‘Staying cool in hot weather’, which provides non-technical advice on how to keep the dwelling cool in hot weather. The information in paragraph 4.2 should be provided in this section of the Home User Guide. NOTE: Information about ventilation and the conservation of fuel and power is required under different regulations and guidance is given in Approved Document F (Ventilation) and Approved Document L (Conservation of fuel and power). Where the system provides more than one function, the owner should be informed of each separate function.
+
+16  Approved Document O, 2021 edition Building Regulations 2010
+
+R40BONLINE VERSIONONLINE VERSIONAppendix A: Key terms
+
+The definitions below apply to this document only and are not intended to be applied in other circumstances.
+
+Building control body A local authority or an approved inspector.
+
+Common spaces Spaces which are used mainly for circulation, e.g. a corridor or lift lobby.
+
+Cross-ventilation The ability to ventilate using openings on opposite façades of a dwelling. Having openings on façades that are not opposite is not allowing cross-ventilation, e.g. in a corner flat.
+
+Dynamic thermal modelling A method of building modelling that predicts the internal conditions and energy demands of a building at short time intervals using weather data and building characteristics. Easily accessible Defined as one of the following.
+
+•	 A window or doorway, any part of which is within 2m vertically of an accessible level surface, such as the ground or basement level, or an access boundary.
+
+•	 A window within 2m vertically of a flat or sloping roof (with a pitch of less than 30 degrees) that is within 3.5m of ground level.
+
+Effective area The area through which air flows after the resistance of airflow has been taken into account.
+
+Equivalent area A measure of the aerodynamic performance of an opening. It is the area of a sharp-edged circular orifice through which air would pass at the same volume flow rate, under an identical applied pressure difference, as through the opening under consideration. Floor area The area of the residential unit, measured to the internal face of the perimeter walls at each floor level.
+
+NOTE: This area is the gross internal area as measured in accordance with the Code of Measuring Practice by the Royal Institution of Chartered Surveyors (RICS).
+
+Floor area of the room The area of the room, measured to the internal face of the perimeter walls. Where a room serves more than one activity, e.g. open-plan kitchen and living room, the area with the largest glazing area should be assessed and the room area calculated based on a room depth no greater than 4.5m from the glazed façade.
+
+Free area The geometric open area of a ventilation opening. This area assumes a clear sharp-edged orifice that would have a coefficient of discharge (Cd) of 0.62.
+
+Glazing area The area of transparent material, not including the window frame.
+
+Guarding A barrier that denies people access to another area, for example the floor below.
+
+Louvre A set of angled slats that allow air or light to pass through.
+
+Passive means Any means of cooling a building which is not mechanical cooling (e.g. air conditioning). Openable windows or mechanical ventilation fans are considered to be passive means of cooling. Purge ventilation Ventilation of rooms or spaces at a relatively high rate to rapidly dilute pollutants and/or disperse water vapour. Residential units Habitable rooms or a suite of habitable rooms. Examples of a residential unit include, but are not limited to, a flat or rooms that are similar to a flat in care homes or student halls of residence.
+
+Shared communal rooms Rooms in buildings containing dwellings or residential units, which provide facilities for the residents, e.g. a shared living room, kitchen or laundry room.
+
+Building Regulations 2010  Approved Document O, 2021 edition 17
+
+AONLINE VERSIONONLINE VERSIONAppendix B: Compliance checklist B1  This compliance checklist is divided into three parts, as follows.
+
+a.  Part 1 contains the building details and declarations.
+
+b.  Part 2a functions as a design checklist for the simplified approach detailed in Section 1.
+
+c.  Part 2b functions as a design checklist for the dynamic thermal modelling approach detailed in Section 2. d.  Part 3 is for verifying the completion details of the as-built residential building. B2  All three parts of the compliance checklist should be completed. The relevant parts of Part 2 and 3 should be signed by a person who is competent to design the residential building. B3  A copy of this checklist, or a similar checklist, may be submitted to the building control body as evidence that the building has been constructed as designed to reduce the risk of overheating. Part 1 – Building details and declarations The designer should complete this section.
+
+Building and site details 1.1
+
+Residential building name/number
+
+Street
+
+Town
+
+County
+
+Postcode
+
+Proposed building use/type of building
+
+Are there any security, noise or pollution issues?
+
+Designer’s details 1.2
+
+Designer’s name Company Address line 1
+
+Address line 2
+
+Postcode Telephone number
+
+Email address
+
+18  Approved Document O, 2021 edition Building Regulations 2010
+
+BONLINE VERSIONONLINE VERSIONPart 2 – Design details The designer should complete either Part 2a or 2b, depending on the method used.
+
+Part 2a – Simplified method (as detailed in Section 1)
+
+Site details 2a.1
+
+Site location, assigned using paragraph 1.3(1)
+
+Building category, assigned using paragraph 1.4
+
+Designed overheating mitigation strategy
+
+2a.2
+
+Details of standards selected:
+
+a. Maximum area of glazing
+
+b.  Maximum area of glazing in the most glazed room
+
+c. Shading strategy
+
+d. Total minimum free area
+
+e. Bedroom minimum free area
+
+Designer’s declaration 2a.3
+
+Designer’s name
+
+Designer’s organisation
+
+Designer’s signature
+
+Registration number (if applicable)
+
+Date of design NOTE:
+
+1.  All references to paragraphs are to Approved Document O.
+
+Building Regulations 2010  Building Regulations 2010  Approved Document O, 2021 edition Approved Document O, 2021 edition 19
+
+19
+
+BONLINE VERSIONONLINE VERSIONPart 2b – Dynamic thermal modelling method (as detailed in Section 2)
+
+2b.1 Modelling details Dynamic software name and version
+
+Weather file location used, including any additional, more extreme weather files Number of sample units modelled, including an explanation of why the size/selection has been chosen
+
+2b.2 Modelled occupancy
+
+Has the project passed the assessment described in CIBSE’s TM59, taking into account the limits detailed in paragraphs 2.5 and 2.6?(1) Yes
+
+No
+
+Details of the occupancy profiles used
+
+Details of the equipment profiles used
+
+Details of the opening profiles used
+
+2b.3 Modelled overheating mitigation strategy
+
+Free areas Infiltration and mechanical flow rates Window g-value
+
+Shading strategy Mechanical cooling
+
+2b.4 Modelling results
+
+Has the project passed the assessment described in CIBSE’s TM59, taking into account the limits detailed in paragraphs 2.5 and 2.6?
+
+Yes
+
+No
+
+What is the overall overheating strategy  (i.e. what design features are key to the  project passing)?
+
+2b.5 Designer’s declaration Has the building construction proposal been modelled  accurately? Designer’s name
+
+Designer’s organisation
+
+Designer’s signature
+
+Registration number (if applicable)
+
+Date of design NOTE:
+
+1.  All references to paragraphs are to Approved Document O.
+
+Yes
+
+No
+
+20  Approved Document O, 2021 edition 20  Approved Document O, 2021 edition Building Regulations 2010
+
+Building Regulations 2010
+
+BONLINE VERSIONONLINE VERSIONPart 3 – Completion details Both the builder and the building control body inspector should complete this section.
+
+Builder’s declaration 3.1
+
+Has the residential building been constructed and completed according to the specifications set out in Parts 1 and 2 of this checklist?
+
+Yes
+
+No
+
+Builder’s name
+
+Builder’s organisation
+
+Builder’s signature
+
+Date of signature
+
+Building control body inspector’s declaration 3.2
+
+Is the residential building’s construction consistent with the details provided in Parts 1 and 2 of this checklist? Yes
+
+No
+
+Inspector’s name
+
+Inspector’s signature
+
+Registration number (if applicable)
+
+Date of inspection Building Regulations 2010  Building Regulations 2010  Approved Document O, 2021 edition Approved Document O, 2021 edition 21
+
+21
+
+BONLINE VERSIONONLINE VERSIONAppendix C: Areas with a high risk of its buildings overheating
+
+C1  This appendix provides a list of the areas deemed to have a high risk of the buildings within them overheating. C2  This appendix should be used with the simplified method to categorise residential buildings, following paragraph 1.3.
+
+C3  The postcodes in Table C1 are in the high risk part of London. Diagram C1 also shows the high risk part of London, where a higher standard of risk mitigation is needed.
+
+NOTE: Central Manchester (postcodes M1, M2, M3, M5, M15, M16 and M50) may also have elevated night time temperatures. Consider following the guidance for higher risk locations for buildings in these postcodes.
+
+CR4
+
+CR7
+
+E1
+
+E1W
+
+E2
+
+E3
+
+E4
+
+E5
+
+E6
+
+E7
+
+E8
+
+E9
+
+E10
+
+E11
+
+E12
+
+E13
+
+E14
+
+E15
+
+E16
+
+E17
+
+E18
+
+E20
+
+EC1A
+
+EC1M
+
+EC1N
+
+EC1R
+
+EC1V
+
+EC1Y
+
+EC2A
+
+EC2M
+
+EC2N
+
+EC2P
+
+EC2R
+
+EC2V
+
+EC2Y
+
+EC3A
+
+EC3M
+
+EC3N
+
+EC3R
+
+EC3V
+
+EC4A
+
+EC4M
+
+EC4N
+
+EC4R
+
+EC4V
+
+EC4Y
+
+HA0
+
+HA9
+
+IG1
+
+IG2
+
+IG3
+
+IG4
+
+KT1
+
+KT2
+
+KT3
+
+KT4
+
+KT5
+
+KT6
+
+KT7
+
+KT8
+
+IG11
+
+N1
+
+N1C
+
+N2
+
+N4
+
+N5
+
+N6
+
+N7
+
+N8
+
+N9
+
+N13
+
+N15
+
+N16
+
+N17
+
+N18
+
+N19
+
+N22
+
+NW1
+
+NW2
+
+NW3
+
+NW5
+
+NW6
+
+NW8
+
+NW10
+
+NW11
+
+RM8
+
+RM9
+
+RM10
+
+SE1
+
+SE2
+
+SE3
+
+SE4
+
+SE5
+
+SE6
+
+SE7
+
+SE8
+
+SE9
+
+SE10
+
+SE11
+
+SE12
+
+SE13
+
+SE14
+
+SE15
+
+SE16
+
+SE17
+
+SE18
+
+SE19
+
+SE20
+
+SE21
+
+SE22
+
+SE23
+
+SE24
+
+SE25
+
+SE26
+
+SE27
+
+SE28
+
+SW1A
+
+SW1E
+
+SW1H
+
+SW1P
+
+SW1V
+
+SW1W
+
+SW1X
+
+SW1Y
+
+SW2
+
+SW3
+
+SW4
+
+SW5
+
+SW6
+
+SW7
+
+SW8
+
+SW9
+
+SW10
+
+SW11
+
+SW12
+
+SW13
+
+SW14
+
+SW15
+
+SW16
+
+SW17
+
+SW18
+
+SW19
+
+SW20
+
+TW1
+
+TW2
+
+TW3
+
+TW4
+
+TW5
+
+TW6
+
+TW7
+
+TW8
+
+TW9
+
+TW10
+
+TW11
+
+TW12
+
+TW13
+
+TW14
+
+TW15
+
+TW19
+
+UB1
+
+UB2
+
+UB3
+
+UB4
+
+UB5
+
+UB6
+
+UB7
+
+UB8
+
+UB11
+
+W1B
+
+W1C
+
+W1D
+
+W1F
+
+W1G
+
+W1H
+
+W1J
+
+W1K
+
+W1S
+
+W1T
+
+W1U
+
+W1W
+
+W2
+
+W3
+
+W4
+
+W5
+
+W6
+
+W7
+
+W8
+
+W9
+
+W10
+
+W11
+
+W12
+
+W13
+
+W14
+
+WC1A
+
+WC1B
+
+WC1E
+
+WC1H
+
+WC1N
+
+WC1R
+
+WC1V
+
+WC1X
+
+WC2A
+
+WC2B
+
+WC2E
+
+WC2H
+
+WC2N
+
+WC2R
+
+22  Approved Document O, 2021 edition Building Regulations 2010
+
+CTable C1  Overheating risk at postcode area level in the high risk part of London ONLINE VERSIONONLINE VERSION C
+
+Postcode area risk level High risk
+
+Moderate risk
+
+Diagram C1  Overheating risk at postcode area level in the high risk part of London Building Regulations 2010  Approved Document O, 2021 edition 23
+
+ONLINE VERSIONONLINE VERSIONAppendix D: Calculating equivalent area
+
+D1  The free areas in Section 1 of this approved document are geometric open areas that assume a clear sharp-edged orifice with a 0.62 coefficient of discharge (Cd). Different opening types will reduce the amount of air flow by both affecting the way air flows and reducing the physical area. Accounting for these factors gives the equivalent area.
+
+D2  The equivalent area of a window can be calculated using one of the following.
+
+a.  The discharge coefficient calculator, available online at: https://www.gov.uk/government/
+
+publications/classvent-and-classcool-school-ventilation-design-tool.
+
+b.  Tables D1 to D9.
+
+NOTE: As stated in paragraph 1.12, measurement of equivalent area to BS EN 13141-1 is also appropriate. Measurement of equivalent area is more accurate than calculation and is therefore preferable. D3  Using Tables D1 to D9 to calculate equivalent area is appropriate for the following types of window.
+
+a.  Side, top or bottom hung windows. The opening hinge length is referenced as ‘h’ in the tables – Diagram D1 shows this for a side hung window. To use the tables for bottom and top hung windows, the ‘h’ and ‘w’ should be reversed.
+
+b.  Centre pivot windows. Each of the two sections of the centrally hinged window should be assessed as a single side, bottom or top hung window.
+
+c.  Sash windows. The opening should be assessed using Table D9, assuming an opening angle of  90 degrees.
+
+w
+
+α
+
+h
+
+Diagram D1   Side hung window illustration with table references
+
+24  Approved Document O, 2021 edition Building Regulations 2010
+
+DONLINE VERSIONONLINE VERSIONOpening  height, h (m) Opening  height, h (m) 0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.08
+
+0.11
+
+0.14
+
+0.18
+
+0.21
+
+0.25
+
+0.28
+
+0.32
+
+0.35
+
+0.39
+
+0.42
+
+0.5
+
+0.13
+
+0.19
+
+0.24
+
+0.29
+
+0.35
+
+0.41
+
+0.47
+
+0.53
+
+0.59
+
+0.65
+
+0.71
+
+Opening width, w (m) 1
+
+0.18
+
+0.27
+
+0.30
+
+0.38
+
+0.45
+
+0.53
+
+0.56
+
+0.63
+
+0.70
+
+0.77
+
+0.84
+
+Opening width, w (m) 1
+
+0.29
+
+0.44
+
+0.50
+
+0.63
+
+0.76
+
+0.88
+
+0.94
+
+1.06
+
+1.18
+
+1.30
+
+1.42
+
+1.25
+
+0.28
+
+0.34
+
+0.45
+
+0.47
+
+0.57
+
+0.66
+
+0.75
+
+0.85
+
+0.88
+
+0.96
+
+1.05
+
+1.25
+
+0.43
+
+0.55
+
+0.73
+
+0.79
+
+0.94
+
+1.10
+
+1.26
+
+1.42
+
+1.47
+
+1.62
+
+1.77
+
+0.75
+
+0.14
+
+0.17
+
+0.23
+
+0.28
+
+0.32
+
+0.37
+
+0.42
+
+0.47
+
+0.53
+
+0.58
+
+0.63
+
+0.75
+
+0.22
+
+0.28
+
+0.38
+
+0.47
+
+0.53
+
+0.62
+
+0.71
+
+0.80
+
+0.88
+
+0.97
+
+1.06
+
+1.5
+
+0.34
+
+0.41
+
+0.54
+
+0.68
+
+0.68
+
+0.79
+
+0.91
+
+1.02
+
+1.13
+
+1.25
+
+1.26
+
+1.5
+
+0.52
+
+0.66
+
+0.88
+
+1.10
+
+1.13
+
+1.32
+
+1.51
+
+1.70
+
+1.89
+
+2.08
+
+2.12
+
+Building Regulations 2010  Building Regulations 2010  Approved Document O, 2021 edition Approved Document O, 2021 edition 25
+
+25
+
+DTable D1  Equivalent area of a window with an opening angle of α = 10°Table D2  Equivalent area of a window with an opening angle of α = 20°ONLINE VERSIONONLINE VERSION Opening  height, h (m) Opening  height, h (m) 0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.16
+
+0.24
+
+0.30
+
+0.38
+
+0.45
+
+0.53
+
+0.60
+
+0.68
+
+0.75
+
+0.83
+
+0.90
+
+0.5
+
+0.18
+
+0.27
+
+0.35
+
+0.43
+
+0.52
+
+0.61
+
+0.69
+
+0.78
+
+0.86
+
+0.95
+
+1.04
+
+Opening width, w (m) 1
+
+0.36
+
+0.54
+
+0.64
+
+0.80
+
+0.96
+
+1.12
+
+1.21
+
+1.36
+
+1.51
+
+1.66
+
+1.81
+
+Opening width, w (m) 1
+
+0.40
+
+0.61
+
+0.73
+
+0.91
+
+1.09
+
+1.27
+
+1.38
+
+1.56
+
+1.73
+
+1.90
+
+2.08
+
+1.25
+
+0.52
+
+0.68
+
+0.90
+
+1.00
+
+1.20
+
+1.40
+
+1.59
+
+1.79
+
+1.88
+
+2.07
+
+2.26
+
+1.25
+
+0.56
+
+0.76
+
+1.01
+
+1.14
+
+1.36
+
+1.59
+
+1.82
+
+2.05
+
+2.16
+
+2.38
+
+2.59
+
+0.75
+
+0.27
+
+0.36
+
+0.48
+
+0.60
+
+0.68
+
+0.79
+
+0.90
+
+1.02
+
+1.13
+
+1.24
+
+1.36
+
+0.75
+
+0.30
+
+0.41
+
+0.55
+
+0.68
+
+0.78
+
+0.91
+
+1.04
+
+1.17
+
+1.30
+
+1.43
+
+1.56
+
+1.5
+
+0.62
+
+0.81
+
+1.08
+
+1.36
+
+1.43
+
+1.67
+
+1.91
+
+2.15
+
+2.39
+
+2.63
+
+2.71
+
+1.5
+
+0.67
+
+0.91
+
+1.21
+
+1.52
+
+1.64
+
+1.91
+
+2.18
+
+2.46
+
+2.73
+
+3.00
+
+3.11
+
+26  Approved Document O, 2021 edition 26  Approved Document O, 2021 edition Building Regulations 2010
+
+Building Regulations 2010
+
+DTable D3  Equivalent area of a window with an opening angle of α = 30°Table D4  Equivalent area of a window with an opening angle of α = 40°ONLINE VERSIONONLINE VERSION Opening  height, h (m) Opening  height, h (m) 0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.20
+
+0.30
+
+0.38
+
+0.47
+
+0.56
+
+0.66
+
+0.75
+
+0.85
+
+0.94
+
+1.04
+
+1.13
+
+0.5
+
+0.21
+
+0.31
+
+0.40
+
+0.50
+
+0.60
+
+0.70
+
+0.79
+
+0.89
+
+0.99
+
+1.09
+
+1.19
+
+Opening width, w (m) 1
+
+0.43
+
+0.65
+
+0.79
+
+0.98
+
+1.18
+
+1.38
+
+1.51
+
+1.69
+
+1.88
+
+2.07
+
+2.26
+
+Opening width, w (m) 1
+
+0.45
+
+0.67
+
+0.83
+
+1.03
+
+1.24
+
+1.45
+
+1.59
+
+1.79
+
+1.99
+
+2.19
+
+2.38
+
+1.25
+
+0.59
+
+0.81
+
+1.08
+
+1.23
+
+1.48
+
+1.72
+
+1.97
+
+2.21
+
+2.35
+
+2.59
+
+2.82
+
+1.25
+
+0.60
+
+0.84
+
+1.12
+
+1.29
+
+1.55
+
+1.81
+
+2.07
+
+2.33
+
+2.48
+
+2.73
+
+2.98
+
+0.75
+
+0.32
+
+0.44
+
+0.59
+
+0.74
+
+0.85
+
+0.99
+
+1.13
+
+1.27
+
+1.41
+
+1.55
+
+1.69
+
+0.75
+
+0.34
+
+0.47
+
+0.62
+
+0.78
+
+0.89
+
+1.04
+
+1.19
+
+1.34
+
+1.49
+
+1.64
+
+1.79
+
+1.5
+
+0.70
+
+0.97
+
+1.29
+
+1.62
+
+1.77
+
+2.07
+
+2.36
+
+2.66
+
+2.95
+
+3.25
+
+3.39
+
+1.5
+
+0.72
+
+1.01
+
+1.34
+
+1.68
+
+1.86
+
+2.17
+
+2.48
+
+2.79
+
+3.10
+
+3.41
+
+3.58
+
+Building Regulations 2010  Building Regulations 2010  Approved Document O, 2021 edition Approved Document O, 2021 edition 27
+
+27
+
+DTable D5  Equivalent area of a window with an opening angle of α = 50°Table D6  Equivalent area of a window with an opening angle of α = 60°ONLINE VERSIONONLINE VERSION Opening  height, h (m) Opening  height, h (m) 0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.21
+
+0.32
+
+0.41
+
+0.51
+
+0.62
+
+0.72
+
+0.82
+
+0.93
+
+1.03
+
+1.13
+
+1.23
+
+0.5
+
+0.22
+
+0.33
+
+0.42
+
+0.53
+
+0.63
+
+0.74
+
+0.84
+
+0.95
+
+1.05
+
+1.16
+
+1.26
+
+Opening width, w (m) 1
+
+0.46
+
+0.69
+
+0.85
+
+1.07
+
+1.28
+
+1.49
+
+1.65
+
+1.85
+
+2.06
+
+2.26
+
+2.47
+
+Opening width, w (m) 1
+
+0.46
+
+0.70
+
+0.87
+
+1.09
+
+1.31
+
+1.53
+
+1.68
+
+1.90
+
+2.11
+
+2.32
+
+2.53
+
+1.25
+
+0.61
+
+0.86
+
+1.15
+
+1.33
+
+1.60
+
+1.87
+
+2.13
+
+2.40
+
+2.57
+
+2.83
+
+3.09
+
+1.25
+
+0.61
+
+0.87
+
+1.16
+
+1.36
+
+1.63
+
+1.91
+
+2.18
+
+2.45
+
+2.63
+
+2.90
+
+3.16
+
+0.75
+
+0.34
+
+0.48
+
+0.64
+
+0.80
+
+0.93
+
+1.08
+
+1.23
+
+1.39
+
+1.54
+
+1.70
+
+1.85
+
+0.75
+
+0.35
+
+0.49
+
+0.65
+
+0.82
+
+0.95
+
+1.11
+
+1.26
+
+1.42
+
+1.58
+
+1.74
+
+1.90
+
+1.5
+
+0.73
+
+1.03
+
+1.37
+
+1.72
+
+1.92
+
+2.24
+
+2.56
+
+2.88
+
+3.20
+
+3.52
+
+3.70
+
+1.5
+
+0.73
+
+1.04
+
+1.39
+
+1.74
+
+1.96
+
+2.29
+
+2.61
+
+2.94
+
+3.27
+
+3.60
+
+3.79
+
+28  Approved Document O, 2021 edition 28  Approved Document O, 2021 edition Building Regulations 2010
+
+Building Regulations 2010
+
+DTable D7  Equivalent area of a window with an opening angle of α = 70°Table D8  Equivalent area of a window with an opening angle of α = 80°ONLINE VERSIONONLINE VERSION Opening  height, h (m) 0.5
+
+0.75
+
+1
+
+1.25
+
+1.5
+
+1.75
+
+2
+
+2.25
+
+2.5
+
+2.75
+
+3
+
+0.5
+
+0.22
+
+0.33
+
+0.43
+
+0.53
+
+0.64
+
+0.75
+
+0.86
+
+0.96
+
+1.07
+
+1.18
+
+1.28
+
+Opening width, w (m) 1
+
+0.47
+
+0.70
+
+0.88
+
+1.10
+
+1.33
+
+1.55
+
+1.71
+
+1.93
+
+2.14
+
+2.35
+
+2.57
+
+1.25
+
+0.61
+
+0.88
+
+1.17
+
+1.38
+
+1.66
+
+1.93
+
+2.21
+
+2.48
+
+2.67
+
+2.94
+
+3.21
+
+0.75
+
+0.35
+
+0.50
+
+0.66
+
+0.83
+
+0.96
+
+1.12
+
+1.28
+
+1.44
+
+1.60
+
+1.76
+
+1.93
+
+1.5
+
+0.74
+
+1.05
+
+1.40
+
+1.76
+
+1.99
+
+2.32
+
+2.65
+
+2.98
+
+3.31
+
+3.64
+
+3.85
+
+Building Regulations 2010  Building Regulations 2010  Approved Document O, 2021 edition Approved Document O, 2021 edition 29
+
+29
+
+DTable D9  Equivalent area of a window with an opening angle of α = 90°ONLINE VERSIONONLINE VERSION Appendix E: Standards referred to
+
+BS EN 13141-1 Ventilation for buildings. Performance testing of components/products for residential ventilation – Externally and internally mounted air transfer devices [2019]
+
+30  Approved Document O, 2021 edition Building Regulations 2010
+
+EONLINE VERSIONONLINE VERSIONAppendix F: Documents referred to
+
+Legislation
+
+(available via www.legislation.gov.uk) Building Act 1984, c. 55
+
+Building (Approved Inspectors etc.) Regulations 2010, SI 2010/2215
+
+Building Regulations 2010, SI 2010/2214
+
+Other documents
+
+Association of Noise Consultants
+
+(www.association-of-noise-consultants.co.uk) Acoustics, Ventilation and Overheating: Residential Design Guide [2020]
+
+Measurement of Sound Levels in Buildings [2020]
+
+Building Research Establishment (BRE)
+
+(www.bre.co.uk)
+
+BR 364 Solar Shading of Buildings, Second Edition [2018]
+
+Chartered Institution of Building Services Engineers (CIBSE)
+
+(www.cibse.org)
+
+TM59 Design Methodology for the Assessment of Overheating Risk in Homes [2017]
+
+Ministry of Housing, Communities and Local Government (MHCLG)
+
+National Model Design Code: Part 2 – Guidance Notes [2021] Building Regulations 2010  Approved Document O, 2021 edition 31
+
+FONLINE VERSIONONLINE VERSION
+

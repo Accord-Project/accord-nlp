@@ -1,0 +1,840 @@
+id,text
+0_UK_UK_Approved_Document_S,Section 0: Introduction
+1_UK_UK_Approved_Document_S,Summary
+2_UK_UK_Approved_Document_S,This approved document is Approved Document S. It gives guidance on how to comply with Part S of Schedule 1 to the Building Regulations.
+3_UK_UK_Approved_Document_S,This approved document contains the following sections:
+4_UK_UK_Approved_Document_S,Approved document section
+5_UK_UK_Approved_Document_S,Section 0: Introduction Related Building Regulations requirements
+6_UK_UK_Approved_Document_S,n/a
+7_UK_UK_Approved_Document_S,Section 1: New residential buildings
+8_UK_UK_Approved_Document_S,Requirement S1 of Schedule 1 and regulation 44D
+9_UK_UK_Approved_Document_S,Section 2: Material change of use and major renovations for residential buildings
+10_UK_UK_Approved_Document_S,Requirements S2 and S3 of Schedule 1 and regulations 44E and 44F
+11_UK_UK_Approved_Document_S,Section 3: New buildings other than residential or mixed-use buildings
+12_UK_UK_Approved_Document_S,Section 4: Major renovations of buildings which are not residential or mixed-use buildings
+13_UK_UK_Approved_Document_S,Requirement S4 of Schedule 1 and regulation 44G
+14_UK_UK_Approved_Document_S,Requirement S5 of Schedule 1 and regulation 44H
+15_UK_UK_Approved_Document_S,Section 5: Mixed-use buildings
+16_UK_UK_Approved_Document_S,Requirement S6 of Schedule 1 and regulation 44I
+17_UK_UK_Approved_Document_S,Section 6: Standards for electric vehicle charge points and cable routes
+18_UK_UK_Approved_Document_S,Regulation 44J
+19_UK_UK_Approved_Document_S,Appendix A: Key terms
+20_UK_UK_Approved_Document_S,Appendix B: Standards referred to
+21_UK_UK_Approved_Document_S,Appendix C: Documents referred to n/a n/a n/a
+22_UK_UK_Approved_Document_S,Application
+23_UK_UK_Approved_Document_S,The guidance in Approved Document S applies to the following types of building work.
+24_UK_UK_Approved_Document_S,New residential buildings.
+25_UK_UK_Approved_Document_S,New non-residential buildings.
+26_UK_UK_Approved_Document_S,Buildings undergoing material change of use.
+27_UK_UK_Approved_Document_S,Residential buildings undergoing major renovation.
+28_UK_UK_Approved_Document_S,Non
+29_UK_UK_Approved_Document_S,-residential buildings undergoing major renovation.
+30_UK_UK_Approved_Document_S,Mixed-use buildings undergoing relevant building work.
+31_UK_UK_Approved_Document_S,"Details of the application of the Part S requirements, including exemptions, are set out in the relevant sections of this document."
+32_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 1"
+33_UK_UK_Approved_Document_S,"ONLINE VERSIONONLINE VERSION Selected key interactions with other parts of the Building Regulations 0.5 The approved documents set out what, in ordinary circumstances, may be accepted as one way to comply with the Building Regulations."
+34_UK_UK_Approved_Document_S,"Those designing or undertaking building work remain responsible for assessing, on a case-by-case basis, whether specific circumstances require additional or alternative measures to achieve compliance with the regulatory requirements."
+35_UK_UK_Approved_Document_S,There are interactions between many of the requirements of the Building Regulations.
+36_UK_UK_Approved_Document_S,Guidance on some key interactions is given below.
+37_UK_UK_Approved_Document_S,Interaction with Part B
+38_UK_UK_Approved_Document_S,"This approved document, Approved Document S, provides guidance on the installation and location of electric vehicle charge points."
+39_UK_UK_Approved_Document_S,"Where a car park is constructed or work is carried out to an existing car park, care must be taken to ensure that the fire safety requirements of the Building Regulations have been met."
+40_UK_UK_Approved_Document_S,Follow the guidance in Approved Document B.
+41_UK_UK_Approved_Document_S,Interaction with Part K
+42_UK_UK_Approved_Document_S,"This approved document, Approved Document S, provides guidance on the location of electric vehicle charge points."
+43_UK_UK_Approved_Document_S,Approved Document K gives guidance on vehicle barriers and loading bays.
+44_UK_UK_Approved_Document_S,"Interaction with Part M 0.8 This approved document, Approved Document S, provides guidance on the installation and location of electric vehicle charge points."
+45_UK_UK_Approved_Document_S,"Manual controls, where provided, should be within reasonable reach of the occupants."
+46_UK_UK_Approved_Document_S,Access requirements must be considered when locating electric vehicle charge points.
+47_UK_UK_Approved_Document_S,Accessible parking spaces must meet the Part M requirements.
+48_UK_UK_Approved_Document_S,Follow the guidance in Approved Document M.
+49_UK_UK_Approved_Document_S,Interaction with Part P
+50_UK_UK_Approved_Document_S,"This approved document, Approved Document S, provides guidance on the installation and location of electric vehicle charge points."
+51_UK_UK_Approved_Document_S,"Where electrical work is carried out for a dwelling, Part P of the Building Regulations must be met."
+52_UK_UK_Approved_Document_S,Follow the guidance in Approved Document P.
+53_UK_UK_Approved_Document_S,NOTE:
+54_UK_UK_Approved_Document_S,"For workplaces, the Electricity at Work Regulations 1989 sets requirements."
+55_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+56_UK_UK_Approved_Document_S,ONLINE VERSIONONLINE VERSION Requirement S1 and regulation 44D: Electric vehicle charging provisions for new residential buildings
+57_UK_UK_Approved_Document_S,This section deals with requirement S1 from Part S of Schedule 1 and regulation 44D of the Building Regulations 2010.
+58_UK_UK_Approved_Document_S,Requirement
+59_UK_UK_Approved_Document_S,The erection of new residential buildings
+60_UK_UK_Approved_Document_S,A new residential building with associated parking must have access to electric vehicle charge points as provided for in paragraph (2).
+61_UK_UK_Approved_Document_S,The number of associated parking spaces which have access to electric vehicle charge points must be—
+62_UK_UK_Approved_Document_S,"the total number of associated parking spaces, where there are fewer associated parking spaces than there are dwellings contained in the residential building; or"
+63_UK_UK_Approved_Document_S,"the number of associated parking spaces that is equal to the total number of dwellings contained in the residential building, where there are the same number of associated parking spaces as, or more associated parking spaces than, there are dwellings."
+64_UK_UK_Approved_Document_S,"Cable routes for electric vehicle charge points must be installed in any associated parking spaces which do not, in accordance with paragraph (2), have an electric vehicle charge point where—"
+65_UK_UK_Approved_Document_S,a new residential building has more than 10 associated parking spaces; and
+66_UK_UK_Approved_Document_S,there are more associated parking spaces than there are dwellings contained in the residential building.
+67_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 3"
+68_UK_UK_Approved_Document_S,S1ONLINE
+69_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Regulation
+70_UK_UK_Approved_Document_S,Application of paragraph S1 of Schedule 1 (the erection of new residential buildings)
+71_UK_UK_Approved_Document_S,The requirements of paragraph S1 of Schedule 1 apply in relation to the erection of a new residential building with associated parking as follows.
+72_UK_UK_Approved_Document_S,The number of electric vehicle charge points that must be installed is the maximum number of electric vehicle charge points that it is possible to install at an average sum of £3600 or less for the connection cost of each electric vehicle charge point connection (“the £3600 cap”).
+73_UK_UK_Approved_Document_S,"If it is not possible to completely fulfil the requirements of paragraph S1(2) of Schedule 1 as a result of the operation of the £3600 cap, cable routes for electric vehicle charge points must be installed in the associated parking spaces that would otherwise be required to have electric vehicle charge points, but for the operation of the £3600 cap."
+74_UK_UK_Approved_Document_S,"Where the new residential building has, or will have, associated parking that is situated within a covered car park—"
+75_UK_UK_Approved_Document_S,if there are or will be any associated parking spaces situated in a position other than in a covered car park—
+76_UK_UK_Approved_Document_S,the requirements of paragraph S1 of Schedule 1 must first be applied in relation to those parking spaces; then
+77_UK_UK_Approved_Document_S,"if the number of associated parking spaces, which are situated in a position other than in a covered car park, is insufficient to completely fulfil the requirements of paragraph S1(2) of Schedule 1, cable routes for electric vehicle charge points must be installed in—"
+78_UK_UK_Approved_Document_S,"(aa) the number of parking spaces in the covered car park which, when added to the number of associated parking spaces which are situated in a position other than in the covered car park, corresponds to the total number of dwellings with associated parking, where the total number of associated parking spaces is 10 or less;"
+79_UK_UK_Approved_Document_S,"(bb) all the associated parking spaces in the covered car park, where the total number of associated parking spaces is both less than the number of dwellings with associated parking and 10 or less; and"
+80_UK_UK_Approved_Document_S,"(cc) all the associated parking spaces in the covered car park, where the total number of associated parking spaces is more than 10;"
+81_UK_UK_Approved_Document_S,"if all the associated parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed—"
+82_UK_UK_Approved_Document_S,where there are 10 or fewer parking spaces—
+83_UK_UK_Approved_Document_S,(aa) in the number of associated parking spaces in the covered car park which corresponds to the total number of dwellings with associated parking;
+84_UK_UK_Approved_Document_S,(bb) in all the parking spaces where there are fewer parking spaces than there are dwellings;
+85_UK_UK_Approved_Document_S,"in all the parking spaces in the covered car park, where there are more than 10 parking spaces."
+86_UK_UK_Approved_Document_S,NOTE:
+87_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+88_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+89_UK_UK_Approved_Document_S,Intention
+90_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S1 and regulation 44D are met if building work complies with all the following."
+91_UK_UK_Approved_Document_S,"For a new residential building where requirement S1 applies (paragraph 1.4), electric vehicle charge points are installed in accordance with paragraph 1.1."
+92_UK_UK_Approved_Document_S,
+93_UK_UK_Approved_Document_S,"For new residential buildings where both of the following conditions apply, cable routes are installed."
+94_UK_UK_Approved_Document_S,The requirement to install electric vehicle charge points does not apply to all associated parking spaces (paragraph 1.4).
+95_UK_UK_Approved_Document_S,The building has more than 10 associated parking spaces.
+96_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+97_UK_UK_Approved_Document_S,S1ONLINE
+98_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Section 1: New residential buildings
+99_UK_UK_Approved_Document_S,New dwellings
+100_UK_UK_Approved_Document_S,"Where associated parking spaces are provided for a new residential building, the number of associated parking spaces that have access to an electric vehicle charge point must be a minimum of either of the following."
+101_UK_UK_Approved_Document_S,The number of associated parking spaces.
+102_UK_UK_Approved_Document_S,
+103_UK_UK_Approved_Document_S,The number of dwellings that the car park serves.
+104_UK_UK_Approved_Document_S,See paragraphs 1.4 to 1.7 for the application of these requirements.
+105_UK_UK_Approved_Document_S,NOTE:
+106_UK_UK_Approved_Document_S,"Where no associated parking spaces are provided, there is no requirement to install an electric vehicle charge point."
+107_UK_UK_Approved_Document_S,"If some associated parking spaces are not required to install electric vehicle charge points following paragraphs 1.4 to 1.7, then cable routes may need to be installed."
+108_UK_UK_Approved_Document_S,If either:
+109_UK_UK_Approved_Document_S,the average connection cost for an electric vehicle charge point connection is greater than £3600
+110_UK_UK_Approved_Document_S,some of the associated parking spaces associated with the new residential building are within a covered car park
+111_UK_UK_Approved_Document_S,the total number of associated parking spaces which have access to either an electric vehicle charge point or cable routes must be a minimum of either of the following.
+112_UK_UK_Approved_Document_S,The number of associated parking spaces.
+113_UK_UK_Approved_Document_S,The number of dwellings that the car park serves.
+114_UK_UK_Approved_Document_S,If the number of associated parking spaces for the new residential building is both
+115_UK_UK_Approved_Document_S,more than 10
+116_UK_UK_Approved_Document_S,more than the number of dwellings
+117_UK_UK_Approved_Document_S,cable routes must be provided for all associated parking spaces which do not have access to an electric vehicle charge point.
+118_UK_UK_Approved_Document_S,Application of the requirements to new residential buildings
+119_UK_UK_Approved_Document_S,The requirement to install electric vehicle charge points set out in paragraph 1.1 applies for each associated parking space where both of the following apply.
+120_UK_UK_Approved_Document_S,The associated parking space is not within a covered car park.
+121_UK_UK_Approved_Document_S,"The average connection cost for each electric vehicle charge point connection is less than £3600, determined according to paragraph 1.5."
+122_UK_UK_Approved_Document_S,NOTE:
+123_UK_UK_Approved_Document_S,Diagram 1.1 and Diagram 1.2 give examples of determining which parking spaces are associated parking spaces.
+124_UK_UK_Approved_Document_S,"On a new development, multiple residential buildings, landscaping, roads etc. may be under the same ownership."
+125_UK_UK_Approved_Document_S,The diagrams give examples of more complex site boundary scenarios.
+126_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 5"
+127_UK_UK_Approved_Document_S,S1ONLINE
+128_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Site boundary
+129_UK_UK_Approved_Document_S,Garage/
+130_UK_UK_Approved_Document_S,car port 1
+131_UK_UK_Approved_Document_S,Parking
+132_UK_UK_Approved_Document_S,space 1
+133_UK_UK_Approved_Document_S,Parking
+134_UK_UK_Approved_Document_S,space 4
+135_UK_UK_Approved_Document_S,Garage/
+136_UK_UK_Approved_Document_S,car port 2
+137_UK_UK_Approved_Document_S,Garden
+138_UK_UK_Approved_Document_S,Garden
+139_UK_UK_Approved_Document_S,Parking
+140_UK_UK_Approved_Document_S,space 2
+141_UK_UK_Approved_Document_S,Dwelling 1
+142_UK_UK_Approved_Document_S,Dwelling 2
+143_UK_UK_Approved_Document_S,Parking
+144_UK_UK_Approved_Document_S,space 3
+145_UK_UK_Approved_Document_S,NOTES:
+146_UK_UK_Approved_Document_S,"Parking space 1, despite being separated from dwelling 1 by a garden, is within the site boundary and contains a parking space associated with dwelling 1."
+147_UK_UK_Approved_Document_S,Parking space 2 is within the site boundary of dwelling 1 and contains a parking space associated with dwelling 1.
+148_UK_UK_Approved_Document_S,Parking space 3 is outside the site boundary of dwelling 1.
+149_UK_UK_Approved_Document_S,"In this example, parking space 3 is separated from dwelling 1 by a public highway or a road that does not belong to the owners of dwelling 1."
+150_UK_UK_Approved_Document_S,"Garage/Car port 1 is within the site boundary of dwelling 1, despite being separated from the building by a garden; therefore, parking space within the garage/car port is associated with dwelling 1."
+151_UK_UK_Approved_Document_S,"Note that some garages do not contain parking spaces (for example, if a car cannot reasonably be expected to be parked inside the garage)."
+152_UK_UK_Approved_Document_S,Parking space 4 is outside the site boundary of dwelling 1.
+153_UK_UK_Approved_Document_S,Parking space 4 is on land that belongs to the owners of dwelling 2.
+154_UK_UK_Approved_Document_S,"Diagram 1.1 Determining associated parking spaces and site boundaries, example 1"
+155_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+156_UK_UK_Approved_Document_S,S1ONLINE
+157_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Site boundary
+158_UK_UK_Approved_Document_S,for building 1
+159_UK_UK_Approved_Document_S,Vegetation/
+160_UK_UK_Approved_Document_S,landscaping
+161_UK_UK_Approved_Document_S,Car park 1
+162_UK_UK_Approved_Document_S,Car park 2
+163_UK_UK_Approved_Document_S,Building 2
+164_UK_UK_Approved_Document_S,Building 1
+165_UK_UK_Approved_Document_S,Car park 3
+166_UK_UK_Approved_Document_S,On-street
+167_UK_UK_Approved_Document_S,parking
+168_UK_UK_Approved_Document_S,Car park 4
+169_UK_UK_Approved_Document_S,NOTES:
+170_UK_UK_Approved_Document_S,Car park 1 is within the site boundary for building 1 and contains parking spaces associated with building 1.
+171_UK_UK_Approved_Document_S,"Car park 2 is outside the site boundary, and the parking spaces do not therefore need to be considered."
+172_UK_UK_Approved_Document_S,The car park may be associated with a different building or under different ownership to building 1.
+173_UK_UK_Approved_Document_S,"Car park 3, despite being separated from building 1 by vegetation/landscaping, is within the site boundary."
+174_UK_UK_Approved_Document_S,"If the parking spaces are for the use of the occupants/users of building 1, they are therefore associated with building 1."
+175_UK_UK_Approved_Document_S,Car park 4 is outside the site boundary of building 1.
+176_UK_UK_Approved_Document_S,"In this example, the car park is separated from the building by a public highway or a road under different ownership to that of the building."
+177_UK_UK_Approved_Document_S,
+178_UK_UK_Approved_Document_S,The on-street parking is outside the site boundary of the building.
+179_UK_UK_Approved_Document_S,"In this example, the parking spaces are on a public highway or a road that does not belong to the owners of the building."
+180_UK_UK_Approved_Document_S,Car park 1 and car park 3 each contain seven parking spaces.
+181_UK_UK_Approved_Document_S,The new building therefore has 14 associated parking spaces.
+182_UK_UK_Approved_Document_S,The requirements for buildings with a minimum of 11 associated parking spaces apply.
+183_UK_UK_Approved_Document_S,"Diagram 1.2 Determining associated parking spaces and site boundaries, example 2"
+184_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 7"
+185_UK_UK_Approved_Document_S,S1ONLINE
+186_UK_UK_Approved_Document_S,VERSIONONLINE VERSION 1.5 The connection cost for installing an electric vehicle charge point is the extra cost of the incoming electrical supply per electric vehicle charge point connection compared to the cost without electric vehicle charge points.
+187_UK_UK_Approved_Document_S,"Where the connection cost is greater than £3600 per electric vehicle charge point connection, the maximum number of electric vehicle charge points should be installed before the extra grid connection costs exceed £3600 per electric vehicle charge point connection."
+188_UK_UK_Approved_Document_S,"On a site where multiple new dwellings are planned (for example, where they are within the same notice/plans) an average connection cost may be used."
+189_UK_UK_Approved_Document_S,To show that the connection cost is greater than £3600 at least two formal quotes should be given to the building control body during the notice/plans stage as follows.
+190_UK_UK_Approved_Document_S,At least one quote should be from a distribution network operator.
+191_UK_UK_Approved_Document_S,Quotes should clearly show all of the following.
+192_UK_UK_Approved_Document_S,"The total connection costs for electrical infrastructure without electric vehicle charge points for all dwellings, as an average cost per dwelling."
+193_UK_UK_Approved_Document_S,"The total connection costs with electric vehicle charge points for all dwellings, as an average cost per dwelling."
+194_UK_UK_Approved_Document_S,
+195_UK_UK_Approved_Document_S,The average additional connection costs per electric vehicle charge point per dwelling if electric vehicle charge points are installed for all dwellings with associated parking spaces.
+196_UK_UK_Approved_Document_S,
+197_UK_UK_Approved_Document_S,The maximum number of electric vehicle charge points that can be installed before the extra grid connections costs exceed £3600 per charge point per dwelling.
+198_UK_UK_Approved_Document_S,NOTE:
+199_UK_UK_Approved_Document_S,"For new dwellings where there is no requirement to install an electric vehicle charge point, cable routes may be required; see paragraph 1.2. 8"
+200_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+201_UK_UK_Approved_Document_S,S1ONLINE
+202_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Requirement S2 and regulation 44E: Dwellings resulting from a material change of use
+203_UK_UK_Approved_Document_S,This section deals with requirement S2 from Part S of Schedule 1 and regulation 44E of the Building Regulations 2010.
+204_UK_UK_Approved_Document_S,Requirement
+205_UK_UK_Approved_Document_S,Dwellings resulting from a material change of use
+206_UK_UK_Approved_Document_S,"Where one or more dwellings with associated parking result from a building, or a part of a building, undergoing a material change of use at least one associated parking space for the use of each such dwelling must have access to an electric vehicle charge point."
+207_UK_UK_Approved_Document_S,Regulation
+208_UK_UK_Approved_Document_S,Application of paragraph S2 of Schedule 1 (dwellings resulting from a material change of use)
+209_UK_UK_Approved_Document_S,"The requirements of paragraph S2 of Schedule 1 apply to a building, or a part of a building, undergoing a material change of use to result in one or more dwellings as follows."
+210_UK_UK_Approved_Document_S,The requirements of paragraph S2 of Schedule 1 apply—
+211_UK_UK_Approved_Document_S,if—
+212_UK_UK_Approved_Document_S,"the circumstances specified in regulation 5(a), (b) or (g) apply; and"
+213_UK_UK_Approved_Document_S,the material change of use involves building work being done which includes work being done to any of the following—
+214_UK_UK_Approved_Document_S,"(aa) to a car park that is located within the site boundary of the building, where the nature of the work is such that it would be reasonable to expect that work to include enabling the requirements of paragraph S2 of Schedule 1 to be fulfilled;"
+215_UK_UK_Approved_Document_S,"(bb) the electrical infrastructure of a car park, where that car park is located within the site boundary of the building;"
+216_UK_UK_Approved_Document_S,"(cc) the electrical infrastructure of the building, where a car park is located inside the building;"
+217_UK_UK_Approved_Document_S,"subject to paragraph (3), if an electric vehicle charge point for each dwelling resulting from a building, or a part of a building, undergoing a material change of use can be accommodated within the incoming electrical supply to the building without having to upgrade the capacity of the incoming electrical supply to the building; and"
+218_UK_UK_Approved_Document_S,if the building is not one in relation to which paragraph (4) applies.
+219_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 9"
+220_UK_UK_Approved_Document_S,S2ONLINE VERSIONONLINE VERSION Regulation continued
+221_UK_UK_Approved_Document_S,"If paragraph (2)(a) and (c) applies, but electric vehicle charge points for some but not all of the dwellings resulting from a building, or a part of a building, undergoing a material change of use can be accommodated within the incoming electrical supply to that building—"
+222_UK_UK_Approved_Document_S,the requirements of paragraph S2 of Schedule 1 apply in respect of the maximum number of electric vehicle charge points that can be accommodated within the incoming electrical supply; and
+223_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in the associated parking spaces that would otherwise have been required under paragraph S2 of Schedule 1 to have had electric vehicle charge points installed.
+224_UK_UK_Approved_Document_S,"The requirements of paragraph S2 of Schedule 1 do not apply if a building, or a part of a building, is—"
+225_UK_UK_Approved_Document_S,listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990;
+226_UK_UK_Approved_Document_S,in a conservation area designated in accordance with section 69 of that Act; or
+227_UK_UK_Approved_Document_S,"included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979,"
+228_UK_UK_Approved_Document_S,where compliance with the requirements of paragraph S2 of Schedule 1 would unacceptably alter the building’s character or appearance.
+229_UK_UK_Approved_Document_S,"If the building, or a part of a building, undergoing a material change of use to result in one or more dwellings has, or will have, associated parking that is situated within a covered car park—"
+230_UK_UK_Approved_Document_S,if there are or will be any associated parking spaces situated in a position other than in a covered car park—
+231_UK_UK_Approved_Document_S,the requirements of paragraph S2 of Schedule 1 must first be applied in relation to those associated parking spaces; then
+232_UK_UK_Approved_Document_S,"if the number of associated parking spaces, which are situated in a position other than in a covered car park, is insufficient to completely fulfil the requirements of paragraph S2 of Schedule 1, cable routes for electric vehicle charge points must be installed in—"
+233_UK_UK_Approved_Document_S,"(aa) all the associated parking spaces in the covered car park, where the total number of parking spaces is less than the number of such dwellings with associated parking; or"
+234_UK_UK_Approved_Document_S,"(bb) the number of associated parking spaces in the covered car park which, when added to the number of associated parking spaces which are situated in a position other than in a covered car park, corresponds to the total number of such dwellings with associated parking;"
+235_UK_UK_Approved_Document_S,"if all the associated parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in—"
+236_UK_UK_Approved_Document_S,"all those associated parking spaces, where there are fewer parking spaces than there are such dwellings with associated parking; or"
+237_UK_UK_Approved_Document_S,the number of those associated parking spaces that corresponds to the total number of such dwellings with associated parking.
+238_UK_UK_Approved_Document_S,NOTE:
+239_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+240_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+241_UK_UK_Approved_Document_S,Intention
+242_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S2 and regulation 44E is met if both of the following are met."
+243_UK_UK_Approved_Document_S,"Where dwellings are created through or result from a material change of use of the type described in paragraph 2.1, electric vehicle charge points and cable routes are installed following the guidance in paragraphs 2.7 to 2.9 and for covered car parks in paragraphs 2.16 and 2.17."
+244_UK_UK_Approved_Document_S,"For historic and traditional buildings, the guidance in paragraphs 2.3 to 2.6 has been followed."
+245_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+246_UK_UK_Approved_Document_S,S2ONLINE VERSIONONLINE VERSION S3
+247_UK_UK_Approved_Document_S,Requirement S3 and regulation 44F: Residential buildings undergoing major renovation work
+248_UK_UK_Approved_Document_S,This section deals with requirement S3 from Part S of Schedule 1 and regulation 44F of the Building Regulations 2010.
+249_UK_UK_Approved_Document_S,Requirement
+250_UK_UK_Approved_Document_S,Residential buildings undergoing major renovation
+251_UK_UK_Approved_Document_S,Where a residential building undergoing major renovation will have more than 10 associated parking spaces after the major renovation is completed—
+252_UK_UK_Approved_Document_S,at least one associated parking space for the use of each dwelling must have access to an electric vehicle charge point;
+253_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in all additional associated parking spaces.
+254_UK_UK_Approved_Document_S,Regulation
+255_UK_UK_Approved_Document_S,Application of paragraph S3 of Schedule 1 (residential buildings undergoing major renovation)
+256_UK_UK_Approved_Document_S,The requirements of paragraph S3 of Schedule 1 apply to a residential building undergoing major renovation as follows.
+257_UK_UK_Approved_Document_S,The requirements of paragraph S3 of Schedule 1 apply if—
+258_UK_UK_Approved_Document_S,the major renovation involves building work being done which includes work being done to any of the following—
+259_UK_UK_Approved_Document_S,"a car park that is located within the site boundary of the building, where the nature of the work is such that it would be reasonable to expect that work to include enabling the requirements of paragraph S3 of Schedule 1 to be fulfilled;"
+260_UK_UK_Approved_Document_S,"the electrical infrastructure of a car park, where the car park is located within the site boundary of the building;"
+261_UK_UK_Approved_Document_S,"the electrical infrastructure of the building, where a car park is located inside the building;"
+262_UK_UK_Approved_Document_S,the residential building will have more than 10 associated parking spaces upon completion of that work;
+263_UK_UK_Approved_Document_S,"subject to paragraph (3), all the required electric vehicle charge points can be accommodated within the incoming electrical supply to the building;"
+264_UK_UK_Approved_Document_S,the cost of installing all the required electric vehicle charge points and cable routes for electric vehicle charge points does not exceed 7% of the total cost of the major renovation; and
+265_UK_UK_Approved_Document_S,the residential building is not one in relation to which paragraph (5) applies.
+266_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 11"
+267_UK_UK_Approved_Document_S,ONLINE VERSIONONLINE VERSION S3
+268_UK_UK_Approved_Document_S,Regulation continued
+269_UK_UK_Approved_Document_S,"If paragraph (2)(a), (b), (d) and (e) applies, but all the required electric vehicle charge points cannot be accommodated within the incoming electrical supply to the building—"
+270_UK_UK_Approved_Document_S,the requirements of paragraph S3 of Schedule 1 apply only in respect of the maximum number of electric vehicle charge points that can be accommodated within the incoming electrical supply to the building; and
+271_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in all remaining associated parking spaces.
+272_UK_UK_Approved_Document_S,If the cost of installing the required electric vehicle charge points and cable routes for electric vehicle charge points exceeds 7% of the total cost of the major renovation—
+273_UK_UK_Approved_Document_S,the residential building is exempt from the requirement to install any electric vehicle charge point;
+274_UK_UK_Approved_Document_S,"cable routes for electric vehicle charge points must be installed in all associated parking spaces, except where the cost of that installation exceeds 7% of the total cost of the major renovation."
+275_UK_UK_Approved_Document_S,The requirements of paragraph S3 of Schedule 1 do not apply to a residential building which is undergoing major renovation for the principal purpose of improving the fire safety of the external walls or roof of the building.
+276_UK_UK_Approved_Document_S,"If a residential building undergoing major renovation has, or will have more than 10 associated parking spaces—"
+277_UK_UK_Approved_Document_S,if there are or will be any associated parking spaces situated in a position other than in a covered car park—
+278_UK_UK_Approved_Document_S,the requirements of paragraph S3 of Schedule 1 must first be applied in relation to those associated parking spaces; then
+279_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in all the associated parking spaces in the covered car park;
+280_UK_UK_Approved_Document_S,"if all the associated parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in all the parking spaces in the covered car park."
+281_UK_UK_Approved_Document_S,NOTE:
+282_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+283_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+284_UK_UK_Approved_Document_S,Intention
+285_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S3 and regulation 44F is met if building work complies with the following."
+286_UK_UK_Approved_Document_S,"Where a residential building undergoes a major renovation of the type described in paragraph 2.10, electric vehicle charge points and cable routes are installed following the guidance in paragraphs 2.13 to 2.15 and for covered car parks in paragraphs 2.16 and 2.17."
+287_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+288_UK_UK_Approved_Document_S,S3ONLINE
+289_UK_UK_Approved_Document_S,"VERSIONONLINE VERSION S2,S3"
+290_UK_UK_Approved_Document_S,Section 2: Material change of use and major renovations for residential buildings
+291_UK_UK_Approved_Document_S,Material change of use
+292_UK_UK_Approved_Document_S,"Where associated parking spaces are provided for a building undergoing a material change of use of any of the following types, electric vehicle charge points should be provided."
+293_UK_UK_Approved_Document_S,The material change of use results in one or more dwellings and is one of the following types.
+294_UK_UK_Approved_Document_S,"The building or part of a building is used as a dwelling, where previously it was not (regulation 5(a) of the Building Regulations)."
+295_UK_UK_Approved_Document_S,"The building or part of a building contains a flat, where previously it did not (regulation 5(b) of the Building Regulations)."
+296_UK_UK_Approved_Document_S,"The building or part of a building which contains at least one dwelling, contains a greater or lesser number of dwellings than it did previously (regulation 5(g) of the Building Regulations)."
+297_UK_UK_Approved_Document_S,"Where requirement S2 applies, the number of associated parking spaces that have access to an electric vehicle charge point must be a minimum of either of the following."
+298_UK_UK_Approved_Document_S,The number of associated parking spaces.
+299_UK_UK_Approved_Document_S,
+300_UK_UK_Approved_Document_S,The number of newly created dwellings that the car park serves.
+301_UK_UK_Approved_Document_S,"See paragraphs 2.7 to 2.9 for the application of these requirements, and paragraphs 2.3 to 2.6 for historic and traditional buildings."
+302_UK_UK_Approved_Document_S,NOTE:
+303_UK_UK_Approved_Document_S,"If there are more associated parking spaces than there are newly created dwellings, there is no requirement to install electric vehicle charge points in more associated parking spaces than the number of newly created dwellings."
+304_UK_UK_Approved_Document_S,Historic and traditional buildings undergoing material change of use
+305_UK_UK_Approved_Document_S,The following two building types undergoing a material change of use may receive special consideration by building control bodies regarding installing electric vehicle charge points.
+306_UK_UK_Approved_Document_S,Buildings that are of architectural and historical interest and that are identified by plan-making bodies as non-designated heritage assets.
+307_UK_UK_Approved_Document_S,"Buildings of architectural and historical interest within national parks, areas of outstanding natural beauty, registered historic parks and gardens, registered battlefields and World Heritage Sites."
+308_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 13"
+309_UK_UK_Approved_Document_S,"ONLINE VERSIONONLINE VERSION 2.4 The following building types, when undergoing a material change of use, are exempt from complying with the requirements of the electric vehicle charge point installation regulations if compliance would unacceptably affect the significance of the building or its surroundings."
+310_UK_UK_Approved_Document_S,Those listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+311_UK_UK_Approved_Document_S,Those in a conservation area designated in accordance with section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+312_UK_UK_Approved_Document_S,Those included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979.
+313_UK_UK_Approved_Document_S,"When a material change of use is made to a building in a class in paragraph 2.4, work should comply with requirement S2 as far as reasonably practicable."
+314_UK_UK_Approved_Document_S,"The local authority’s conservation officer should be asked to help assess whether complying with the requirements of the electric vehicle charge point installation regulations is reasonably practicable, on a case-by-case basis."
+315_UK_UK_Approved_Document_S,"When a material change of use is made to a building in a class in paragraph 2.3, when installing electric vehicle charge point infrastructure, the aim should be to not harm the character of the building."
+316_UK_UK_Approved_Document_S,"This may, for example, mean that electric vehicle charge points are not installed in associated parking spaces next to an important elevation of the building."
+317_UK_UK_Approved_Document_S,Application of requirements when undertaking a material change of use
+318_UK_UK_Approved_Document_S,Requirement S2 applies for each associated parking space provided for the newly created dwellings where all of the following apply.
+319_UK_UK_Approved_Document_S,At least one of the following types of work is being carried out.
+320_UK_UK_Approved_Document_S,"Substantial work to the car park associated with the building, such as resurfacing or installing electrical infrastructure."
+321_UK_UK_Approved_Document_S,"Work to the electrical infrastructure of the car park, where the car park is located within the site boundary of the building."
+322_UK_UK_Approved_Document_S,"Work to the electrical infrastructure of the building, where a car park is located within the building."
+323_UK_UK_Approved_Document_S,Electric vehicle charge points can be installed without having to upgrade the capacity of the incoming electrical supply to the building.
+324_UK_UK_Approved_Document_S,The installation of an electric vehicle charge point will not unacceptably alter the character or appearance of a historic or traditional building as described in paragraphs 2.3 to 2.6.
+325_UK_UK_Approved_Document_S,The associated parking space is not within a covered car park.
+326_UK_UK_Approved_Document_S,"If the electrical power supply to the building or car park is not sufficient for electric vehicle charge points to be installed for all associated parking spaces, all of the following apply."
+327_UK_UK_Approved_Document_S,Evidence should be given to the building control body to demonstrate that the electrical power supply is not sufficient.
+328_UK_UK_Approved_Document_S,This evidence should be written confirmation obtained from either the distribution network operator or a suitable expert.
+329_UK_UK_Approved_Document_S,As many electric vehicle charge points as can be accommodated within the existing power supply should be installed.
+330_UK_UK_Approved_Document_S,Cable routes should be provided for the additional parking spaces which would have required an electric vehicle charge point if the electrical power supply were sufficient.
+331_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+332_UK_UK_Approved_Document_S,"S2,S3ONLINE VERSIONONLINE VERSION 2.9 For parking spaces in a covered car park, the requirement to install electric vehicle charge points does not apply for those parking spaces and paragraphs 2.16 and 2.17 should be followed."
+333_UK_UK_Approved_Document_S,Major renovations of residential buildings
+334_UK_UK_Approved_Document_S,"For a residential building where all of the following apply, electric vehicle charge points should be provided for the associated parking spaces."
+335_UK_UK_Approved_Document_S,Major renovation work is being done.
+336_UK_UK_Approved_Document_S,The main purpose of the major renovation work is not to improve the fire safety of the walls or roof of the building.
+337_UK_UK_Approved_Document_S,"When work is complete, there will be more than 10 associated parking spaces for the use of the dwellings."
+338_UK_UK_Approved_Document_S,Renovation work includes any of the following works carried out within the site boundary of the building.
+339_UK_UK_Approved_Document_S,"Substantial work to the car park, such as resurfacing or installing electrical infrastructure."
+340_UK_UK_Approved_Document_S,Work to the electrical infrastructure of the car park.
+341_UK_UK_Approved_Document_S,"Work to the electrical infrastructure of the building, where the car park is located within the building."
+342_UK_UK_Approved_Document_S,"Where requirement S3 applies, the number of associated parking spaces that have access to an electric vehicle charge point must be a minimum of either of the following."
+343_UK_UK_Approved_Document_S,The number of associated parking spaces.
+344_UK_UK_Approved_Document_S,
+345_UK_UK_Approved_Document_S,The number of dwellings that the car park serves.
+346_UK_UK_Approved_Document_S,"If there are associated parking spaces where there is not a requirement to install electric vehicle charge points, cable routes must be installed in all remaining associated parking spaces."
+347_UK_UK_Approved_Document_S,Application of major renovation requirements for residential buildings
+348_UK_UK_Approved_Document_S,"For a residential building undergoing a major renovation, the requirement to install electric vehicle charge points only applies for associated parking spaces where all of the following apply."
+349_UK_UK_Approved_Document_S,The electrical power supply to the building or car park prior to installation is sufficient for electric vehicle charge points to be installed.
+350_UK_UK_Approved_Document_S,"If the electrical power supply is insufficient, follow paragraph 2.8."
+351_UK_UK_Approved_Document_S,The cost of installing electric vehicle charge points and cable routes is not more than 7% of the total capital cost of the major renovation.
+352_UK_UK_Approved_Document_S,"Where the cost of installing electric vehicle charge points and cable routes is more than 7% of the total cost of the major renovation, requirement S3 can be met by installing only cable routes in all associated parking spaces."
+353_UK_UK_Approved_Document_S,"Where the cost of installing only cable routes is more than 7% of the total cost of the major renovation, there is no requirement to install either electric vehicle charge points or cable routes."
+354_UK_UK_Approved_Document_S,The associated parking space is not within a covered car park.
+355_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 15"
+356_UK_UK_Approved_Document_S,"S2,S3ONLINE VERSIONONLINE VERSION 2.14 The cost set out in paragraph 2.13 is the cost of materials and labour, excluding VAT."
+357_UK_UK_Approved_Document_S,The cost is the cost of the electric vehicle charge points and cable routes themselves compared to the total cost of the major renovation including the electric vehicle charge points and cable routes.
+358_UK_UK_Approved_Document_S,"The cost should exclude land or property acquisition, statutory fees, insurance, taxation, financing, maintenance or operational costs."
+359_UK_UK_Approved_Document_S,The methodology for determining costs should be consistent between all elements of the calculation to allow a fair comparison between the cost of the major renovation and the cost of electric vehicle charge point infrastructure.
+360_UK_UK_Approved_Document_S,"For associated parking spaces in a covered car park, the requirement to install electric vehicle charge points does not apply for those associated parking spaces and paragraphs 2.16 and 2.17 should be followed."
+361_UK_UK_Approved_Document_S,Covered car parks in buildings undergoing material change of use or major renovation
+362_UK_UK_Approved_Document_S,"Where one or more associated parking spaces are within a covered car park, the requirement to install electric vehicle charge points should be met by installing charge points in associated parking spaces that are not within a covered car park."
+363_UK_UK_Approved_Document_S,"If there are not enough associated parking spaces outside of the covered car park to meet the requirement to install electric vehicle charge points, then cable routes should be installed for associated parking spaces within the covered car park."
+364_UK_UK_Approved_Document_S,The total number of associated parking spaces which have access to either:
+365_UK_UK_Approved_Document_S,cable routes
+366_UK_UK_Approved_Document_S,an electric vehicle charge point
+367_UK_UK_Approved_Document_S,should be the greater of the following:
+368_UK_UK_Approved_Document_S,the number of dwellings in the residential building
+369_UK_UK_Approved_Document_S,the number of associated parking spaces.
+370_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+371_UK_UK_Approved_Document_S,"S2,S3ONLINE VERSIONONLINE VERSION Requirement S4 and regulation 44G: New buildings other than residential or mixed-use buildings"
+372_UK_UK_Approved_Document_S,This section deals with requirement S4 from Part S of Schedule 1 and regulation 44G of the Building Regulations 2010.
+373_UK_UK_Approved_Document_S,Requirement
+374_UK_UK_Approved_Document_S,Erection of new buildings which are not residential buildings or mixed-use buildings S4.
+375_UK_UK_Approved_Document_S,Where a new building which is not a residential building or a mixed-use building has more than 10 parking spaces—
+376_UK_UK_Approved_Document_S,one of those parking spaces must have access to one electric vehicle charge point; and
+377_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of remaining parking spaces.
+378_UK_UK_Approved_Document_S,Regulation
+379_UK_UK_Approved_Document_S,Application of paragraph S4 of Schedule 1 (erection of new buildings which are not residential buildings or mixed-use buildings)
+380_UK_UK_Approved_Document_S,The requirements of paragraph S4 of Schedule 1 apply to the erection of a new building which is not a residential building or a mixed-use building (“new building”) as follows.
+381_UK_UK_Approved_Document_S,"If such a new building has, or will have, within its site boundary, more than 10 parking spaces—"
+382_UK_UK_Approved_Document_S,if there are or will be any parking spaces situated in a position other than in a covered car park—
+383_UK_UK_Approved_Document_S,the requirements of paragraph S4 of Schedule 1 must first be applied in relation to those parking spaces; then
+384_UK_UK_Approved_Document_S,"if the number of parking spaces which are situated in a position other than in a covered car park is insufficient to completely fulfil the requirements of paragraph S4 of Schedule 1, cable routes for electric vehicle charge points must be installed in a sufficient number of parking spaces in the covered car park in order to ensure compliance with the requirements of paragraph S4(b) of Schedule 1;"
+385_UK_UK_Approved_Document_S,"if all the parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of those parking spaces."
+386_UK_UK_Approved_Document_S,NOTE:
+387_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+388_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+389_UK_UK_Approved_Document_S,Intention
+390_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S4 and regulation 44G will be met if building work complies with the following."
+391_UK_UK_Approved_Document_S,"For new buildings other than residential or mixed-use buildings with more than 10 parking spaces, both of the following are provided."
+392_UK_UK_Approved_Document_S,"At least one electric vehicle charge point, as set out in paragraphs 3.1 to 3.4."
+393_UK_UK_Approved_Document_S,"Cable routes for at least one in every five parking spaces, as set out in paragraphs 3.1 to 3.4."
+394_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 17"
+395_UK_UK_Approved_Document_S,S4ONLINE VERSIONONLINE VERSION Section 3: New buildings other than residential or mixed-use buildings
+396_UK_UK_Approved_Document_S,"For new buildings other than residential or mixed-use buildings with more than 10 parking spaces, both of the following apply."
+397_UK_UK_Approved_Document_S,One electric vehicle charge point must be provided for the building.
+398_UK_UK_Approved_Document_S,At least one in every five remaining parking spaces must be provided with cable routes.
+399_UK_UK_Approved_Document_S,NOTE:
+400_UK_UK_Approved_Document_S,"A minimum of one in every five means that, for example, if there are 11 parking spaces, two parking spaces must have access to cable routes in addition to the one parking space with access to an electric vehicle charge point."
+401_UK_UK_Approved_Document_S,Application of requirements for new buildings other than residential or mixed-use buildings
+402_UK_UK_Approved_Document_S,The requirement to install an electric vehicle charge point and cable routes applies to parking spaces that serve new buildings other than dwellings where the parking spaces are in either of the following locations.
+403_UK_UK_Approved_Document_S,Within the building.
+404_UK_UK_Approved_Document_S,Within the site boundary.
+405_UK_UK_Approved_Document_S,"Where any of the parking spaces for new buildings other than residential or mixed-use buildings are in a covered car park, the requirement to install an electric vehicle charge point should be met by installing a charge point in a parking space that is not within a covered car park."
+406_UK_UK_Approved_Document_S,The requirement to install cable routes only applies to parking spaces within a covered car park if there are insufficient parking spaces outside the covered car park to meet paragraph 3.1b.
+407_UK_UK_Approved_Document_S,"Where all parking spaces are within a covered car park, the requirement to install an electric vehicle charge point does not apply."
+408_UK_UK_Approved_Document_S,Cable routes must still be provided for a minimum of one in five parking spaces.
+409_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+410_UK_UK_Approved_Document_S,S4ONLINE VERSIONONLINE VERSION Requirement S5 and regulation 44H: Buildings other than residential buildings undergoing major renovation work
+411_UK_UK_Approved_Document_S,This section deals with requirement S5 from Part S of Schedule 1 and regulation 44H of the Building Regulations 2010.
+412_UK_UK_Approved_Document_S,Requirement
+413_UK_UK_Approved_Document_S,Buildings undergoing major renovation which are not residential buildings or mixed-use buildings
+414_UK_UK_Approved_Document_S,"Where a building undergoing major renovation, which is not a residential building or a mixed-use building, will have more than 10 parking spaces after the major renovation is completed—"
+415_UK_UK_Approved_Document_S,one of those parking spaces must have access to one electric vehicle charge point; and
+416_UK_UK_Approved_Document_S,cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of remaining parking spaces.
+417_UK_UK_Approved_Document_S,Regulation
+418_UK_UK_Approved_Document_S,Application of paragraph S5 of Schedule 1 (buildings undergoing major renovation which are not residential buildings or mixed-use buildings)
+419_UK_UK_Approved_Document_S,"The requirements of paragraph S5 of Schedule 1 apply to a building undergoing major renovation, which is not a residential building or a mixed-use building, as follows."
+420_UK_UK_Approved_Document_S,The requirements of paragraph S5 of Schedule 1 apply to such a building if—
+421_UK_UK_Approved_Document_S,the major renovation involves building work being done which includes work being done to any of the following—
+422_UK_UK_Approved_Document_S,"a car park that is located within the site boundary of the building, where the nature of the work is such that it would be reasonable to expect the requirements of paragraph S5 of Schedule 1 to be fulfilled;"
+423_UK_UK_Approved_Document_S,"the electrical infrastructure of a car park, where the car park is located within the site boundary of the building;"
+424_UK_UK_Approved_Document_S,"the electrical infrastructure of the building, where a car park is located inside the building;"
+425_UK_UK_Approved_Document_S,"upon completion of that major renovation, the building will have more than 10 parking spaces situated within the site boundary of the building;"
+426_UK_UK_Approved_Document_S,the cost of installing the required electric vehicle charge point and cable routes for electric vehicle charge points does not exceed 7% of the total cost of the major renovation.
+427_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 19"
+428_UK_UK_Approved_Document_S,S5ONLINE
+429_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Regulation continued
+430_UK_UK_Approved_Document_S,If the cost of installing the required electric vehicle charge point and cable routes for electric vehicle charge points exceeds 7% of the total cost of the major renovation—
+431_UK_UK_Approved_Document_S,such a building is exempt from the requirement to install the electric vehicle charge point; and
+432_UK_UK_Approved_Document_S,"cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of parking spaces, except where the cost of that installation exceeds 7% of the total cost of the major renovation."
+433_UK_UK_Approved_Document_S,"If such a building has, or will have, within its site boundary, more than 10 parking spaces—"
+434_UK_UK_Approved_Document_S,if there are or will be any parking spaces situated in a position other than in a covered car park—
+435_UK_UK_Approved_Document_S,the requirements of paragraph S5 of Schedule 1 must first be applied in relation to those parking spaces; then
+436_UK_UK_Approved_Document_S,"if the number of parking spaces which are situated in a position other than in a covered car park is insufficient to completely fulfil the requirements of paragraph S5 of Schedule 1, cable routes for electric vehicle charge points must be installed in the number of parking spaces in the covered car park in order to ensure compliance with the requirements of paragraph S5(b) of Schedule 1;"
+437_UK_UK_Approved_Document_S,"if all the parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in a minimum of one fifth of the total number of those parking spaces."
+438_UK_UK_Approved_Document_S,NOTE:
+439_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+440_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+441_UK_UK_Approved_Document_S,Intention
+442_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S5 and regulation 44H will be met if building work complies with the following."
+443_UK_UK_Approved_Document_S,"For major renovations to buildings other than dwellings with more than 10 parking spaces, both of the following are provided."
+444_UK_UK_Approved_Document_S,"One electric vehicle charge point, as described in paragraphs 4.1 to 4.6."
+445_UK_UK_Approved_Document_S,"Cable routes for at least one in every five remaining parking spaces, as described in paragraphs 4.1 to 4.6."
+446_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+447_UK_UK_Approved_Document_S,S5ONLINE
+448_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Section 4: Major renovations of buildings which are not residential or mixed-use buildings
+449_UK_UK_Approved_Document_S,"For a building other than a residential or mixed-use building where all of the following apply, cable routes and electric vehicle charge points must be provided."
+450_UK_UK_Approved_Document_S,Major renovation work is being done.
+451_UK_UK_Approved_Document_S,"After work is complete, more than 10 parking spaces within the site boundary will be available for the use of building users."
+452_UK_UK_Approved_Document_S,The major renovation work includes any of the following within the site boundary.
+453_UK_UK_Approved_Document_S,"Substantial work to the car park, such as resurfacing or installing electrical infrastructure."
+454_UK_UK_Approved_Document_S,"Where the car park is outside the building but within the site boundary of the building, the electrical infrastructure of the car park."
+455_UK_UK_Approved_Document_S,"Where the car park is inside the building, the electrical infrastructure of the building."
+456_UK_UK_Approved_Document_S,"Where the criteria in paragraph 4.1 are met, the following apply."
+457_UK_UK_Approved_Document_S,One electric vehicle charge point must be installed.
+458_UK_UK_Approved_Document_S,A minimum of one in five of the remaining parking spaces must have access to cable routes.
+459_UK_UK_Approved_Document_S,NOTE:
+460_UK_UK_Approved_Document_S,"A minimum of one in every five means that, for example, if there are 11 parking spaces, two parking spaces must have access to cable routes in addition to the one parking space with an electric vehicle charge point."
+461_UK_UK_Approved_Document_S,Application of major renovation requirements for buildings other than residential or mixed-use buildings
+462_UK_UK_Approved_Document_S,"For a building other than a residential building or mixed-use building undergoing a major renovation, the requirement to install electric vehicle charge points and cable routes applies as follows."
+463_UK_UK_Approved_Document_S,"Where the cost of installing at least one electric vehicle charge point and cable routes for at least one in every five remaining parking spaces is not more than 7% of the total cost of the major renovation, the requirements apply, as described in paragraphs 4.1 and 4.2."
+464_UK_UK_Approved_Document_S,"Where the cost of installing electric vehicle charge points and cable routes is more than 7% of the total cost of the major renovation, requirement S4 and regulation 44H can be met by installing only cable routes in a minimum of one in five parking spaces."
+465_UK_UK_Approved_Document_S,"Where the cost of installing only cable routes is more than 7% of the total cost of the major renovation, there is no requirement to install either electric vehicle charge points or cable routes."
+466_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 21"
+467_UK_UK_Approved_Document_S,S5ONLINE
+468_UK_UK_Approved_Document_S,"VERSIONONLINE VERSION 4.4 The cost set out in paragraph 4.3 is the cost of materials and labour, excluding VAT."
+469_UK_UK_Approved_Document_S,The cost is the cost of the electric vehicle charge points and cable routes themselves compared to the total cost of the major renovation including the electric vehicle charge points and cable routes.
+470_UK_UK_Approved_Document_S,"The cost should exclude land or property acquisition, statutory fees, insurance, taxation, financing, maintenance or operational costs."
+471_UK_UK_Approved_Document_S,The methodology for determining costs should be consistent between all elements of the calculation to allow a fair comparison between the cost of the major renovation and the cost of electric vehicle charge point infrastructure.
+472_UK_UK_Approved_Document_S,"Where one or more parking spaces are within a covered car park, the requirement to install electric vehicle charge points should be met by installing charge points in parking spaces that are not within a covered car park."
+473_UK_UK_Approved_Document_S,Cable routes must still be provided for a minimum of one in five parking spaces.
+474_UK_UK_Approved_Document_S,The requirement to install cable routes only applies to parking spaces within a covered car park if there are insufficient parking spaces outside the covered car park to meet paragraph 4.2b.
+475_UK_UK_Approved_Document_S,"Where all parking spaces are within a covered car park, the requirement to install an electric vehicle charge point does not apply."
+476_UK_UK_Approved_Document_S,Cable routes must still be provided for a minimum of one in five parking spaces.
+477_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+478_UK_UK_Approved_Document_S,S5ONLINE
+479_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Requirement S6 and regulation 44I: Mixed-use buildings
+480_UK_UK_Approved_Document_S,This section deals with requirement S6 from Part S of Schedule 1 and regulation 44I of the Building Regulations 2010.
+481_UK_UK_Approved_Document_S,Requirement
+482_UK_UK_Approved_Document_S,The erection of new mixed-use buildings and mixed-use buildings undergoing major renovation
+483_UK_UK_Approved_Document_S,The requirements of paragraph S1 apply in respect of the part of the new mixed-use building that contains one or more dwellings and the associated parking spaces that are assigned to those dwellings.
+484_UK_UK_Approved_Document_S,The requirements of paragraph S3 apply in respect of the part of the mixed-use building that is undergoing major renovation that contains one or more dwellings and the associated parking spaces that are assigned to those dwellings.
+485_UK_UK_Approved_Document_S,The requirements of paragraph S4 apply in respect of the part of the new mixed-use building that contains one or more new premises that are not dwellings and the parking spaces that are assigned to those premises.
+486_UK_UK_Approved_Document_S,The requirements of paragraph S5 apply in respect of the part of the mixed-use building that is undergoing major renovation that contains one or more premises that are not dwellings and the parking spaces that are assigned to those premises.
+487_UK_UK_Approved_Document_S,Regulation
+488_UK_UK_Approved_Document_S,Application of paragraph S6 of Schedule 1 (the erection of new mixed-use buildings and mixed-use buildings undergoing major renovation)
+489_UK_UK_Approved_Document_S,The requirements of paragraph S6 of Schedule 1 apply to the erection of a new mixed-use building and a mixed-use building undergoing major renovation as follows.
+490_UK_UK_Approved_Document_S,"The requirements of paragraph S6 of Schedule 1 apply if, upon completion, such a mixed-use building will have at least one parking space situated within the site boundary of the building."
+491_UK_UK_Approved_Document_S,"If such a mixed-use building has, or will have, within its site boundary, a covered car park—"
+492_UK_UK_Approved_Document_S,if there are or will be any parking spaces situated in a position other than in a covered car park—
+493_UK_UK_Approved_Document_S,the requirements of paragraph S6 of Schedule 1 must first be applied in relation to those parking spaces; then
+494_UK_UK_Approved_Document_S,"if the number of parking spaces, which are situated in a position other than in a covered car park, is insufficient to completely fulfil the requirements of paragraph S6 of Schedule 1, cable routes for electric vehicle charge points must be installed in accordance with—"
+495_UK_UK_Approved_Document_S,"(aa) regulation 44D(4)(a), in relation to the associated parking spaces for one or more dwellings in a new mixed-use building;"
+496_UK_UK_Approved_Document_S,"(bb) regulation 44F(6)(a), in relation to the associated parking spaces for one or more dwellings in a mixed-use building undergoing major renovation;"
+497_UK_UK_Approved_Document_S,"(cc) regulation 44G(2)(a), in relation to the parking spaces for one or more premises that are not dwellings in a new mixed-use building;"
+498_UK_UK_Approved_Document_S,"(dd) regulation 44H(4)(a), in relation to the parking spaces for one or more premises that are not dwellings in a mixed-use building undergoing major renovation;"
+499_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 23"
+500_UK_UK_Approved_Document_S,S6ONLINE
+501_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Regulation continued
+502_UK_UK_Approved_Document_S,"if all the parking spaces are situated in a covered car park, cable routes for electric vehicle charge points must be installed in accordance with—"
+503_UK_UK_Approved_Document_S,"regulation 44D(4)(b), in relation to the associated parking spaces for one or more dwellings in a new mixed-use building;"
+504_UK_UK_Approved_Document_S,"regulation 44F(6)(b), in relation to the associated parking spaces for one or more dwellings in a mixed-use building undergoing major renovation;"
+505_UK_UK_Approved_Document_S,"regulation 44G(2)(b), in relation to the parking spaces for one or more new premises that are not dwellings in a new mixed-use building;"
+506_UK_UK_Approved_Document_S,"regulation 44H(4)(b), in relation to the parking spaces for one or more premises that are not dwellings in a mixed-use building undergoing major renovation."
+507_UK_UK_Approved_Document_S,NOTE:
+508_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+509_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+510_UK_UK_Approved_Document_S,Intention
+511_UK_UK_Approved_Document_S,"In the Secretary of State’s view, requirement S6 and regulation 44I will be met if building work complies with the following."
+512_UK_UK_Approved_Document_S,For new mixed-use buildings.
+513_UK_UK_Approved_Document_S,Requirement S1 and regulation 44D are followed (paragraphs 1.1 to 1.7) relating to parts of the premises that include new dwellings.
+514_UK_UK_Approved_Document_S,Requirement S4 and regulation 44G are followed (paragraphs 3.1 to 3.4) relating to parts of the premises that are not dwellings.
+515_UK_UK_Approved_Document_S,
+516_UK_UK_Approved_Document_S,For mixed-use buildings undergoing major renovation work.
+517_UK_UK_Approved_Document_S,Requirement S3 and regulation 44F are followed (paragraphs 2.10 to 2.15) relating to parts of the premises that include dwellings.
+518_UK_UK_Approved_Document_S,Requirement S5 and regulation 44H are followed (paragraphs 4.1 to 4.6) relating to parts of the premises that are not dwellings.
+519_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+520_UK_UK_Approved_Document_S,S6ONLINE
+521_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Section 5: Mixed-use buildings
+522_UK_UK_Approved_Document_S,Application of Part S for mixed-use buildings
+523_UK_UK_Approved_Document_S,"For any of the following types of work on a mixed-use building, requirements to install electric vehicle charging infrastructure will apply."
+524_UK_UK_Approved_Document_S,Constructing a new mixed-use building.
+525_UK_UK_Approved_Document_S,A major renovation of a mixed-use building.
+526_UK_UK_Approved_Document_S,NOTE:
+527_UK_UK_Approved_Document_S,Undertaking a material change to a mixed-use building is already accounted for in requirement S2.
+528_UK_UK_Approved_Document_S,Requirement S6 makes no difference to these cases.
+529_UK_UK_Approved_Document_S,"For example, if a new building is constructed which has retail space on the ground floor and dwellings on the floors above, then the requirements would apply as follows"
+530_UK_UK_Approved_Document_S,"Requirement S1 would apply to the dwellings and the parts of the building provided solely for the dwellings, such as corridors and lobbies."
+531_UK_UK_Approved_Document_S,Requirement S4 would apply to parts of the building provided solely for the retail space.
+532_UK_UK_Approved_Document_S,"Where relevant work is undertaken on a mixed-use building, it should be determined which parking spaces are associated parking spaces for the use of occupants of the dwellings, and which parking spaces are for use by users of the non-residential function of the building."
+533_UK_UK_Approved_Document_S,"If in doubt, the requirements for residential buildings should apply."
+534_UK_UK_Approved_Document_S,"For mixed-use buildings which have parking spaces within a covered car park, any requirements to install electric vehicle charge points or cable routes must first be applied to those parking spaces outside the covered car park."
+535_UK_UK_Approved_Document_S,"If the number of parking spaces outside the covered car park is insufficient to meet the requirements to install electric vehicle charge points and cable routes, the following guidance should be followed."
+536_UK_UK_Approved_Document_S,"For associated parking spaces for dwellings in a new mixed-use building, paragraph 1.2."
+537_UK_UK_Approved_Document_S,"For associated parking spaces for dwellings in a building undergoing major renovation, paragraphs 2.16 and 2.17."
+538_UK_UK_Approved_Document_S,"For parking spaces for the parts of a new mixed-use building which are not dwellings, paragraphs 3.3 and 3.4."
+539_UK_UK_Approved_Document_S,"For parking spaces for the parts of a new mixed-use building undergoing a major renovation, paragraphs 4.5 and 4.6."
+540_UK_UK_Approved_Document_S,NOTE:
+541_UK_UK_Approved_Document_S,Paragraph 5.5 also applies if all parking spaces are within a covered car park.
+542_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 25"
+543_UK_UK_Approved_Document_S,S6ONLINE
+544_UK_UK_Approved_Document_S,VERSIONONLINE VERSION Regulation 44J: Minimum standards of an electric vehicle charge point
+545_UK_UK_Approved_Document_S,Regulation
+546_UK_UK_Approved_Document_S,Minimum standards of an electric vehicle charge point
+547_UK_UK_Approved_Document_S,"For the purposes of this Part and Part S of Schedule 1, an electric vehicle charge point must meet the following minimum standards."
+548_UK_UK_Approved_Document_S,It must be capable of providing a reasonable power output for each parking space for which it is intended to be used.
+549_UK_UK_Approved_Document_S,It must be run on a dedicated circuit.
+550_UK_UK_Approved_Document_S,It must be compatible with all vehicles which may require access to it.
+551_UK_UK_Approved_Document_S,Interpretation of this Part and Part S of Schedule 1
+552_UK_UK_Approved_Document_S,"“cable route” means a safe, unobstructed route from the power supply to the envisaged electric vehicle charge point location, for electrical cabling to be installed in the future."
+553_UK_UK_Approved_Document_S,NOTE:
+554_UK_UK_Approved_Document_S,"Where the building control body is an approved inspector, see regulation 8 of the Building (Approved Inspectors etc.)"
+555_UK_UK_Approved_Document_S,Regulations 2010 (as amended).
+556_UK_UK_Approved_Document_S,Intention
+557_UK_UK_Approved_Document_S,"In the Secretary of State’s view, regulation 44J will be met if the electric vehicle charge points installed to meet any of the requirements S1 to S6 meet paragraph 6.2."
+558_UK_UK_Approved_Document_S,Cable routes installed to meet any of the requirements S1 to S6 should meet paragraphs 6.3 to 6.12.
+559_UK_UK_Approved_Document_S,NOTE:
+560_UK_UK_Approved_Document_S,Paragraphs 6.3 to 6.6 provide guidance on the location of electric vehicle charge points and future connection locations.
+561_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+562_UK_UK_Approved_Document_S,R44JONLINE VERSIONONLINE VERSION Section 6: Standards for electric vehicle charge points and cable routes
+563_UK_UK_Approved_Document_S,Introduction
+564_UK_UK_Approved_Document_S,This section sets out standards that electric vehicle charge points and cable routes should meet when installed to meet the requirements set out in this Approved Document.
+565_UK_UK_Approved_Document_S,NOTE:
+566_UK_UK_Approved_Document_S,This Approved Document does not provide guidance on electrical or fire safety.
+567_UK_UK_Approved_Document_S,Electrical and fire safety requirements are likely to apply when carrying out electrical work.
+568_UK_UK_Approved_Document_S,Relevant regulations and guidance include the following.
+569_UK_UK_Approved_Document_S,"Building Regulations Part B (Fire Safety), Approved Document B."
+570_UK_UK_Approved_Document_S,"Building Regulations Part P (electrical safety – dwellings), Approved Document P."
+571_UK_UK_Approved_Document_S,"The Electricity at Work Regulations 1989, HSE’s HSR25: The Electricity at Work Regulations 1989: Guidance on Regulations."
+572_UK_UK_Approved_Document_S,Technical requirements for electric vehicle charge points
+573_UK_UK_Approved_Document_S,Each electric vehicle charge point should meet all the following.
+574_UK_UK_Approved_Document_S,Be designed and installed as described in BS EN 61851.
+575_UK_UK_Approved_Document_S,Have a minimum nominal rated output of 7kW.
+576_UK_UK_Approved_Document_S,Be fitted with a universal socket (also known as an untethered electric vehicle charge point).
+577_UK_UK_Approved_Document_S,"Alternatively, in exceptional circumstances, such as for a self-build property, if the vehicle requirements are already known, a tethered electric vehicle charge point may be acceptable."
+578_UK_UK_Approved_Document_S,"Be fitted with an indicator to show the equipment’s charging status that uses lights, or a visual display."
+579_UK_UK_Approved_Document_S,"Be a minimum of a Mode 3 specialised system for electric vehicle charging running from a dedicated circuit, or equivalent, as defined in BS EN IEC 61851-1."
+580_UK_UK_Approved_Document_S,The requirements of BS 7671.
+581_UK_UK_Approved_Document_S,The requirements in the IET’s Code of Practice: Electric Vehicle Charging Equipment Installation.
+582_UK_UK_Approved_Document_S,NOTE:
+583_UK_UK_Approved_Document_S,Other legislation may also apply to the installation of electric vehicle charge points.
+584_UK_UK_Approved_Document_S,"For example, the Alternative Fuels Infrastructure Regulations 2017."
+585_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 27"
+586_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION Cable routes and locations for electric vehicle charge points
+587_UK_UK_Approved_Document_S,For each parking space that requires either
+588_UK_UK_Approved_Document_S,an electric vehicle charge point.
+589_UK_UK_Approved_Document_S,cable routes for an electric vehicle charge point to be installed in future
+590_UK_UK_Approved_Document_S,the location of the electric vehicle charge point or future connection location should be suitable for use by electric vehicles with charging inlets in different places.
+591_UK_UK_Approved_Document_S,NOTE:
+592_UK_UK_Approved_Document_S,"Often, the best position for an electric vehicle is at one corner of the parking space, as shown in Diagram 6.2."
+593_UK_UK_Approved_Document_S,Where accessible parking spaces are associated with the building and either
+594_UK_UK_Approved_Document_S,future connection locations b. electric vehicle charge points
+595_UK_UK_Approved_Document_S,"are being provided to meet the requirements of this Approved Document, at least one accessible parking space should have access to either"
+596_UK_UK_Approved_Document_S,a future connection location.
+597_UK_UK_Approved_Document_S,an electric vehicle charge point.
+598_UK_UK_Approved_Document_S,Diagram 6.1 shows one possible arrangement of electric vehicle charge points for accessible parking spaces.
+599_UK_UK_Approved_Document_S,NOTE:
+600_UK_UK_Approved_Document_S,Standards for accessible parking spaces are described in Approved Document M.
+601_UK_UK_Approved_Document_S,m
+602_UK_UK_Approved_Document_S,2
+603_UK_UK_Approved_Document_S,1
+604_UK_UK_Approved_Document_S,m
+605_UK_UK_Approved_Document_S,8
+606_UK_UK_Approved_Document_S,4
+607_UK_UK_Approved_Document_S,m
+608_UK_UK_Approved_Document_S,2
+609_UK_UK_Approved_Document_S,1
+610_UK_UK_Approved_Document_S,Footway (or access zone)
+611_UK_UK_Approved_Document_S,Electric vehicle charge point
+612_UK_UK_Approved_Document_S,Dropped kerb (or footway ﬂush with road)
+613_UK_UK_Approved_Document_S,Access zone
+614_UK_UK_Approved_Document_S,Parking bay
+615_UK_UK_Approved_Document_S,2m
+616_UK_UK_Approved_Document_S,4m
+617_UK_UK_Approved_Document_S,2m
+618_UK_UK_Approved_Document_S,4m
+619_UK_UK_Approved_Document_S,2m
+620_UK_UK_Approved_Document_S,"Derived from concepts in BS 8300-1 and Approved Document M, volume 2"
+621_UK_UK_Approved_Document_S,Diagram 6.1 Electric vehicle charge points serving accessible parking spaces
+622_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+623_UK_UK_Approved_Document_S,"S1-S6ONLINE VERSIONONLINE VERSION 6.5 A future connection location may be sited to serve more than one parking space if the cable routes are suitable for electric vehicle charge points to be installed in future that allow all spaces to be used at the same time for recharging – for example, if the cable routes are adequate for an electric vehicle charge point with multiple outlets, where each outlet has the functionality described in paragraph 6.2."
+624_UK_UK_Approved_Document_S,"Where an electric vehicle charge point is sited to serve more than one parking space if the electric vehicle charge point should allow all spaces to be used at the same time for recharging – for example, an electric vehicle charge point with multiple outlets, where each outlet has the functionality described in paragraph 6.2."
+625_UK_UK_Approved_Document_S,Diagram 6.2 shows two possible arrangements of electric vehicle charge points to serve more than one parking space.
+626_UK_UK_Approved_Document_S,3
+627_UK_UK_Approved_Document_S,4
+628_UK_UK_Approved_Document_S,A
+629_UK_UK_Approved_Document_S,B
+630_UK_UK_Approved_Document_S,2
+631_UK_UK_Approved_Document_S,1
+632_UK_UK_Approved_Document_S,Position A may serve parking spaces 1 and 2 Position B may serve parking spaces 3 and 4 Diagram 6.2 Electric vehicle charge point locations which may serve more than one parking space
+633_UK_UK_Approved_Document_S,"For each parking space that requires cable routes, the following apply."
+634_UK_UK_Approved_Document_S,Cable routes should be provided from a metered electricity supply point to the future connection location.
+635_UK_UK_Approved_Document_S,All of the following should be provided.
+636_UK_UK_Approved_Document_S,Sufficient space for a new electrical connection at a metered supply point such as a consumer unit or feeder pillar.
+637_UK_UK_Approved_Document_S,A dedicated safe and unobstructed route to distribute electricity from the electrical supply point to the future connection location.
+638_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 29"
+639_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION iii.
+640_UK_UK_Approved_Document_S,A future connection location as specified in paragraphs 6.3 to 6.5.
+641_UK_UK_Approved_Document_S,Labelling as specified in paragraph 6.11
+642_UK_UK_Approved_Document_S,Sufficient space to allow an electric vehicle charge point to be installed safely as specified in paragraph 6.12.
+643_UK_UK_Approved_Document_S,NOTE:
+644_UK_UK_Approved_Document_S,The following items may also be needed in order to allow an electric vehicle charge point to be installed in future but are not required to meet the standards of this Approved Document.
+645_UK_UK_Approved_Document_S,Concrete plinths or footings for future electric vehicle charge points.
+646_UK_UK_Approved_Document_S,Vehicle barriers.
+647_UK_UK_Approved_Document_S,Electrical cabling.
+648_UK_UK_Approved_Document_S,Busbar systems.
+649_UK_UK_Approved_Document_S,Upgrades to electrical infrastructure.
+650_UK_UK_Approved_Document_S,"When cable routes are being installed, a suitable strategy should be identified that meets both of the following."
+651_UK_UK_Approved_Document_S,The strategy ensures that a future electric vehicle charge point can meet the standards given in both of the following.
+652_UK_UK_Approved_Document_S,BS 7671.
+653_UK_UK_Approved_Document_S,
+654_UK_UK_Approved_Document_S,The IET’s Code of Practice: Electric Vehicle Charging Equipment Installation.
+655_UK_UK_Approved_Document_S,
+656_UK_UK_Approved_Document_S,The strategy is specific to both of the following.
+657_UK_UK_Approved_Document_S,The location in which a vehicle is likely to be recharged.
+658_UK_UK_Approved_Document_S,
+659_UK_UK_Approved_Document_S,How the electrical power supply to the charge point will be earthed.
+660_UK_UK_Approved_Document_S,"As part of the cable routes, a dedicated safe and unobstructed route should be made from the electrical supply point to each identified future connection location that complies with both of the following."
+661_UK_UK_Approved_Document_S,The cable routes will allow all necessary electrical cabling and/or busbar systems to be installed in future without the need for builders’ work.
+662_UK_UK_Approved_Document_S,This may be achieved using any combination of electrical containment systems such as the following.
+663_UK_UK_Approved_Document_S,Electric cable ducting including drawstrings.
+664_UK_UK_Approved_Document_S,Electric cable trunking or conduits.
+665_UK_UK_Approved_Document_S,Electric cable trays and cable ladders.
+666_UK_UK_Approved_Document_S,NOTE 1: Builders’ work may be required for aspects of the electric vehicle charge point other than installing the electric cabling.
+667_UK_UK_Approved_Document_S,NOTE 2: Guidance on working safely on or near underground services is given in the HSE’s HSG47: Avoiding Danger from Underground Services.
+668_UK_UK_Approved_Document_S,
+669_UK_UK_Approved_Document_S,The cable routes complies with all of the following.
+670_UK_UK_Approved_Document_S,BS 7671.
+671_UK_UK_Approved_Document_S,BS 8300-1.
+672_UK_UK_Approved_Document_S,The IET’s Code of Practice: Electric Vehicle Charging Equipment Installation.
+673_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+674_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION 6.10 Any underground cable ducts should meet BS EN 61386-24 and the following.
+675_UK_UK_Approved_Document_S,"All cable routes should be laid as straight as possible and with suitable access points, so that cables can be pulled through in future."
+676_UK_UK_Approved_Document_S,All space alongside the cable duct should be backfilled in a way that avoids damage to the duct.
+677_UK_UK_Approved_Document_S,The termination points of cable duct should be sited where access to maintain in future is unrestricted.
+678_UK_UK_Approved_Document_S,All cable ducts should have a draw rope.
+679_UK_UK_Approved_Document_S,"The point where a cable duct enters a building should be sealed to prevent water ingress and attack by vermin, and to comply with all relevant Building Regulations requirements (including Approved Document B)."
+680_UK_UK_Approved_Document_S,All cable ducts should meet the positioning and colour-coding standards in the NJUG’s Guidelines on the Positioning and Colour Coding of Underground Utilities’ Apparatus.
+681_UK_UK_Approved_Document_S,"The size, specification and bend radius of all cable ducts should enable cabling to be installed so that, at each future connection location, an electric vehicle charge point as specified in paragraph 6.2 can be provided."
+682_UK_UK_Approved_Document_S,NOTE:
+683_UK_UK_Approved_Document_S,"Parties deploying low carbon technologies are responsible for informing distribution network operators when modifying a service, under the following."
+684_UK_UK_Approved_Document_S,"The Electricity Safety, Quality and Continuity Regulations 2002."
+685_UK_UK_Approved_Document_S,BS 7671.
+686_UK_UK_Approved_Document_S,"Distribution Code of Licensed Distribution Network operators of Great Britain, paragraph DPC5.2.1."
+687_UK_UK_Approved_Document_S,The IET’s Electric Vehicle Charging Equipment Installation.
+688_UK_UK_Approved_Document_S,Future connection locations
+689_UK_UK_Approved_Document_S,Any future connection locations should be clearly identified and labelled.
+690_UK_UK_Approved_Document_S,The label or sign should be as follows.
+691_UK_UK_Approved_Document_S,The text should read ‘Dedicated position for electric vehicle charge point’.
+692_UK_UK_Approved_Document_S,Each letter should be 25mm high.
+693_UK_UK_Approved_Document_S,The text should be displayed over three lines.
+694_UK_UK_Approved_Document_S,The sign should measure 506mm by 194mm.
+695_UK_UK_Approved_Document_S,The sign should be suitably weatherproof for its location.
+696_UK_UK_Approved_Document_S,The sign should be sited where a person installing an electric vehicle charge point in future will see it.
+697_UK_UK_Approved_Document_S,Diagram 6.3 shows an example of a label for a future connection location.
+698_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 31"
+699_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION See para 6.11
+700_UK_UK_Approved_Document_S,Dedicated position for electric vehicle charge point
+701_UK_UK_Approved_Document_S,"Diagram 6.3 Label for future connection location example (not to size) 6.12 The future connection location should have space to install an electric vehicle charge point as described in paragraph 6.2, including space for all the following."
+702_UK_UK_Approved_Document_S,Access for recharging an electric vehicle.
+703_UK_UK_Approved_Document_S,Access for installing and maintaining the electric vehicle charge point.
+704_UK_UK_Approved_Document_S,Vehicle barriers if these will be required for the future electric vehicle charge point.
+705_UK_UK_Approved_Document_S,"Where vehicle barriers are necessary, sufficient space (for example 500mm) should be allowed around the future connection location."
+706_UK_UK_Approved_Document_S,Diagram 6.4 shows the minimum space requirements for a floor-mounted electric vehicle charge point.
+707_UK_UK_Approved_Document_S,Diagram 6.5 shows the minimum space requirements for a wall-mounted electric vehicle charge point.
+708_UK_UK_Approved_Document_S,NOTE:
+709_UK_UK_Approved_Document_S,"Guidance on the accessibility requirements of the Building Regulations, including on the location of sockets and switches, is given in Approved Document M."
+710_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+711_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION ≥1500mm
+712_UK_UK_Approved_Document_S,≥450mm
+713_UK_UK_Approved_Document_S,≥1500mm
+714_UK_UK_Approved_Document_S,≥500mm
+715_UK_UK_Approved_Document_S,≥220mm
+716_UK_UK_Approved_Document_S,Wall/object
+717_UK_UK_Approved_Document_S,Free space
+718_UK_UK_Approved_Document_S,Floor- mounted
+719_UK_UK_Approved_Document_S,charge point
+720_UK_UK_Approved_Document_S,Free space
+721_UK_UK_Approved_Document_S,Free
+722_UK_UK_Approved_Document_S,space
+723_UK_UK_Approved_Document_S,Floor- mounted
+724_UK_UK_Approved_Document_S,charge point
+725_UK_UK_Approved_Document_S,m
+726_UK_UK_Approved_Document_S,m
+727_UK_UK_Approved_Document_S,0
+728_UK_UK_Approved_Document_S,0
+729_UK_UK_Approved_Document_S,2
+730_UK_UK_Approved_Document_S,1
+731_UK_UK_Approved_Document_S,≥
+732_UK_UK_Approved_Document_S,Front elevation
+733_UK_UK_Approved_Document_S,Side elevation
+734_UK_UK_Approved_Document_S,Diagram 6.4 Minimum space requirements for floor-mounted charge point location
+735_UK_UK_Approved_Document_S,≥800mm
+736_UK_UK_Approved_Document_S,≥400mm
+737_UK_UK_Approved_Document_S,≥800mm
+738_UK_UK_Approved_Document_S,≥200mm
+739_UK_UK_Approved_Document_S,Wall/object
+740_UK_UK_Approved_Document_S,Free space
+741_UK_UK_Approved_Document_S,Wall- mounted
+742_UK_UK_Approved_Document_S,charge point
+743_UK_UK_Approved_Document_S,Free space
+744_UK_UK_Approved_Document_S,Wall-
+745_UK_UK_Approved_Document_S,mounted
+746_UK_UK_Approved_Document_S,charge point
+747_UK_UK_Approved_Document_S,m
+748_UK_UK_Approved_Document_S,m
+749_UK_UK_Approved_Document_S,0
+750_UK_UK_Approved_Document_S,0
+751_UK_UK_Approved_Document_S,5
+752_UK_UK_Approved_Document_S,≥
+753_UK_UK_Approved_Document_S,m
+754_UK_UK_Approved_Document_S,m
+755_UK_UK_Approved_Document_S,0
+756_UK_UK_Approved_Document_S,0
+757_UK_UK_Approved_Document_S,0
+758_UK_UK_Approved_Document_S,1
+759_UK_UK_Approved_Document_S,o
+760_UK_UK_Approved_Document_S,t
+761_UK_UK_Approved_Document_S,0
+762_UK_UK_Approved_Document_S,0
+763_UK_UK_Approved_Document_S,7
+764_UK_UK_Approved_Document_S,Front elevation
+765_UK_UK_Approved_Document_S,Side elevation
+766_UK_UK_Approved_Document_S,Diagram 6.5 Minimum space requirements for wall-mounted charge point location
+767_UK_UK_Approved_Document_S,Floor
+768_UK_UK_Approved_Document_S,Floor
+769_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 33"
+770_UK_UK_Approved_Document_S,S1-S6ONLINE VERSIONONLINE VERSION Appendix A: Key terms
+771_UK_UK_Approved_Document_S,NOTE:
+772_UK_UK_Approved_Document_S,"Except for the items marked * (which are from the Building Regulations 2010), these definitions apply only to Approved Document S. Accessible parking space A parking space that meets the provisions in Approved Document M."
+773_UK_UK_Approved_Document_S,"Associated parking space Any parking space that is available within the site boundary of the building, for the use by the occupant of, or a visitor to, a dwelling in the building, including any parking space which is for the use of any occupant of, or any visitor to, any dwelling in a building containing more than one dwelling."
+774_UK_UK_Approved_Document_S,Boundary The boundary of the land and/or buildings belonging to and under the control of the building owner.
+775_UK_UK_Approved_Document_S,Building control body A local authority or approved inspector
+776_UK_UK_Approved_Document_S,"Cable route A safe, unobstructed route from the power supply to the envisaged electric vehicle charge point location, for electrical cabling to be installed in the future."
+777_UK_UK_Approved_Document_S,NOTE:
+778_UK_UK_Approved_Document_S,"In this document, cable routes are described only in the context of where electric vehicle charge points have not yet been installed."
+779_UK_UK_Approved_Document_S,"Where electric vehicle charge points have been installed, they should be considered to have adequate cable routes."
+780_UK_UK_Approved_Document_S,"Connection cost The cost of upgrades needed to the electricity system in order to accommodate a charge point, excluding the cost of any building work or the cost of the charge point itself."
+781_UK_UK_Approved_Document_S,Electric vehicle charge point A device intended for charging a vehicle that is capable of being propelled by electrical power derived from a storage battery (or for discharging electricity stored in such a vehicle).
+782_UK_UK_Approved_Document_S,"Covered car park Any car park which is enclosed by a roof, except garages or carports that are intended to be used solely by the occupant of, or a visitor to, a dwelling or carports that cover otherwise open parking spaces."
+783_UK_UK_Approved_Document_S,Future connection location An identified location at which an electric vehicle charge point may be installed in future to serve the relevant parking spaces.
+784_UK_UK_Approved_Document_S,Major renovation The renovation of a building where more than 25% of the surface area of the building envelope undergoes renovation.
+785_UK_UK_Approved_Document_S,NOTE:
+786_UK_UK_Approved_Document_S,"The surface area of the whole building must be included when assessing whether the works constitute a major renovation, even if the building is mixed use."
+787_UK_UK_Approved_Document_S,Mixed-use building A building which contains:
+788_UK_UK_Approved_Document_S,"• one or more dwellings, and"
+789_UK_UK_Approved_Document_S,• one or more premises that are not dwellings.
+790_UK_UK_Approved_Document_S,Parking space A space in which occupants of or visitors to the building may reasonably expect to park a passenger car.
+791_UK_UK_Approved_Document_S,Residential building A building which: NOTE:
+792_UK_UK_Approved_Document_S,"For the purposes of this approved document, the connection cost should exclude VAT."
+793_UK_UK_Approved_Document_S,"contains one or more dwellings, and"
+794_UK_UK_Approved_Document_S,Dwelling A self-contained unit designed to accommodate a single household e.g. types of dwelling include dwellinghouses and flats.
+795_UK_UK_Approved_Document_S,does not contain any premises that are not dwellings.
+796_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+797_UK_UK_Approved_Document_S,AONLINE VERSIONONLINE VERSION A
+798_UK_UK_Approved_Document_S,"Site boundary The boundary of the land in relation to a building, in respect of which building work is being carried out, means the boundary of the land, upon which that building is situated, that is controlled or owned by the same person who owns:"
+799_UK_UK_Approved_Document_S,"• • that building, or"
+800_UK_UK_Approved_Document_S,"in the case of the erection of a new building, the land upon which building work is being carried out."
+801_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 35"
+802_UK_UK_Approved_Document_S,ONLINE VERSIONONLINE VERSION Appendix B: Standards referred to BS EN IEC 61851 Electric vehicle conductive charging system
+803_UK_UK_Approved_Document_S,BS EN IEC 61851-1 General requirements [2019]
+804_UK_UK_Approved_Document_S,BS 7671 Requirements for Electrical Installations.
+805_UK_UK_Approved_Document_S,IET Wiring Regulations [2018 + A1: 2020]
+806_UK_UK_Approved_Document_S,BS 8300 Design of an accessible and inclusive built environment
+807_UK_UK_Approved_Document_S,BS 8300-1 External environment.
+808_UK_UK_Approved_Document_S,Code of practice [2018]
+809_UK_UK_Approved_Document_S,BS 8300-2 Buildings.
+810_UK_UK_Approved_Document_S,Code of practice [2018]
+811_UK_UK_Approved_Document_S,BS EN 61386-24 Conduit systems for cable management.
+812_UK_UK_Approved_Document_S,Particular requirements.
+813_UK_UK_Approved_Document_S,Conduit systems buried underground [2010]
+814_UK_UK_Approved_Document_S,"Approved Document S, 2021 edition Building Regulations 2010"
+815_UK_UK_Approved_Document_S,BONLINE VERSIONONLINE VERSION Appendix C: Documents referred to
+816_UK_UK_Approved_Document_S,Legislation
+817_UK_UK_Approved_Document_S,"(available via www.legislation.gov.uk) Alternative Fuels Infrastructure Regulations 2017, SI 2017/897"
+818_UK_UK_Approved_Document_S,"Ancient Monuments and Archaeological Areas Act 1979, c. 46"
+819_UK_UK_Approved_Document_S,Other documents
+820_UK_UK_Approved_Document_S,Distribution Code Review Panel of Great Britain
+821_UK_UK_Approved_Document_S,(www.dcode.org.uk)
+822_UK_UK_Approved_Document_S,"The Distribution Code of Licensed Distribution Network Operators of Great Britain, Issue 47 [2021] Building Regulations 2010, SI 2010/2214"
+823_UK_UK_Approved_Document_S,"Electricity at Work Regulations 1989, SI 1989/635"
+824_UK_UK_Approved_Document_S,Health and Safety Executive (HSE)
+825_UK_UK_Approved_Document_S,(www.hse.gov.uk)
+826_UK_UK_Approved_Document_S,"Electricity Safety, Quality and Continuity Regulations 2002, SI 2002/2665"
+827_UK_UK_Approved_Document_S,"Planning (Listed Buildings and Conservation Areas) Act 1990, c. 9"
+828_UK_UK_Approved_Document_S,"HSG 47 Avoiding Danger from Underground Services, Third Edition [2014]"
+829_UK_UK_Approved_Document_S,"HSR 25 The Electricity at Work Regulations 1989: Guidance on Regulations, Third Edition [2015]"
+830_UK_UK_Approved_Document_S,Institution of Engineering and Technology (IET)
+831_UK_UK_Approved_Document_S,(www.theiet.org)
+832_UK_UK_Approved_Document_S,"Code of Practice: Electric Vehicle Charging Equipment Installation, Fourth Edition [2020] National Joint Utilities Group (NJUG)"
+833_UK_UK_Approved_Document_S,(www.streetworks.org.uk)
+834_UK_UK_Approved_Document_S,"Streetworks UK Guidelines on the Positioning and Colour Coding of Underground Utilities’ Apparatus, Issue 9 [2018]. Available at: http://streetworks."
+835_UK_UK_Approved_Document_S,org.uk/wp-content/uploads/2018/11/VOL-1-
+836_UK_UK_Approved_Document_S,reviewed.pdf
+837_UK_UK_Approved_Document_S,"Building Regulations 2010 Approved Document S, 2021 edition 37"
+838_UK_UK_Approved_Document_S,CONLINE VERSIONONLINE VERSION

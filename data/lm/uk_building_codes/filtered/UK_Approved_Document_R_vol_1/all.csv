@@ -1,0 +1,537 @@
+id,text
+0_UK_UK_Approved_Document_R_vol_1,Section 0: Introduction
+1_UK_UK_Approved_Document_R_vol_1,"This approved document, Approved Document R, Volume 1, provides guidance on how to comply with requirement RA1 and requirement RA2 of Schedule 1 to the Building Regulations, which respectively deal with the installation of gigabit-ready physical infrastructure and a connection to a gigabit-capable public electronic communications network when new dwellings are erected."
+2_UK_UK_Approved_Document_R_vol_1,It contains the following sections:
+3_UK_UK_Approved_Document_R_vol_1,Section 1: Requirement RA1 – gigabit-ready physical infrastructure
+4_UK_UK_Approved_Document_R_vol_1,Section 2: Requirement RA2 – connection to gigabit-capable network Section 3: Particulars of connection to public electronic communications network (‘connectivity plan’)
+5_UK_UK_Approved_Document_R_vol_1,Appendix A: Key terms
+6_UK_UK_Approved_Document_R_vol_1,Appendix B: Model form connectivity plan
+7_UK_UK_Approved_Document_R_vol_1,Appendix C: Documents referred to.
+8_UK_UK_Approved_Document_R_vol_1,This approved document provides guidance on when the requirement for a connection to a gigabit-capable public electronic communications network for new dwellings may be modified or excluded.
+9_UK_UK_Approved_Document_R_vol_1,This approved document provides guidance on the particulars to be provided when submitting applications for Building Regulations approval.
+10_UK_UK_Approved_Document_R_vol_1,"A separate approved document, Approved Document R, Volume 2, provides guidance on the requirements for in-building physical infrastructure for high-speed electronic communications networks when new buildings are erected or when existing buildings are subject to major renovation works (paragraph R1 does not apply to building work to which paragraph RA1 applies, e.g. when new dwellings are erected)."
+11_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 1"
+12_UK_UK_Approved_Document_R_vol_1,ONLINE VERSIONONLINE VERSION Section 1: Requirement RA1 – gigabit-ready physical infrastructure
+13_UK_UK_Approved_Document_R_vol_1,This section deals with requirement RA1 from Part R of Schedule 1 to the Building Regulations 2010.
+14_UK_UK_Approved_Document_R_vol_1,Requirement
+15_UK_UK_Approved_Document_R_vol_1,Requirement
+16_UK_UK_Approved_Document_R_vol_1,Limits on application
+17_UK_UK_Approved_Document_R_vol_1,Part R Infrastructure for electronic communications Gigabit-ready physical infrastructure
+18_UK_UK_Approved_Document_R_vol_1,Requirements RA1 and RA2 apply to the erection of a dwelling or of a building that contains one or more dwellings. RA1
+19_UK_UK_Approved_Document_R_vol_1,Building work must be carried out so as to ensure that each dwelling is equipped with gigabit-ready physical infrastructure that extends from a network termination point for gigabit-capable public electronic communications networks and reaches—
+20_UK_UK_Approved_Document_R_vol_1,"a distribution point, or"
+21_UK_UK_Approved_Document_R_vol_1,where the person carrying out the building work (“the developer”) has no right to install gigabit-
+22_UK_UK_Approved_Document_R_vol_1,"ready physical infrastructure in land in which it would have to be installed if it were to reach a distribution point, as close as is reasonably practicable to a distribution point, or"
+23_UK_UK_Approved_Document_R_vol_1,"where the developer has no such right and requirement RA2 is excluded or modified by regulation 44ZC, and would be so excluded or modified even if the gigabit-ready physical infrastructure were required to reach as close as is reasonably practicable to a distribution point—"
+24_UK_UK_Approved_Document_R_vol_1,"as close as is reasonably practicable to a location at which a distribution point is likely to be installed within the relevant 2-year period (a “likely future location”), or"
+25_UK_UK_Approved_Document_R_vol_1,"where there is no likely future location that is closer to the building than the closest distribution point already installed, an access point for gigabit-capable public electronic communications networks, or"
+26_UK_UK_Approved_Document_R_vol_1,"where the developer has no right to install gigabit-ready physical infrastructure in land beyond the building, an access point for gigabit-"
+27_UK_UK_Approved_Document_R_vol_1,capable public electronic communications networks.
+28_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+29_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION Part R Infrastructure for electronic communications continued
+30_UK_UK_Approved_Document_R_vol_1,"Where the work concerns a building containing more than one dwelling, the work must be carried out so as to ensure that the building is equipped in addition with a common access point for gigabit-capable public electronic communications networks."
+31_UK_UK_Approved_Document_R_vol_1,In this paragraph—
+32_UK_UK_Approved_Document_R_vol_1,“distribution point” means a distribution point for a gigabit-capable public electronic communications network;
+33_UK_UK_Approved_Document_R_vol_1,“the relevant 2-year period” means the period of 2 years beginning with the earlier of the following—
+34_UK_UK_Approved_Document_R_vol_1,"the day on which a building notice, initial notice or public body’s notice relating to work to which this paragraph applies is given;"
+35_UK_UK_Approved_Document_R_vol_1,the day on which full plans relating to building work to which this paragraph applies are deposited.
+36_UK_UK_Approved_Document_R_vol_1,Intention
+37_UK_UK_Approved_Document_R_vol_1,"In the Secretary of State’s view, requirement RA1 for gigabit-ready physical infrastructure will be met by installing physical infrastructure or installations, including elements under joint ownership, to host wired or fixed wireless access networks that can do all of the following."
+38_UK_UK_Approved_Document_R_vol_1,Facilitate a functioning connection to a gigabit capable public electronic communications network to each new dwelling.
+39_UK_UK_Approved_Document_R_vol_1,Connect the building access point or common access point (where a building contains more than one dwelling) with a network termination point at each individual dwelling.
+40_UK_UK_Approved_Document_R_vol_1,"Connect the network termination point with the physical point at which the network operator’s spine or core network ends (the network distribution point), or as close as is reasonably practicable where the developer has no right to install such infrastructure in land required to reach the distribution point."
+41_UK_UK_Approved_Document_R_vol_1,NOTE:
+42_UK_UK_Approved_Document_R_vol_1,"The network distribution point could be in a cabinet, a box mounted on a wall or on a telegraph pole."
+43_UK_UK_Approved_Document_R_vol_1,It may or may not be on the development site.
+44_UK_UK_Approved_Document_R_vol_1,Application
+45_UK_UK_Approved_Document_R_vol_1,Requirement RA1 for gigabit-ready physical infrastructure applies to the erection of a new dwelling or of a building that contains one or more dwellings.
+46_UK_UK_Approved_Document_R_vol_1,A new dwelling may be a dwelling-house or a flat in a building that contains one or more dwellings.
+47_UK_UK_Approved_Document_R_vol_1,New dwellings include the following:
+48_UK_UK_Approved_Document_R_vol_1,new housing developments
+49_UK_UK_Approved_Document_R_vol_1,self-build new dwellings
+50_UK_UK_Approved_Document_R_vol_1,"new dwellings in mixed-use developments (including live/work units, e.g. a flat (dwelling) that is a workplace for people who live there, and for people who do not live there)."
+51_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 3"
+52_UK_UK_Approved_Document_R_vol_1,"RA1ONLINE VERSIONONLINE VERSION 1.5 Where a new building contains more than one dwelling, a common access point for a gigabit-"
+53_UK_UK_Approved_Document_R_vol_1,capable public electronic communications network is required as a part of the building’s gigabit-
+54_UK_UK_Approved_Document_R_vol_1,ready physical infrastructure.
+55_UK_UK_Approved_Document_R_vol_1,In-building physical infrastructure is required from the common access point to the network termination points in each dwelling (see Diagram 6).
+56_UK_UK_Approved_Document_R_vol_1,"In single-dwelling buildings, an access point is required as part of the gigabit-ready physical infrastructure (see Diagram 5)."
+57_UK_UK_Approved_Document_R_vol_1,"Requirement RA1 does not apply to the following types of dwellings, buildings or building work."
+58_UK_UK_Approved_Document_R_vol_1,Wholly non-residential buildings and existing buildings undergoing major renovation works.
+59_UK_UK_Approved_Document_R_vol_1,New dwellings created through a material change of use.
+60_UK_UK_Approved_Document_R_vol_1,"Rooms for residential purposes in hostels, hotels, boarding houses, schools and other educational establishments, and hospitals and other similar establishments used for patient accommodation."
+61_UK_UK_Approved_Document_R_vol_1,"Buildings to be occupied by the Ministry of Defence or the armed forces of the Crown, or to be otherwise occupied for purposes connected to national security."
+62_UK_UK_Approved_Document_R_vol_1,Buildings described in Schedule 2 (Exempt buildings and work) to the Building Regulations.
+63_UK_UK_Approved_Document_R_vol_1,Buildings in areas isolated from a relevant public electronic communications network where both of the following apply.
+64_UK_UK_Approved_Document_R_vol_1,The cost of providing a connection to a USO-standard public electronic communications network connection would exceed the cost cap (see paragraph 2.21).
+65_UK_UK_Approved_Document_R_vol_1,"The prospect of a connection to a gigabit-capable public electronic communications network, a high-speed public electronic communications network or a USO-standard public electronic communications network is too remote to justify equipping the building with gigabit-ready physical infrastructure or an access point."
+66_UK_UK_Approved_Document_R_vol_1,"Where a developer seeks to rely on the building being in an ‘isolated area’ as a reason to exempt new dwellings from requirement RA1, the developer must provide evidence in support of the exemption."
+67_UK_UK_Approved_Document_R_vol_1,"This should include an explanation of how new dwellings are in an area that is isolated from a relevant connection, that the cost of providing a USO-standard public electronic communications network connection exceeds the cost cap and why the prospect of a connection to a relevant network in the isolated area is considered too remote to justify equipping the building with the relevant gigabit-ready physical infrastructure."
+68_UK_UK_Approved_Document_R_vol_1,The application of this exemption will vary in different circumstances.
+69_UK_UK_Approved_Document_R_vol_1,NOTE:
+70_UK_UK_Approved_Document_R_vol_1,This evidence can be provided with the information submitted with the application for Building Regulations approval.
+71_UK_UK_Approved_Document_R_vol_1,"The connectivity plan at Appendix B, which sets out a template for developers, can be used to provide such evidence and information."
+72_UK_UK_Approved_Document_R_vol_1,"Requirement RA1 requires that the developer installs gigabit-ready physical infrastructure from the network termination point to the network distribution point, where the developer has access rights over the relevant land (see Diagram 1)."
+73_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+74_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION Network termination
+75_UK_UK_Approved_Document_R_vol_1,"point (for each dwelling in building, see Diagrams 5 and 6)"
+76_UK_UK_Approved_Document_R_vol_1,Dwelling/building containing
+77_UK_UK_Approved_Document_R_vol_1,more than one dwelling
+78_UK_UK_Approved_Document_R_vol_1,Access point/
+79_UK_UK_Approved_Document_R_vol_1,common
+80_UK_UK_Approved_Document_R_vol_1,access point
+81_UK_UK_Approved_Document_R_vol_1,Network
+82_UK_UK_Approved_Document_R_vol_1,distribution
+83_UK_UK_Approved_Document_R_vol_1,point
+84_UK_UK_Approved_Document_R_vol_1,Gigabit-ready physical
+85_UK_UK_Approved_Document_R_vol_1,infrastructure (ducting)
+86_UK_UK_Approved_Document_R_vol_1,Gigabit-capable public
+87_UK_UK_Approved_Document_R_vol_1,electronic communications
+88_UK_UK_Approved_Document_R_vol_1,network (spine network)
+89_UK_UK_Approved_Document_R_vol_1,Diagram 1 Requirement RA1 – schematic example of gigabit-ready physical infrastructure from the network termination point to the network distribution point
+90_UK_UK_Approved_Document_R_vol_1,NOTE:
+91_UK_UK_Approved_Document_R_vol_1,All the diagrams in this approved document (Diagrams 1 to 6) are simplified.
+92_UK_UK_Approved_Document_R_vol_1,Developers should refer to specific guidance and the requirements of the Building Regulations when planning gigabit-ready physical infrastructure with network operators.
+93_UK_UK_Approved_Document_R_vol_1,NOTE:
+94_UK_UK_Approved_Document_R_vol_1,All the diagrams in this approved document (Diagrams 1 to 6) reflect full fibre gigabit-ready physical infrastructure.
+95_UK_UK_Approved_Document_R_vol_1,"Where fixed wireless access or satellite technology is deployed, such infrastructure will be installed differently."
+96_UK_UK_Approved_Document_R_vol_1,Diagrams 5 and 6 provide more detail on gigabit-ready physical infrastructure inside the dwelling.
+97_UK_UK_Approved_Document_R_vol_1,"Where the developer does not have the right to extend the infrastructure to the distribution point, the developer is required to extend the infrastructure to the point that is as close as is reasonably practicable to the network distribution point (see Diagram 2)."
+98_UK_UK_Approved_Document_R_vol_1,"For example, if there is a point that is as close to the distribution point as the developer can extend the gigabit-ready physical infrastructure to, but this would not be reasonably practicable for the developer due to the condition of the land in question, the infrastructure should be extended to an alternative point that is reasonably practicable."
+99_UK_UK_Approved_Document_R_vol_1,Developers are encouraged to work with relevant network operators to identify suitable routes for such infrastructure.
+100_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 5"
+101_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION Network termination
+102_UK_UK_Approved_Document_R_vol_1,"point (for each dwelling in building, see Diagrams 5 and 6)"
+103_UK_UK_Approved_Document_R_vol_1,Network
+104_UK_UK_Approved_Document_R_vol_1,distribution
+105_UK_UK_Approved_Document_R_vol_1,point
+106_UK_UK_Approved_Document_R_vol_1,Access point/
+107_UK_UK_Approved_Document_R_vol_1,common
+108_UK_UK_Approved_Document_R_vol_1,access point
+109_UK_UK_Approved_Document_R_vol_1,Land in relation to
+110_UK_UK_Approved_Document_R_vol_1,which the developer
+111_UK_UK_Approved_Document_R_vol_1,has no right to
+112_UK_UK_Approved_Document_R_vol_1,install infrastructure
+113_UK_UK_Approved_Document_R_vol_1,Dwelling/building containing
+114_UK_UK_Approved_Document_R_vol_1,more than one dwelling
+115_UK_UK_Approved_Document_R_vol_1,Gigabit-ready physical
+116_UK_UK_Approved_Document_R_vol_1,infrastructure (ducting)
+117_UK_UK_Approved_Document_R_vol_1,Gigabit-capable public
+118_UK_UK_Approved_Document_R_vol_1,electronic communications
+119_UK_UK_Approved_Document_R_vol_1,network (spine network)
+120_UK_UK_Approved_Document_R_vol_1,"Diagram 2 Requirement RA1 – schematic example of gigabit-ready physical infrastructure from the network termination point to a point as close as is reasonably practicable to the network distribution point, where there is no right to install infrastructure in land to reach the network distribution point"
+121_UK_UK_Approved_Document_R_vol_1,Where the developer has no right over the land in question and where no connection to a gigabit-
+122_UK_UK_Approved_Document_R_vol_1,"capable public electronic communications network is being provided because requirement RA2 is excluded or modified, and would be even if the gigabit-ready physical infrastructure was required to reach as close as is reasonably practicable to the distribution point, the developer is required to install the infrastructure to a point as close as is reasonably practicable to a location at which it reasonably expects a distribution point to be installed within the relevant 2-year period, i.e. a likely future location (see Diagram 3a)."
+123_UK_UK_Approved_Document_R_vol_1,A developer will need to liaise with a network operator to ascertain the likely future location of a suitable network distribution point and provide evidence of having done so.
+124_UK_UK_Approved_Document_R_vol_1,"Where a ducting system is being used, this is likely to be situated by the public highway."
+125_UK_UK_Approved_Document_R_vol_1,The developer will need to provide evidence to a building control body of the steps undertaken to establish if an appropriate network distribution point is to be installed within the relevant 2-year period and where it is to be located.
+126_UK_UK_Approved_Document_R_vol_1,Developers will also need to provide evidence of the steps undertaken should it be the case that there is no likely future location of an appropriate network distribution point within the relevant 2-year period.
+127_UK_UK_Approved_Document_R_vol_1,Developers should ascertain this information from a network operator when inviting them to provide a relevant connection.
+128_UK_UK_Approved_Document_R_vol_1,"Where there is no likely future location of a network distribution point that is closer to the dwelling than an existing distribution point and the developer cannot access land to a distant network distribution point, the developer is required to install infrastructure to an access point (see Diagram 3b)."
+129_UK_UK_Approved_Document_R_vol_1,"Where there is no right to install gigabit-ready physical infrastructure in land beyond the building, the developer is required to install gigabit-ready physical infrastructure to an access point for an individual dwelling and to a common access point for buildings containing multiple dwellings (see Diagrams 4a and 4b)."
+130_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+131_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION a.
+132_UK_UK_Approved_Document_R_vol_1,Network termination point
+133_UK_UK_Approved_Document_R_vol_1,(one each per dwelling in building)
+134_UK_UK_Approved_Document_R_vol_1,Location at which a distribution
+135_UK_UK_Approved_Document_R_vol_1,point is likely to be installed within
+136_UK_UK_Approved_Document_R_vol_1,the relevant 2-year period (a 'likely
+137_UK_UK_Approved_Document_R_vol_1,future location')
+138_UK_UK_Approved_Document_R_vol_1,Access point/
+139_UK_UK_Approved_Document_R_vol_1,common
+140_UK_UK_Approved_Document_R_vol_1,access point
+141_UK_UK_Approved_Document_R_vol_1,Point as close as is reasonably practicable to a location at which a distribution point is likely to be installed within the relevant 2-year period (a 'likely future location')
+142_UK_UK_Approved_Document_R_vol_1,Network termination point
+143_UK_UK_Approved_Document_R_vol_1,(one each per dwelling in building)
+144_UK_UK_Approved_Document_R_vol_1,Inset: in-building
+145_UK_UK_Approved_Document_R_vol_1,infrastructure example.
+146_UK_UK_Approved_Document_R_vol_1,"In this case, network"
+147_UK_UK_Approved_Document_R_vol_1,termination points for
+148_UK_UK_Approved_Document_R_vol_1,two dwellings connect
+149_UK_UK_Approved_Document_R_vol_1,inside the building to a
+150_UK_UK_Approved_Document_R_vol_1,common access point.
+151_UK_UK_Approved_Document_R_vol_1,Access point/
+152_UK_UK_Approved_Document_R_vol_1,common
+153_UK_UK_Approved_Document_R_vol_1,access point
+154_UK_UK_Approved_Document_R_vol_1,Land to which developer
+155_UK_UK_Approved_Document_R_vol_1,has access to install
+156_UK_UK_Approved_Document_R_vol_1,infrastructure
+157_UK_UK_Approved_Document_R_vol_1,Likely future network distribution points
+158_UK_UK_Approved_Document_R_vol_1,Dwelling/building containing more than one dwelling
+159_UK_UK_Approved_Document_R_vol_1,Gigabit-ready physical
+160_UK_UK_Approved_Document_R_vol_1,infrastructure
+161_UK_UK_Approved_Document_R_vol_1,"Diagram 3 Requirement RA1 – a. schematic example where gigabit-ready physical infrastructure is installed from a network termination point to a point as close as is reasonably practicable to a likely future location for a network distribution point, and b. schematic example where, due to the absence of a likely future location for a network distribution point, and a lack of developer access rights, gigabit-ready physical infrastructure is built from the network termination point to the access point or common access point only"
+162_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 7"
+163_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION 1.16 A building control body will assess the particulars submitted by the developer in relation to the connection which is to be provided and any evidence provided in support of a reliance on any exemptions when considering whether building work has been completed within the requirements.
+164_UK_UK_Approved_Document_R_vol_1,"The connectivity plan at Appendix B, which sets out a template for developers, can be used to provide such evidence and information."
+165_UK_UK_Approved_Document_R_vol_1,NOTE:
+166_UK_UK_Approved_Document_R_vol_1,"Street Works UK provides the following guidelines regarding groundworks infrastructure: Street Works UK Guidelines on the Positioning and Colour Coding of Underground Utilities’ Apparatus, Volume 1, Issue 9 [2018]. 1.17 The requirement to provide equipment such as an optical fibre cable or other technological means of facilitating a connection to a gigabit-capable public electronic communications network (requirement RA2) is separate to requirement RA1."
+167_UK_UK_Approved_Document_R_vol_1,Requirement RA1 relates to the installation of the infrastructure needed to host this equipment.
+168_UK_UK_Approved_Document_R_vol_1,"To install gigabit-ready physical infrastructure to a network distribution point, developers will need to work closely with network operators."
+169_UK_UK_Approved_Document_R_vol_1,"Where there is a choice of network distribution points, developers should work with network operators to choose which network distribution point would be appropriate and ascertain the corresponding location of the infrastructure."
+170_UK_UK_Approved_Document_R_vol_1,NOTE:
+171_UK_UK_Approved_Document_R_vol_1,Early engagement with network operators will help to ensure developers are aware of factors that may need mitigation – such as obstacles and terrain – that network operators may be able to assist with.
+172_UK_UK_Approved_Document_R_vol_1,Developers should work with network operators from the earliest possible date.
+173_UK_UK_Approved_Document_R_vol_1,"Where a ducting system is being used for installation of gigabit-ready physical infrastructure to a network distribution point, installation is likely to be to a point where the development site meets the public highway."
+174_UK_UK_Approved_Document_R_vol_1,NOTE:
+175_UK_UK_Approved_Document_R_vol_1,"Where a next fastest broadband connection or no connection to a public electronic communications network can be provided within the cost cap (see paragraphs 2.13 to 2.23), new dwellings must still be erected with gigabit-ready physical infrastructure installed to be ready to support a connection to a gigabit-capable public electronic communications network in the future."
+176_UK_UK_Approved_Document_R_vol_1,"In these cases, the gigabit-ready physical infrastructure is required to have sufficient capacity and dimensions to install and host a gigabit-capable public electronic communications network connection for each dwelling."
+177_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+178_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION a.
+179_UK_UK_Approved_Document_R_vol_1,Network
+180_UK_UK_Approved_Document_R_vol_1,termination
+181_UK_UK_Approved_Document_R_vol_1,point
+182_UK_UK_Approved_Document_R_vol_1,Access
+183_UK_UK_Approved_Document_R_vol_1,point
+184_UK_UK_Approved_Document_R_vol_1,Ducting/
+185_UK_UK_Approved_Document_R_vol_1,trays in
+186_UK_UK_Approved_Document_R_vol_1,riser
+187_UK_UK_Approved_Document_R_vol_1,Network
+188_UK_UK_Approved_Document_R_vol_1,termination
+189_UK_UK_Approved_Document_R_vol_1,point in each
+190_UK_UK_Approved_Document_R_vol_1,dwelling
+191_UK_UK_Approved_Document_R_vol_1,Common
+192_UK_UK_Approved_Document_R_vol_1,access point
+193_UK_UK_Approved_Document_R_vol_1,"Diagram 4 Requirement RA1 – a. schematic example of gigabit-ready physical infrastructure from the network termination point to the access point in an individual dwelling, and b. schematic example of gigabit-ready physical infrastructure from the network termination points in dwellings in a building containing more than one dwelling, in this case containing multiple dwellings, to the common access point in or on the building"
+194_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 9"
+195_UK_UK_Approved_Document_R_vol_1,"RA1ONLINE VERSIONONLINE VERSION 1.20 Once the infrastructure has been planned, developers should provide the required particulars to a building control body demonstrating how the proposed approach complies with requirement RA1 and whether any exemptions are to be relied upon."
+196_UK_UK_Approved_Document_R_vol_1,Particulars provided by way of the connectivity plan would further assist the building control body if they contain evidence to demonstrate the location of gigabit-ready physical infrastructure.
+197_UK_UK_Approved_Document_R_vol_1,"This could take the form of schematic diagrams, maps setting out the site layout and written evidence."
+198_UK_UK_Approved_Document_R_vol_1,"One way to meet the requirement for gigabit-ready physical infrastructure which extends beyond the dwelling is to design and install a system of ducts, chambers, cabinets, towers and poles that can facilitate at least one gigabit-capable public electronic communications network connection for all the dwellings serviced by that infrastructure."
+199_UK_UK_Approved_Document_R_vol_1,"In most cases, this requirement is likely to be met by infrastructure for full fibre connections (optical fibre cable from the dwelling to the network distribution point)."
+200_UK_UK_Approved_Document_R_vol_1,"However, as the requirement is technologically neutral, any form of wired or wireless technologies that meet the performance requirements may be used."
+201_UK_UK_Approved_Document_R_vol_1,"Where full fibre connections are not available, other means of providing gigabit-capable public electronic communications network connections – such as Data Over Cable Service Interface Specification (DOCSIS 3.1) or a fixed wireless access technology – should be explored before pursuing a next fastest broadband connection."
+202_UK_UK_Approved_Document_R_vol_1,NOTE:
+203_UK_UK_Approved_Document_R_vol_1,The requirement does not preclude the voluntary installation of gigabit-ready physical infrastructure capable of supporting connections provided by multiple network operators or the installation of multiple forms of gigabit-ready physical infrastructure supporting multiple connections.
+204_UK_UK_Approved_Document_R_vol_1,NOTE:
+205_UK_UK_Approved_Document_R_vol_1,Further information about gigabit-ready physical infrastructure and gigabit-capable public electronic communications network connections is to be made available on the UK Government Digital Connectivity Portal at https://www.gov.uk/guidance/digital-connectivity-portal.
+206_UK_UK_Approved_Document_R_vol_1,"Where an access point is installed at a dwelling to facilitate connection to a gigabit-capable public electronic communications network, the ingress of moisture into the building and air leakage from the building should be prevented."
+207_UK_UK_Approved_Document_R_vol_1,Diagram 5 shows an example of gigabit-ready physical infrastructure for a single dwelling.
+208_UK_UK_Approved_Document_R_vol_1,The access point is on an outside wall and is connected by a ‘through wall’ duct to the network termination point.
+209_UK_UK_Approved_Document_R_vol_1,"For a building that contains more than one dwelling, such as a block of flats, a common access point and gigabit-ready physical infrastructure inside the building are required."
+210_UK_UK_Approved_Document_R_vol_1,"Developers can also design and install a system of risers, floor boxes, cable trays and ducts from the common access point to each dwelling in the building."
+211_UK_UK_Approved_Document_R_vol_1,See Diagram 6 for an example.
+212_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+213_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION Access
+214_UK_UK_Approved_Document_R_vol_1,point
+215_UK_UK_Approved_Document_R_vol_1,Network
+216_UK_UK_Approved_Document_R_vol_1,termination
+217_UK_UK_Approved_Document_R_vol_1,"point Gigabit-ready physical infrastructure (ducting) to the distribution point or, where there is no access right up to the distribution point, as close as is reasonably practicable to a distribution point."
+218_UK_UK_Approved_Document_R_vol_1,"In some cases, there will be no gigabit-ready physical infrastructure beyond the access point."
+219_UK_UK_Approved_Document_R_vol_1,Diagram 5 Schematic example of gigabit-ready physical infrastructure for an individual dwelling
+220_UK_UK_Approved_Document_R_vol_1,"For a building that contains more than one dwelling, the gigabit-ready physical infrastructure inside the building should have sufficient capacity and dimensions to host at least one gigabit-capable public electronic communications network connection for each dwelling."
+221_UK_UK_Approved_Document_R_vol_1,The gigabit-ready physical infrastructure inside a building should comply with all relevant requirements of the Building Regulations.
+222_UK_UK_Approved_Document_R_vol_1,"These include the requirements of Part B of Schedule 1 to the Building Regulations (Fire safety), including the need for fire stopping at penetrations through compartment walls, floors and ceilings, and the ban on combustible materials in the external walls of relevant buildings (regulation 7 of the Building Regulations)."
+223_UK_UK_Approved_Document_R_vol_1,"Where a gigabit-capable connection is not installed pursuant to requirement RA2, the gigabit-ready physical infrastructure should be installed in such a way that it is protected from any deterioration resulting from exposure to the elements, so that it is ready to host connection to a gigabit-capable public electronic communications network in the future."
+224_UK_UK_Approved_Document_R_vol_1,"For example, ducting under land should be fully covered, and any infrastructure protruding from the building or ground should be encased where possible."
+225_UK_UK_Approved_Document_R_vol_1,NOTE:
+226_UK_UK_Approved_Document_R_vol_1,"Consideration should be given to the positioning of network termination points installed within the dwelling to ensure good connectivity throughout the dwelling, such as in central, open areas of the dwelling."
+227_UK_UK_Approved_Document_R_vol_1,See NHBC Foundation’s NF67
+228_UK_UK_Approved_Document_R_vol_1,The Connected Home: Designing and Building Technology into Today’s New Homes [2016].
+229_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 11"
+230_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION Ducting/
+231_UK_UK_Approved_Document_R_vol_1,trays in
+232_UK_UK_Approved_Document_R_vol_1,riser
+233_UK_UK_Approved_Document_R_vol_1,Network
+234_UK_UK_Approved_Document_R_vol_1,termination
+235_UK_UK_Approved_Document_R_vol_1,point in each
+236_UK_UK_Approved_Document_R_vol_1,dwelling
+237_UK_UK_Approved_Document_R_vol_1,Common
+238_UK_UK_Approved_Document_R_vol_1,access point
+239_UK_UK_Approved_Document_R_vol_1,"Gigabit-ready physical infrastructure (ducting) to the distribution point or, where there is no access right up to the distribution point, as close as is reasonably practicable to a distribution point."
+240_UK_UK_Approved_Document_R_vol_1,"In some cases, there will be no gigabit-ready physical infrastructure beyond the common access point."
+241_UK_UK_Approved_Document_R_vol_1,"Diagram 6 Schematic example of gigabit-ready physical infrastructure for a block of flats (a building that contains more than one dwelling, in this case containing multiple dwellings)"
+242_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+243_UK_UK_Approved_Document_R_vol_1,RA1ONLINE VERSIONONLINE VERSION RA2
+244_UK_UK_Approved_Document_R_vol_1,Section 2: Requirement RA2 – connection to gigabit-capable network
+245_UK_UK_Approved_Document_R_vol_1,This section deals with requirement RA2 from Part R of Schedule 1 and regulation 44ZC of the Building Regulations 2010.
+246_UK_UK_Approved_Document_R_vol_1,Requirement
+247_UK_UK_Approved_Document_R_vol_1,Requirement
+248_UK_UK_Approved_Document_R_vol_1,Limits on application
+249_UK_UK_Approved_Document_R_vol_1,Part R Infrastructure for electronic communications Connection to gigabit-capable network
+250_UK_UK_Approved_Document_R_vol_1,Requirements RA1 and RA2 apply to the erection of a dwelling or of a building that contains one or more dwellings. RA2
+251_UK_UK_Approved_Document_R_vol_1,Each dwelling must in addition be provided with a connection to a gigabit-capable public electronic communications network.
+252_UK_UK_Approved_Document_R_vol_1,Regulation
+253_UK_UK_Approved_Document_R_vol_1,Cases in which paragraph RA2 of Schedule 1 is modified or excluded
+254_UK_UK_Approved_Document_R_vol_1,44ZC.
+255_UK_UK_Approved_Document_R_vol_1,
+256_UK_UK_Approved_Document_R_vol_1,The requirement in paragraph RA2 of Schedule 1 has effect subject to paragraphs (2) to (4).
+257_UK_UK_Approved_Document_R_vol_1,Where a person carrying out building work of the kind described in the second column of paragraph RA1 of Schedule 1 (“the developer”)—
+258_UK_UK_Approved_Document_R_vol_1,"is unable to secure the provision of a connection with a gigabit-capable public electronic communications network for a cost not exceeding the cost cap, but"
+259_UK_UK_Approved_Document_R_vol_1,"is able to secure the provision of a connection with a high-speed public electronic communications network for such a cost,"
+260_UK_UK_Approved_Document_R_vol_1,paragraph RA2 of Schedule 1 is to be read as requiring the provision of a connection with a high-speed public electronic communications network.
+261_UK_UK_Approved_Document_R_vol_1,Where the developer—
+262_UK_UK_Approved_Document_R_vol_1,"is unable to secure the provision of a connection with a high-speed public electronic communications network for a cost not exceeding the cost cap, but"
+263_UK_UK_Approved_Document_R_vol_1,"is able to secure the provision of a connection with a USO-standard public electronic communications network for such a cost,"
+264_UK_UK_Approved_Document_R_vol_1,paragraph RA2 of Schedule 1 is to be read as requiring the provision of a connection with a USO-standard public electronic communications network.
+265_UK_UK_Approved_Document_R_vol_1,"Where the developer is unable to secure the provision of a connection with a USO-standard public electronic communications network for a cost not exceeding the cost cap, paragraph RA2 of Schedule 1 does not apply."
+266_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 13"
+267_UK_UK_Approved_Document_R_vol_1,ONLINE VERSIONONLINE VERSION Regulation continued
+268_UK_UK_Approved_Document_R_vol_1,In paragraphs (2) to (4)—
+269_UK_UK_Approved_Document_R_vol_1,“high-speed public electronic communications network” means a public electronic communications network that is a high-speed electronic communications network;
+270_UK_UK_Approved_Document_R_vol_1,“USO-standard public electronic communications network” means a public electronic communications network that provides at least the minimum download speed for the time being specified by virtue of section 65(2B)(a) of the Communications Act 2003 in the universal service order (as defined by section 151(1) of that Act).
+271_UK_UK_Approved_Document_R_vol_1,The developer is to be treated as being able to secure the provision of a connection mentioned in any of paragraphs (2) to (4) for a cost not exceeding the cost cap unless—
+272_UK_UK_Approved_Document_R_vol_1,"the developer has invited at least two suitable providers to make, before the end of the 30th day after the date of the invitation, an offer to provide a connection of the kind mentioned in the paragraph in question, and"
+273_UK_UK_Approved_Document_R_vol_1,none of those providers has before that time offered to provide that connection free of charge or at a cost not exceeding the cost cap.
+274_UK_UK_Approved_Document_R_vol_1,"The cost cap is £2,000 in respect of each dwelling."
+275_UK_UK_Approved_Document_R_vol_1,In calculating the cost to the developer of securing the provision of a connection—
+276_UK_UK_Approved_Document_R_vol_1,there is to be included value added tax;
+277_UK_UK_Approved_Document_R_vol_1,there is to be excluded—
+278_UK_UK_Approved_Document_R_vol_1,"the cost to the developer of installing gigabit-ready physical infrastructure in accordance with paragraph RA1 of Schedule 1,"
+279_UK_UK_Approved_Document_R_vol_1,"administrative costs of the developer, and"
+280_UK_UK_Approved_Document_R_vol_1,the cost to an end-user (as defined by section 151(1) of the Communications Act 2003) of the provision of a public electronic communications service.
+281_UK_UK_Approved_Document_R_vol_1,In paragraph (6)(a) “suitable provider” means the provider of a public electronic communications network whom the developer reasonably considers to be likely to be able to provide the connection referred to.
+282_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+283_UK_UK_Approved_Document_R_vol_1,RA2ONLINE
+284_UK_UK_Approved_Document_R_vol_1,VERSIONONLINE VERSION Intention
+285_UK_UK_Approved_Document_R_vol_1,"In the Secretary of State’s view, requirement RA2 will be met by installing a relevant connection from a network distribution point to a network termination point at each new dwelling erected on a development site."
+286_UK_UK_Approved_Document_R_vol_1,Requirement RA2 requires developers to install a functioning connection to a gigabit-capable public electronic communications network but does not require developers to secure the provision of a public electronic communications service with an internet service provider.
+287_UK_UK_Approved_Document_R_vol_1,Developers should work with network operators to provide a gigabit-capable public electronic communications network connection for each new dwelling erected unless the cost exceeds the cost cap of £2000 per dwelling or the network operator declines to provide a connection.
+288_UK_UK_Approved_Document_R_vol_1,"Where a gigabit-capable public electronic communications network connection is not being installed because a connection is not offered within the £2000 cost cap, developers should work with network operators to provide the next fastest broadband connection which can be installed without exceeding the £2000 cost cap."
+289_UK_UK_Approved_Document_R_vol_1,NOTE:
+290_UK_UK_Approved_Document_R_vol_1,"Developers may decide to install, for each new dwelling erected, connections to more than one gigabit-capable public electronic communications network."
+291_UK_UK_Approved_Document_R_vol_1,This can be done within one system of gigabit-ready physical infrastructure with capacity to host more than one type of connection.
+292_UK_UK_Approved_Document_R_vol_1,"While developers may secure a gigabit-capable public electronic communications network connection from the first suitable network operator with which they engage, they may approach multiple network operators to secure multiple connections on a voluntary basis."
+293_UK_UK_Approved_Document_R_vol_1,The connection to a gigabit-capable public electronic communications network can be provided in the following ways.
+294_UK_UK_Approved_Document_R_vol_1,Installing a suitable specification cable from the network termination point at each new dwelling erected on a development site to the network distribution point.
+295_UK_UK_Approved_Document_R_vol_1,"Using wireless technologies, such as fixed wireless access, or satellite technologies, where they can support such a connection."
+296_UK_UK_Approved_Document_R_vol_1,The technologies that can currently provide a connection to a gigabit-capable public electronic communications network are set out in the most recent Ofcom Connected Nations report.
+297_UK_UK_Approved_Document_R_vol_1,"The 2021 report sets out that relevant technologies include fibre to the premises (‘full fibre’, meaning optical fibre all the way to the dwelling) and other cable types, such as Data Over Cable Service Interface Specification (DOCSIS 3.1) or Fixed Wireless Access (depending on the specific deployment, available capacity at the site, and the number and location of users)."
+298_UK_UK_Approved_Document_R_vol_1,At least one network termination point should be provided in a suitable position at each new dwelling erected.
+299_UK_UK_Approved_Document_R_vol_1,NOTE:
+300_UK_UK_Approved_Document_R_vol_1,The network termination point is usually inside the dwelling in an open area.
+301_UK_UK_Approved_Document_R_vol_1,Developers should consider the optimal location of the network termination point and the gigabit-ready physical infrastructure extending to it.
+302_UK_UK_Approved_Document_R_vol_1,"In some dwellings, wireless coverage may not extend from the network termination point to all rooms in the dwelling."
+303_UK_UK_Approved_Document_R_vol_1,Some developers may decide to include wired distribution within the dwelling at the time of construction to ensure good connectivity for residents.
+304_UK_UK_Approved_Document_R_vol_1,For further advice see the NHBC Foundation’s NF67
+305_UK_UK_Approved_Document_R_vol_1,The Connected Home: Designing and Building Technology into Today’s New Homes [2016].
+306_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 15"
+307_UK_UK_Approved_Document_R_vol_1,RA2ONLINE
+308_UK_UK_Approved_Document_R_vol_1,VERSIONONLINE VERSION 2.7 A fixed electrical supply for the network termination point and associated distribution equipment should be provided at the network termination point.
+309_UK_UK_Approved_Document_R_vol_1,The fixed electrical supply should comply with Part P in Schedule 1 to the Building Regulations (Electrical safety – dwellings).
+310_UK_UK_Approved_Document_R_vol_1,"For new dwellings, the services and controls for the network termination point and fixed electrical supply, including socket outlets and switches, should be in a position which is easy to reach in accordance with the services and controls guidance supporting Part M in Schedule 1 to the Building Regulations (Access to and use of buildings)."
+311_UK_UK_Approved_Document_R_vol_1,Application
+312_UK_UK_Approved_Document_R_vol_1,Requirement RA2 for a connection to a gigabit-capable public electronic communications network applies to the erection of a new dwelling or of a building that contains one or more dwellings.
+313_UK_UK_Approved_Document_R_vol_1,A new dwelling may be a dwelling-house or a flat in a building that contains one or more dwellings.
+314_UK_UK_Approved_Document_R_vol_1,New dwellings include the following:
+315_UK_UK_Approved_Document_R_vol_1,new housing developments
+316_UK_UK_Approved_Document_R_vol_1,self-build new dwellings
+317_UK_UK_Approved_Document_R_vol_1,"new dwellings in mixed-use developments (including live/work units, e.g. a flat (dwelling) that is a workplace for people who live there, and for people who do not live there)."
+318_UK_UK_Approved_Document_R_vol_1,"Requirement RA2 does not apply to the following types of dwellings, buildings or building work."
+319_UK_UK_Approved_Document_R_vol_1,Wholly non-residential buildings and existing buildings undergoing major renovation works.
+320_UK_UK_Approved_Document_R_vol_1,New dwellings created through a material change of use.
+321_UK_UK_Approved_Document_R_vol_1,"Rooms for residential purposes in hostels, hotels, boarding houses, schools and other educational establishments, and hospitals and other similar establishments used for patient accommodation."
+322_UK_UK_Approved_Document_R_vol_1,"Buildings to be occupied by the Ministry of Defence or the armed forces of the Crown, or to be otherwise occupied for purposes connected to national security."
+323_UK_UK_Approved_Document_R_vol_1,Buildings described in Schedule 2 (Exempt buildings and work) to the Building Regulations.
+324_UK_UK_Approved_Document_R_vol_1,Modification and exemptions
+325_UK_UK_Approved_Document_R_vol_1,Requirement RA2 does not apply if the cost of providing either a gigabit-capable public electronic communications network connection or each of the next fastest broadband connections would exceed the cost cap.
+326_UK_UK_Approved_Document_R_vol_1,The cost cap for each dwelling is £2000 (see paragraphs 2.21 to 2.23).
+327_UK_UK_Approved_Document_R_vol_1,"The developer should contact at least two suitable network operators, and provide evidence to demonstrate that an exemption applies where the offers from the suitable network operators exceed the cost cap."
+328_UK_UK_Approved_Document_R_vol_1,"Where the developer has not invited two suitable network operators to provide such a connection, they will be treated as being able to secure the provision of that connection within the cost cap."
+329_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+330_UK_UK_Approved_Document_R_vol_1,RA2ONLINE
+331_UK_UK_Approved_Document_R_vol_1,VERSIONONLINE VERSION 2.16 Evidence that the chosen network operators are suitable should be provided.
+332_UK_UK_Approved_Document_R_vol_1,Developers will need to ensure the network operator is suitable for the purposes of requirement RA2.
+333_UK_UK_Approved_Document_R_vol_1,"In determining which network operator is most likely to be able to provide the connection, the developer is encouraged to take into account factors such as the following:"
+334_UK_UK_Approved_Document_R_vol_1,the location of the development site
+335_UK_UK_Approved_Document_R_vol_1,the ability of a network operator to provide a suitable connection in the locality of the development site
+336_UK_UK_Approved_Document_R_vol_1,the variety of network operators in the locality of the development site
+337_UK_UK_Approved_Document_R_vol_1,network operators’ deployment plans in the locality of the development site
+338_UK_UK_Approved_Document_R_vol_1,"other network operators, not necessarily in the locality of the development site, that might deploy there in the future."
+339_UK_UK_Approved_Document_R_vol_1,"Where the cost of connection to a gigabit-capable public electronic communications network exceeds the cost cap, connection to the next fastest broadband connection should be provided, in the following order of priority."
+340_UK_UK_Approved_Document_R_vol_1,Connection to a high-speed electronic communications network.
+341_UK_UK_Approved_Document_R_vol_1,Connection to a USO-standard public electronic communications network.
+342_UK_UK_Approved_Document_R_vol_1,"As the requirements are technologically neutral, alternative technologies (such as fixed wireless or satellite technologies) should be considered where performance requirements can be met, before consideration is given to installing a slower form of connection."
+343_UK_UK_Approved_Document_R_vol_1,Requirement RA1 to install gigabit-ready physical infrastructure at each individual dwelling still applies when new dwellings are erected without a connection or regardless of the speed of the connection installed at the point of construction.
+344_UK_UK_Approved_Document_R_vol_1,"Requirement RA2 does not prescribe the method for developers to obtain offers and other relevant information from network operators, although there is a prescribed time limit of 30 working days for receipt of such offers."
+345_UK_UK_Approved_Document_R_vol_1,Developers may choose to request an offer from suitable network operators to provide a connection to all of the following: a. a gigabit-capable public electronic communications network
+346_UK_UK_Approved_Document_R_vol_1,a high-speed electronic communications network c. a USO-standard public electronic communications network.
+347_UK_UK_Approved_Document_R_vol_1,"If the cost of connection to a gigabit-capable public electronic communications network exceeds the cost cap, developers can consider the network operators’ quotes for the slower connections."
+348_UK_UK_Approved_Document_R_vol_1,Cost cap
+349_UK_UK_Approved_Document_R_vol_1,"The cost cap for the developer is £2000 for each new dwelling erected, after any financial contribution from the network operator has been deducted."
+350_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 17"
+351_UK_UK_Approved_Document_R_vol_1,RA2ONLINE
+352_UK_UK_Approved_Document_R_vol_1,VERSIONONLINE VERSION 2.22 The following should be included in costs assessed against the cost cap.
+353_UK_UK_Approved_Document_R_vol_1,Value added tax (VAT).
+354_UK_UK_Approved_Document_R_vol_1,"The cost of providing a connection to a gigabit-capable public electronic communications network or other relevant network, from the point of connection at the network termination point at each new dwelling erected on a development to the network distribution point."
+355_UK_UK_Approved_Document_R_vol_1,NOTE:
+356_UK_UK_Approved_Document_R_vol_1,Costs may include direct costs to the developer and costs to the developer of subcontracting to network operators.
+357_UK_UK_Approved_Document_R_vol_1,The following are excluded from costs assessed against the cost cap.
+358_UK_UK_Approved_Document_R_vol_1,"The cost to the developer of installing gigabit-ready physical infrastructure in relation to each dwelling erected, including infrastructure in common areas in a building containing more than one dwelling, in accordance with requirement RA1."
+359_UK_UK_Approved_Document_R_vol_1,"Administrative costs of the developer, including costs of submitting the connectivity plan and building control body fees as applicable."
+360_UK_UK_Approved_Document_R_vol_1,The cost to an end-user (as defined in section 151(1) of the Communications Act 2003) of the provision of a public electronic communications service.
+361_UK_UK_Approved_Document_R_vol_1,NOTE:
+362_UK_UK_Approved_Document_R_vol_1,Any financial contribution from the network operator should be deducted from the cost of providing the relevant connection.
+363_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+364_UK_UK_Approved_Document_R_vol_1,RA2ONLINE
+365_UK_UK_Approved_Document_R_vol_1,VERSIONONLINE VERSION Section 3: Particulars of connection to public electronic communications network (‘connectivity plan’)
+366_UK_UK_Approved_Document_R_vol_1,Submitting the connectivity plan
+367_UK_UK_Approved_Document_R_vol_1,"Before the relevant building work starts, when any relevant notice is provided or application is made to a building control body, the developer must provide certain additional information."
+368_UK_UK_Approved_Document_R_vol_1,This includes particulars of any public electronic communications network to which a connection will be provided and evidence in support of relevant exemptions relied upon.
+369_UK_UK_Approved_Document_R_vol_1,A model form connectivity plan is set out in Appendix B which the developer may use or adapt when providing such information.
+370_UK_UK_Approved_Document_R_vol_1,Scope of the connectivity plan
+371_UK_UK_Approved_Document_R_vol_1,Part A of the connectivity plan provides sections for the developer to demonstrate the location of the gigabit-ready physical infrastructure.
+372_UK_UK_Approved_Document_R_vol_1,"This includes evidence demonstrating why such infrastructure is to be installed up to the point in question, which would be one of the following (as set out in paragraphs 1.8 to 1.15)."
+373_UK_UK_Approved_Document_R_vol_1,From a network termination point to a network distribution point.
+374_UK_UK_Approved_Document_R_vol_1,"Where the developer has no right over the land in question to reach a network distribution point, from a network termination point to a point as close as is reasonably practicable to a network distribution point."
+375_UK_UK_Approved_Document_R_vol_1,"Where the developer has no right over the land in question to reach a network distribution point and requirement RA2 is excluded or modified, and would be so excluded or modified even if the gigabit-ready physical infrastructure were required to reach as close as is reasonably practicable to a network distribution point, to either of the following: i. a point as close as is reasonably practicable to a likely future location of a network distribution point location in the relevant 2-year period ii."
+376_UK_UK_Approved_Document_R_vol_1,"where there is no likely future location that is closer than the closest network distribution point already installed, from a network termination point to the corresponding access point or common access point."
+377_UK_UK_Approved_Document_R_vol_1,"Where the developer does not have access to land beyond the new dwelling, to an access point or common access point."
+378_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 19"
+379_UK_UK_Approved_Document_R_vol_1,"RA1, RA2ONLINE VERSIONONLINE VERSION 3.4 If an exemption is to be relied on for requirement RA1 or requirement RA2, Part B of the connectivity plan should also be completed and supporting evidence should be included with the connectivity plan when it is submitted."
+380_UK_UK_Approved_Document_R_vol_1,The following information should be provided.
+381_UK_UK_Approved_Document_R_vol_1,Evidence from at least two suitable network operators that demonstrates one of the following.
+382_UK_UK_Approved_Document_R_vol_1,"The cost of providing a connection to a gigabit-capable public electronic communications network exceeds the cost cap, with accompanying quotes provided by the suitable network operators."
+383_UK_UK_Approved_Document_R_vol_1,
+384_UK_UK_Approved_Document_R_vol_1,"The suitable network operators refused to provide a gigabit-capable public electronic communications network connection, and evidence demonstrating the reason for this refusal."
+385_UK_UK_Approved_Document_R_vol_1,The suitable network operators have not responded within the 30 working day period.
+386_UK_UK_Approved_Document_R_vol_1,Also provide evidence in support of any exemption relied upon for requirement RA1 to provide gigabit-ready physical infrastructure.
+387_UK_UK_Approved_Document_R_vol_1,"Developers can consider which forms of evidence may most effectively support connectivity plan statements, which will vary between development sites."
+388_UK_UK_Approved_Document_R_vol_1,"Written evidence, quotes and correspondence will be useful for some purposes."
+389_UK_UK_Approved_Document_R_vol_1,Maps or diagrams may also be useful for indicating infrastructure routes and locations.
+390_UK_UK_Approved_Document_R_vol_1,"Estimated timescales as to when infrastructure and connections are to be installed, which will also vary between development sites, are useful supporting evidence."
+391_UK_UK_Approved_Document_R_vol_1,Requirements RA1 and RA2 do not oblige network operators to reply to developers where they are contacted for offers to provide a relevant connection.
+392_UK_UK_Approved_Document_R_vol_1,"Developers may state in the connectivity plan, with supporting evidence, that at least two suitable network operators have declined to respond to the developer within the 30 working day period."
+393_UK_UK_Approved_Document_R_vol_1,Network operators may also respond to decline to provide connections which the developer can provide as evidence in reliance on the exemption.
+394_UK_UK_Approved_Document_R_vol_1,"Where an exemption is being relied on, Part B of the connectivity plan should be completed to provide one of the following."
+395_UK_UK_Approved_Document_R_vol_1,Confirmation that the next fastest broadband connection that falls within the cost cap is being installed and include the relevant technical information.
+396_UK_UK_Approved_Document_R_vol_1,"If no connection to any public electronic communications network is being provided, offers received from at least two suitable network operators confirming that they have refused to provide any connection to a public electronic communications network, or if no suitable network operator has responded within the 30 working day period, evidence to support this (see paragraph 2.20)."
+397_UK_UK_Approved_Document_R_vol_1,"If a next fastest broadband connection or no connection is being installed, confirmation that gigabit-ready physical infrastructure will still be installed from each new dwelling erected on the development site to one of the points listed in order of priority, as set out in paragraphs 1.8 to 1.15."
+398_UK_UK_Approved_Document_R_vol_1,"In addition to the information and particulars required of them under requirements RA1 and RA2, developers must provide all additional required information and particulars when making an application for Building Regulations approval."
+399_UK_UK_Approved_Document_R_vol_1,The connectivity plan does not contain sections for all information and particulars required under the Building Regulations.
+400_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+401_UK_UK_Approved_Document_R_vol_1,"RA1, RA2ONLINE VERSIONONLINE VERSION Appendix A: Key terms"
+402_UK_UK_Approved_Document_R_vol_1,NOTE:
+403_UK_UK_Approved_Document_R_vol_1,The items marked * are defined in regulation 44C and 44ZC of and Part R in Schedule 1 to the Building Regulations 2010.
+404_UK_UK_Approved_Document_R_vol_1,"Access point* A physical point located inside or outside the building, accessible to undertakings providing or authorised to provide public communications networks, where connection to the high-speed-ready in-building physical infrastructure, or as the case requires the gigabit-"
+405_UK_UK_Approved_Document_R_vol_1,"ready physical infrastructure, is made available."
+406_UK_UK_Approved_Document_R_vol_1,Building control body A local authority building control department or an approved inspector.
+407_UK_UK_Approved_Document_R_vol_1,"Connectivity plan A model form template for developers to provide information to accompany each application for Building Regulations approval containing sections for information that developers are required to provide, including the particulars of connection to a public electronic communications network, and sections for developers to provide further information to assist with the building control process."
+408_UK_UK_Approved_Document_R_vol_1,Distribution point* A distribution point for a gigabit-capable public electronic communications network (also referred to as a network distribution point).
+409_UK_UK_Approved_Document_R_vol_1,"Dwelling A self-contained unit designed to accommodate a single household, including dwelling houses and flats."
+410_UK_UK_Approved_Document_R_vol_1,Gigabit-capable electronic communications network* An electronic communications network that is capable of delivering broadband access services at download speeds of at least 1000 Mbps.
+411_UK_UK_Approved_Document_R_vol_1,Gigabit-capable public electronic communications network* A public electronic communications network that is a gigabit-capable electronic communications network.
+412_UK_UK_Approved_Document_R_vol_1,"Gigabit-ready physical infrastructure* Physical infrastructure or installations, including elements under joint ownership, intended to host wired or wireless gigabit-capable public electronic communications networks."
+413_UK_UK_Approved_Document_R_vol_1,High-speed electronic communications network* An electronic communications network which is capable of delivering broadband access services at speeds of at least 30 Mbps.
+414_UK_UK_Approved_Document_R_vol_1,Network operator A provider of a public electronic communications network.
+415_UK_UK_Approved_Document_R_vol_1,Network termination point* A physical point at which an occupier is provided with access to high-
+416_UK_UK_Approved_Document_R_vol_1,speed electronic communications networks.
+417_UK_UK_Approved_Document_R_vol_1,Public electronic communications network Has the meaning given by section 151(1) of the Communications Act 2003.
+418_UK_UK_Approved_Document_R_vol_1,Relevant 2-year period* The period of 2 years beginning with the earlier of the following:
+419_UK_UK_Approved_Document_R_vol_1,"the day on which a building notice, initial notice or public body’s notice relating to work to which this paragraph applies is given;"
+420_UK_UK_Approved_Document_R_vol_1,the day on which full plans relating to building work to which this paragraph applies are deposited.
+421_UK_UK_Approved_Document_R_vol_1,USO-standard public electronic communications network* A public electronic communications network that provides at least the minimum download speed for the time being specified by virtue of section 65(2B)(a) of the Communications Act 2003 in the universal service order (as defined by section 151(1) of that Act).
+422_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Approved Document R Volume 1, 2022 edition 21"
+423_UK_UK_Approved_Document_R_vol_1,"AONLINE VERSIONONLINE VERSION Appendix B: Model form connectivity plan Part A Guidance for completing this connectivity plan is available in Approved Document R, Volume 1: Physical infrastructure and network connection for new dwellings (at www.gov.uk/government/collections/approved-documents)."
+424_UK_UK_Approved_Document_R_vol_1,"Part A of this connectivity plan is to be completed when gigabit-ready physical infrastructure is to be installed, and connection to a gigabit-capable public electronic communications network is to be provided."
+425_UK_UK_Approved_Document_R_vol_1,Building control Building control body name (local authority or approved inspector):
+426_UK_UK_Approved_Document_R_vol_1,Building control application number:
+427_UK_UK_Approved_Document_R_vol_1,Development
+428_UK_UK_Approved_Document_R_vol_1,Development/address/plot number(s):
+429_UK_UK_Approved_Document_R_vol_1,Please also indicate where further phases of development are to be considered at a later date.
+430_UK_UK_Approved_Document_R_vol_1,Developer key person contact details
+431_UK_UK_Approved_Document_R_vol_1,Full name:
+432_UK_UK_Approved_Document_R_vol_1,Company/organisation:
+433_UK_UK_Approved_Document_R_vol_1,Address:
+434_UK_UK_Approved_Document_R_vol_1,Email:
+435_UK_UK_Approved_Document_R_vol_1,Telephone/mobile number:
+436_UK_UK_Approved_Document_R_vol_1,Network operator contact details
+437_UK_UK_Approved_Document_R_vol_1,Contact name:
+438_UK_UK_Approved_Document_R_vol_1,Company/organisation:
+439_UK_UK_Approved_Document_R_vol_1,Address:
+440_UK_UK_Approved_Document_R_vol_1,Email:
+441_UK_UK_Approved_Document_R_vol_1,Telephone/mobile number:
+442_UK_UK_Approved_Document_R_vol_1,Reference number (of contract/
+443_UK_UK_Approved_Document_R_vol_1,transaction with developer):
+444_UK_UK_Approved_Document_R_vol_1,Physical infrastructure provision
+445_UK_UK_Approved_Document_R_vol_1,Will you provide each dwelling on the development site with gigabit-ready physical infrastructure from the network termination point at each dwelling to the network distribution point?
+446_UK_UK_Approved_Document_R_vol_1,Yes.
+447_UK_UK_Approved_Document_R_vol_1,Please complete section 6 of Part A No. Please complete section 5b of Part A
+448_UK_UK_Approved_Document_R_vol_1,Will you provide each dwelling on the development site with gigabit-ready physical infrastructure from a network termination point to a point as close as is reasonably practicable to a current or likely future location of a network distribution point?
+449_UK_UK_Approved_Document_R_vol_1,Yes.
+450_UK_UK_Approved_Document_R_vol_1,Please complete section 6 of Part A No. Please complete section 5c of Part A
+451_UK_UK_Approved_Document_R_vol_1,Will you provide each dwelling on the development site with gigabit-ready physical infrastructure from a network termination point to an access point or common access point?
+452_UK_UK_Approved_Document_R_vol_1,Yes.
+453_UK_UK_Approved_Document_R_vol_1,Please complete section 6 of Part A
+454_UK_UK_Approved_Document_R_vol_1,"No. Please continue to Part B 22 Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+455_UK_UK_Approved_Document_R_vol_1,BONLINE VERSIONONLINE VERSION d. Will you provide each dwelling on the development site with connection to a gigabit-capable public electronic communications network?
+456_UK_UK_Approved_Document_R_vol_1,Yes.
+457_UK_UK_Approved_Document_R_vol_1,Please complete section 6 of Part A
+458_UK_UK_Approved_Document_R_vol_1,No. Please complete Part B 6 Evidence to support section 5
+459_UK_UK_Approved_Document_R_vol_1,Please attach evidence to support your answer to section 5.
+460_UK_UK_Approved_Document_R_vol_1,"This should include written conﬁrmation that a suitable provider of public electronic communications networks has offered for each dwelling to provide a connection to a gigabit-capable public electronic communications network as stated at section 5d, and details of which technology will be used to deliver this, e.g. full ﬁbre, satellite, fixed wireless or other technologies."
+461_UK_UK_Approved_Document_R_vol_1,"Developers may also wish to include information explaining why the relevant gigabit-ready physical infrastructure in sections 5a, 5b or 5c is being installed – this includes circumstances in which there is no current network distribution point towards which such infrastructure can be built to a reasonably practicable point of proximity, because the developer does not have the right to install the infrastructure on the relevant land."
+462_UK_UK_Approved_Document_R_vol_1,"Where this form refers to a likely future location of a network distribution point, this should be supported by evidence of where it is reasonable to expect the network distribution point to be located."
+463_UK_UK_Approved_Document_R_vol_1,Evidence would constitute information from a network operator confirming that a network distribution point will be installed within the relevant 2-year period and its location.
+464_UK_UK_Approved_Document_R_vol_1,"Where this form refers to the lack of a likely future location of a network distribution point, this should be supported by evidence of the efforts to ascertain from a network operator if a relevant network distribution point is to be installed within the relevant 2-year period."
+465_UK_UK_Approved_Document_R_vol_1,"To assist with the building control process, developers may wish to demonstrate planned infrastructure routes in relation to development site layouts and explain any factors that the infrastructure installation may need to take account of, such as specific conservation area conditions for current and future infrastructure installation, or obstacles that need to be circumvented."
+466_UK_UK_Approved_Document_R_vol_1,Part B
+467_UK_UK_Approved_Document_R_vol_1,Part B of this form is to be completed when an exemption is being relied upon.
+468_UK_UK_Approved_Document_R_vol_1,Exemption from requirement RA1
+469_UK_UK_Approved_Document_R_vol_1,Is/are the building/s exempt from the requirement to install gigabit-ready physical infrastructure?
+470_UK_UK_Approved_Document_R_vol_1,Yes.
+471_UK_UK_Approved_Document_R_vol_1,"Please complete section 1b and/or 1c, as appropriate"
+472_UK_UK_Approved_Document_R_vol_1,No. Please continue to section 3
+473_UK_UK_Approved_Document_R_vol_1,The following applies:
+474_UK_UK_Approved_Document_R_vol_1,"• The building/s is/are to be occupied by the Ministry of Defence or the armed forces of the Crown, or to be otherwise occupied for purposes connected to national security."
+475_UK_UK_Approved_Document_R_vol_1,Both of the following apply:
+476_UK_UK_Approved_Document_R_vol_1,"• The building/s is/are in an area isolated from a relevant public electronic communications network of the kind mentioned in regulation 44ZC(2) of the Building Regulations 2010, where the cost of a gigabit-capable, high-speed and USO-standard public electronic communications network connection exceeds the cost cap."
+477_UK_UK_Approved_Document_R_vol_1,"• The prospect of a gigabit-capable, high-speed and USO-standard public electronic communications network connection is considered too remote to justify equipping the building with gigabit-ready physical infrastructure (for full fibre, satellite, fixed wireless or other technologies) or an access point as set out in sections 5a, 5b or 5c in Part A of this form."
+478_UK_UK_Approved_Document_R_vol_1,"Please note other exemptions in the Building Regulations 2010, which are not included in this connectivity plan, including those set out in Classes 1 to 7 of Schedule 2 to the Building Regulations 2010."
+479_UK_UK_Approved_Document_R_vol_1,Evidence of exemption
+480_UK_UK_Approved_Document_R_vol_1,Please attach evidence to show how exemption 1b and/or 1c applies.
+481_UK_UK_Approved_Document_R_vol_1,Exemption from requirement RA2
+482_UK_UK_Approved_Document_R_vol_1,Is/are the building/s exempt from the requirement to provide a connection to a gigabit-capable public electronic communications network?
+483_UK_UK_Approved_Document_R_vol_1,Yes.
+484_UK_UK_Approved_Document_R_vol_1,"Please complete section 3b or 3c, as appropriate"
+485_UK_UK_Approved_Document_R_vol_1,No
+486_UK_UK_Approved_Document_R_vol_1,"Building Regulations 2010 Building Regulations 2010 Approved Document R Volume 1, 2022 edition Approved Document R Volume 1, 2022 edition 23"
+487_UK_UK_Approved_Document_R_vol_1,23
+488_UK_UK_Approved_Document_R_vol_1,BONLINE VERSIONONLINE VERSION b.
+489_UK_UK_Approved_Document_R_vol_1,The cost to provide each dwelling on the development site with the following exceed(s) the cost cap:
+490_UK_UK_Approved_Document_R_vol_1,Tick all that apply
+491_UK_UK_Approved_Document_R_vol_1,Gigabit-capable public electronic communications network connection
+492_UK_UK_Approved_Document_R_vol_1,High-speed public electronic communications network connection
+493_UK_UK_Approved_Document_R_vol_1,USO-standard public electronic communications network connection
+494_UK_UK_Approved_Document_R_vol_1,Note: Connection should be provided to the fastest public electronic communications network within the cost cap.
+495_UK_UK_Approved_Document_R_vol_1,The following applies:
+496_UK_UK_Approved_Document_R_vol_1,"• At least two suitable providers of public electronic communications networks have declined to provide a connection free of charge or at a cost not exceeding the cost cap, or have failed to respond to requests within 30 working days."
+497_UK_UK_Approved_Document_R_vol_1,Evidence of exemption
+498_UK_UK_Approved_Document_R_vol_1,"Please attach the following, from suitable providers of public electronic communications networks."
+499_UK_UK_Approved_Document_R_vol_1,• Evidence that the providers are suitable for the purposes in question.
+500_UK_UK_Approved_Document_R_vol_1,• One of the following.
+501_UK_UK_Approved_Document_R_vol_1,At least two offers from the providers showing that the cost of the relevant connection exceeds the cost cap (where 3b applies).
+502_UK_UK_Approved_Document_R_vol_1,At least two requests for offers for a relevant connection to which the providers have failed to respond within 30 working days (developers may wish to provide further evidence including evidence of follow-up requests) (where 3c applies).
+503_UK_UK_Approved_Document_R_vol_1,"Correspondence from at least two of the providers that declined to provide any connection to a relevant connection, clearly stating the reason why (where 3c applies)."
+504_UK_UK_Approved_Document_R_vol_1,"Approved Document R Volume 1, 2022 edition 24 Approved Document R Volume 1, 2022 edition Building Regulations 2010"
+505_UK_UK_Approved_Document_R_vol_1,Building Regulations 2010
+506_UK_UK_Approved_Document_R_vol_1,BONLINE VERSIONONLINE VERSION Appendix C: Documents referred to
+507_UK_UK_Approved_Document_R_vol_1,Legislation
+508_UK_UK_Approved_Document_R_vol_1,"(available via www.legislation.gov.uk) Building Regulations 2010, SI 2010/2214"
+509_UK_UK_Approved_Document_R_vol_1,"Communications Act 2003, c. 21"
+510_UK_UK_Approved_Document_R_vol_1,"Electronic Communications (Universal Service) (Broadband) Order 2018, SI 2018/445"
+511_UK_UK_Approved_Document_R_vol_1,Standards
+512_UK_UK_Approved_Document_R_vol_1,"PAS 2016 Next generation access for new build homes – Guide [2010]. Publicly Available Specification produced by BIS (as was, now BEIS) and the British Standards Institution (BSI)."
+513_UK_UK_Approved_Document_R_vol_1,Available at https://www.gov.uk/government/publications/
+514_UK_UK_Approved_Document_R_vol_1,pas-2016-2010-next-generation-access-for-new-
+515_UK_UK_Approved_Document_R_vol_1,build-homes-guide
+516_UK_UK_Approved_Document_R_vol_1,Other documents
+517_UK_UK_Approved_Document_R_vol_1,NHBC Foundation
+518_UK_UK_Approved_Document_R_vol_1,(www.nhbcfoundation.org)
+519_UK_UK_Approved_Document_R_vol_1,NF67
+520_UK_UK_Approved_Document_R_vol_1,The Connected Home: Designing and Building Technology into Today’s New Homes [2016]. Available at https://www.nhbcfoundation.org/
+521_UK_UK_Approved_Document_R_vol_1,publication/the-connected-home/
+522_UK_UK_Approved_Document_R_vol_1,Ofcom
+523_UK_UK_Approved_Document_R_vol_1,(www.ofcom.org)
+524_UK_UK_Approved_Document_R_vol_1,Connected Nations reports.
+525_UK_UK_Approved_Document_R_vol_1,Available at https://
+526_UK_UK_Approved_Document_R_vol_1,www.ofcom.org.uk/research-and-data/multi-
+527_UK_UK_Approved_Document_R_vol_1,sector-research/infrastructure-research
+528_UK_UK_Approved_Document_R_vol_1,Street Works UK
+529_UK_UK_Approved_Document_R_vol_1,"Street Works UK Guidelines on the Positioning and Colour Coding of Underground Utilities’ Apparatus, Volume 1, Issue 9 [2018]. Available at http://"
+530_UK_UK_Approved_Document_R_vol_1,streetworks.org.uk/wp-content/uploads/2018/11/
+531_UK_UK_Approved_Document_R_vol_1,VOL-1-reviewed.pdf Other sources
+532_UK_UK_Approved_Document_R_vol_1,UK Government Digital Connectivity Portal
+533_UK_UK_Approved_Document_R_vol_1,Available at https://www.gov.uk/guidance/digital-
+534_UK_UK_Approved_Document_R_vol_1,"connectivity-portal Building Regulations 2010 Approved Document R Volume 1, 2022 edition 25"
+535_UK_UK_Approved_Document_R_vol_1,CONLINE VERSIONONLINE VERSION

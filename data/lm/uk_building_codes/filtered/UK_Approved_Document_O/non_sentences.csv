@@ -1,0 +1,1172 @@
+id,text
+0_UK_UK_Approved_Document_O,Section 0: Introduction
+1_UK_UK_Approved_Document_O,Summary
+5_UK_UK_Approved_Document_O,Approved document section
+6_UK_UK_Approved_Document_O,Section 0: Introduction Section 1: Simplified method Section 2: Dynamic thermal modelling Related Building Regulations requirements
+7_UK_UK_Approved_Document_O,n/a
+8_UK_UK_Approved_Document_O,Requirement O1(1) of Schedule 1
+9_UK_UK_Approved_Document_O,Section 3: Ensuring the overheating mitigation strategy is usable
+10_UK_UK_Approved_Document_O,Requirement O1(2)(a) of Schedule 1
+11_UK_UK_Approved_Document_O,Section 4: Providing information
+12_UK_UK_Approved_Document_O,Regulation 40B Appendix A: Key terms
+13_UK_UK_Approved_Document_O,Appendix B: Compliance checklist
+14_UK_UK_Approved_Document_O,Appendix C: Areas with a high risk of its buildings overheating
+15_UK_UK_Approved_Document_O,Appendix D: Calculating equivalent area
+16_UK_UK_Approved_Document_O,Appendix E: Standards referred to
+17_UK_UK_Approved_Document_O,Appendix F: Documents referred to
+18_UK_UK_Approved_Document_O,n/a
+19_UK_UK_Approved_Document_O,n/a
+20_UK_UK_Approved_Document_O,n/a
+21_UK_UK_Approved_Document_O,n/a
+22_UK_UK_Approved_Document_O,n/a
+23_UK_UK_Approved_Document_O,n/a
+26_UK_UK_Approved_Document_O,Title
+27_UK_UK_Approved_Document_O,Purpose for which the building is intended to be used
+28_UK_UK_Approved_Document_O,Residential (dwellings)
+30_UK_UK_Approved_Document_O,Residential (institutional)
+35_UK_UK_Approved_Document_O,Residential (other)
+37_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 1"
+39_UK_UK_Approved_Document_O,Live/work units
+46_UK_UK_Approved_Document_O,NOTE:
+50_UK_UK_Approved_Document_O,Alternative approaches
+56_UK_UK_Approved_Document_O,Selected key interactions with other parts of the Building Regulations
+60_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+61_UK_UK_Approved_Document_O,ONLINE VERSIONONLINE VERSION Interaction with Part B
+65_UK_UK_Approved_Document_O,Interaction with Part F
+68_UK_UK_Approved_Document_O,Interaction with Part J
+72_UK_UK_Approved_Document_O,Interaction with Part L
+77_UK_UK_Approved_Document_O,Interaction with Part K and Part M
+78_UK_UK_Approved_Document_O,"Where manual controls are provided, they should be within reasonable reach of the occupants, to comply with Approved Documents K and M. Interaction with Part K"
+79_UK_UK_Approved_Document_O,"This approved document, Approved Document O, gives guidance on increased levels of protection from falling from openings compared to Part K. Interaction with Part Q"
+82_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 3"
+83_UK_UK_Approved_Document_O,ONLINE VERSIONONLINE VERSION Requirement O1
+85_UK_UK_Approved_Document_O,Limits on application
+86_UK_UK_Approved_Document_O,Requirement
+87_UK_UK_Approved_Document_O,Requirement
+88_UK_UK_Approved_Document_O,Overheating mitigation
+89_UK_UK_Approved_Document_O,"Reasonable provision must be made in respect of a dwelling, institution or any other building containing one or more rooms for residential purposes, other than a room in a hotel (“residences”) to—"
+92_UK_UK_Approved_Document_O,In meeting the obligations in paragraph (1)—
+95_UK_UK_Approved_Document_O,Intention
+100_UK_UK_Approved_Document_O,NOTE:
+106_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+107_UK_UK_Approved_Document_O,O1ONLINE VERSIONONLINE VERSION Section 1: Simplified method
+112_UK_UK_Approved_Document_O,Categorising residential buildings (simplified method)
+117_UK_UK_Approved_Document_O,NOTE:
+120_UK_UK_Approved_Document_O,NOTE:
+122_UK_UK_Approved_Document_O,NOTE:
+128_UK_UK_Approved_Document_O,Limiting solar gains
+132_UK_UK_Approved_Document_O,
+136_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 5"
+138_UK_UK_Approved_Document_O,High risk location
+139_UK_UK_Approved_Document_O,Moderate risk location
+140_UK_UK_Approved_Document_O,Largest glazed façade orientation
+141_UK_UK_Approved_Document_O,Maximum area of glazing (% floor area)
+142_UK_UK_Approved_Document_O,Maximum area of glazing in the most glazed room (% floor area of room)
+143_UK_UK_Approved_Document_O,Maximum area of glazing (% floor area)
+144_UK_UK_Approved_Document_O,Maximum area of glazing in the most glazed room (% floor area of room)
+145_UK_UK_Approved_Document_O,North
+146_UK_UK_Approved_Document_O,East
+147_UK_UK_Approved_Document_O,South
+148_UK_UK_Approved_Document_O,West
+149_UK_UK_Approved_Document_O,15
+150_UK_UK_Approved_Document_O,18
+151_UK_UK_Approved_Document_O,15
+152_UK_UK_Approved_Document_O,18
+153_UK_UK_Approved_Document_O,37
+154_UK_UK_Approved_Document_O,37
+155_UK_UK_Approved_Document_O,22
+156_UK_UK_Approved_Document_O,37
+157_UK_UK_Approved_Document_O,18
+158_UK_UK_Approved_Document_O,18
+159_UK_UK_Approved_Document_O,15
+160_UK_UK_Approved_Document_O,11
+161_UK_UK_Approved_Document_O,37
+162_UK_UK_Approved_Document_O,37
+163_UK_UK_Approved_Document_O,30
+164_UK_UK_Approved_Document_O,22
+165_UK_UK_Approved_Document_O,NOTE:
+167_UK_UK_Approved_Document_O,High risk location
+168_UK_UK_Approved_Document_O,Moderate risk location
+169_UK_UK_Approved_Document_O,Largest glazed façade orientation
+170_UK_UK_Approved_Document_O,Maximum area of glazing (% floor area)
+171_UK_UK_Approved_Document_O,Maximum area of glazing in the most glazed room (% floor area of room)
+172_UK_UK_Approved_Document_O,Maximum area of glazing (% floor area)
+173_UK_UK_Approved_Document_O,Maximum area of glazing in the most glazed room (% floor area of room)
+174_UK_UK_Approved_Document_O,North
+175_UK_UK_Approved_Document_O,East
+176_UK_UK_Approved_Document_O,South
+177_UK_UK_Approved_Document_O,West
+178_UK_UK_Approved_Document_O,15
+179_UK_UK_Approved_Document_O,11
+180_UK_UK_Approved_Document_O,11
+181_UK_UK_Approved_Document_O,11
+182_UK_UK_Approved_Document_O,26
+183_UK_UK_Approved_Document_O,18
+184_UK_UK_Approved_Document_O,11
+185_UK_UK_Approved_Document_O,18
+186_UK_UK_Approved_Document_O,18
+187_UK_UK_Approved_Document_O,18
+188_UK_UK_Approved_Document_O,15
+189_UK_UK_Approved_Document_O,11
+190_UK_UK_Approved_Document_O,26
+191_UK_UK_Approved_Document_O,26
+192_UK_UK_Approved_Document_O,15
+193_UK_UK_Approved_Document_O,11
+194_UK_UK_Approved_Document_O,NOTE:
+201_UK_UK_Approved_Document_O,Removing excess heat
+203_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+204_UK_UK_Approved_Document_O,O1Table 1.1 Limiting solar gains for buildings or parts of buildings with cross-ventilation(1)Table 1.2 Limiting solar gains for buildings or parts of buildings without cross-ventilation(1)ONLINE VERSIONONLINE VERSION Total minimum free area(1)
+205_UK_UK_Approved_Document_O,High risk location
+206_UK_UK_Approved_Document_O,Moderate risk location
+207_UK_UK_Approved_Document_O,The greater of the following: a. 6% of the floor area(2)
+208_UK_UK_Approved_Document_O,70% of the glazing area(3)
+209_UK_UK_Approved_Document_O,The greater of the following: a. 9% of the floor area(2)
+210_UK_UK_Approved_Document_O,55% of the glazing area(3) Bedroom minimum free area
+211_UK_UK_Approved_Document_O,13% of the floor area of the room(4)
+212_UK_UK_Approved_Document_O,4% of the floor area of the room(4)
+213_UK_UK_Approved_Document_O,NOTES:
+222_UK_UK_Approved_Document_O,Total minimum free area(1)
+223_UK_UK_Approved_Document_O,High risk location
+224_UK_UK_Approved_Document_O,Moderate risk location
+225_UK_UK_Approved_Document_O,The greater of the following: a. 10% of the floor area(2)
+226_UK_UK_Approved_Document_O,95% of the glazing area(3)
+227_UK_UK_Approved_Document_O,The greater of the following: a. 12% of the floor area(2)
+228_UK_UK_Approved_Document_O,80% of the glazing area(3) Bedroom minimum free area
+229_UK_UK_Approved_Document_O,13% of the floor area of the room(4)
+230_UK_UK_Approved_Document_O,4% of the floor area of the room(4)
+231_UK_UK_Approved_Document_O,NOTES:
+244_UK_UK_Approved_Document_O,NOTE:
+250_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 7"
+256_UK_UK_Approved_Document_O,NOTE:
+265_UK_UK_Approved_Document_O,NOTE:
+268_UK_UK_Approved_Document_O,Limits on CIBSE’s TM59 modelling
+277_UK_UK_Approved_Document_O,Be fully closed when the internal temperature falls below 22°C. 8
+278_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+287_UK_UK_Approved_Document_O,Acceptable strategies for reducing overheating risk
+290_UK_UK_Approved_Document_O,Shutters.
+291_UK_UK_Approved_Document_O,External blinds.
+292_UK_UK_Approved_Document_O,Overhangs.
+293_UK_UK_Approved_Document_O,Awnings.
+295_UK_UK_Approved_Document_O,Size.
+296_UK_UK_Approved_Document_O,Orientation.
+297_UK_UK_Approved_Document_O,g-value.
+304_UK_UK_Approved_Document_O,NOTE:
+306_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 9"
+307_UK_UK_Approved_Document_O,O1ONLINE VERSIONONLINE VERSION Removing excess heat
+312_UK_UK_Approved_Document_O,A mechanical cooling system
+316_UK_UK_Approved_Document_O,NOTE:
+319_UK_UK_Approved_Document_O,NOTE:
+323_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+324_UK_UK_Approved_Document_O,O1ONLINE VERSIONONLINE VERSION Requirement O1(2)(a)
+326_UK_UK_Approved_Document_O,Limits on application
+327_UK_UK_Approved_Document_O,Requirement
+328_UK_UK_Approved_Document_O,Requirement
+329_UK_UK_Approved_Document_O,Overheating mitigation
+330_UK_UK_Approved_Document_O,"Reasonable provision must be made in respect of a dwelling, institution or any other building containing one or more rooms for residential purposes, other than a room in a hotel (“residences”) to—"
+333_UK_UK_Approved_Document_O,In meeting the obligations in paragraph (1)—
+338_UK_UK_Approved_Document_O,Pollution – paragraph 3.5.
+342_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 11"
+343_UK_UK_Approved_Document_O,O1(2)(a)ONLINE VERSIONONLINE VERSION Section 3: Ensuring the overheating mitigation strategy is usable
+347_UK_UK_Approved_Document_O,Noise
+353_UK_UK_Approved_Document_O,NOTE:
+355_UK_UK_Approved_Document_O,Pollution
+358_UK_UK_Approved_Document_O,Security
+366_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+367_UK_UK_Approved_Document_O,O1(2)(a)ONLINE VERSIONONLINE VERSION Protection from falling
+375_UK_UK_Approved_Document_O,NOTE:
+377_UK_UK_Approved_Document_O,Change in floor level between inside and outside
+378_UK_UK_Approved_Document_O,Guarding height(1)
+379_UK_UK_Approved_Document_O,Less than 600mm
+380_UK_UK_Approved_Document_O,More than 600mm
+381_UK_UK_Approved_Document_O,See Approved Document K
+382_UK_UK_Approved_Document_O,Less than
+383_UK_UK_Approved_Document_O,100mm(2)
+384_UK_UK_Approved_Document_O,1m
+385_UK_UK_Approved_Document_O,NOTES:
+390_UK_UK_Approved_Document_O,Fixed guarding.
+391_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 13"
+392_UK_UK_Approved_Document_O,O1(2)(a)Table 3.1 Guarding heights ONLINE VERSIONONLINE VERSION Protection from entrapment
+399_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+400_UK_UK_Approved_Document_O,O1(2)(a)ONLINE VERSIONONLINE VERSION Regulation 40B: Providing information
+402_UK_UK_Approved_Document_O,Regulation
+403_UK_UK_Approved_Document_O,Information about overheating
+406_UK_UK_Approved_Document_O,Intention
+409_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 15"
+410_UK_UK_Approved_Document_O,R40BONLINE
+411_UK_UK_Approved_Document_O,VERSIONONLINE VERSION Section 4: Providing information
+429_UK_UK_Approved_Document_O,Home User Guide
+433_UK_UK_Approved_Document_O,NOTE:
+436_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+437_UK_UK_Approved_Document_O,R40BONLINE
+438_UK_UK_Approved_Document_O,VERSIONONLINE VERSION Appendix A: Key terms
+452_UK_UK_Approved_Document_O,NOTE:
+467_UK_UK_Approved_Document_O,"Building Regulations 2010 Approved Document O, 2021 edition 17"
+468_UK_UK_Approved_Document_O,AONLINE VERSIONONLINE VERSION Appendix B: Compliance checklist B1
+477_UK_UK_Approved_Document_O,Building and site details 1.1
+478_UK_UK_Approved_Document_O,Residential building name/number
+479_UK_UK_Approved_Document_O,Street
+480_UK_UK_Approved_Document_O,Town
+481_UK_UK_Approved_Document_O,County
+482_UK_UK_Approved_Document_O,Postcode
+483_UK_UK_Approved_Document_O,Proposed building use/type of building
+485_UK_UK_Approved_Document_O,Designer’s details 1.2
+486_UK_UK_Approved_Document_O,Designer’s name Company Address line 1
+487_UK_UK_Approved_Document_O,Address line 2
+488_UK_UK_Approved_Document_O,Postcode Telephone number
+489_UK_UK_Approved_Document_O,Email address
+490_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+492_UK_UK_Approved_Document_O,Part 2a – Simplified method (as detailed in Section 1)
+493_UK_UK_Approved_Document_O,Site details 2a.1
+494_UK_UK_Approved_Document_O,"Site location, assigned using paragraph 1.3(1)"
+495_UK_UK_Approved_Document_O,"Building category, assigned using paragraph 1.4"
+496_UK_UK_Approved_Document_O,Designed overheating mitigation strategy
+497_UK_UK_Approved_Document_O,2
+499_UK_UK_Approved_Document_O,Maximum area of glazing
+500_UK_UK_Approved_Document_O,Maximum area of glazing in the most glazed room
+501_UK_UK_Approved_Document_O,Shading strategy
+502_UK_UK_Approved_Document_O,Total minimum free area
+503_UK_UK_Approved_Document_O,Bedroom minimum free area
+504_UK_UK_Approved_Document_O,Designer’s declaration 2a.3
+505_UK_UK_Approved_Document_O,Designer’s name
+506_UK_UK_Approved_Document_O,Designer’s organisation
+507_UK_UK_Approved_Document_O,Designer’s signature
+508_UK_UK_Approved_Document_O,Registration number (if applicable)
+511_UK_UK_Approved_Document_O,"Building Regulations 2010 Building Regulations 2010 Approved Document O, 2021 edition Approved Document O, 2021 edition 19"
+512_UK_UK_Approved_Document_O,19
+513_UK_UK_Approved_Document_O,BONLINE VERSIONONLINE VERSION Part 2b – Dynamic thermal modelling method (as detailed in Section 2)
+514_UK_UK_Approved_Document_O,Modelling details Dynamic software name and version
+515_UK_UK_Approved_Document_O,"Weather file location used, including any additional, more extreme weather files Number of sample units modelled, including an explanation of why the size/selection has been chosen"
+516_UK_UK_Approved_Document_O,Modelled occupancy
+517_UK_UK_Approved_Document_O,"Has the project passed the assessment described in CIBSE’s TM59, taking into account the limits detailed in paragraphs 2.5 and 2.6?(1)"
+518_UK_UK_Approved_Document_O,Yes
+519_UK_UK_Approved_Document_O,No
+520_UK_UK_Approved_Document_O,Details of the occupancy profiles used
+521_UK_UK_Approved_Document_O,Details of the equipment profiles used
+522_UK_UK_Approved_Document_O,Details of the opening profiles used
+523_UK_UK_Approved_Document_O,Modelled overheating mitigation strategy
+524_UK_UK_Approved_Document_O,Free areas Infiltration and mechanical flow rates Window g-value
+525_UK_UK_Approved_Document_O,Shading strategy Mechanical cooling
+526_UK_UK_Approved_Document_O,Modelling results
+528_UK_UK_Approved_Document_O,Yes
+529_UK_UK_Approved_Document_O,No
+532_UK_UK_Approved_Document_O,Designer’s name
+533_UK_UK_Approved_Document_O,Designer’s organisation
+534_UK_UK_Approved_Document_O,Designer’s signature
+535_UK_UK_Approved_Document_O,Registration number (if applicable)
+538_UK_UK_Approved_Document_O,Yes
+539_UK_UK_Approved_Document_O,No
+540_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition 20 Approved Document O, 2021 edition Building Regulations 2010"
+541_UK_UK_Approved_Document_O,Building Regulations 2010
+543_UK_UK_Approved_Document_O,Builder’s declaration 3.1
+545_UK_UK_Approved_Document_O,Yes
+546_UK_UK_Approved_Document_O,No
+547_UK_UK_Approved_Document_O,Builder’s name
+548_UK_UK_Approved_Document_O,Builder’s organisation
+549_UK_UK_Approved_Document_O,Builder’s signature
+550_UK_UK_Approved_Document_O,Date of signature
+551_UK_UK_Approved_Document_O,Building control body inspector’s declaration 3.2
+553_UK_UK_Approved_Document_O,Yes
+554_UK_UK_Approved_Document_O,No
+555_UK_UK_Approved_Document_O,Inspector’s name
+556_UK_UK_Approved_Document_O,Inspector’s signature
+557_UK_UK_Approved_Document_O,Registration number (if applicable)
+558_UK_UK_Approved_Document_O,"Date of inspection Building Regulations 2010 Building Regulations 2010 Approved Document O, 2021 edition Approved Document O, 2021 edition 21"
+559_UK_UK_Approved_Document_O,21
+560_UK_UK_Approved_Document_O,BONLINE VERSIONONLINE VERSION Appendix C: Areas with a high risk of its buildings overheating
+565_UK_UK_Approved_Document_O,NOTE:
+568_UK_UK_Approved_Document_O,CR4
+569_UK_UK_Approved_Document_O,CR7
+570_UK_UK_Approved_Document_O,E1
+571_UK_UK_Approved_Document_O,E1W
+572_UK_UK_Approved_Document_O,E2
+573_UK_UK_Approved_Document_O,E3
+574_UK_UK_Approved_Document_O,E4
+575_UK_UK_Approved_Document_O,E5
+576_UK_UK_Approved_Document_O,E6
+577_UK_UK_Approved_Document_O,E7
+578_UK_UK_Approved_Document_O,E8
+579_UK_UK_Approved_Document_O,E9
+580_UK_UK_Approved_Document_O,E10
+581_UK_UK_Approved_Document_O,E11
+582_UK_UK_Approved_Document_O,E12
+583_UK_UK_Approved_Document_O,E13
+584_UK_UK_Approved_Document_O,E14
+585_UK_UK_Approved_Document_O,E15
+586_UK_UK_Approved_Document_O,E16
+587_UK_UK_Approved_Document_O,E17
+588_UK_UK_Approved_Document_O,E18
+589_UK_UK_Approved_Document_O,E20
+590_UK_UK_Approved_Document_O,EC1A
+591_UK_UK_Approved_Document_O,EC1M
+592_UK_UK_Approved_Document_O,EC1N
+593_UK_UK_Approved_Document_O,EC1R
+594_UK_UK_Approved_Document_O,EC1V
+595_UK_UK_Approved_Document_O,EC1Y
+596_UK_UK_Approved_Document_O,EC2A
+597_UK_UK_Approved_Document_O,EC2M
+598_UK_UK_Approved_Document_O,EC2N
+599_UK_UK_Approved_Document_O,EC2P
+600_UK_UK_Approved_Document_O,EC2R
+601_UK_UK_Approved_Document_O,EC2V
+602_UK_UK_Approved_Document_O,EC2Y
+603_UK_UK_Approved_Document_O,EC3A
+604_UK_UK_Approved_Document_O,EC3M
+605_UK_UK_Approved_Document_O,EC3N
+606_UK_UK_Approved_Document_O,EC3R
+607_UK_UK_Approved_Document_O,EC3V
+608_UK_UK_Approved_Document_O,EC4A
+609_UK_UK_Approved_Document_O,EC4M
+610_UK_UK_Approved_Document_O,EC4N
+611_UK_UK_Approved_Document_O,EC4R
+612_UK_UK_Approved_Document_O,EC4V
+613_UK_UK_Approved_Document_O,EC4Y
+614_UK_UK_Approved_Document_O,HA0
+615_UK_UK_Approved_Document_O,HA9
+616_UK_UK_Approved_Document_O,IG1
+617_UK_UK_Approved_Document_O,IG2
+618_UK_UK_Approved_Document_O,IG3
+619_UK_UK_Approved_Document_O,IG4
+620_UK_UK_Approved_Document_O,KT1
+621_UK_UK_Approved_Document_O,KT2
+622_UK_UK_Approved_Document_O,KT3
+623_UK_UK_Approved_Document_O,KT4
+624_UK_UK_Approved_Document_O,KT5
+625_UK_UK_Approved_Document_O,KT6
+626_UK_UK_Approved_Document_O,KT7
+627_UK_UK_Approved_Document_O,KT8
+628_UK_UK_Approved_Document_O,IG11
+629_UK_UK_Approved_Document_O,N1
+630_UK_UK_Approved_Document_O,N1C
+631_UK_UK_Approved_Document_O,N2
+632_UK_UK_Approved_Document_O,N4
+633_UK_UK_Approved_Document_O,N5
+634_UK_UK_Approved_Document_O,N6
+635_UK_UK_Approved_Document_O,N7
+636_UK_UK_Approved_Document_O,N8
+637_UK_UK_Approved_Document_O,N9
+638_UK_UK_Approved_Document_O,N13
+639_UK_UK_Approved_Document_O,N15
+640_UK_UK_Approved_Document_O,N16
+641_UK_UK_Approved_Document_O,N17
+642_UK_UK_Approved_Document_O,N18
+643_UK_UK_Approved_Document_O,N19
+644_UK_UK_Approved_Document_O,N22
+645_UK_UK_Approved_Document_O,NW1
+646_UK_UK_Approved_Document_O,NW2
+647_UK_UK_Approved_Document_O,NW3
+648_UK_UK_Approved_Document_O,NW5
+649_UK_UK_Approved_Document_O,NW6
+650_UK_UK_Approved_Document_O,NW8
+651_UK_UK_Approved_Document_O,NW10
+652_UK_UK_Approved_Document_O,NW11
+653_UK_UK_Approved_Document_O,RM8
+654_UK_UK_Approved_Document_O,RM9
+655_UK_UK_Approved_Document_O,RM10
+656_UK_UK_Approved_Document_O,SE1
+657_UK_UK_Approved_Document_O,SE2
+658_UK_UK_Approved_Document_O,SE3
+659_UK_UK_Approved_Document_O,SE4
+660_UK_UK_Approved_Document_O,SE5
+661_UK_UK_Approved_Document_O,SE6
+662_UK_UK_Approved_Document_O,SE7
+663_UK_UK_Approved_Document_O,SE8
+664_UK_UK_Approved_Document_O,SE9
+665_UK_UK_Approved_Document_O,SE10
+666_UK_UK_Approved_Document_O,SE11
+667_UK_UK_Approved_Document_O,SE12
+668_UK_UK_Approved_Document_O,SE13
+669_UK_UK_Approved_Document_O,SE14
+670_UK_UK_Approved_Document_O,SE15
+671_UK_UK_Approved_Document_O,SE16
+672_UK_UK_Approved_Document_O,SE17
+673_UK_UK_Approved_Document_O,SE18
+674_UK_UK_Approved_Document_O,SE19
+675_UK_UK_Approved_Document_O,SE20
+676_UK_UK_Approved_Document_O,SE21
+677_UK_UK_Approved_Document_O,SE22
+678_UK_UK_Approved_Document_O,SE23
+679_UK_UK_Approved_Document_O,SE24
+680_UK_UK_Approved_Document_O,SE25
+681_UK_UK_Approved_Document_O,SE26
+682_UK_UK_Approved_Document_O,SE27
+683_UK_UK_Approved_Document_O,SE28
+684_UK_UK_Approved_Document_O,SW1A
+685_UK_UK_Approved_Document_O,SW1E
+686_UK_UK_Approved_Document_O,SW1H
+687_UK_UK_Approved_Document_O,SW1P
+688_UK_UK_Approved_Document_O,SW1V
+689_UK_UK_Approved_Document_O,SW1W
+690_UK_UK_Approved_Document_O,SW1X
+691_UK_UK_Approved_Document_O,SW1Y
+692_UK_UK_Approved_Document_O,SW2
+693_UK_UK_Approved_Document_O,SW3
+694_UK_UK_Approved_Document_O,SW4
+695_UK_UK_Approved_Document_O,SW5
+696_UK_UK_Approved_Document_O,SW6
+697_UK_UK_Approved_Document_O,SW7
+698_UK_UK_Approved_Document_O,SW8
+699_UK_UK_Approved_Document_O,SW9
+700_UK_UK_Approved_Document_O,SW10
+701_UK_UK_Approved_Document_O,SW11
+702_UK_UK_Approved_Document_O,SW12
+703_UK_UK_Approved_Document_O,SW13
+704_UK_UK_Approved_Document_O,SW14
+705_UK_UK_Approved_Document_O,SW15
+706_UK_UK_Approved_Document_O,SW16
+707_UK_UK_Approved_Document_O,SW17
+708_UK_UK_Approved_Document_O,SW18
+709_UK_UK_Approved_Document_O,SW19
+710_UK_UK_Approved_Document_O,SW20
+711_UK_UK_Approved_Document_O,TW1
+712_UK_UK_Approved_Document_O,TW2
+713_UK_UK_Approved_Document_O,TW3
+714_UK_UK_Approved_Document_O,TW4
+715_UK_UK_Approved_Document_O,TW5
+716_UK_UK_Approved_Document_O,TW6
+717_UK_UK_Approved_Document_O,TW7
+718_UK_UK_Approved_Document_O,TW8
+719_UK_UK_Approved_Document_O,TW9
+720_UK_UK_Approved_Document_O,TW10
+721_UK_UK_Approved_Document_O,TW11
+722_UK_UK_Approved_Document_O,TW12
+723_UK_UK_Approved_Document_O,TW13
+724_UK_UK_Approved_Document_O,TW14
+725_UK_UK_Approved_Document_O,TW15
+726_UK_UK_Approved_Document_O,TW19
+727_UK_UK_Approved_Document_O,UB1
+728_UK_UK_Approved_Document_O,UB2
+729_UK_UK_Approved_Document_O,UB3
+730_UK_UK_Approved_Document_O,UB4
+731_UK_UK_Approved_Document_O,UB5
+732_UK_UK_Approved_Document_O,UB6
+733_UK_UK_Approved_Document_O,UB7
+734_UK_UK_Approved_Document_O,UB8
+735_UK_UK_Approved_Document_O,UB11
+736_UK_UK_Approved_Document_O,W1B
+737_UK_UK_Approved_Document_O,W1C
+738_UK_UK_Approved_Document_O,W1D
+739_UK_UK_Approved_Document_O,W1F
+740_UK_UK_Approved_Document_O,W1G
+741_UK_UK_Approved_Document_O,W1H
+742_UK_UK_Approved_Document_O,W1J
+743_UK_UK_Approved_Document_O,W1K
+744_UK_UK_Approved_Document_O,W1S
+745_UK_UK_Approved_Document_O,W1T
+746_UK_UK_Approved_Document_O,W1U
+747_UK_UK_Approved_Document_O,W1W
+748_UK_UK_Approved_Document_O,W2
+749_UK_UK_Approved_Document_O,W3
+750_UK_UK_Approved_Document_O,W4
+751_UK_UK_Approved_Document_O,W5
+752_UK_UK_Approved_Document_O,W6
+753_UK_UK_Approved_Document_O,W7
+754_UK_UK_Approved_Document_O,W8
+755_UK_UK_Approved_Document_O,W9
+756_UK_UK_Approved_Document_O,W10
+757_UK_UK_Approved_Document_O,W11
+758_UK_UK_Approved_Document_O,W12
+759_UK_UK_Approved_Document_O,W13
+760_UK_UK_Approved_Document_O,W14
+761_UK_UK_Approved_Document_O,WC1A
+762_UK_UK_Approved_Document_O,WC1B
+763_UK_UK_Approved_Document_O,WC1E
+764_UK_UK_Approved_Document_O,WC1H
+765_UK_UK_Approved_Document_O,WC1N
+766_UK_UK_Approved_Document_O,WC1R
+767_UK_UK_Approved_Document_O,WC1V
+768_UK_UK_Approved_Document_O,WC1X
+769_UK_UK_Approved_Document_O,WC2A
+770_UK_UK_Approved_Document_O,WC2B
+771_UK_UK_Approved_Document_O,WC2E
+772_UK_UK_Approved_Document_O,WC2H
+773_UK_UK_Approved_Document_O,WC2N
+774_UK_UK_Approved_Document_O,WC2R
+775_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+776_UK_UK_Approved_Document_O,CTable C1 Overheating risk at postcode area level in the high risk part of London ONLINE VERSIONONLINE VERSION C
+777_UK_UK_Approved_Document_O,Postcode area risk level High risk
+778_UK_UK_Approved_Document_O,Moderate risk
+779_UK_UK_Approved_Document_O,"Diagram C1 Overheating risk at postcode area level in the high risk part of London Building Regulations 2010 Approved Document O, 2021 edition 23"
+780_UK_UK_Approved_Document_O,ONLINE VERSIONONLINE VERSION Appendix D: Calculating equivalent area
+785_UK_UK_Approved_Document_O,"The discharge coefficient calculator, available online at: https://www.gov.uk/government/"
+788_UK_UK_Approved_Document_O,NOTE:
+791_UK_UK_Approved_Document_O,D3
+798_UK_UK_Approved_Document_O,Sash windows.
+800_UK_UK_Approved_Document_O,w
+801_UK_UK_Approved_Document_O,α
+802_UK_UK_Approved_Document_O,h
+803_UK_UK_Approved_Document_O,Diagram D1 Side hung window illustration with table references
+804_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+805_UK_UK_Approved_Document_O,"DONLINE VERSIONONLINE VERSION Opening height, h (m) Opening height, h (m) 0.5"
+806_UK_UK_Approved_Document_O,75
+807_UK_UK_Approved_Document_O,1
+808_UK_UK_Approved_Document_O,25
+809_UK_UK_Approved_Document_O,5
+810_UK_UK_Approved_Document_O,75
+811_UK_UK_Approved_Document_O,2
+812_UK_UK_Approved_Document_O,25
+813_UK_UK_Approved_Document_O,5
+814_UK_UK_Approved_Document_O,75
+815_UK_UK_Approved_Document_O,3
+816_UK_UK_Approved_Document_O,5
+817_UK_UK_Approved_Document_O,75
+818_UK_UK_Approved_Document_O,1
+819_UK_UK_Approved_Document_O,25
+820_UK_UK_Approved_Document_O,5
+821_UK_UK_Approved_Document_O,75
+822_UK_UK_Approved_Document_O,2
+823_UK_UK_Approved_Document_O,25
+824_UK_UK_Approved_Document_O,5
+825_UK_UK_Approved_Document_O,75
+826_UK_UK_Approved_Document_O,3
+827_UK_UK_Approved_Document_O,5
+828_UK_UK_Approved_Document_O,08
+829_UK_UK_Approved_Document_O,11
+830_UK_UK_Approved_Document_O,14
+831_UK_UK_Approved_Document_O,18
+832_UK_UK_Approved_Document_O,21
+833_UK_UK_Approved_Document_O,25
+834_UK_UK_Approved_Document_O,28
+835_UK_UK_Approved_Document_O,32
+836_UK_UK_Approved_Document_O,35
+837_UK_UK_Approved_Document_O,39
+838_UK_UK_Approved_Document_O,42
+839_UK_UK_Approved_Document_O,5
+840_UK_UK_Approved_Document_O,13
+841_UK_UK_Approved_Document_O,19
+842_UK_UK_Approved_Document_O,24
+843_UK_UK_Approved_Document_O,29
+844_UK_UK_Approved_Document_O,35
+845_UK_UK_Approved_Document_O,41
+846_UK_UK_Approved_Document_O,47
+847_UK_UK_Approved_Document_O,53
+848_UK_UK_Approved_Document_O,59
+849_UK_UK_Approved_Document_O,65
+850_UK_UK_Approved_Document_O,71
+851_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+852_UK_UK_Approved_Document_O,18
+853_UK_UK_Approved_Document_O,27
+854_UK_UK_Approved_Document_O,30
+855_UK_UK_Approved_Document_O,38
+856_UK_UK_Approved_Document_O,45
+857_UK_UK_Approved_Document_O,53
+858_UK_UK_Approved_Document_O,56
+859_UK_UK_Approved_Document_O,63
+860_UK_UK_Approved_Document_O,70
+861_UK_UK_Approved_Document_O,77
+862_UK_UK_Approved_Document_O,84
+863_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+864_UK_UK_Approved_Document_O,29
+865_UK_UK_Approved_Document_O,44
+866_UK_UK_Approved_Document_O,50
+867_UK_UK_Approved_Document_O,63
+868_UK_UK_Approved_Document_O,76
+869_UK_UK_Approved_Document_O,88
+870_UK_UK_Approved_Document_O,94
+871_UK_UK_Approved_Document_O,06
+872_UK_UK_Approved_Document_O,18
+873_UK_UK_Approved_Document_O,30
+874_UK_UK_Approved_Document_O,42
+875_UK_UK_Approved_Document_O,25
+876_UK_UK_Approved_Document_O,28
+877_UK_UK_Approved_Document_O,34
+878_UK_UK_Approved_Document_O,45
+879_UK_UK_Approved_Document_O,47
+880_UK_UK_Approved_Document_O,57
+881_UK_UK_Approved_Document_O,66
+882_UK_UK_Approved_Document_O,75
+883_UK_UK_Approved_Document_O,85
+884_UK_UK_Approved_Document_O,88
+885_UK_UK_Approved_Document_O,96
+886_UK_UK_Approved_Document_O,05
+887_UK_UK_Approved_Document_O,25
+888_UK_UK_Approved_Document_O,43
+889_UK_UK_Approved_Document_O,55
+890_UK_UK_Approved_Document_O,73
+891_UK_UK_Approved_Document_O,79
+892_UK_UK_Approved_Document_O,94
+893_UK_UK_Approved_Document_O,10
+894_UK_UK_Approved_Document_O,26
+895_UK_UK_Approved_Document_O,42
+896_UK_UK_Approved_Document_O,47
+897_UK_UK_Approved_Document_O,62
+898_UK_UK_Approved_Document_O,77
+899_UK_UK_Approved_Document_O,75
+900_UK_UK_Approved_Document_O,14
+901_UK_UK_Approved_Document_O,17
+902_UK_UK_Approved_Document_O,23
+903_UK_UK_Approved_Document_O,28
+904_UK_UK_Approved_Document_O,32
+905_UK_UK_Approved_Document_O,37
+906_UK_UK_Approved_Document_O,42
+907_UK_UK_Approved_Document_O,47
+908_UK_UK_Approved_Document_O,53
+909_UK_UK_Approved_Document_O,58
+910_UK_UK_Approved_Document_O,63
+911_UK_UK_Approved_Document_O,75
+912_UK_UK_Approved_Document_O,22
+913_UK_UK_Approved_Document_O,28
+914_UK_UK_Approved_Document_O,38
+915_UK_UK_Approved_Document_O,47
+916_UK_UK_Approved_Document_O,53
+917_UK_UK_Approved_Document_O,62
+918_UK_UK_Approved_Document_O,71
+919_UK_UK_Approved_Document_O,80
+920_UK_UK_Approved_Document_O,88
+921_UK_UK_Approved_Document_O,97
+922_UK_UK_Approved_Document_O,06
+923_UK_UK_Approved_Document_O,5
+924_UK_UK_Approved_Document_O,34
+925_UK_UK_Approved_Document_O,41
+926_UK_UK_Approved_Document_O,54
+927_UK_UK_Approved_Document_O,68
+928_UK_UK_Approved_Document_O,68
+929_UK_UK_Approved_Document_O,79
+930_UK_UK_Approved_Document_O,91
+931_UK_UK_Approved_Document_O,02
+932_UK_UK_Approved_Document_O,13
+933_UK_UK_Approved_Document_O,25
+934_UK_UK_Approved_Document_O,26
+935_UK_UK_Approved_Document_O,5
+936_UK_UK_Approved_Document_O,52
+937_UK_UK_Approved_Document_O,66
+938_UK_UK_Approved_Document_O,88
+939_UK_UK_Approved_Document_O,10
+940_UK_UK_Approved_Document_O,13
+941_UK_UK_Approved_Document_O,32
+942_UK_UK_Approved_Document_O,51
+943_UK_UK_Approved_Document_O,70
+944_UK_UK_Approved_Document_O,89
+945_UK_UK_Approved_Document_O,08
+946_UK_UK_Approved_Document_O,12
+947_UK_UK_Approved_Document_O,"Building Regulations 2010 Building Regulations 2010 Approved Document O, 2021 edition Approved Document O, 2021 edition 25"
+948_UK_UK_Approved_Document_O,25
+949_UK_UK_Approved_Document_O,DTable D1
+950_UK_UK_Approved_Document_O,"Equivalent area of a window with an opening angle of α = 10°Table D2 Equivalent area of a window with an opening angle of α = 20°ONLINE VERSIONONLINE VERSION Opening height, h (m) Opening height, h (m) 0.5"
+951_UK_UK_Approved_Document_O,75
+952_UK_UK_Approved_Document_O,1
+953_UK_UK_Approved_Document_O,25
+954_UK_UK_Approved_Document_O,5
+955_UK_UK_Approved_Document_O,75
+956_UK_UK_Approved_Document_O,2
+957_UK_UK_Approved_Document_O,25
+958_UK_UK_Approved_Document_O,5
+959_UK_UK_Approved_Document_O,75
+960_UK_UK_Approved_Document_O,3
+961_UK_UK_Approved_Document_O,5
+962_UK_UK_Approved_Document_O,75
+963_UK_UK_Approved_Document_O,1
+964_UK_UK_Approved_Document_O,25
+965_UK_UK_Approved_Document_O,5
+966_UK_UK_Approved_Document_O,75
+967_UK_UK_Approved_Document_O,2
+968_UK_UK_Approved_Document_O,25
+969_UK_UK_Approved_Document_O,5
+970_UK_UK_Approved_Document_O,75
+971_UK_UK_Approved_Document_O,3
+972_UK_UK_Approved_Document_O,5
+973_UK_UK_Approved_Document_O,16
+974_UK_UK_Approved_Document_O,24
+975_UK_UK_Approved_Document_O,30
+976_UK_UK_Approved_Document_O,38
+977_UK_UK_Approved_Document_O,45
+978_UK_UK_Approved_Document_O,53
+979_UK_UK_Approved_Document_O,60
+980_UK_UK_Approved_Document_O,68
+981_UK_UK_Approved_Document_O,75
+982_UK_UK_Approved_Document_O,83
+983_UK_UK_Approved_Document_O,90
+984_UK_UK_Approved_Document_O,5
+985_UK_UK_Approved_Document_O,18
+986_UK_UK_Approved_Document_O,27
+987_UK_UK_Approved_Document_O,35
+988_UK_UK_Approved_Document_O,43
+989_UK_UK_Approved_Document_O,52
+990_UK_UK_Approved_Document_O,61
+991_UK_UK_Approved_Document_O,69
+992_UK_UK_Approved_Document_O,78
+993_UK_UK_Approved_Document_O,86
+994_UK_UK_Approved_Document_O,95
+995_UK_UK_Approved_Document_O,04
+996_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+997_UK_UK_Approved_Document_O,36
+998_UK_UK_Approved_Document_O,54
+999_UK_UK_Approved_Document_O,64
+1000_UK_UK_Approved_Document_O,80
+1001_UK_UK_Approved_Document_O,96
+1002_UK_UK_Approved_Document_O,12
+1003_UK_UK_Approved_Document_O,21
+1004_UK_UK_Approved_Document_O,36
+1005_UK_UK_Approved_Document_O,51
+1006_UK_UK_Approved_Document_O,66
+1007_UK_UK_Approved_Document_O,81
+1008_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1009_UK_UK_Approved_Document_O,40
+1010_UK_UK_Approved_Document_O,61
+1011_UK_UK_Approved_Document_O,73
+1012_UK_UK_Approved_Document_O,91
+1013_UK_UK_Approved_Document_O,09
+1014_UK_UK_Approved_Document_O,27
+1015_UK_UK_Approved_Document_O,38
+1016_UK_UK_Approved_Document_O,56
+1017_UK_UK_Approved_Document_O,73
+1018_UK_UK_Approved_Document_O,90
+1019_UK_UK_Approved_Document_O,08
+1020_UK_UK_Approved_Document_O,25
+1021_UK_UK_Approved_Document_O,52
+1022_UK_UK_Approved_Document_O,68
+1023_UK_UK_Approved_Document_O,90
+1024_UK_UK_Approved_Document_O,00
+1025_UK_UK_Approved_Document_O,20
+1026_UK_UK_Approved_Document_O,40
+1027_UK_UK_Approved_Document_O,59
+1028_UK_UK_Approved_Document_O,79
+1029_UK_UK_Approved_Document_O,88
+1030_UK_UK_Approved_Document_O,07
+1031_UK_UK_Approved_Document_O,26
+1032_UK_UK_Approved_Document_O,25
+1033_UK_UK_Approved_Document_O,56
+1034_UK_UK_Approved_Document_O,76
+1035_UK_UK_Approved_Document_O,01
+1036_UK_UK_Approved_Document_O,14
+1037_UK_UK_Approved_Document_O,36
+1038_UK_UK_Approved_Document_O,59
+1039_UK_UK_Approved_Document_O,82
+1040_UK_UK_Approved_Document_O,05
+1041_UK_UK_Approved_Document_O,16
+1042_UK_UK_Approved_Document_O,38
+1043_UK_UK_Approved_Document_O,59
+1044_UK_UK_Approved_Document_O,75
+1045_UK_UK_Approved_Document_O,27
+1046_UK_UK_Approved_Document_O,36
+1047_UK_UK_Approved_Document_O,48
+1048_UK_UK_Approved_Document_O,60
+1049_UK_UK_Approved_Document_O,68
+1050_UK_UK_Approved_Document_O,79
+1051_UK_UK_Approved_Document_O,90
+1052_UK_UK_Approved_Document_O,02
+1053_UK_UK_Approved_Document_O,13
+1054_UK_UK_Approved_Document_O,24
+1055_UK_UK_Approved_Document_O,36
+1056_UK_UK_Approved_Document_O,75
+1057_UK_UK_Approved_Document_O,30
+1058_UK_UK_Approved_Document_O,41
+1059_UK_UK_Approved_Document_O,55
+1060_UK_UK_Approved_Document_O,68
+1061_UK_UK_Approved_Document_O,78
+1062_UK_UK_Approved_Document_O,91
+1063_UK_UK_Approved_Document_O,04
+1064_UK_UK_Approved_Document_O,17
+1065_UK_UK_Approved_Document_O,30
+1066_UK_UK_Approved_Document_O,43
+1067_UK_UK_Approved_Document_O,56
+1068_UK_UK_Approved_Document_O,5
+1069_UK_UK_Approved_Document_O,62
+1070_UK_UK_Approved_Document_O,81
+1071_UK_UK_Approved_Document_O,08
+1072_UK_UK_Approved_Document_O,36
+1073_UK_UK_Approved_Document_O,43
+1074_UK_UK_Approved_Document_O,67
+1075_UK_UK_Approved_Document_O,91
+1076_UK_UK_Approved_Document_O,15
+1077_UK_UK_Approved_Document_O,39
+1078_UK_UK_Approved_Document_O,63
+1079_UK_UK_Approved_Document_O,71
+1080_UK_UK_Approved_Document_O,5
+1081_UK_UK_Approved_Document_O,67
+1082_UK_UK_Approved_Document_O,91
+1083_UK_UK_Approved_Document_O,21
+1084_UK_UK_Approved_Document_O,52
+1085_UK_UK_Approved_Document_O,64
+1086_UK_UK_Approved_Document_O,91
+1087_UK_UK_Approved_Document_O,18
+1088_UK_UK_Approved_Document_O,46
+1089_UK_UK_Approved_Document_O,73
+1090_UK_UK_Approved_Document_O,00
+1091_UK_UK_Approved_Document_O,11
+1092_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition 26 Approved Document O, 2021 edition Building Regulations 2010"
+1093_UK_UK_Approved_Document_O,Building Regulations 2010
+1094_UK_UK_Approved_Document_O,DTable D3
+1095_UK_UK_Approved_Document_O,"Equivalent area of a window with an opening angle of α = 30°Table D4 Equivalent area of a window with an opening angle of α = 40°ONLINE VERSIONONLINE VERSION Opening height, h (m) Opening height, h (m) 0.5"
+1096_UK_UK_Approved_Document_O,75
+1097_UK_UK_Approved_Document_O,1
+1098_UK_UK_Approved_Document_O,25
+1099_UK_UK_Approved_Document_O,5
+1100_UK_UK_Approved_Document_O,75
+1101_UK_UK_Approved_Document_O,2
+1102_UK_UK_Approved_Document_O,25
+1103_UK_UK_Approved_Document_O,5
+1104_UK_UK_Approved_Document_O,75
+1105_UK_UK_Approved_Document_O,3
+1106_UK_UK_Approved_Document_O,5
+1107_UK_UK_Approved_Document_O,75
+1108_UK_UK_Approved_Document_O,1
+1109_UK_UK_Approved_Document_O,25
+1110_UK_UK_Approved_Document_O,5
+1111_UK_UK_Approved_Document_O,75
+1112_UK_UK_Approved_Document_O,2
+1113_UK_UK_Approved_Document_O,25
+1114_UK_UK_Approved_Document_O,5
+1115_UK_UK_Approved_Document_O,75
+1116_UK_UK_Approved_Document_O,3
+1117_UK_UK_Approved_Document_O,5
+1118_UK_UK_Approved_Document_O,20
+1119_UK_UK_Approved_Document_O,30
+1120_UK_UK_Approved_Document_O,38
+1121_UK_UK_Approved_Document_O,47
+1122_UK_UK_Approved_Document_O,56
+1123_UK_UK_Approved_Document_O,66
+1124_UK_UK_Approved_Document_O,75
+1125_UK_UK_Approved_Document_O,85
+1126_UK_UK_Approved_Document_O,94
+1127_UK_UK_Approved_Document_O,04
+1128_UK_UK_Approved_Document_O,13
+1129_UK_UK_Approved_Document_O,5
+1130_UK_UK_Approved_Document_O,21
+1131_UK_UK_Approved_Document_O,31
+1132_UK_UK_Approved_Document_O,40
+1133_UK_UK_Approved_Document_O,50
+1134_UK_UK_Approved_Document_O,60
+1135_UK_UK_Approved_Document_O,70
+1136_UK_UK_Approved_Document_O,79
+1137_UK_UK_Approved_Document_O,89
+1138_UK_UK_Approved_Document_O,99
+1139_UK_UK_Approved_Document_O,09
+1140_UK_UK_Approved_Document_O,19
+1141_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1142_UK_UK_Approved_Document_O,43
+1143_UK_UK_Approved_Document_O,65
+1144_UK_UK_Approved_Document_O,79
+1145_UK_UK_Approved_Document_O,98
+1146_UK_UK_Approved_Document_O,18
+1147_UK_UK_Approved_Document_O,38
+1148_UK_UK_Approved_Document_O,51
+1149_UK_UK_Approved_Document_O,69
+1150_UK_UK_Approved_Document_O,88
+1151_UK_UK_Approved_Document_O,07
+1152_UK_UK_Approved_Document_O,26
+1153_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1154_UK_UK_Approved_Document_O,45
+1155_UK_UK_Approved_Document_O,67
+1156_UK_UK_Approved_Document_O,83
+1157_UK_UK_Approved_Document_O,03
+1158_UK_UK_Approved_Document_O,24
+1159_UK_UK_Approved_Document_O,45
+1160_UK_UK_Approved_Document_O,59
+1161_UK_UK_Approved_Document_O,79
+1162_UK_UK_Approved_Document_O,99
+1163_UK_UK_Approved_Document_O,19
+1164_UK_UK_Approved_Document_O,38
+1165_UK_UK_Approved_Document_O,25
+1166_UK_UK_Approved_Document_O,59
+1167_UK_UK_Approved_Document_O,81
+1168_UK_UK_Approved_Document_O,08
+1169_UK_UK_Approved_Document_O,23
+1170_UK_UK_Approved_Document_O,48
+1171_UK_UK_Approved_Document_O,72
+1172_UK_UK_Approved_Document_O,97
+1173_UK_UK_Approved_Document_O,21
+1174_UK_UK_Approved_Document_O,35
+1175_UK_UK_Approved_Document_O,59
+1176_UK_UK_Approved_Document_O,82
+1177_UK_UK_Approved_Document_O,25
+1178_UK_UK_Approved_Document_O,60
+1179_UK_UK_Approved_Document_O,84
+1180_UK_UK_Approved_Document_O,12
+1181_UK_UK_Approved_Document_O,29
+1182_UK_UK_Approved_Document_O,55
+1183_UK_UK_Approved_Document_O,81
+1184_UK_UK_Approved_Document_O,07
+1185_UK_UK_Approved_Document_O,33
+1186_UK_UK_Approved_Document_O,48
+1187_UK_UK_Approved_Document_O,73
+1188_UK_UK_Approved_Document_O,98
+1189_UK_UK_Approved_Document_O,75
+1190_UK_UK_Approved_Document_O,32
+1191_UK_UK_Approved_Document_O,44
+1192_UK_UK_Approved_Document_O,59
+1193_UK_UK_Approved_Document_O,74
+1194_UK_UK_Approved_Document_O,85
+1195_UK_UK_Approved_Document_O,99
+1196_UK_UK_Approved_Document_O,13
+1197_UK_UK_Approved_Document_O,27
+1198_UK_UK_Approved_Document_O,41
+1199_UK_UK_Approved_Document_O,55
+1200_UK_UK_Approved_Document_O,69
+1201_UK_UK_Approved_Document_O,75
+1202_UK_UK_Approved_Document_O,34
+1203_UK_UK_Approved_Document_O,47
+1204_UK_UK_Approved_Document_O,62
+1205_UK_UK_Approved_Document_O,78
+1206_UK_UK_Approved_Document_O,89
+1207_UK_UK_Approved_Document_O,04
+1208_UK_UK_Approved_Document_O,19
+1209_UK_UK_Approved_Document_O,34
+1210_UK_UK_Approved_Document_O,49
+1211_UK_UK_Approved_Document_O,64
+1212_UK_UK_Approved_Document_O,79
+1213_UK_UK_Approved_Document_O,5
+1214_UK_UK_Approved_Document_O,70
+1215_UK_UK_Approved_Document_O,97
+1216_UK_UK_Approved_Document_O,29
+1217_UK_UK_Approved_Document_O,62
+1218_UK_UK_Approved_Document_O,77
+1219_UK_UK_Approved_Document_O,07
+1220_UK_UK_Approved_Document_O,36
+1221_UK_UK_Approved_Document_O,66
+1222_UK_UK_Approved_Document_O,95
+1223_UK_UK_Approved_Document_O,25
+1224_UK_UK_Approved_Document_O,39
+1225_UK_UK_Approved_Document_O,5
+1226_UK_UK_Approved_Document_O,72
+1227_UK_UK_Approved_Document_O,01
+1228_UK_UK_Approved_Document_O,34
+1229_UK_UK_Approved_Document_O,68
+1230_UK_UK_Approved_Document_O,86
+1231_UK_UK_Approved_Document_O,17
+1232_UK_UK_Approved_Document_O,48
+1233_UK_UK_Approved_Document_O,79
+1234_UK_UK_Approved_Document_O,10
+1235_UK_UK_Approved_Document_O,41
+1236_UK_UK_Approved_Document_O,58
+1237_UK_UK_Approved_Document_O,"Building Regulations 2010 Building Regulations 2010 Approved Document O, 2021 edition Approved Document O, 2021 edition 27"
+1238_UK_UK_Approved_Document_O,27
+1239_UK_UK_Approved_Document_O,"DTable D5 Equivalent area of a window with an opening angle of α = 50°Table D6 Equivalent area of a window with an opening angle of α = 60°ONLINE VERSIONONLINE VERSION Opening height, h (m) Opening height, h (m) 0.5"
+1240_UK_UK_Approved_Document_O,75
+1241_UK_UK_Approved_Document_O,1
+1242_UK_UK_Approved_Document_O,25
+1243_UK_UK_Approved_Document_O,5
+1244_UK_UK_Approved_Document_O,75
+1245_UK_UK_Approved_Document_O,2
+1246_UK_UK_Approved_Document_O,25
+1247_UK_UK_Approved_Document_O,5
+1248_UK_UK_Approved_Document_O,75
+1249_UK_UK_Approved_Document_O,3
+1250_UK_UK_Approved_Document_O,5
+1251_UK_UK_Approved_Document_O,75
+1252_UK_UK_Approved_Document_O,1
+1253_UK_UK_Approved_Document_O,25
+1254_UK_UK_Approved_Document_O,5
+1255_UK_UK_Approved_Document_O,75
+1256_UK_UK_Approved_Document_O,2
+1257_UK_UK_Approved_Document_O,25
+1258_UK_UK_Approved_Document_O,5
+1259_UK_UK_Approved_Document_O,75
+1260_UK_UK_Approved_Document_O,3
+1261_UK_UK_Approved_Document_O,5
+1262_UK_UK_Approved_Document_O,21
+1263_UK_UK_Approved_Document_O,32
+1264_UK_UK_Approved_Document_O,41
+1265_UK_UK_Approved_Document_O,51
+1266_UK_UK_Approved_Document_O,62
+1267_UK_UK_Approved_Document_O,72
+1268_UK_UK_Approved_Document_O,82
+1269_UK_UK_Approved_Document_O,93
+1270_UK_UK_Approved_Document_O,03
+1271_UK_UK_Approved_Document_O,13
+1272_UK_UK_Approved_Document_O,23
+1273_UK_UK_Approved_Document_O,5
+1274_UK_UK_Approved_Document_O,22
+1275_UK_UK_Approved_Document_O,33
+1276_UK_UK_Approved_Document_O,42
+1277_UK_UK_Approved_Document_O,53
+1278_UK_UK_Approved_Document_O,63
+1279_UK_UK_Approved_Document_O,74
+1280_UK_UK_Approved_Document_O,84
+1281_UK_UK_Approved_Document_O,95
+1282_UK_UK_Approved_Document_O,05
+1283_UK_UK_Approved_Document_O,16
+1284_UK_UK_Approved_Document_O,26
+1285_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1286_UK_UK_Approved_Document_O,46
+1287_UK_UK_Approved_Document_O,69
+1288_UK_UK_Approved_Document_O,85
+1289_UK_UK_Approved_Document_O,07
+1290_UK_UK_Approved_Document_O,28
+1291_UK_UK_Approved_Document_O,49
+1292_UK_UK_Approved_Document_O,65
+1293_UK_UK_Approved_Document_O,85
+1294_UK_UK_Approved_Document_O,06
+1295_UK_UK_Approved_Document_O,26
+1296_UK_UK_Approved_Document_O,47
+1297_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1298_UK_UK_Approved_Document_O,46
+1299_UK_UK_Approved_Document_O,70
+1300_UK_UK_Approved_Document_O,87
+1301_UK_UK_Approved_Document_O,09
+1302_UK_UK_Approved_Document_O,31
+1303_UK_UK_Approved_Document_O,53
+1304_UK_UK_Approved_Document_O,68
+1305_UK_UK_Approved_Document_O,90
+1306_UK_UK_Approved_Document_O,11
+1307_UK_UK_Approved_Document_O,32
+1308_UK_UK_Approved_Document_O,53
+1309_UK_UK_Approved_Document_O,25
+1310_UK_UK_Approved_Document_O,61
+1311_UK_UK_Approved_Document_O,86
+1312_UK_UK_Approved_Document_O,15
+1313_UK_UK_Approved_Document_O,33
+1314_UK_UK_Approved_Document_O,60
+1315_UK_UK_Approved_Document_O,87
+1316_UK_UK_Approved_Document_O,13
+1317_UK_UK_Approved_Document_O,40
+1318_UK_UK_Approved_Document_O,57
+1319_UK_UK_Approved_Document_O,83
+1320_UK_UK_Approved_Document_O,09
+1321_UK_UK_Approved_Document_O,25
+1322_UK_UK_Approved_Document_O,61
+1323_UK_UK_Approved_Document_O,87
+1324_UK_UK_Approved_Document_O,16
+1325_UK_UK_Approved_Document_O,36
+1326_UK_UK_Approved_Document_O,63
+1327_UK_UK_Approved_Document_O,91
+1328_UK_UK_Approved_Document_O,18
+1329_UK_UK_Approved_Document_O,45
+1330_UK_UK_Approved_Document_O,63
+1331_UK_UK_Approved_Document_O,90
+1332_UK_UK_Approved_Document_O,16
+1333_UK_UK_Approved_Document_O,75
+1334_UK_UK_Approved_Document_O,34
+1335_UK_UK_Approved_Document_O,48
+1336_UK_UK_Approved_Document_O,64
+1337_UK_UK_Approved_Document_O,80
+1338_UK_UK_Approved_Document_O,93
+1339_UK_UK_Approved_Document_O,08
+1340_UK_UK_Approved_Document_O,23
+1341_UK_UK_Approved_Document_O,39
+1342_UK_UK_Approved_Document_O,54
+1343_UK_UK_Approved_Document_O,70
+1344_UK_UK_Approved_Document_O,85
+1345_UK_UK_Approved_Document_O,75
+1346_UK_UK_Approved_Document_O,35
+1347_UK_UK_Approved_Document_O,49
+1348_UK_UK_Approved_Document_O,65
+1349_UK_UK_Approved_Document_O,82
+1350_UK_UK_Approved_Document_O,95
+1351_UK_UK_Approved_Document_O,11
+1352_UK_UK_Approved_Document_O,26
+1353_UK_UK_Approved_Document_O,42
+1354_UK_UK_Approved_Document_O,58
+1355_UK_UK_Approved_Document_O,74
+1356_UK_UK_Approved_Document_O,90
+1357_UK_UK_Approved_Document_O,5
+1358_UK_UK_Approved_Document_O,73
+1359_UK_UK_Approved_Document_O,03
+1360_UK_UK_Approved_Document_O,37
+1361_UK_UK_Approved_Document_O,72
+1362_UK_UK_Approved_Document_O,92
+1363_UK_UK_Approved_Document_O,24
+1364_UK_UK_Approved_Document_O,56
+1365_UK_UK_Approved_Document_O,88
+1366_UK_UK_Approved_Document_O,20
+1367_UK_UK_Approved_Document_O,52
+1368_UK_UK_Approved_Document_O,70
+1369_UK_UK_Approved_Document_O,5
+1370_UK_UK_Approved_Document_O,73
+1371_UK_UK_Approved_Document_O,04
+1372_UK_UK_Approved_Document_O,39
+1373_UK_UK_Approved_Document_O,74
+1374_UK_UK_Approved_Document_O,96
+1375_UK_UK_Approved_Document_O,29
+1376_UK_UK_Approved_Document_O,61
+1377_UK_UK_Approved_Document_O,94
+1378_UK_UK_Approved_Document_O,27
+1379_UK_UK_Approved_Document_O,60
+1380_UK_UK_Approved_Document_O,79
+1381_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition 28 Approved Document O, 2021 edition Building Regulations 2010"
+1382_UK_UK_Approved_Document_O,Building Regulations 2010
+1383_UK_UK_Approved_Document_O,DTable D7
+1384_UK_UK_Approved_Document_O,"Equivalent area of a window with an opening angle of α = 70°Table D8 Equivalent area of a window with an opening angle of α = 80°ONLINE VERSIONONLINE VERSION Opening height, h (m) 0.5"
+1385_UK_UK_Approved_Document_O,75
+1386_UK_UK_Approved_Document_O,1
+1387_UK_UK_Approved_Document_O,25
+1388_UK_UK_Approved_Document_O,5
+1389_UK_UK_Approved_Document_O,75
+1390_UK_UK_Approved_Document_O,2
+1391_UK_UK_Approved_Document_O,25
+1392_UK_UK_Approved_Document_O,5
+1393_UK_UK_Approved_Document_O,75
+1394_UK_UK_Approved_Document_O,3
+1395_UK_UK_Approved_Document_O,5
+1396_UK_UK_Approved_Document_O,22
+1397_UK_UK_Approved_Document_O,33
+1398_UK_UK_Approved_Document_O,43
+1399_UK_UK_Approved_Document_O,53
+1400_UK_UK_Approved_Document_O,64
+1401_UK_UK_Approved_Document_O,75
+1402_UK_UK_Approved_Document_O,86
+1403_UK_UK_Approved_Document_O,96
+1404_UK_UK_Approved_Document_O,07
+1405_UK_UK_Approved_Document_O,18
+1406_UK_UK_Approved_Document_O,28
+1407_UK_UK_Approved_Document_O,"Opening width, w (m) 1"
+1408_UK_UK_Approved_Document_O,47
+1409_UK_UK_Approved_Document_O,70
+1410_UK_UK_Approved_Document_O,88
+1411_UK_UK_Approved_Document_O,10
+1412_UK_UK_Approved_Document_O,33
+1413_UK_UK_Approved_Document_O,55
+1414_UK_UK_Approved_Document_O,71
+1415_UK_UK_Approved_Document_O,93
+1416_UK_UK_Approved_Document_O,14
+1417_UK_UK_Approved_Document_O,35
+1418_UK_UK_Approved_Document_O,57
+1419_UK_UK_Approved_Document_O,25
+1420_UK_UK_Approved_Document_O,61
+1421_UK_UK_Approved_Document_O,88
+1422_UK_UK_Approved_Document_O,17
+1423_UK_UK_Approved_Document_O,38
+1424_UK_UK_Approved_Document_O,66
+1425_UK_UK_Approved_Document_O,93
+1426_UK_UK_Approved_Document_O,21
+1427_UK_UK_Approved_Document_O,48
+1428_UK_UK_Approved_Document_O,67
+1429_UK_UK_Approved_Document_O,94
+1430_UK_UK_Approved_Document_O,21
+1431_UK_UK_Approved_Document_O,75
+1432_UK_UK_Approved_Document_O,35
+1433_UK_UK_Approved_Document_O,50
+1434_UK_UK_Approved_Document_O,66
+1435_UK_UK_Approved_Document_O,83
+1436_UK_UK_Approved_Document_O,96
+1437_UK_UK_Approved_Document_O,12
+1438_UK_UK_Approved_Document_O,28
+1439_UK_UK_Approved_Document_O,44
+1440_UK_UK_Approved_Document_O,60
+1441_UK_UK_Approved_Document_O,76
+1442_UK_UK_Approved_Document_O,93
+1443_UK_UK_Approved_Document_O,5
+1444_UK_UK_Approved_Document_O,74
+1445_UK_UK_Approved_Document_O,05
+1446_UK_UK_Approved_Document_O,40
+1447_UK_UK_Approved_Document_O,76
+1448_UK_UK_Approved_Document_O,99
+1449_UK_UK_Approved_Document_O,32
+1450_UK_UK_Approved_Document_O,65
+1451_UK_UK_Approved_Document_O,98
+1452_UK_UK_Approved_Document_O,31
+1453_UK_UK_Approved_Document_O,64
+1454_UK_UK_Approved_Document_O,85
+1455_UK_UK_Approved_Document_O,"Building Regulations 2010 Building Regulations 2010 Approved Document O, 2021 edition Approved Document O, 2021 edition 29"
+1456_UK_UK_Approved_Document_O,29
+1457_UK_UK_Approved_Document_O,DTable D9 Equivalent area of a window with an opening angle of α = 90°ONLINE VERSIONONLINE VERSION Appendix E: Standards referred to
+1459_UK_UK_Approved_Document_O,Performance testing of components/products for residential ventilation – Externally and internally mounted air transfer devices [2019]
+1460_UK_UK_Approved_Document_O,"Approved Document O, 2021 edition Building Regulations 2010"
+1461_UK_UK_Approved_Document_O,EONLINE VERSIONONLINE VERSION Appendix F: Documents referred to
+1462_UK_UK_Approved_Document_O,Legislation
+1463_UK_UK_Approved_Document_O,"(available via www.legislation.gov.uk) Building Act 1984, c. 55"
+1464_UK_UK_Approved_Document_O,Building (Approved Inspectors etc.)
+1465_UK_UK_Approved_Document_O,"Regulations 2010, SI 2010/2215"
+1466_UK_UK_Approved_Document_O,"Building Regulations 2010, SI 2010/2214"
+1467_UK_UK_Approved_Document_O,Other documents
+1468_UK_UK_Approved_Document_O,Association of Noise Consultants
+1469_UK_UK_Approved_Document_O,"(www.association-of-noise-consultants.co.uk) Acoustics, Ventilation and Overheating: Residential Design Guide [2020]"
+1470_UK_UK_Approved_Document_O,Measurement of Sound Levels in Buildings [2020]
+1471_UK_UK_Approved_Document_O,Building Research Establishment (BRE)
+1472_UK_UK_Approved_Document_O,(www.bre.co.uk)
+1473_UK_UK_Approved_Document_O,"BR 364 Solar Shading of Buildings, Second Edition [2018]"
+1474_UK_UK_Approved_Document_O,Chartered Institution of Building Services Engineers (CIBSE)
+1475_UK_UK_Approved_Document_O,(www.cibse.org)
+1476_UK_UK_Approved_Document_O,TM59 Design Methodology for the Assessment of Overheating Risk in Homes [2017]
+1477_UK_UK_Approved_Document_O,"Ministry of Housing, Communities and Local Government (MHCLG)"
+1478_UK_UK_Approved_Document_O,"National Model Design Code: Part 2 – Guidance Notes [2021] Building Regulations 2010 Approved Document O, 2021 edition 31"
+1479_UK_UK_Approved_Document_O,FONLINE VERSIONONLINE VERSION

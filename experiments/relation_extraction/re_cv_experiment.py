@@ -1,16 +1,19 @@
 # Created by Hansi at 22/08/2023
+
+# Relation extraction cross-validation experiment
 import argparse
 import os
 import shutil
 
-import pandas as pd
 import torch
+from datasets import Dataset
+from datasets import load_dataset
 from sklearn.model_selection import KFold, train_test_split
 
+from accord_nlp.text_classification.relation_extraction.re_model import REModel
 from experiments.relation_extraction.evaluation import macro_f1, macro_recall, macro_precision, cls_report, \
     print_eval_results
 from experiments.relation_extraction.re_config import re_args, SEED
-from accord_nlp.text_classification.relation_extraction.re_model import REModel
 
 parser = argparse.ArgumentParser(description='''evaluates multiple models  ''')
 parser.add_argument('--model_name', required=False, help='model name', default="bert-large-cased")
@@ -32,8 +35,10 @@ if arguments.wandb_api_key is not None:
 
 folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
-data_file_path = "data/re/all.csv"
-data_df = pd.read_csv(data_file_path, encoding='utf-8')
+train_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='train'))
+test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='test'))
+data_df = train_df.append(test_df, ignore_index=True)
+
 data_df = data_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
 data_df = data_df[['example_id', 'text', 'labels']]
 print(f'data size: {data_df.shape}')
@@ -51,7 +56,9 @@ for train, test in splits:
     if arguments.wandb_run_name is not None:
         re_args['wandb_kwargs'] = {'group': arguments.wandb_run_name, 'job_type': str(fold_i)}
     else:
-        re_args['wandb_kwargs'] = {'group': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}", 'job_type': str(fold_i)}
+        re_args['wandb_kwargs'] = {
+            'group': f"{MODEL_NAME.split('/')[-1]}_{re_args['learning_rate']}_{re_args['num_train_epochs']}",
+            'job_type': str(fold_i)}
 
     print('train: %s, test: %s' % (data_df.iloc[train].shape, data_df.iloc[test].shape))
     train_df = data_df.iloc[train]
@@ -85,6 +92,5 @@ for train, test in splits:
     fold_i = fold_i + 1
 
 # evaluation of all folds
-print_eval_results(all_actual_labels, all_predictions, eval_file_path=os.path.join(base_best_model_dir, 'full_eval.txt'))
-
-
+print_eval_results(all_actual_labels, all_predictions,
+                   eval_file_path=os.path.join(base_best_model_dir, 'full_eval.txt'))

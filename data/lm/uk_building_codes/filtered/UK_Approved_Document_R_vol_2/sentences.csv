@@ -1,0 +1,68 @@
+id,text
+1_UK_UK_Approved_Document_R_vol_2,"This approved document, Approved Document R, Volume 2, contains the following sections:"
+4_UK_UK_Approved_Document_R_vol_2,Appendix B: Documents referred to.
+5_UK_UK_Approved_Document_R_vol_2,"This approved document provides guidance on how to comply with the requirements for in-building physical infrastructure for high-speed electronic communication networks when new buildings are erected or when existing buildings are subject to major renovation works (but requirement R1 does not apply where requirement RA1 applies, e.g. when new dwellings are erected)."
+6_UK_UK_Approved_Document_R_vol_2,"A separate approved document, Approved Document R Volume 1, provides guidance on how to comply with the requirement to install gigabit-ready physical infrastructure and a connection to a gigabit-capable public electronic communications network when new dwellings or a building containing one or more dwellings are erected."
+9_UK_UK_Approved_Document_R_vol_2,This section deals with requirement R1 of Schedule 1 to the Building Regulations 2010.
+16_UK_UK_Approved_Document_R_vol_2,the erection of buildings; or
+17_UK_UK_Approved_Document_R_vol_2,major renovation works to buildings.
+20_UK_UK_Approved_Document_R_vol_2,"ready in-building physical infrastructure, up to a network termination point for high-speed electronic communications networks."
+21_UK_UK_Approved_Document_R_vol_2,"Where the work concerns a building containing more than one dwelling, the work must be carried out so as to ensure that the building is equipped in addition with a common access point for high-speed electronic communications networks."
+23_UK_UK_Approved_Document_R_vol_2,"In the Secretary of State’s view, a building will meet requirement R1 if it is designed and constructed so that high-speed electronic communications networks can be installed in the future."
+27_UK_UK_Approved_Document_R_vol_2,"Requirement R1 applies to new buildings and to existing buildings that are subject to major renovation works, including existing dwellings subject to such works."
+28_UK_UK_Approved_Document_R_vol_2,See paragraph 1.5 for types of building and building work that are exempt.
+29_UK_UK_Approved_Document_R_vol_2,"Requirement R1 does not apply where requirement RA1 applies, e.g. when a new dwelling or a building containing one or more dwellings is erected."
+30_UK_UK_Approved_Document_R_vol_2,"Requirement R1 is to provide the in-building physical infrastructure so that, in future, copper or fibre-optic cables or wireless devices capable of delivering broadband speeds greater than 30 Mbps can be installed."
+32_UK_UK_Approved_Document_R_vol_2,"A standard copper telephone cable, when connected to a service provider’s fibre network, can deliver broadband speeds up to 70 Mbps."
+33_UK_UK_Approved_Document_R_vol_2,"The requirement is to provide only the in-building physical infrastructure, from the service provider’s access point to the occupier’s network termination point."
+34_UK_UK_Approved_Document_R_vol_2,Multi-dwelling buildings that are subject to major renovation works must be equipped with a common access point capable of serving all the dwellings within the building.
+35_UK_UK_Approved_Document_R_vol_2,"It is not a requirement to provide any network cabling or equipment, or any in-building physical infrastructure that extends internally beyond the network termination point."
+36_UK_UK_Approved_Document_R_vol_2,Nor is it a requirement to provide any external or site-wide infrastructure beyond the access point or common access point.
+37_UK_UK_Approved_Document_R_vol_2,The developer and broadband service provider should agree who will install such external infrastructure.
+39_UK_UK_Approved_Document_R_vol_2,Requirement R1 does not apply to the following types of building or building work.
+40_UK_UK_Approved_Document_R_vol_2,The erection of a new dwelling described in requirements RA1 and RA2 for gigabit-ready physical infrastructure and gigabit-capable connections (see Approved Document R Volume 1: Physical infrastructure and network connection for new dwellings).
+42_UK_UK_Approved_Document_R_vol_2,house or a flat in a building that contains one or more dwellings.
+43_UK_UK_Approved_Document_R_vol_2,Dwellings include the following:
+46_UK_UK_Approved_Document_R_vol_2,"new dwellings in mixed-use developments (including live/work units, e.g. a flat (dwelling) that is a workplace for people who live there, and for people who do not live there)."
+47_UK_UK_Approved_Document_R_vol_2,"Buildings and work described in Classes 2 to 7 of Schedule 2 (Exempt buildings and work) to the Building Regulations – for example, sheds, domestic greenhouses, garages, conservatories and other small detached buildings with no sleeping accommodation."
+49_UK_UK_Approved_Document_R_vol_2,R1ONLINE VERSIONONLINE VERSION c. Buildings included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979.
+50_UK_UK_Approved_Document_R_vol_2,Buildings for which compliance with requirement R1 would unacceptably alter their character or appearance and that are either of the following:
+52_UK_UK_Approved_Document_R_vol_2,in a conservation area designated in accordance with section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+53_UK_UK_Approved_Document_R_vol_2,"Buildings occupied by the Ministry of Defence or the armed forces of the Crown, or otherwise occupied for purposes connected to national security."
+54_UK_UK_Approved_Document_R_vol_2,Buildings in isolated areas where the prospect of a high-speed connection is considered too remote to justify equipping the building with high-speed-ready in-building physical infrastructure or an access point or common access point.
+55_UK_UK_Approved_Document_R_vol_2,"For example, areas that are so isolated that no duty is placed on a communications provider (under the Electronic Communications (Universal Service) Order 2003) to meet the full cost of installing a telephone line to the building."
+56_UK_UK_Approved_Document_R_vol_2,Major renovation works if the cost of compliance with requirement R1 would be disproportionate to the benefit gained.
+57_UK_UK_Approved_Document_R_vol_2,"A person wishing to take advantage of this exemption would need to demonstrate to a building control body that in the particular case the cost of compliance would be unreasonable, taking into account the work required and the available alternative means of high-speed broadband delivery."
+59_UK_UK_Approved_Document_R_vol_2,"A suitable position for at least one network termination point should be identified for the erection of a new building other than a dwelling, for an existing building (including an existing individual dwelling) that is subject to major renovation works, and for each dwelling in an existing multi-dwelling building that is subject to major renovation works."
+60_UK_UK_Approved_Document_R_vol_2,Suitable ducting should be provided to connect all such network termination points to an appropriate access point or common access point.
+61_UK_UK_Approved_Document_R_vol_2,Diagram 11 shows a possible arrangement for the physical infrastructure for a single-occupancy building.
+62_UK_UK_Approved_Document_R_vol_2,The access point is on an outside wall and is connected by a through-wall duct2 to a network termination point.
+63_UK_UK_Approved_Document_R_vol_2,"The diagrams show underground ducts for network cables outside the building, but this does not preclude the use of overhead lines."
+64_UK_UK_Approved_Document_R_vol_2,"For copper cables, the duct may simply be a hole drilled in the wall."
+65_UK_UK_Approved_Document_R_vol_2,Note the downwards slope to the outside to prevent rainwater ingress.
+73_UK_UK_Approved_Document_R_vol_2,The diagram shows future connectivity by underground ducts for network cables outside the building.
+74_UK_UK_Approved_Document_R_vol_2,"However, it should be noted that alternative forms of connectivity may be used."
+77_UK_UK_Approved_Document_R_vol_2,A multi-dwelling building subject to major renovation works should have a common access point and dedicated vertical and horizontal service routes so that service providers can connect from the common access point to the network termination point in each dwelling.
+78_UK_UK_Approved_Document_R_vol_2,Diagram 2 shows a possible arrangement for the physical infrastructure for a multi-dwelling building.
+79_UK_UK_Approved_Document_R_vol_2,The in-building physical infrastructure should comply with all relevant requirements of the Building Regulations.
+80_UK_UK_Approved_Document_R_vol_2,"These include the requirements of Part B of Schedule 1 to the Building Regulations (Fire safety), including the need for fire stopping at penetrations through compartment walls, floors and ceilings, and the ban on combustible materials in the external walls of relevant buildings (regulation 7 of the Building Regulations)."
+93_UK_UK_Approved_Document_R_vol_2,The diagram shows future connectivity by underground ducts for network cables outside the building.
+94_UK_UK_Approved_Document_R_vol_2,"However, it should be noted that alternative forms of connectivity may be used."
+97_UK_UK_Approved_Document_R_vol_2,use multi-unit buildings.
+98_UK_UK_Approved_Document_R_vol_2,The requirement is for the common access point to serve each of the dwellings within the building.
+99_UK_UK_Approved_Document_R_vol_2,"Other units may also use the common access point, or they may have an entirely separate in-building physical infrastructure."
+103_UK_UK_Approved_Document_R_vol_2,The design of the in-building physical infrastructure should take account of satellite and wireless technologies where there is evidence that the required network speeds could be met.
+105_UK_UK_Approved_Document_R_vol_2,"Publicly Available Specification (PAS) 2016, Next generation access for new build homes – Guide, provides best practice guidance on infrastructure and cabling for broadband networks in new homes."
+107_UK_UK_Approved_Document_R_vol_2,"Developers should refer to PAS 2016 and manufacturers’ specifications for guidance on the duct dimensions, bending radii etc. required to allow copper and fibre optic cables to be installed in the future."
+108_UK_UK_Approved_Document_R_vol_2,The NHBC Foundation’s The Connected Home guide covers the benefits of current and future smart technologies.
+109_UK_UK_Approved_Document_R_vol_2,The guide recommends that housebuilders ‘future proof’ new homes by including additional hard wiring.
+113_UK_UK_Approved_Document_R_vol_2,The following are key terms used in this document and defined in regulation 44C of the Building Regulations 2010 (as amended):
+115_UK_UK_Approved_Document_R_vol_2,"ready physical infrastructure, is made available."
+116_UK_UK_Approved_Document_R_vol_2,High-speed electronic communications network An electronic communications network which is capable of delivering broadband access services at speeds of at least 30 Mbps.
+117_UK_UK_Approved_Document_R_vol_2,"High-speed-ready in-building physical infrastructure In-building physical infrastructure intended to host elements, or enable delivery, of high-speed electronic communications networks."
+118_UK_UK_Approved_Document_R_vol_2,"In-building physical infrastructure Physical infrastructure or installations at the end-user’s location, including elements under joint ownership, intended to host wired or wireless access networks, where such access networks are capable of delivering electronic communications services and connecting the building access point with the network termination point."
+119_UK_UK_Approved_Document_R_vol_2,"Major renovation works Works at the end-user’s location encompassing structural modifications of the entire in-building physical infrastructure, or of a significant part of it."
+121_UK_UK_Approved_Document_R_vol_2,speed electronic communications networks.
+123_UK_UK_Approved_Document_R_vol_2,The ‘occupier’ is the subscriber to the broadband service.
+124_UK_UK_Approved_Document_R_vol_2,"The termination point is typically inside the building, but may be outside the building for wireless connections."
+136_UK_UK_Approved_Document_R_vol_2,"PAS 2016 Next generation access for new build homes – Guide [2010]. Publicly Available Specification produced by BIS (as was, now BEIS) and the British Standards Institution (BSI)."

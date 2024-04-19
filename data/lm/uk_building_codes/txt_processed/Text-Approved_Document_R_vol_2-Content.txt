@@ -1,0 +1,226 @@
+Section 0: Introduction
+
+0.1  This approved document, Approved Document R, Volume 2, contains the following sections:
+
+Section 1: High-speed-ready in-building physical infrastructure
+
+Appendix A: Key terms
+
+Appendix B: Documents referred to.
+
+0.2  This approved document provides guidance on how to comply with the requirements for in-building physical infrastructure for high-speed electronic communication networks when new buildings are erected or when existing buildings are subject to major renovation works (but requirement R1 does not apply where requirement RA1 applies, e.g. when new dwellings are erected).
+
+0.3  A separate approved document, Approved Document R Volume 1, provides guidance on how to comply with the requirement to install gigabit-ready physical infrastructure and a connection to a gigabit-capable public electronic communications network when new dwellings or a building containing one or more dwellings are erected.
+
+Building Regulations 2010  Approved Document R Volume 2, 2022 edition 1
+
+ONLINE VERSIONONLINE VERSIONRequirement R1: High-speed-ready in-building physical infrastructure
+
+This section deals with requirement R1 of Schedule 1 to the Building Regulations 2010.
+
+Requirement
+
+Requirement
+
+Limits on application
+
+Part R Infrastructure for electronic communications
+
+High-speed-ready in-building physical infrastructure
+
+Requirement R1 applies to building work, other than building work to which paragraph RA1 applies, that consists of—
+
+(a)  the erection of buildings; or
+
+(b)  major renovation works to buildings.
+
+R1
+
+(1)   Building work must be carried out so as to ensure that the building is equipped with a high-speed-
+
+ready in-building physical infrastructure, up to a network termination point for high-speed electronic communications networks.
+
+(2)  Where the work concerns a building containing more than one dwelling, the work must be carried out so as to ensure that the building is equipped in addition with a common access point for high-speed electronic communications networks.
+
+Performance
+
+In the Secretary of State’s view, a building will meet requirement R1 if it is designed and constructed so that high-speed electronic communications networks can be installed in the future.
+
+2 Approved Document R Volume 2, 2022 edition Building Regulations 2010
+
+R1ONLINE VERSIONONLINE VERSIONSection 1: In-building physical infrastructure
+
+Introduction
+
+1.1  Requirement R1 applies to new buildings and to existing buildings that are subject to major renovation works, including existing dwellings subject to such works. See paragraph 1.5 for types of building and building work that are exempt. Requirement R1 does not apply where requirement RA1 applies, e.g. when a new dwelling or a building containing one or more dwellings is erected.
+
+1.2  Requirement R1 is to provide the in-building physical infrastructure so that, in future, copper or fibre-optic cables or wireless devices capable of delivering broadband speeds greater than 30 Mbps can be installed.
+
+NOTE: A standard copper telephone cable, when connected to a service provider’s fibre network, can deliver broadband speeds up to 70 Mbps.
+
+1.3  The requirement is to provide only the in-building physical infrastructure, from the service provider’s access point to the occupier’s network termination point. Multi-dwelling buildings that are subject to major renovation works must be equipped with a common access point capable of serving all the dwellings within the building.
+
+1.4 It is not a requirement to provide any network cabling or equipment, or any in-building physical infrastructure that extends internally beyond the network termination point. Nor is it a requirement to provide any external or site-wide infrastructure beyond the access point or common access point. The developer and broadband service provider should agree who will install such external infrastructure.
+
+Application
+
+1.5  Requirement R1 does not apply to the following types of building or building work.
+
+a.  The erection of a new dwelling described in requirements RA1 and RA2 for gigabit-ready physical infrastructure and gigabit-capable connections (see Approved Document R Volume 1: Physical infrastructure and network connection for new dwellings). A new dwelling may be a dwelling-
+
+house or a flat in a building that contains one or more dwellings.
+
+Dwellings include the following:
+
+i.  new housing developments
+
+ii.  self-build new dwellings
+
+iii.  new dwellings in mixed-use developments (including live/work units, e.g. a flat (dwelling) that is a workplace for people who live there, and for people who do not live there).
+
+b.  Buildings and work described in Classes 2 to 7 of Schedule 2 (Exempt buildings and work) to the Building Regulations – for example, sheds, domestic greenhouses, garages, conservatories and other small detached buildings with no sleeping accommodation.
+
+Building Regulations 2010  Approved Document R Volume 2, 2022 edition 3
+
+R1ONLINE VERSIONONLINE VERSIONc.  Buildings included in the schedule of monuments maintained under section 1 of the Ancient Monuments and Archaeological Areas Act 1979.
+
+d.  Buildings for which compliance with requirement R1 would unacceptably alter their character or appearance and that are either of the following:
+
+i. ii. listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990
+
+in a conservation area designated in accordance with section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+e.  Buildings occupied by the Ministry of Defence or the armed forces of the Crown, or otherwise occupied for purposes connected to national security.
+
+f.  Buildings in isolated areas where the prospect of a high-speed connection is considered too remote to justify equipping the building with high-speed-ready in-building physical infrastructure or an access point or common access point. For example, areas that are so isolated that no duty is placed on a communications provider (under the Electronic Communications (Universal Service) Order 2003) to meet the full cost of installing a telephone line to the building.
+
+g.  Major renovation works if the cost of compliance with requirement R1 would be disproportionate to the benefit gained. A person wishing to take advantage of this exemption would need to demonstrate to a building control body that in the particular case the cost of compliance would be unreasonable, taking into account the work required and the available alternative means of high-speed broadband delivery.
+
+Ductwork for copper and fibre-optic cables
+
+1.6  A suitable position for at least one network termination point should be identified for the  erection of a new building other than a dwelling, for an existing building (including an existing individual dwelling) that is subject to major renovation works, and for each dwelling in an existing multi-dwelling building that is subject to major renovation works. Suitable ducting should be provided to connect all such network termination points to an appropriate access point or common access point.
+
+1.7  Diagram 11 shows a possible arrangement for the physical infrastructure for a single-occupancy building. The access point is on an outside wall and is connected by a through-wall duct2 to a network termination point.
+
+1  The diagrams show underground ducts for network cables outside the building, but this does not preclude the use of overhead lines.
+
+2  For copper cables, the duct may simply be a hole drilled in the wall. Note the downwards slope to the outside to prevent rainwater ingress.
+
+4 Approved Document R Volume 2, 2022 edition Building Regulations 2010
+
+R1ONLINE VERSIONONLINE VERSIONAccess
+
+point
+
+Network
+
+termination
+
+point Service provider’s duct
+
+NOTE: The diagram shows future connectivity by underground ducts for network cables outside the building. However, it should be noted that alternative forms of connectivity may be used. Diagram 1  Schematic example of the in-building physical infrastructure for a single-
+
+occupancy building
+
+1.8  A multi-dwelling building subject to major renovation works should have a common access point and dedicated vertical and horizontal service routes so that service providers can connect from the common access point to the network termination point in each dwelling. Diagram 2 shows a possible arrangement for the physical infrastructure for a multi-dwelling building.
+
+1.9  The in-building physical infrastructure should comply with all relevant requirements of the  Building Regulations. These include the requirements of Part B of Schedule 1 to the Building Regulations (Fire safety), including the need for fire stopping at penetrations through compartment walls, floors and ceilings, and the ban on combustible materials in the external walls of relevant buildings (regulation 7 of the Building Regulations).
+
+Building Regulations 2010  Approved Document R Volume 2, 2022 edition 5
+
+R1ONLINE VERSIONONLINE VERSIONDucting/
+
+trays in
+
+riser
+
+Network
+
+termination
+
+point in each
+
+dwelling
+
+Common
+
+access point
+
+Service provider’s duct
+
+NOTE: The diagram shows future connectivity by underground ducts for network cables outside the building. However, it should be noted that alternative forms of connectivity may be used. Diagram 2   Schematic example of the in-building physical infrastructure for a multi-dwelling building that is subject to major renovation works
+
+1.10  This guidance (Approved Document R, Volume 2: Physical infrastructure for high-speed electronic communications networks) applies also to dwellings subject to major renovation works in mixed-
+
+use multi-unit buildings. The requirement is for the common access point to serve each of the dwellings within the building. Other units may also use the common access point, or they may have an entirely separate in-building physical infrastructure.
+
+6 Approved Document R Volume 2, 2022 edition Building Regulations 2010
+
+R1ONLINE VERSIONONLINE VERSION R1
+
+Satellite and wireless communications
+
+1.11  The design of the in-building physical infrastructure should take account of satellite and wireless technologies where there is evidence that the required network speeds could be met.
+
+Further information
+
+1.12  Publicly Available Specification (PAS) 2016, Next generation access for new build homes – Guide, provides best practice guidance on infrastructure and cabling for broadband networks in new homes. NOTE: Developers should refer to PAS 2016 and manufacturers’ specifications for guidance on the duct dimensions, bending radii etc. required to allow copper and fibre optic cables to be installed in the future.
+
+1.13  The NHBC Foundation’s The Connected Home guide covers the benefits of current and future smart technologies. The guide recommends that housebuilders ‘future proof’ new homes by including additional hard wiring.
+
+Building Regulations 2010  Approved Document R Volume 2, 2022 edition 7
+
+R1ONLINE VERSIONONLINE VERSIONA
+
+Appendix A: Key terms
+
+The following are key terms used in this document and defined in regulation 44C of the Building Regulations 2010 (as amended):
+
+Access point A physical point, located inside or outside the building, accessible to undertakings providing or authorised to provide public communications networks, where connection to the high-speed-ready in-building physical infrastructure, or as the case requires the gigabit-
+
+ready physical infrastructure, is made available.
+
+High-speed electronic communications network An electronic communications network which is capable of delivering broadband access services at speeds of at least 30 Mbps.
+
+High-speed-ready in-building physical infrastructure In-building physical infrastructure intended to host elements, or enable delivery, of high-speed electronic communications networks.
+
+In-building physical infrastructure Physical infrastructure or installations at the end-user’s location, including elements under joint ownership, intended to host wired or wireless access networks, where such access networks are capable of delivering electronic communications services and connecting the building access point with the network termination point.
+
+Major renovation works Works at the end-user’s location encompassing structural modifications of the entire in-building physical infrastructure, or of a significant part of it.
+
+Network termination point A physical point at which an occupier is provided with access to high-
+
+speed electronic communications networks.
+
+NOTE: The ‘occupier’ is the subscriber to the broadband service. The termination point is typically inside the building, but may be outside the building for wireless connections.
+
+8 Approved Document R Volume 2, 2022 edition Building Regulations 2010
+
+ONLINE VERSIONONLINE VERSIONAppendix B: Documents referred to
+
+Other documents
+
+NHBC Foundation
+
+(www.nhbcfoundation.org)
+
+NF67 The Connected Home: Designing and Building Technology into Today’s New Homes [2016]. Available at https://www.nhbcfoundation.org/
+
+publication/the-connected-home//
+
+Legislation
+
+(available via www.legislation.gov.uk) Ancient Monuments and Archaeological Areas Act 1979, c. 46
+
+Building Regulations 2010, SI 2010/2214 Planning (Listed Buildings and Conservation Areas) Act 1990, c. 9 Standards
+
+PAS 2016 Next generation access for new build homes – Guide [2010]. Publicly Available Specification produced by BIS (as was, now BEIS) and the British Standards Institution (BSI). Available at https://www.gov.uk/
+
+government/publications/pas-2016-2010-next-
+
+generationaccess-for-new-build-homes-guide
+
+Building Regulations 2010  Approved Document R Volume 2, 2022 edition 9
+
+BONLINE VERSIONONLINE VERSION
+

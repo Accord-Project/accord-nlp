@@ -1,0 +1,2392 @@
+LOADING AND GROUND MOVEMENT The Requirements
+
+This Approved Document deals with the following Requirements which are contained in the Building Regulations 2010.
+
+A1/2
+
+Requirement Loading
+
+Limits on application
+
+A1.  (1)  The building shall be constructed so that the combined dead, imposed  and  wind  loads  are  sustained  and  transmitted  by  it  to  the ground:
+
+(a)  safely; and
+
+(b)  without  causing  such  deflection  or  deformation  of  any part of the building, or such movement of the ground, as will impair the stability of any part of another building.
+
+(2)  In assessing whether a building complies with sub-paragraph (1) regard shall be had to the imposed and wind loads to which it is likely to be subjected in the ordinary course of its use for the purpose for which it is intended.
+
+Ground movement
+
+A2.  The  building  shall  be  constructed  so  that  ground  movement caused by:
+
+(a)  swelling, shrinkage or freezing of the subsoil; or
+
+(b)  land-slip  or  subsidence  (other  than  subsidence  arising  from  shrinkage),  in  so  far  as  the  risk  can  be  reasonably  foreseen,  will not impair the stability of any part of the building.
+
+5
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION 0.3  Grandstands and structures erected in places of public assembly may need to sustain the synchronous or rhythmic movement of numbers of people. It is important to ensure that the design of the structure takes these factors into account so as to avoid the structure being impaired or causing alarm to people using the structure.
+
+Guidance on the design and testing of grandstands may be found in ‘Dynamic performance requirements for permanent grandstands subject to crowd action – Recommendations for management, design and assessment’ published by The Institution of Structural Engineers, December 2008.
+
+A1/2
+
+Guidance
+
+Introduction 0.1 In the Secretary of State’s view the requirements of A1 and A2 will be met by following the recommendations given in the documents listed in Section 1 or by adopting the guidance in Sections 2-4:
+
+a.  Section 1 is relevant to all building types and lists Codes, Standards and other references for structural design and construction but, where they do not give precise guidance, consideration should be given to paragraph 0.2.
+
+b.  Section 2 give sizes of structural elements for certain residential buildings and other small buildings of traditional construction.
+
+c.  Section 3 gives guidance on the support and fixing of wall cladding.
+
+d.  Section 4 gives guidance where roofs are to be re-covered as a material alteration as defined in the Regulations.
+
+The safety of a structure depends on the 0.2 successful combination of design and completed construction, particularly:
+
+a.  The design should be based on identification of the hazards to which the structure is likely to be subjected and assessment of the risks. The selection of relevant critical situations for design should be made reflecting the conditions that can reasonably be foreseen during future use.
+
+b.  Loading. Dead load, imposed load and wind load should be in accordance with the current Codes of practice referred to in Section 1 of this document.
+
+c.  Properties of materials.
+
+d.  Detailed design and assembly of the structure.
+
+e.  Safety factors.
+
+f.  Workmanship.
+
+The numeric values of safety factors, whether expressed explicitly or implicitly in design equations, or design values, should be derived from considerations of the above aspects of design and construction as a whole. A change in any one of these aspects may disturb the safety of the structure.
+
+Loads used in calculations should allow for possible dynamic, concentrated and peak load effects that may occur.
+
+6
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONA1/2
+
+Section 1: Codes, standards and references for all building types
+
+Introduction
+
+1.1 and lists codes, standards and other references for structural design and construction.
+
+This section is relevant to all building types References
+
+1.2  Basis of structural design and loading:
+
+Eurocode: Basis of Structural Design
+
+BS EN 1990:2002+A1:2005 Eurocode – Basis  of structural design; with UK National Annex to BS EN 1990:2002+A1:2005
+
+Eurocode 1: Actions on Structures
+
+BS EN 1991-1-1:2002 Eurocode 1: Actions on structures – Part 1.1: General actions – Densities, self weight, imposed loads for buildings; with UK National Annex to BS EN 1991-1-1:2002
+
+BSI PD 6688-1-1:2011 Published Document – Recommendations for the design of structures to BS EN 1991-1-1
+
+BS EN 1991-1-3:2003 Eurocode 1: Actions on structures – Part 1.3: General actions – Snow loads; with UK National Annex to BS EN 1991-1-
+
+3:2003
+
+BS EN 1991-1-4:2005+A1:2010 Eurocode 1: Actions on structures – Part 1.4: General actions – Wind actions; with UK National Annex to  BS EN 1991-1-4:2005+A1:2010
+
+BSI PD 6688-1-4:2009 Published Document – Background information to the National Annex to BS EN 1991-1-4 and additional guidance
+
+BS EN 1991-1-5:2003 Eurocode 1: Actions on structures – Part 1.5: General actions – Thermal actions; with UK National Annex to BS EN 1991-
+
+1-5:2003
+
+BS EN 1991-1-6:2005 Eurocode 1: Actions on structures – Part 1.6: General actions – Actions during execution; with UK National Annex to BS EN 1996-1-6:2005
+
+BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006
+
+BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7
+
+BS EN 1991-3:2006 Eurocode 1: Actions on structures – Part 3: Actions induced by cranes and machinery; with UK National Annex to  BS EN 1991-3:2006
+
+Structural work of reinforced,  1.3 pre-stressed or plain concrete:
+
+Eurocode 2: Design of Concrete Structures
+
+BS EN 1992-1-1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to  BS EN 1992-1-1:2004
+
+BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and BS EN 1992-3
+
+BS EN 13670:2009 Execution of concrete structures
+
+1.4 Structural work of steel:
+
+Eurocode 3: Design of Steel Structures
+
+BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to  BS EN 1993-1-1:2005
+
+BS EN 1993-1-3:2006 Eurocode 3: Design of steel structures – Part 1.3: General rules – Supplementary rules for cold-formed members and sheeting; with UK National Annex to  BS EN 1993-1-3:2006
+
+BS EN 1993-1-4:2006 Eurocode 3: Design of steel structures – Part 1.4: General rules – Supplementary rules for stainless steels; with UK National Annex to BS EN 1993-1-4:2006
+
+BS EN 1993-1-5:2006 Eurocode 3: Design of steel structures – Part 1.5: Plated structural elements; with UK National Annex to BS EN 1993-1-5:2006
+
+BS EN 1993-1-6:2007 Eurocode 3: Design of steel structures – Part 1.6: Strength and stability of shell structures
+
+BS EN 1993-1-7:2007 Eurocode 3: Design of steel structures – Part 1.7: Plated structures subject to out of plane loading
+
+BS EN 1993-1-8:2005 Eurocode 3: Design of steel structures – Part 1.8: Design of joints; with UK National Annex to BS EN 1993-1-8:2005
+
+BS EN 1993-1-9:2005 Eurocode 3: Design of steel structures – Part 1.9: Fatigue; with UK National Annex to BS EN 1993-1-9:2005
+
+BSI PD 6695-1-9:2008 Published Document – Recommendations for the design of structures to BS EN 1993-1-9
+
+BS EN 1993-1-10:2005 Eurocode 3: Design of steel structures – Part 1.10: Material toughness and through-thickness properties; with UK National Annex to BS EN 1993-1-10:2005
+
+7
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  CODES, STANDARDS AND REFERENCES FOR ALL BUILDING TYPES
+
+BSI PD 6695-1-10:2009 Published Document – Recommendations for the design of structures to BS EN 1993-1-10
+
+BS EN 1993-1-11:2006 Eurocode 3: Design of steel structures – Part 1.11: Design of structures with tension components; with UK National Annex to BS EN 1993-1-11:2006
+
+BS EN 1993-1-12:2007 Eurocode 3: Design of steel structures – Part 1.12: Additional rules for the extension of EN 1993 up to steel grades  S 700; with UK National Annex to  BS EN 1993-1-12:2007
+
+BS EN 1993-5:2007 Eurocode 3: Design of steel structures – Part 5: Piling; with UK National Annex to BS EN 1993-5:2007+A1:2012
+
+BS EN 1993-6:2007 Eurocode 3: Design of steel structures – Part 6: Crane supporting structures; with UK National Annex to BS EN 1993-6:2007
+
+BS EN 1090-2:2008+A1:2011 Execution of steel structures and aluminium structures – Part 2: Technical requirements for the execution of steel structures
+
+BRE Digest 437 Industrial platform floors: mezzanine and raised storage
+
+Structural work of composite steel and 1.5 concrete:
+
+Eurocode 4: Design of Composite Steel and Concrete Structures
+
+BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004
+
+1.6 Structural work of timber:
+
+Eurocode 5: Design of Timber Structures
+
+BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-
+
+1:2004+A1:2008
+
+BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings
+
+BS 8103-3:2009 Structural design of low-rise buildings – Part 3: Code of practice for timber floors and roofs for housing
+
+1.7  Structural work of masonry:
+
+Eurocode 6: Design of Masonry Structures
+
+BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-1:2005+A1:2012
+
+BS EN 1996-2:2006 Eurocode 6: Design of masonry structures – Part 2: Design considerations, selection of materials and execution of masonry; with UK National Annex to BS EN 1996-2:2006
+
+BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to BS EN 1996-1-1 and BS EN 1996-2
+
+BS EN 1996-3:2006 Eurocode 6: Design of masonry structures – Part 3: Simplified calculation methods for unreinforced masonry structures; with UK National Annex to BS EN 1996-3:2006
+
+BS 8103-1:2011 Structural design of low-rise buildings – Part 1: Code of Practice for stability, site investigation, foundations, precast concrete floors and ground floor slabs for housing
+
+BS 8103-2:2005 Structural design of low-rise buildings – Part 2: Code of practice for masonry walls for housing
+
+1.8  Geotechnical work and foundations:
+
+Eurocode 7: Geotechnical Design
+
+BS EN 1997-1:2004 Eurocode 7: Geotechnical design – Part 1: General rules; with UK National Annex to BS EN 1997-1:2004
+
+BS EN 1997-2:2007 Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing; with UK National Annex to BS EN 1997-2:2007
+
+1.9  Seismic aspects:
+
+Eurocode 8: Design of Structures for Earthquake Resistance
+
+BS EN 1998-1:2004+A1:2013 Eurocode 8: Design of structures for earthquake resistance – Part 1: General rules, seismic actions and rules for buildings; with UK National Annex to BS EN 1998-1:2004
+
+BS EN 1998-5:2004 Eurocode 8: Design of structures for earthquake resistance – Part 5:  Foundations, retaining structures and geotechnical aspects; with UK National Annex to BS EN 1998-5:2004
+
+BSI PD 6698:2009 Published Document – Recommendations for the design of structures for earthquake resistance to BS EN 1998
+
+8
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONCODES, STANDARDS AND REFERENCES FOR ALL BUILDING TYPES  A1/2
+
+1.10  Structural work of aluminium:
+
+Eurocode 9: Design of Aluminium Structures
+
+BS EN 1999-1-1:2007+A1:2009 Eurocode 9:  Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-1:2007+A1:2009
+
+BS EN 1999-1-3:2007+A1:2011 Eurocode 9:  Design of aluminium structures – Part 1.3: Structures susceptible to fatigue; with UK National Annex to BS EN 1999-1-3:2007+A1:2011
+
+BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1: Recommendations for the design of aluminium structures to BS EN 1999
+
+BS EN 1999-1-4:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.4: Cold-
+
+formed structural sheeting; with UK National Annex to BS EN 1999-1-4:2007
+
+BS EN 1999-1-5:2007 Eurocode 9: Design of aluminium structures – Part 1.5: Shell structures; with UK National Annex to BS EN 1999-1-5:2007
+
+BS EN 1090-3:2008 Execution of steel structures and aluminium structures – Part 3: Technical requirements for aluminium structures
+
+BSI PD 6705-3:2009 Published Document – Structural use of steel and aluminium – Part 3:  Recommendations for the execution of aluminium structures to BS EN 1090-3
+
+Ground movement (Requirement A2b)
+
+1.11  There may be known or recorded conditions of ground instability, such as that arising from landslides, disused mines or unstable strata which, if ignored, can have a devastating effect on the safety of a building and its environs. Such conditions should be taken into account in the design of the building and its foundations. Attention is drawn to DOE Planning Policy Guidance Note 14 Development on unstable land (obtainable from The Stationery Office), which sets out the broad planning and technical issues relating to development on unstable land.
+
+The Department has also sponsored a series of reviews aimed at determining the scale and nature of problems arising from mining instability, natural underground cavities and adverse foundation conditions. Databases of both subsidence incidents and subsidence potential produced from these reviews are available from the following licence holders: British Geological Survey, Sir Kingsley Dunham Centre, Keyworth, Nottingham NG12 5GG.
+
+Landmark, 7 Abbey Court, Eagle Way, Exeter, Devon EX2 7HY.
+
+Peter Brett Associates, 16 Westcote Road, Reading, Berkshire RG20 2DE.
+
+Catalytic Data Ltd, The Spinney, 19 Woodlands Road, Bickley, Kent BRI 2AD.
+
+The reports from these reviews, which include 1:250,000 scale maps showing the distribution of the physical constraints, are available from the following organisations:
+
+Arup Geotechnics, 1991. Review of mining instability in Great Britain.
+
+Obtainable from Arup Geotechnics, Bede House, All Saints, Newcastle-upon-Tyne NE1 2EB.
+
+Applied Geology Ltd, 1994. Review of instability due to natural underground cavities in Great Britain.
+
+Obtainable from Kennedy & Donkin Ltd, 14 Calthorpe Road, Edgbaston, Birmingham B15 1TH.
+
+Wimpey Environmental Ltd, and National House Building Council, 1995. Foundation conditions in Great Britain, a guide for planners and developers. Obtainable from ESNR International Ltd, 16 Frogmore Road, Hemel Hempstead, Hertfordshire HP3 9RW.
+
+Existing buildings
+
+1.12  Compliance with Part A (Structure) is required in certain classes of change of use of a building, subject to the control of Regulations 5 and 6. Guidance relevant to structural appraisals related to ‘change of use’ is given in the following documents:
+
+a.   BRE Digest 366: Structural Appraisal of Existing Buildings, Including for a Material Change of Use, 2012
+
+b.   The Institution of Structural Engineers Technical Publication Appraisal of Existing Structures (third edition), 2010
+
+Note: With reference to ‘design checks’ in the referenced Institution of Structural Engineers’ Technical Publication the choice of various partial factors should be made to suit the individual circumstances of each case.
+
+9
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2 Section 2: Sizes of structural elements for certain residential buildings and other small buildings of traditional construction
+
+Pier A member which forms an integral part of a wall, in the form of a thickened section at intervals along the wall, so as to afford lateral support to the wall to which it is bonded or securely tied.
+
+Separating wall A wall or part of a wall which is common to adjoining buildings, and constructed to meet the requirements of regulation B3(2).
+
+Spacing The distance between the longitudinal centres of any two adjacent timber members of the same type, measured in the plane of floor, ceiling or roof structure.
+
+Span The distance measured along the centre line of a member between the centres of any two adjacent bearings or supports.
+
+Supported wall A wall to which lateral support is afforded by a combination of buttressing walls, piers or chimneys acting in conjunction with floor(s) or roof.
+
+Wind load The load due to the effect of wind pressure or suction.
+
+General
+
+2.1 This section is presented as follows:
+
+Section 2A
+
+Basic requirements for stability.
+
+Section 2B
+
+Sizes of certain timber members in floors and roofs for dwellings.
+
+Areas at risk from house longhorn beetle.
+
+Section 2C
+
+Thickness of masonry walls in certain residential buildings of not more than three storeys, small single-storey non-residential buildings and annexes.
+
+Section 2D
+
+Proportions for masonry chimneys.
+
+Section 2E
+
+Foundations of plain concrete.
+
+Section 2A gives general rules which must 2.2 be observed in following Sections 2B and 2C. Sections 2B to 2E may be used independently of each other.
+
+Throughout this section the diagrams are only illustrative and do not show all the details of construction.
+
+Definitions
+
+2.3 throughout this section:
+
+The following meanings apply to terms Buttressing wall A wall designed and constructed to afford lateral support to another wall perpendicular to it, support being provided from the base to the top of the wall.
+
+Cavity width The horizontal distance between the two leaves of a cavity wall.
+
+Compartment wall A wall constructed as a compartment wall to meet the requirements of regulation B3(2).
+
+Dead load The load due to the weight of all walls, permanent partitions, floors, roofs and finishes including services, and all other permanent construction.
+
+Imposed load The load assumed to be produced by the intended occupancy or use, including the weight of movable partitions, distributed, concentrated, impact, inertia and snow loads, but excluding wind loads.
+
+10
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONSection 2A: Basic requirements for stability
+
+A1/2
+
+2A1  This section must be used in conjunction with sections 2B and 2C and its principles relate to all forms of low-rise residential buildings.
+
+2A2  Adequate provision shall be made to ensure that the building is stable under the likely imposed and wind loading conditions. This will commonly necessitate meeting the following requirements:
+
+a.  That the overall size and proportioning of the building are limited in accordance with the specific guidance for each form of construction.
+
+b.  That a suitable layout of walls (both internal and external) forming a robust 3 dimensional box structure in plan is constructed with restriction on the maximum size of cells measured in accordance with the specific guidance for each form of construction. c.  That the internal and external walls are adequately connected either by masonry bonding or by using mechanical connections.
+
+d.  That the intermediate floors and roof are of such construction and interconnection with the walls that they provide local support to the walls and also act as horizontal diaphragms capable of transferring the wind forces to buttressing elements of the building.
+
+Note: A traditional cut timber roof (i.e. using rafters, purlins and ceiling joists) generally has sufficient built in resistance to instability and wind forces (e.g. from hipped ends, tiling battens, rigid sarking or the like). However, the need for diagonal rafter bracing equivalent to that recommended in BS EN 1995-1-1:2004 with its UK National Annex and additional guidance given in BSI Published Document PD 6693-1:2012 and BS 8103-3:2009 for trussed rafter roofs should be considered, especially for single-hipped and non-hipped roofs of greater than 40° pitch to detached houses.
+
+11
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+
+Section 2B: Sizes of certain timber members in floors and roofs for dwellings. Areas at risk from house longhorn beetle
+
+Sizing of members
+
+2B1  Guidance on the sizing of certain members in floors and roofs is given in ‘Span tables for solid timber members in floors, ceilings and roofs (excluding trussed rafter roofs) for dwellings’, published by TRADA, available from Chiltern House, Stocking Lane, Hughenden Valley, High Wycombe, Bucks HP14 4ND.
+
+Alternative guidance is available in BS EN 1995-
+
+1-1:2004 Design of timber structures with its UK National Annex and additional guidance given in BSI Published Document PD 6693-1:2012 and also BS 8103-3:2009 Structural design of low-
+
+rise buildings, Code of practice for timber floors and roofs for housing.
+
+In the geographical areas specified in House longhorn beetle
+
+2B2 Table 1, softwood timber for roof construction or fixed in the roof space, including ceiling joists within the void spaces of the roof, should be adequately treated to prevent infestation by the house longhorn beetle (Hylotrupes bajulus L.).
+
+Guidance on suitable preservative treatments  is given within The Wood Protection Association’s manual ‘Industrial Wood Preservation: Specification and Practice’ (2012), available  from 5C Flemming Court, Castleford,  West Yorkshire, WF10 5HW.
+
+Table 1  Areas at risk from house longhorn beetle
+
+Geographical area
+
+In the Borough of Bracknell Forest the parishes of Sandhurst and Crowthorne.
+
+The Borough of Elmbridge
+
+In the District of Hart, the parishes of Hawley and Yateley
+
+The District of Runnymede
+
+The Borough of Spelthorne
+
+The Borough of Surrey Heath
+
+In the Borough of Rushmoor, the area of the former district of Farnborough
+
+The Borough of Woking
+
+12
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION Section 2C: Thickness of walls in certain small buildings
+
+A1/2
+
+Application
+
+2C1  This section applies to the following building types:
+
+a.  residential buildings of not more than three storeys;
+
+b.  small single-storey non-residential buildings;
+
+c.  small buildings forming annexes to residential buildings (including garages and outbuildings).
+
+Wall types
+
+2C2  Only the types of wall given in Table 2, which must extend to the full storey height, and parapet walls are considered in this section.
+
+The use of this section
+
+2C3  When using this section it should be noted that:
+
+a.  this section must be used in conjunction with section 2A;
+
+b.  if wall thickness is to be determined according to paragraphs 2C5 to 2C13, all appropriate design conditions given in this section must be satisfied;
+
+c.  walls should comply with the relevant requirements of BS EN 1996-2:2006 with its UK National Annex and additional guidance given in BSI Published Document PD 6697:2010, except as regards the conditions given in paragraphs 2C4 and 2C14 to 2C38;
+
+d.  in formulating the guidance of this section the worst combination of circumstances likely to arise was taken into account. If a requirement of this part is considered too onerous in a particular case it may be appropriate to consider a minor departure on the basis of judgement and experience, or to show adequacy by calculation in respect of the aspect of the wall which is subject to the departure rather than for the entire wall;
+
+e.  the guidance given is based upon the compressive strengths of bricks and blocks being not less than indicated in Tables 6 and 7.
+
+BS EN 1996-1-1:2005 with its UK National Annex gives design strengths for walls where the suitability for use of masonry units of other compressive strengths is being considered.
+
+Conditions relating to the building of which the wall forms part
+
+2C4  This section applies only to buildings having proportions within the following parameters (see Diagrams 1 and 2):
+
+a.  residential buildings of not more than three storeys:
+
+i. the maximum height of the building measured from the lowest finished ground level adjoining the building to the highest point of any wall or roof should not be greater than 15m, subject to the limits of paragraph 2C16;
+
+ii.  the height of the building H should not exceed twice the least width of the building W1;
+
+iii.  the height of the wing H2 should not exceed twice the least width of the wing W2 where the projection P exceeds twice the width W2;
+
+b.  small single-storey non-residential buildings: height H should not exceed 3m and W (being the greatest length or width of the building) should not exceed 9m (see Diagram 2), subject to the limits of paragraph 2C16;
+
+c.  annexes: height H as variously indicated in Diagram 2 should not exceed 3m, subject to the limits of paragraph 2C16.
+
+Table 2  Wall types considered in this section
+
+Residential buildings of up to three storeys
+
+External walls
+
+Internal load-bearing walls
+
+Compartment walls
+
+Separating walls
+
+Small single-storey non-residential buildings and annexes
+
+External walls
+
+Internal load-bearing walls
+
+13
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 1   Size and proportion of residential buildings of not more than three storeys
+
+See para 2C4
+
+Thickness of walls
+
+2C5  General wall thickness may be determined according to this section provided:
+
+a.  conditions relating to the building of which the wall forms part (see paragraphs 2C4, 2C14 to 2C16, 2C38); and
+
+b.  conditions relating to the wall (see paragraphs 2C17 to 2C37) are met. (See Diagram 3.)
+
+2C6  Solid external walls, compartment walls and separating walls in coursed brickwork or blockwork: Solid walls constructed of coursed brickwork or blockwork should be at least as thick as 1/16 of the storey height. Further requirements are given in Table 3.
+
+2C7  Solid external walls, compartment walls and separating walls in uncoursed stone, flints, etc.: The thickness of walls constructed in uncoursed stone, flints, clunches, bricks or other burnt or vitrified material should not be less than 1.33 times the thickness determined by paragraph 2C6.
+
+2C8  Cavity walls in coursed brickwork or blockwork: All cavity walls should have leaves at least 90mm thick and cavities at least 50mm wide. The wall ties should have a horizontal spacing of 900mm and a vertical spacing of 450mm, or alternatively should be spaced such that the number of wall ties per square metre is not less than 2.5 ties/m2. Wall ties should also be provided, spaced not more than 300mm apart vertically, within a distance of 225mm from the vertical edges of all openings, movement joints and roof verges. For selection of wall ties for use in a range of cavity widths refer to Table 5. For specification of cavity wall ties refer to paragraph 2C19.
+
+For external walls, compartment walls and separating walls in cavity construction, the combined thickness of the two leaves plus 10mm should not be less than the thickness determined by paragraph 2C6 and Table 3 for a solid wall of the same height and length.
+
+2C9  Walls providing vertical support to other walls: Irrespective of the material used in the construction, a wall should not be less in thickness than any part of the wall to which it gives vertical support.
+
+2C10  Internal load-bearing walls in brickwork or blockwork (except compartment walls or separating walls): All internal load-bearing walls should have a thickness not less than:   (specified thickness from Table 3) 2
+
+– 5mm
+
+Continued on page 17
+
+14
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 2   Size and proportion of non-residential buildings and annexes
+
+See paras 2C4b and 2C4c
+
+15
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 3   Determination of wall thickness
+
+See para 2C5
+
+Table 3   Minimum thickness of certain external walls, compartment walls and separating walls
+
+Height of wall Not exceeding 3.5m Length of wall Minimum thickness of wall
+
+Not exceeding 12m 190mm for whole of its height
+
+Exceeding 3.5m but not exceeding 9m Not exceeding 9m 190mm for whole of its height
+
+Exceeding 9m  but not exceeding 12m 290mm from the base for the height of
+
+one storey and 190mm for the rest of its height
+
+Exceeding 9m but not exceeding 12m Not exceeding 9m 290mm from the base for the height of
+
+one storey and 190mm for the rest of its height
+
+Exceeding 9m but not exceeding 12m 290mm from the base for the height of two storeys and 190mm for the rest of its height
+
+16
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 4   Parapet walls: height
+
+See para 2C11
+
+except for a wall in the lowest storey of a three storey building, carrying load from both upper storeys, which should have a thickness as determined by the equation or 140mm whichever is the greatest.
+
+2C14  Maximum floor area: The guidance of this section assumes that no floor enclosed by structural walls on all sides exceeds 70m2, and that no floor without a structural wall on one side exceeds 36m2. (See Diagram 5.)
+
+2C11  Parapet walls: The minimum thickness and maximum height of parapet walls should be as given in Diagram 4.
+
+2C12  Single leaves of certain external walls: The single leaf of external walls of small single-
+
+storey non-residential buildings and of annexes need be only 90mm thick, notwithstanding paragraphs 2C38.
+
+2C13  Modular bricks and blocks: Where walls are constructed of bricks or blocks having modular dimensions, wall thicknesses prescribed in this section which derive from a dimension of brick or block may be reduced by an amount not exceeding the deviation from work size permitted by a British Standard relating to equivalent sized bricks or blocks made of the same material.
+
+2C15  Imposed loads on roofs, floors and ceilings: The design considerations given in this section are intended to be adequate for the imposed loads given in Table 4.
+
+2C16  Maximum height of buildings: The design guidance in this section is based on BS EN 1991-1-4:2005 with its UK National Annex. The maximum heights of buildings given in Table c of Diagram 7 correlate to various site exposure conditions and wind speeds. A map showing wind speeds is given in Figure 1 of Diagram 6.
+
+Conditions relating to the wall
+
+2C17  Maximum allowable length and height of the wall: This section does not deal with walls longer than 12m, measured from centre to centre of buttressing walls, piers or chimneys providing restraint, or with walls exceeding 12m in height (see also Table 3).
+
+17
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 5   Maximum floor area enclosed by structural walls
+
+See para 2C14
+
+Distributed load: 2.00kN/m²
+
+c.  concrete bricks or blocks to BS EN 771-3 or Table 4   Imposed loads
+
+Element Roof Floors Ceilings Loading
+
+Distributed loads
+
+1.00kN/m² for spans not exceeding 12m
+
+1.5kN/m² for spans not exceeding 6m
+
+Distributed load: 0.25kN/m²
+
+together with concentrated load: 0.9kN
+
+2C18  Rules of measurement for heights of walls and storeys: The height of a wall or a storey should be measured in accordance with the rules in Diagram 8.
+
+Construction materials and workmanship
+
+2C19  Wall ties: Wall ties should comply with  BS EN 845-1 and should be material references  1 or 3 in BS EN 845-1 Table A1 austenitic stainless  steel. Wall ties should be selected in accordance with Table 5 of this Approved Document.
+
+18
+
+2C20  Masonry units: Walls should be properly bonded and solidly put together with mortar and constructed of masonry units conforming to:
+
+a.  clay bricks or blocks to BS EN 771-1;
+
+b.  calcium silicate bricks or blocks to BS EN 771-2;
+
+BS EN 771-4;
+
+d.  manufactured stone to BS EN 771-5;
+
+e.  square dressed natural stone to the appropriate requirements described in  BS EN 771-6.
+
+2C21  Compressive strength of masonry units: Minimum compressive strength requirements for masonry units according to BS EN Standards are given in Diagram 9, where the masonry units indicated for Conditions A, B and C should have declared compressive strengths of not less than the values given in Table 6. Normalised compressive strengths for block sized clay and calcium silicate masonry units not complying with brick dimensional format are given in Table 7.
+
+Continued on page 25
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 6   Map showing wind speeds in m/s for maximum height of buildings
+
+See para 2C16
+
+24.5
+
+24
+
+24
+
+23.5
+
+23.5
+
+23
+
+22.5
+
+23
+
+22
+
+21.5
+
+21.5
+
+22.5
+
+23.5
+
+23
+
+22
+
+22.5
+
+24.5
+
+Figure 2   Orographic zones for Factor O
+
+Note: A more detailed approach for obtaining Factor O is given by Figure 3 Diagram 6.
+
+19
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 6   Map showing wind speeds in m/s for maximum height of buildings
+
+O
+
+r
+
+o
+
+t
+
+c
+
+a
+
+F
+
+y
+
+h
+
+p
+
+a
+
+r
+
+g
+
+o
+
+r
+
+O
+
+O
+
+r
+
+o
+
+t
+
+c
+
+a
+
+F
+
+y
+
+h
+
+p
+
+a
+
+r
+
+g
+
+o
+
+r
+
+O
+
+Steep slope < 1/3.3
+
+1.40
+
+1.35
+
+1.30
+
+1.25
+
+1.20
+
+1.15
+
+1.10
+
+1.05
+
+1.00
+
+0.5z
+
+z
+
+0.5Ld
+
+Orography significant in shaded area
+
+-X
+
+Lu
+
++X
+
+Ld
+
+Moderate slope = 1/5
+
+Shallow slope ≤ 1/10
+
+-1
+
+-0.5
+
+X/Lu
+
+0
+
+0.5
+
+1
+
+1.5
+
+X/Ld
+
+Figure 3a Orography Factor O for hills and ridges
+
+1.5Ld
+
+0.5z
+
+z
+
+-X
+
+Lu
+
++X
+
+Orography significant in shaded area
+
+Moderate slope = 1/5
+
+Steep slope < 1/3.3
+
+1.40
+
+1.35
+
+1.30
+
+1.25
+
+1.20
+
+1.15
+
+1.10
+
+1.05
+
+1.00
+
+Shallow slope ≤ 1/10
+
+-1
+
+-0.5
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+X/Lu
+
+Figure 3b Orography Factor O for cliffs and escarpments (interpolation between curves may be used)
+
+Figure 3 Alternative graphical method for determining Orography Factor O
+
+20
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 7   Maximum height of buildings
+
+Find the orographic
+
+zone for the site from Figure 2 Diagram 6 and
+
+obtain Factor O from
+
+Table a (or use Figure 3
+
+Diagram 6)
+
+Obtain value
+
+of Factor A
+
+from Table b
+
+Calculate value
+
+ of Factor S from:
+
+S = V × O × A
+
+Obtain maximum
+
+allowable
+
+building height
+
+from Table c
+
+Table a   Factor O
+
+Orographic category and average slope of whole
+
+hillside, ridge, cliff or escarpment
+
+Factor O
+
+Zone 2 Zone 3
+
+Zone 1
+
+Category 1: Nominally flat terrain, average slope < 1/20
+
+Category 2: Shallow terrain, average slope < 1/10
+
+Category 3: Moderately steep terrain, average slope < 1/5
+
+Category 4: Steep terrain, average slope > 1/5
+
+1.0
+
+1.12
+
+1.24
+
+1.36
+
+1.0
+
+1.07
+
+1.13
+
+1.20
+
+1.0
+
+1.05
+
+1.10
+
+1.15
+
+Table c  Maximum allowable building height in metres
+
+0
+
+50
+
+100
+
+150
+
+200
+
+300
+
+400
+
+500
+
+1.00
+
+1.05
+
+1.10
+
+1.15
+
+1.20
+
+1.30
+
+1.40
+
+1.50
+
+S
+
+≤ 25
+
+26
+
+27
+
+28
+
+29
+
+30
+
+31
+
+32
+
+33
+
+34
+
+35
+
+36
+
+37
+
+38
+
+39
+
+40
+
+41
+
+42
+
+43
+
+44
+
+< 2km
+
+2 to 20km > 50km
+
+< 2km 2 to 20km > 50km
+
+15
+
+11.5
+
+8
+
+5.5
+
+4
+
+3
+
+15
+
+13.5
+
+11
+
+8
+
+6.5
+
+5
+
+4
+
+3.5
+
+3
+
+15
+
+15
+
+14.5
+
+11
+
+8.5
+
+6.5
+
+5.5
+
+4.5
+
+3.5
+
+3
+
+15
+
+15
+
+15
+
+15
+
+12.5
+
+10
+
+8.5
+
+7
+
+6
+
+5.5
+
+4.5
+
+4
+
+3.5
+
+3
+
+15
+
+15
+
+15
+
+15
+
+15
+
+12.5
+
+11
+
+9.5
+
+8
+
+7
+
+6.5
+
+5.5
+
+5
+
+4.5
+
+4
+
+3.5
+
+3
+
+15
+
+15
+
+15
+
+15
+
+15
+
+15
+
+13.5
+
+11.5
+
+10
+
+87.5
+
+7.5
+
+6.5
+
+6
+
+5.5
+
+5
+
+4.5
+
+4
+
+3.5
+
+3.5
+
+3
+
+Notes:  Table a –  Outside of the zones shown in Table a, Factor O = 1.0.
+
+Table b –  For elevated sites where orography is significant a more accurate assessment of Factor A can be
+
+  obtained by using the altitude at the base of the topographic feature instead of the altitude at the site, Table c – see Figure 2 Diagram 6 or, alternatively, Figure 3 Diagram 6.
+
+i)  Sites in town less than 300m from the edge of the town should be assumed to be in country terrain.
+
+ii) Where a site is closer than 1km to an inland area of water which extends more than 1km in the wind
+
+  direction, the distance to the coast should be taken as < 2km.
+
+Interpolation may be used in Tables b and c.
+
+21
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 8   Measuring storey and wall heights
+
+See para 2C18
+
+22
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+BS EN 845-1 tie
+
+Type 1, 2, 3 or 4 to BSI PD 6697:2010 and selected on the basis of the design loading and design cavity width.
+
+Table 5   Cavity wall ties
+
+Nominal cavity width mm
+
+(Note 1)
+
+Tie length mm
+
+(Note 2)
+
+50 to 75
+
+76 to 100
+
+101 to 125
+
+126 to 150
+
+151 to 175
+
+176 to 300
+
+Notes:
+
+200
+
+225
+
+250
+
+275
+
+300
+
+(See Note 3)
+
+1.  Where face insulated blocks are used the cavity width should be measured from the face of the masonry unit.
+
+2.  The embedment depth of the tie should not be less than 50mm in both leaves.
+
+3.  For cavities wider than 175mm calculate the length as the nominal cavity width plus 125mm and select the nearest stock length. For wall ties requiring embedment depths in excess of 50mm, increase the calculated tie length accordingly.
+
+Table 6   Declared compressive strength of masonry units complying with BS EN 771-1 to -5 (N/mm2)
+
+Masonry unit Clay masonry units to BS EN 771-1 Calcium silicate masonry units to BS EN 771-2 Autoclaved  Manufactured
+
+Aggregate concrete masonry units to aerated conc. masonry units to BS EN 771-3  BS EN 771-4  BS EN 771-5
+
+stone
+
+masonry
+
+units to
+
+Condition A (See Diagram 9)
+
+Brick Block Group 1 6.0 Group 2 9.0 Group 1 6.0 Group 2 9.0 6.0 See Table 7 See Table 7 See Table 7 See Table 7 2.9* Condition B (See Diagram 9)
+
+Brick Block Group 1 9.0 Group 2 13.0 Group 1 9.0 Group 2 13.0
+
+9.0 See Table 7 See Table 7 See Table 7 See Table 7 7.3* Condition C (See Diagram 9)
+
+Brick Block Group 1 18.0 Group 2 25.0 Group 1 18.0 Group 2 25.0
+
+18.0 See Table 7 See Table 7 See Table 7 See Table 7 7.3* – 2.9
+
+– 7.3
+
+– 7.3
+
+* These values are dry strengths to BS EN 772-1
+
+Notes:
+
+1.   This table applies to Group 1 and Group 2 units.
+
+l
+
+l
+
+i
+
+w
+
+5
+
+-
+
+1
+
+7
+
+7
+
+N
+
+E
+
+S
+
+B
+
+h
+
+t
+
+i
+
+i
+
+w
+
+g
+
+n
+
+y
+
+p
+
+m
+
+o
+
+c
+
+l
+
+t
+
+i
+
+n
+
+u
+
+y
+
+n
+
+A
+
+C
+
+d
+
+n
+
+a
+
+B
+
+,
+
+A
+
+s
+
+n
+
+o
+
+i
+
+t
+
+i
+
+d
+
+n
+
+o
+
+c
+
+r
+
+o
+
+f
+
+l
+
+e
+
+b
+
+a
+
+t
+
+p
+
+e
+
+c
+
+c
+
+a
+
+e
+
+b
+
+2.   For the EN 771 series of standards for masonry units the values of declared compressive strengths (N/mm²) given in Table 6 are mean values.
+
+3.  Brick: a masonry unit having work sizes not exceeding 337.5mm in length or 112.5mm in height.
+
+4.  Block: a masonry unit exceeding either of the limiting work sizes of a brick and with a minimum height of 190mm. For blocks with smaller heights, excluding cuts or make up units, the strength requirements are as for brick except for solid external walls where the blocks should have a compressive strength at least equal to that shown for block for an inner leaf of a cavity wall in the same position.
+
+5.  Group 1 masonry units have not more than 25% formed voids (20% for frogged bricks). Group 2 masonry units have formed voids greater than 25%, but not more than 55%.
+
+23
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 9   Declared compressive strength of masonry units
+
+See para 2C21
+
+24
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Table 7   Normalised compressive strength of masonry units of clay and calcium silicate blocks complying with BS EN 771-1 and 2 (N/mm2)
+
+Standard Condition (See Diagram 9)
+
+Group 1 masonry units
+
+Group 2 masonry units
+
+Clay masonry units to BS EN 771-1 Calcium silicate masonry units to BS EN 771-2
+
+Notes:
+
+A
+
+B
+
+C
+
+5.0
+
+7.5
+
+15.0
+
+8.0
+
+11.0
+
+21.0
+
+1.  Values in this table are normalised compressive strengths (N/mm²). Compressive strengths of masonry units should be derived according to EN 772-1.
+
+2.  The table applies to clay and calcium silicate block masonry units where the work size exceeds 337.5mm in length or 112.5mm in height.
+
+3.  Group 1 masonry units have not more than 25% formed voids (20% for frogged bricks). Group 2 masonry units have formed voids greater than 25%, but not more than 55%.
+
+2C22  Mortar: Mortar should be:
+
+a. one of the following:
+
+i.  Mortar designation (iii) according to  BS EN 1996-1-1:2005 with its UK  National Annex;
+
+ii.  Strength class M4 according to  BS EN 998-2:2010;
+
+iii.  1:1:5 to 6 CEM I, lime, and fine aggregate measured by volume of dry materials, or
+
+b.  of equivalent or greater strength and durability to the specifications in a. above.
+
+Loading on walls
+
+2C23  Maximum span of floors: The maximum span for any floor supported by a wall is 6m where the span is measured centre to centre of bearing (see Diagram 10).
+
+2C24  Other loading conditions:
+
+a.  Vertical loading on walls should be distributed. This may be assumed for concrete floor slabs, precast concrete floors, and timber floors designed in accordance with section 2B, and where the bearing length for lintels is 150mm or greater. Where a lintel has a clear span of 1200mm or less the bearing length may be reduced to 100mm.
+
+b.  Differences in level of ground or other solid construction between one side of the wall and the other should be less than 4 times the thickness of the wall as shown in Diagram 11. c.  The combined dead and imposed load should not exceed 70kN/m at base of wall (see Diagram 11).
+
+d.  Walls should not be subjected to lateral load other than from wind, and that covered by paragraph 2C24(b).
+
+Diagram 10   Maximum span of floors
+
+See para 2C23
+
+End restraint
+
+2C25  Vertical lateral restraint to walls
+
+The ends of every wall should be bonded or otherwise securely tied throughout their full height to a buttressing wall, pier or chimney. Long walls may be provided with intermediate buttressing walls, piers or chimneys dividing the wall into distinct lengths within each storey; each distinct length is a supported wall for the purposes of this section. The intermediate buttressing walls, piers or chimneys should provide lateral restraint to the full height of the supported wall, but they may be staggered at each storey.
+
+2C26  Buttressing walls
+
+If the buttressing wall is not itself a supported wall its thickness T2 should not be less than:
+
+Continued on page 27
+
+25
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 11   Differences in ground levels
+
+See para 2C24b
+
+26
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 12   Openings in a buttressing wall
+
+See para 2C26
+
+a.  half the thickness required by this section for an external or separating wall of similar height and length less 5mm; or
+
+b.  75mm if the wall forms part of a dwelling house and does not exceed 6m in total height and 10m in length; and
+
+c.  90mm in other cases.
+
+The length of the buttressing wall should be at least 1/6 of the overall height of the supported wall and be bonded or securely tied to the supporting wall and at the other end to a buttressing wall, pier or chimney.
+
+The size of any opening in the buttressing wall should be restricted as shown in Diagram 12.
+
+2C27  Design criteria for piers and chimneys providing restraint:
+
+a.  piers should measure at least 3 times the thickness of the supported wall and chimneys twice the thickness, measured at right angles to the wall. Piers should have a minimum width of 190mm (see Diagram 13);
+
+b.  the sectional area on plan of chimneys (excluding openings for fireplaces and flues) should be not less than the area required for a pier in the same wall, and the overall thickness should not be less than twice the required thickness of the supported wall (see Diagram 13).
+
+Openings, recesses, overhangs and chases
+
+2C28  General:
+
+The number, size and position of openings and recesses should not impair the stability of a wall or the lateral restraint afforded by a buttressing wall to a supported wall. Construction over openings and recesses should be adequately supported.
+
+27
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 13   Buttressing
+
+See para 2C27
+
+2C29  Dimensional criteria for openings and recesses:
+
+The dimensional criteria are given in Diagram 14 and Table 8.
+
+No openings should be provided in walls below ground floor except for small holes for services and ventilation, etc. which should be limited to a maximum area of 0.1m² at not less than 2m centres.
+
+2C30  Chases:
+
+a.  vertical chases should not be deeper than 1/3 of the wall thickness or, in cavity walls, 1/3 of the thickness of the leaf;
+
+b.  horizontal chases should not be deeper than 1/6 of the thickness of the leaf of the wall;
+
+c.  chases should not be so positioned as to impair the stability of the wall, particularly where hollow blocks are used.
+
+2C31  Overhangs:
+
+The amount of any projection should not impair the stability of the wall.
+
+Lateral support by roofs and floors
+
+2C32  A wall in each storey of a building should extend to the full height of that storey, and have horizontal lateral supports to restrict movement of the wall at right angles to its plane.
+
+2C33  Floors and roofs should:
+
+a.  act to transfer lateral forces from walls to buttressing walls, piers or chimneys; and
+
+b.  be secured to the supported wall by connections specified in paragraphs 2C34 and 2C35.
+
+2C34  The requirements for lateral restraint of walls at roof and floor levels are given in Table 9 and guidance on satisfying the requirements is given in paragraphs 2C35 and 2C36. 2C35  Walls should be strapped to floors above ground level, at intervals not exceeding 2m and as shown in Diagram 15, by tension straps conforming to BS EN 845-1. For corrosion resistance purposes, the tension straps should be material reference 14 or 16.1 or 16.2 (galvanised steel) or other more resistant Continued on page 30
+
+28
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 14   Sizes of openings and recesses
+
+See para 2C29
+
+8  Take the value of the Factor X from Table 8, or it can be given the value 6, provided the declared compressive strength of the bricks or blocks (in the case of a cavity wall – in the loaded leaf) is not less than 7.3N/mm2.
+
+Table 8   Value of Factor ‘X’ (see Diagram 14)
+
+Nature of roof span Minimum  thickness of roof span (m)  wall inner (mm)
+
+Maximum Roof spans parallel to wall Not applicable
+
+Timber roof spans into wall
+
+9 100 90 100 90 Table 9   Lateral support for walls
+
+Span of floor
+
+is parallel to wall Span of timber floor into wall Span of concrete
+
+floor into wall
+
+max 4.5m max 6.0m max 4.5m max
+
+6.0m
+
+Value of Factor ‘X’
+
+6 6 6 4 6 6 5 4 6 6 4 3 6
+
+5
+
+3
+
+3
+
+6 6 6 6 Wall type Wall length Lateral support required
+
+Solid or cavity: external compartment separating Any length Roof lateral support by every roof forming a junction with the supported wall
+
+Greater than 3m Floor lateral support by every floor forming a junction with the
+
+supported wall
+
+Internal load-bearing wall (not being a compartment or separating wall)
+
+Any length Roof or floor lateral support at the top of each storey 29
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 15   Lateral support by floors
+
+See para 2C35
+
+e. Restraint of internal walls
+
+specifications including material references 1 or 3 (austenitic stainless steel). The declared tensile strength of tension straps should not be less  than 8kN.
+
+Tension straps need not be provided: a.  in the longitudinal direction of joists in houses of not more than 2 storeys, if the joists are at not more than 1.2m centres and have at least 90mm bearing on the supported walls or 75mm bearing on a timber wall-plate at each end, and b.  in the longitudinal direction of joists in houses of not more than 2 storeys, if the joists are carried on the supported wall by joist hangers in accordance with BS EN 845-1 of the restraint type described by additional guidance given in BSI Published Document PD 6697:2010 and shown in Diagram 15(c), and are incorporated at not more than 2m centres, and
+
+c.  when a concrete floor has at least 90mm bearing on the supported wall (see Diagram 15(d)), and
+
+d.  where floors are at or about the same level on each side of a supported wall, and contact between the floors and wall is either continuous or at intervals not exceeding 2m. Where contact is intermittent, the points of contact should be in line or nearly in line on plan (see Diagram 15(e)).
+
+2C36  Gable walls should be strapped to roofs as shown in Diagram 16(a) and (b) by tension straps as described in 2C35.
+
+Vertical strapping at least 1m in length should be provided at eaves level at intervals not exceeding 2m as shown in Diagram 16(c) and (d). Vertical strapping may be omitted if the roof:
+
+a.  has a pitch of 15° or more, and
+
+b.  is tiled or slated, and
+
+c.  is of a type known by local experience to be resistant to wind gusts, and
+
+d.  has main timber members spanning onto the supported wall at not more than 1.2m centres.
+
+30
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 16   Lateral support at roof level
+
+See para 2C36
+
+Interruption of lateral support
+
+2C37  Where an opening in a floor or roof for a stairway or the like adjoins a supported wall and interrupts the continuity of lateral support, the following conditions should be satisfied for the purposes of Section 2C:
+
+a.  the maximum permitted length of the opening is to be 3m, measured parallel to the supported wall, and
+
+b.  where a connection is provided by means other than by anchor, this should be provided throughout the length of each portion of the wall situated on each side of the opening, and
+
+c.  where a connection is provided by mild steel anchors, these should be spaced closer than 2m on each side of the opening to provide the same number of anchors as if there were no opening, and
+
+d.  there should be no other interruption of lateral support.
+
+Small single-storey non-residential buildings and annexes
+
+2C38  Size and proportion
+
+i. General
+
+The guidance given applies in the following circumstances:
+
+a.  The floor area of the building or annexe does not exceed 36m².
+
+b.  The walls are solidly constructed in brickwork or blockwork using materials which comply with paragraphs 2C19 to 2C22.
+
+c.  Where the floor area of the building or annexe exceeds 10m² the walls have a mass of not less than 130kg/m².
+
+Note: There is no surface mass limitation recommended for floor areas of 10m² or less.
+
+d.  Access to the roof is only for the purposes of maintenance and repair.
+
+e.  The only lateral loads are wind loads.
+
+31
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 17   Size and location of openings
+
+See para 2C38
+
+f.  The maximum length or width of the building or annexe does not exceed 9m.
+
+Published Document PD 6693-1:2012 or BS 8103-3:2009.
+
+g.  The height of the building or annexe does not exceed the lower value derived from Diagram 2.
+
+h.  The roof is braced at rafter level, horizontally at eaves level and at the base of any gable by roof decking, rigid sarking or diagonal timber bracing, as appropriate, in accordance with BS EN 1995-1-1:2004 with its UK National Annex and additional guidance given in BSI i.  Walls are tied to the roof structure vertically and horizontally in accordance with paragraphs  2C32 to 2C36 and with horizontal lateral restraint at roof level in accordance with paragraph (iv) below.
+
+j.  The roof structure of an annexe is secured to the structure of the main building at both rafter and eaves level.
+
+32
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONTHICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+
+Diagram 18   Wall thickness
+
+See para 2C38
+
+(ii) Size and location of openings
+
+One or two major openings not more than 2.1m in height are permitted in one wall of the building or annexe only. The width of a single opening or the combined width of two openings should not exceed 5m.
+
+The only other openings permitted in a building or annexe are for windows and a single leaf door. The size and location of these openings should be in accordance with Diagram 17.
+
+(iii)  Wall thickness and recommendations for piers
+
+The walls should have a minimum thickness of 90mm.
+
+33
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2  THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+
+Diagram 19   Lateral restraint at roof level
+
+See para 2C38
+
+Walls which do not contain a major opening but exceed 2.5m in length or height should be bonded or tied to piers for their full height at not more than 3m centres as shown in Diagram 18a. Walls which contain one or two major openings should in addition have piers as shown in Diagrams 18b and 18c. Where ties are used to connect piers to walls they should be flat, 20mm x 3mm in cross section, be in stainless steel in accordance with paragraph 2C19, be placed in pairs and be spaced at not more than 300mm centre vertically. (iv)  Horizontal lateral restraint at roof level
+
+Walls should be tied horizontally at no more than 2m centres to the roof structure at eaves level, base of gables and along roof slopes as shown in Diagram 19 with straps fixed in accordance with paragraphs 2C35 and 2C36. Where straps cannot pass through a wall they should be adequately secured to the masonry using suitable fixings. Isolated columns should also be tied to the roof structure (see Diagram 19).
+
+34
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONA1/2
+
+Section 2D: Proportions for masonry chimneys above the roof surface
+
+Height to width relationship
+
+2D1  Where a chimney is not adequately supported by ties or securely restrained in any way, its height if measured from the highest point of intersection with the roof surface, gutter, etc. should not exceed 4.5W, provided the density of the masonry is greater than 1500kg/m3, where:
+
+W is the least horizontal dimension of the chimney measured at the same point of intersection, and
+
+H is measured to the top of any chimney pot or other flue terminal (see Diagram 20).
+
+Diagram 20  Proportions for masonry chimneys
+
+See para 2D1
+
+35
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2
+
+Section 2E: Foundations of plain concrete
+
+Diagram 21  Elevation of stepped foundation
+
+See paras 2E2d and e
+
+Diagram 22   Piers and chimneys
+
+See para 2E2f
+
+Diagram 23   Foundation dimensions
+
+See para 2E2c
+
+Conditions relating to the ground
+
+2E1  There should not be:
+
+a.  non-engineered fill (as described in BRE Digest 427) or wide variation in ground conditions within the loaded area; nor
+
+b.  weaker or more compressible ground at such a depth below the foundation as could impair the stability of the structure.
+
+Design provisions
+
+2E2  The following design provisions relate to foundations:
+
+a.  the foundations should be situated centrally under the wall;
+
+b.  for foundations in chemically aggressive soil conditions guidance in BS 8500-1 and BRE Special Digest 1 should be followed. In non-aggressive soils, concrete should be composed of Portland cement to BS EN 197-1 and -2 and fine and coarse aggregate conforming to BS EN 12620 and the mix should comply with one of the following recommendations:
+
+i. in proportion of 50kg of Portland cement to not more than 200kg (0.1m3) of fine aggregate and 400kg (0.2m3) of coarse aggregate; or
+
+ii.  grade ST2 or grade GEN I concrete to  BS 8500-2;
+
+c.  minimum thickness T of concrete foundation should be 150mm or P, whichever is the greater, where P is derived using Table 10 and Diagram 23. Trench fill foundations may be used as an acceptable alternative to strip foundations;
+
+d.  foundations stepped on elevation should overlap by twice the height of the step, by the thickness of the foundation, or 300mm, whichever is greater (see Diagram 21).
+
+For trench fill foundations the overlap should be twice the height of the step or 1m, whichever is greater;
+
+e.  steps in foundations should not be of greater height than the thickness of the foundation (see Diagram 21);
+
+f. foundations for piers, buttresses and chimneys should project as indicated in Diagram 22 and the projection X should never be less than the value of P where there is no local thickening of the wall.
+
+Minimum width of strip foundations
+
+2E3  The recommended minimum widths of foundations given in Table 10 may be used.
+
+36
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION FOUNDATIONS OF PLAIN CONCRETE A1/2
+
+Table 10   Minimum width of strip footings
+
+Type of ground (including Condition engineered fill)  of ground Field test applicable I Rock Not inferior to Requires at least a pneumatic sandstone, limestone  or other mechanically operated
+
+or firm chalk pick for excavation
+
+Total load of load-bearing walling not more than (kN/linear metre)
+
+20 30 40 50 60 70
+
+Minimum width of strip foundations (mm)
+
+In each case equal to the width of wall
+
+II Gravel or sand  Medium dense Requires pick for excavation. Wooden peg 50mm square in cross
+
+section hard to drive beyond 150mm
+
+250 300 400 500 600 650
+
+III Clay Sandy clay IV Clay Sandy clay V Sand Silty sand Clayey sand VI Silt Clay Sandy clay Clay or silt VII Silt Clay Sandy clay Clay or silt Stiff
+
+Stiff
+
+Firm
+
+Firm
+
+Loose Loose Loose Soft Soft
+
+Soft
+
+Soft
+
+Very soft
+
+Very soft
+
+Very soft
+
+Very soft
+
+Can be indented slightly by thumb 250 300 400 500 600 650 Thumb makes impression easily 300 350 450 600 750 850
+
+Can be excavated with a spade. Wooden peg 50mm square in
+
+cross section can be easily driven 400 600
+
+Finger pushed in up to 10mm 450 650 Note:
+
+Foundations on soil types V
+
+and VI do not fall within the
+
+provisions of this section if the
+
+total load exceeds 30kN/m.
+
+Finger easily pushed in up to 25mm Refer to specialist advice
+
+The table is applicable only within the strict terms of the criteria described within it.
+
+Minimum depth of strip foundations
+
+2E4  Except where strip foundations are founded on rock, the strip foundations should have a minimum depth of 0.45m to their underside to avoid the action of frost. This depth, however, will commonly need to be increased in areas subject to long periods of frost or in order to transfer the loading onto satisfactory ground.
+
+In clay soils subject to volume change on drying (‘shrinkable clays’, with Modified Plasticity Index greater than or equal to 10%), strip foundations should be taken to a depth where anticipated ground movements will not impair the stability of any part of the building taking due consideration of the influence of vegetation and trees on the ground. The depth to the underside of foundations on clay soils should not be less than 0.75m on low shrinkage clay soils, 0.9m on medium shrinkage clay soils and 1.0m on high shrinkage clay soils, although these depths may need to be increased in order to transfer the loading onto satisfactory ground, or where there are trees nearby.
+
+37
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+
+Section 3: Wall cladding
+
+vehicle barrier, then account should be taken of the additional imposed loading, as stipulated in Approved Document K, Protection from falling, collision and impact.
+
+3.6   Where the wall cladding is required to safely withstand lateral pressures from crowds, an appropriate design loading is given in BS EN 1991-1-1:2002 with its UK National Annex and the Guide to Safety at Sports Grounds (4th Edition, 1997).
+
+The selection of fixings for supporting Fixings
+
+3.7 cladding should be determined from a consideration of the proven performance of the fixing and the risks associated with the particular application. In this regard applications should be designated as being either non-redundant (where the failure of a single fixing could lead to the detachment of the cladding) or redundant (where failure or excessive movement of one fixing results in load sharing by adjacent fixings) and the required reliability of the fixing determined accordingly.
+
+Note: Attention is drawn to the availability of anchors with an ETA gained in accordance with the requirements of ETAG 001 Guideline for European Technical Approval Metal Anchors for use in Concrete Parts 1-5, which cover both redundant and non-redundant applications, and Part 6 which covers ‘Anchors for multiple use in non-structural applications’ and which can effectively be regarded as covering redundant use. The UK definition of ‘multiple use’ is contained in an annexe to ETAG Part 6 and is framed in such a way that all applications can be validated as to whether or not they conform to this category without calculation. All ETAG parts may be downloaded in English from www.eota.be.
+
+3.8 The strength of fixings should be derived from tests using materials representative of the material into which the fixing is to be anchored, taking account of any inherent weaknesses that may affect the strength of the fixing, e.g. cracks in concrete due to shrinkage and flexure, or voids in masonry construction. The design loads will generally be available from the manufacturer’s test data determined from an ETA or an extant British Standard.
+
+Note: ETAs are available which cover use either in both cracked and non-cracked concrete or in non-cracked concrete only. Those which cover both cracked and non-cracked concrete allow higher loads for use in non-cracked than in cracked concrete. General
+
+3.1  Wall cladding presents a hazard if it becomes detached from the building. This section provides guidance on the support and fixing of wall cladding. An acceptable level of safety can be achieved by different means depending on the type and location of the cladding. The guidance given relates to all forms of cladding, including curtain walling and glass facades. It is not intended to provide guidance concerning the weather resistance of wall cladding which is included in Approved Document C, Site preparation and resistance to contaminants and moisture, or guidance on resistance to spread of fire which is included in Approved Document B, Fire safety, or guidance in relation to sound insulation, which is included in Approved Document E, Resistance to the passage of sound.
+
+Technical approach
+
+3.2 requirement if:
+
+The cladding will meet the safety a.  the cladding is capable of safely sustaining and transmitting to the supporting structure of the building all dead, imposed and wind loads, and
+
+b.  the cladding is securely fixed to and supported by the structure of the building. This shall comprise both vertical support and horizontal restraint, and
+
+c.  provision is made, where necessary, to accommodate differential movement of the cladding and the supporting structure of the building, and
+
+d.  the cladding and its fixings (including any support components) are of durable materials; the design life of the fixings being not less than that of the cladding. Fixings shall be corrosion resistant and of a material type appropriate for the local environment.
+
+Loading
+
+3.3  Wind loading on the cladding should be derived from BS EN 1991-1-4:2005 with its UK National Annex with due consideration given to local increases in wind suction arising from funnelling of the wind through gaps between buildings.
+
+3.4  Where the cladding is required to support other fixtures, e.g. handrails, and fittings, e.g. antennae and signboards, account should be taken of the loads and forces arising from such fixtures and fittings.
+
+3.5  Where the wall cladding is required to function as pedestrian guarding to stairs, ramps, vertical drops of more than 600mm in dwellings or more than the height of two risers (or 380mm if not part of a stair) in other buildings, or as a 38
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONA1/2
+
+Guidance notes published by the Construction Fixings Association www.fixingscfa.co.uk.
+
+Guidance Note: Procedure for Site Testing Construction Fixings (1994).
+
+Guidance Note: European Technical Approvals for Construction Fixings (1998).
+
+Guidance Note: Anchor Selection (1995).
+
+Guidance Note: Fixings and Fire (1998).
+
+Guidance Note: Anchor Installation (1996).
+
+Guidance Note: Bonded Anchors (1999).
+
+Guidance Note: Heavy Duty Expansion Anchors (1997).
+
+Guidance Note: Fixings for Brickwork and Blockwork (1997).
+
+Guidance Note: Undercut Anchors (1998).
+
+Guidance Note: Fixings and Corrosion (2002).
+
+WALL CLADDING Further guidance
+
+The use of large panels of glass in 3.9 cladding of walls and roofs where the cladding is not divided into small areas by load-bearing framing requires special consideration. Guidance is given in the following documents:
+
+The Institution of Structural Engineers’ Report on ‘Structural use of glass in buildings’ dated 1999, available from 11 Upper Belgrave Street, London SW1X 8BH.
+
+‘Nickel sulfide in toughened glass’ published by the Centre for Window Cladding and Technology dated 2000.
+
+3.10  Further guidance on cladding is given in the following documents:
+
+The Institution of Structural Engineers’ Report on ‘Aspects of Cladding’ dated 1995.
+
+The Institution of Structural Engineers’ Report on ‘Guide to the structural use of adhesives’ dated 1999.
+
+BS 8297:2000 Code of practice for the design and installation of non-load-bearing precast concrete cladding.
+
+BS 8298:2010 Code of practice for the design and installation of natural stone cladding and lining.
+
+3.11  Additional guidance on fixings is given in the following documents:
+
+ETAG No. 001 1997 Guideline for European Technical Approvals of Metal Anchors for use in Concrete, European Organisation for Technical Assessment (EOTA), Brussels. All EOTA parts may  be downloaded in English from www.eota.be.
+
+Part 1 Anchors in general.
+
+Part 2 Torque controlled anchors.
+
+Part 3 Undercut anchors.
+
+Part 4 Deformation controlled anchors.
+
+Part 5 Bonded anchors.
+
+Part 6 Metal anchors for redundant use in concrete for lightweight systems.
+
+BS 5080-1:1993 Structural fixings in concrete and masonry. Method of test for tensile loading.
+
+CIRIA Report RP 566 Cladding Fixings: Good practice guidance.
+
+CIRIA Reports C579 and C589 Retention of masonry facades – Best practice guide.
+
+39
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA1/2
+
+Section 4: Roof covering
+
+Materials
+
+4.1 All materials used to cover roofs, excluding windows of glass in residential buildings with roof pitches of not less than 15°, shall be capable of safely withstanding the concentrated imposed loads upon roofs specified in BS EN 1991-1-
+
+1:2002 with its UK National Annex. Transparent or translucent covering materials for roofs not accessible except for normal maintenance and repair are excluded from the requirement to carry the concentrated imposed load upon roofs if they are non-fragile or are otherwise suitably protected against collapse.
+
+The re-covering of roofs is commonly Re-covering of roofs
+
+4.2 undertaken to extend the useful life of buildings. Roof structures may be required to carry underdrawing or insulation provided at a time later than their initial construction. This section provides guidance on determining whether such work to a roof constitutes a material alteration under the Building Regulations.
+
+4.3  Where the work involves a significant change in the applied loading the structural integrity of the roof structure and the supporting structure should be checked to ensure that upon completion of the work the building is not less compliant with Requirement A1 than the original building.
+
+A significant change in roof loading is 4.4 when the loading upon the roof is increased by more than 15%. Consideration might also be given to whether the roof covering being replaced is the original as-built covering.
+
+4.5  Where such checking of the existing roof structure indicates that the construction is unable to sustain any proposed increase in loading (e.g. due to overstressed members or unacceptable deflection leading to ponding), appropriate strengthening work or replacement of roofing members should be undertaken. This is classified as a material alteration.
+
+In carrying out the checks mentioned in 4.6 paragraph 4.3 an increase of stress in a structural member arising from increased loading does not necessarily indicate that the roof structure is less compliant than the original roof provided an adequate factor of safety is maintained. 4.7  Where work will significantly decrease the roof dead loading, the roof structure and its anchorage to the supporting structure should be checked to ensure that an adequate factor of safety is maintained against uplift of the roof under imposed wind loading.
+
+40
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONDISPROPORTIONATE COLLAPSE The Requirement
+
+This Approved Document deals with the following Requirements which are contained in the Building Regulations 2010.
+
+Requirement Limits on application
+
+Disproportionate collapse
+
+A3.  The building shall be constructed so that in the event of an accident the building will not suffer collapse to an extent disproportionate to the cause. A3
+
+41
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A3
+
+Guidance
+
+Performance
+
+In the Secretary of State’s view the Requirement of A3 will be met by an appropriate choice of measures to reduce the sensitivity of a building to disproportionate collapse should an accident occur.
+
+Introduction
+
+0.1 means of meeting this performance criterion.
+
+The guidance in Section 5 deals with the 42
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONA3
+
+Section 5: Reducing the sensitivity of the building to disproportionate collapse in the event of an accident
+
+5.1   The requirement will be met by adopting the following approach for ensuring that the building is sufficiently robust to sustain a limited extent of damage or failure, depending on the consequence class of the building, without collapse.
+
+a.   Determine the building’s consequence class from Table 11.
+
+b.  For Consequence Class 1 buildings – Provided the building has been designed and constructed in accordance with the rules given in this Approved Document, or other guidance referenced under Section 1, for meeting compliance with Requirement A1 and A2 in normal use, no additional measures are likely to be necessary.
+
+c.  For Consequence Class 2a buildings – In addition to the Consequence Class 1 measures, provide effective horizontal ties, or effective anchorage of suspended floors to walls, as described in the Standards listed under paragraph 5.2 for framed and load-
+
+bearing wall construction (the latter being defined in paragraph 5.3 below).
+
+d.  For Consequence Class 2b buildings – In addition to the Consequence Class 1 measures, provide effective horizontal ties, as described in the Standards listed under paragraph 5.2 for framed and load-bearing wall construction (the latter being defined in paragraph 5.3 below), together with effective vertical ties, as defined in the Standards listed under paragraph 5.2, in all supporting columns and walls.
+
+Alternatively, check that upon the notional removal of each supporting column and each beam supporting one or more columns, or any nominal length of load-bearing wall (one at a time in each storey of the building), the building remains stable and that the area of floor at any storey at risk of collapse does not exceed 15% of the floor area of that storey or 100m2, whichever is smaller, and does not extend further than the immediate adjacent storeys (see Diagram 24).
+
+Critical situations for design should be selected that reflect the conditions that can reasonably be foreseen as possible during the life of the building. The structural form and concept and any protective measures should then be chosen and the detailed design of the structure and its elements undertaken in accordance with the recommendations given in the Standards given in paragraph 5.2.
+
+Further guidance is given in Annexes A and B to BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006 and BS EN 1990:2002+A1:2005 Eurocode – Basis of structural design; with UK National Annex to  BS EN 1990:2002+A1:2005.
+
+5.2   Details of the effective horizontal and vertical ties including tie force determination, together with the design approaches for checking the integrity of the building following the notional removal of vertical members and the design of key elements, are given in the following Standards:
+
+BS EN 1990:2002+A1:2005 Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005
+
+BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7: 2006 and BSI PD 6688-1-7: 2009
+
+BS EN 1992-1-1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004 and BSI PD 6687-1:2010
+
+BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005
+
+BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004
+
+Where the notional removal of such columns and lengths of walls would result in an extent of damage in excess of the above limit, then such elements should be designed as a ‘key element’ as defined in paragraph 5.3 below.
+
+BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-
+
+1:2004+A1:2008 and BSI PD 6693-1:2012
+
+e.  For Consequence Class 3 buildings – A systematic risk assessment of the building should be undertaken taking into account all the normal hazards that may reasonably be foreseen, together with any abnormal hazards.
+
+BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to  BS EN 1996-1-1:2005+A1:2012 and BSI PD 6697:2010
+
+43
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION A3 REDUCING THE SENSITIVITY OF THE BUILDING TO DISPROPORTIONATE COLLAPSE IN THE EVENT OF AN ACCIDENT
+
+BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-1:2007+A1:2009 and  BSI PD 6702-1:2009
+
+5.3  Definitions
+
+Nominal length of load-bearing wall
+
+The nominal length of load-bearing wall construction referred to in 5.1d should be taken as follows:
+
+− −   in the case of a reinforced concrete wall, the distance between lateral supports subject to a maximum length not exceeding 2.25H,
+
+  in the case of an external masonry wall, or timber or steel stud wall, the length measured between vertical lateral supports,
+
+−   in the case of an internal masonry wall, or timber or steel stud wall, a length not exceeding 2.25H,
+
+where H is the storey height in metres.
+
+Note: Annex A of BS EN 1991-1-7:2006 with its UK National Annex provides corresponding guidance.
+
+key elements
+
+A ‘key element’, as referred to in paragraph 5.1d, should be capable of sustaining an accidental design loading of 34kN/m2 applied in the horizontal and vertical directions (in one direction at a time) to the member and any attached components (e.g. cladding etc.) having regard to the ultimate strength of such components and their connections. Such accidental design loading should be assumed to act simultaneously with all other design loadings (i.e. wind and imposed loading) in accidental actions loading combination.
+
+Table 11   Building consequence classes
+
+Consequence Classes Building type and occupancy
+
+1 Houses not exceeding 4 storeys
+
+Agricultural buildings
+
+ Buildings into which people rarely go, provided no part of the building is closer to another building, or area where people do go, than a distance of 1.5 times the building height
+
+2a Lower Risk Group  5 storey single occupancy houses
+
+Hotels not exceeding 4 storeys
+
+Flats, apartments and other residential buildings not exceeding 4 storeys
+
+Offices not exceeding 4 storeys
+
+Industrial buildings not exceeding 3 storeys
+
+Retailing premises not exceeding 3 storeys of less than 2000m² floor area in each storey
+
+Single-storey educational buildings
+
+ All buildings not exceeding 2 storeys to which members of the public are admitted and which contain floor areas not exceeding 2000m² at each storey
+
+2b Upper Risk Group  Hotels, blocks of flats, apartments and other residential buildings greater than 4 storeys but not exceeding  15 storeys
+
+Educational buildings greater than 1 storey but not exceeding 15 storeys
+
+Retailing premises greater than 3 storeys but not exceeding 15 storeys
+
+Hospitals not exceeding 3 storeys
+
+Offices greater than 4 storeys but not exceeding 15 storeys
+
+ All buildings to which members of the public are admitted which contain floor areas exceeding 2000m² but less than 5000m² at each storey
+
+Car parking not exceeding 6 storeys
+
+ All buildings defined above as Consequence Class 2a and 2b that exceed the limits on area and/or number  of storeys
+
+Grandstands accommodating more than 5000 spectators
+
+Buildings containing hazardous substances and/or processes
+
+3 Notes:
+
+1.  For buildings intended for more than one type of use the Consequence Class should be that pertaining to the most onerous type.
+
+2. In determining the number of storeys in a building, basement storeys may be excluded provided such basement storeys fulfil the robustness requirements of Consequence Class 2b buildings.
+
+3.  BS EN 1991-1-7:2006 with its UK National Annex also provides guidance that is comparable to Table 11.
+
+44
+
+Structure Approved Document AONLINE VERSIONONLINE VERSION REDUCING THE SENSITIVITY OF THE BUILDING TO
+
+DISPROPORTIONATE COLLAPSE IN THE EVENT OF AN ACCIDENT A3
+
+BS EN 1990:2002+A1:2005 with its UK National Annex provides guidance on accidental design loading and accidental actions loading combination for ‘key elements’ and expressions 6.11a and 6.11b of that Standard are relevant.
+
+Note: Annex A of BS EN 1991-1-7:2006 with its UK National Annex provides corresponding guidance for ‘key elements’.
+
+Load-bearing construction
+
+For the purposes of this Guidance the term ‘load-
+
+bearing wall construction’ includes masonry cross-wall construction and walls comprising close centred timber or lightweight steel section studs.
+
+Alternative approach
+
+5.4   As an alternative to Table 11, for any building which does not fall into the classes listed under Table 11, or for which the consequences of collapse may warrant particular examination of the risks involved, performance may be demonstrated using the recommendations given in the following Reports and Publication:
+
+‘Guidance on Robustness and Provision against Accidental Actions’, dated July 1999.
+
+‘Proposed Revised Guidance on meeting Compliance with the requirements of Building Regulation Part A3’. Revision of the Allott and Lomax proposals. Project Report No. 205966.
+
+Both of the above documents are available on www.planningportal.gov.uk
+
+‘Practical Guide to Structural Robustness and Disproportionate Collapse in Buildings’ dated October 2010. Published by The Institution of Structural Engineers, London.
+
+Seismic design
+
+5.5   Seismic design is not usually required for buildings classified by Table 11 as being in Consequence Classes 1, 2a and 2b. For buildings classified as Consequence Class 3 the risk assessment should consider if there is any need to carry out seismic design, although such a need is not an explicit requirement for these buildings.
+
+Diagram 24   Area at risk of collapse in the event of an accident
+
+See para 5.1d
+
+Area at risk of collapse
+
+limited to 15% of the floor area of that storey
+
+or 100m2, whichever is
+
+the lesser, and does not
+
+extend further than the
+
+immediate adjacent
+
+storeys
+
+45
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA
+
+Standards referred to
+
+A1/2
+
+BS 5080-1:1993 Structural fixings in concrete and masonry. Method of test for tensile loading.
+
+BS 8103-1:2011 Structural design of low-rise buildings. Code of practice for stability, site investigation, foundations, precast concrete floors and ground floor slabs for housing.
+
+BS 8103-2:2005 Structural design of low-rise buildings. Code of practice for masonry walls for housing.
+
+BS 8103-3:2009 Structural design of low-rise buildings. Code of practice for timber floors and roofs for housing.
+
+BS 8297:2000 Code of practice for design and installation of non-loadbearing precast concrete cladding.  AMD 11064 2000, AMD 13018 2000.
+
+BS 8298-1:2010 Code of practice for the design and installation of natural stone cladding and lining. General.
+
+BS 8298-2:2010 Code of practice for the design and installation of natural stone cladding and lining. Traditional handset external cladding.
+
+BS 8298-3:2010 Code of practice for the design and installation of natural stone cladding and lining. Stone-faced pre-cast concrete cladding systems.
+
+BS 8298-4:2010 Code of practice for the design and installation of natural stone cladding and lining. Rainscreen and stone on metal frame cladding systems.
+
+BS 8500-1:2006+A1:2012 Concrete. Complementary British Standard to  BS EN 206-1. Method of specifying and guidance for the specifier. BS 8500-2:2006+A1:2012 Concrete. Complementary British Standard to  BS EN 206-1. Specification for constituent materials and concrete. BS EN 197-1:2011 Cement. Composition, specifications and conformity criteria for common elements. BS EN 197-2:2000 Cement. Conformity evaluation.
+
+BS EN 771-1:2011 Specification for masonry units. Clay masonry units. BS EN 771-2:2011 Specification for masonry units. Calcium silicate masonry units. 46
+
+BS EN 771-3:2011 Specification for masonry units. Aggregate concrete masonry units (dense and light-weight aggregates). AMD 16001.
+
+BS EN 771-4:2011 Specification for masonry units. Autoclaved aerated concrete masonry units. BS EN 771-5:2011 Specification for masonry units. Manufactured stone masonry units. BS EN 771-6:2011 Specification for masonry units. Natural stone masonry units. BS EN 845-1:2003+A1:2008 Specification for ancillary components for masonry. Ties, tension straps, hangers and brackets. AMD 14736 2003, AMD 15539 2006.
+
+BS EN 845-2:2003 Specification for ancillary components for masonry. Lintels. BS EN 845-3:2003+A1:2008 Specification for ancillary components for masonry. Bed joint reinforcement of steel meshwork. BS EN 998-2:2010 Specification for mortar for masonry. Masonry mortar. AMD July 2011.
+
+BS EN 1090-2:2008+A1:2011 Execution of steel structures and aluminium structures – Part 2: Technical requirements for the execution of steel structures.
+
+BS EN 1090-3:2008 Execution of steel structures and aluminium structures – Part 3: Technical requirements for aluminium structures.
+
+BS EN 1990:2002+A1:2005 Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005.
+
+BS EN 1991-1-1:2002 Eurocode 1: Actions on structures – Part 1.1: General actions – Densities, self weight, imposed loads for buildings; with UK National Annex to  BS EN 1991-1-1:2002.
+
+BS EN 1991-1-3:2003 Eurocode 1: Actions on structures – Part 1.3: General actions – Snow loads; with UK National Annex to BS EN 1991-1-3:2003.
+
+BS EN 1991-1-4:2005+A1:2010 Eurocode 1: Actions on structures – Part 1.4: General actions – Wind actions; with UK National Annex to BS EN 1991-1-4:2005+A1:2010.
+
+BS EN 1991-1-5:2003 Eurocode 1: Actions on structures – Part 1.5: General actions – Thermal actions; with UK National Annex to BS EN 1991-1-5:2003.
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONSTANDARDS REFERRED TO BS EN 1991-1-6:2005 Eurocode 1: Actions on structures – Part 1.6: General actions – Actions during execution; with UK National Annex to BS EN 1996-1-6:2005.
+
+BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006.
+
+BS EN 1991-3:2006 Eurocode 1: Actions on structures – Part 3: Actions induced by cranes and machinery; with UK National Annex to BS EN 1991-3:2006.
+
+BS EN 1992-1-1:2004 Eurocode 2: Design of concrete structures –  Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004.
+
+BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005.
+
+BS EN 1993-1-3:2006 Eurocode 3: Design of steel structures – Part 1.3: General rules – Supplementary rules for cold-
+
+formed members and sheeting; with UK National Annex to BS EN 1993-1-3:2006.
+
+BS EN 1993-1-4:2006 Eurocode 3: Design of steel structures – Part 1.4: General rules – Supplementary rules for stainless steels; with UK National Annex to BS EN 1993-1-
+
+4:2006.
+
+BS EN 1993-1-5:2006 Eurocode 3: Design of steel structures – Part 1.5:  Plated structural elements; with UK National Annex to BS EN 1993-1-5:2006.
+
+BS EN 1993-1-6:2007 Eurocode 3: Design of steel structures – Part 1.6: Strength and stability of shell structures.
+
+BS EN 1993-1-7:2007 Eurocode 3: Design of steel structures – Part 1.7: Plated structures subject to out of plane loading.
+
+BS EN 1993-1-8:2005 Eurocode 3: Design of steel structures – Part 1.8: Design of joints; with UK National Annex to BS EN 1993-1-8:2005.
+
+BS EN 1993-1-9:2005 Eurocode 3: Design of steel structures – Part 1.9: Fatigue; with UK National Annex to BS EN 1993-
+
+1-9:2005.
+
+BS EN 1993-1-10:2005 Eurocode 3: Design of steel structures – Part 1.10:  Material toughness and through-thickness properties; with UK National Annex to BS EN 1993-1-10:2005.
+
+BS EN 1993-1-11:2006 Eurocode 3: Design of steel structures – Part 1.11: Design of structures with tension components; with UK National Annex to  BS EN 1993-1-11:2006.
+
+A
+
+BS EN 1993-1-12:2007 Eurocode 3: Design of steel structures –  Part 1.12: Additional rules for the extension of  EN 1993 up to steel grades S 700; with UK National Annex to BS EN 1993-1-12:2007.
+
+BS EN 1993-5:2007 Eurocode 3: Design of steel structures – Part 5: Piling; with UK National Annex to BS EN 1993-
+
+5:2007+A1:2012.
+
+BS EN 1993-6:2007 Eurocode 3: Design of steel structures – Part 6: Crane supporting structures; with UK National Annex to BS EN 1993-6:2007.
+
+BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to  BS EN 1994-1-1:2004.
+
+BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures –  Part 1.1: General – Common rules and rules  for buildings; with UK National Annex to  BS EN 1995-1-1:2004+A1:2008.
+
+BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures –  Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-
+
+1:2005+A1:2012.
+
+BS EN 1996-2:2006 Eurocode 6: Design of masonry structures – Part 2: Design considerations, selection of materials and execution of masonry; with UK National Annex to BS EN 1996-2:2006.
+
+BS EN 1996-3:2006 Eurocode 6: Design of masonry structures – Part 3: Simplified calculation methods for unreinforced masonry structures; with UK National Annex to BS EN 1996-3:2006.
+
+BS EN 1997-1:2004 Eurocode 7: Geotechnical design – Part 1: General rules; with UK National Annex to BS EN 1997-1:2004.
+
+BS EN 1997-2:2007 Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing; with UK National Annex to BS EN 1997-2:2007.
+
+BS EN 1998-1:2004+A1:2013 Eurocode 8: Design of structures for earthquake resistance – Part 1: General rules, seismic actions and rules for buildings; with UK National Annex to BS EN 1998-1:2004.
+
+BS EN 1998-5:2004 Eurocode 8: Design of structures for earthquake resistance – Part 5. Foundations, retaining structures and geotechnical aspects; with UK National Annex to BS EN 1998-5:2004.
+
+47
+
+Approved Document A StructureONLINE VERSIONONLINE VERSIONA STANDARDS REFERRED TO
+
+BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-
+
+1:2007+A1:2009.
+
+BS EN 1999-1-3:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.3: Structures susceptible to fatigue; with UK National Annex to BS EN 1999-1-
+
+3:2007+A1:2011.
+
+BS EN 1999-1-4:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.4: Cold-formed structural sheeting; with UK National Annex to BS EN 1999-1-4:2007.
+
+BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1: Recommendations for the design of aluminium structures to BS EN 1999.
+
+BSI PD 6705-3:2009 Published Document – Structural use of steel and aluminium – Part 3: Recommendations for the execution of aluminium structures to BS EN 1090-3.
+
+A3
+
+BS EN 1990:2002+A1:2005 Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005.
+
+BS EN 1999-1-5:2007 Eurocode 9: Design of aluminium structures – Part 1.5: Shell structures; with UK National Annex to BS EN 1999-1-5:2007.
+
+BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006.
+
+BS EN 12620:2002+A1:2008 Aggregates for concrete. AMD 15333 2004.
+
+BS EN 13670:2009 Execution of concrete structures.
+
+BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and BS EN 1992-3.
+
+BSI PD 6688-1-1:2011 Published Document – Recommendations for the design of structures to BS EN 1991-1-1.
+
+BSI PD 6688-1-4:2009 Published Document – Background information the National Annex to BS EN 1991-1-4 and additional guidance.
+
+BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7.
+
+BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings.
+
+BSI PD 6695-1-9:2008 Published Document – Recommendations for the design of structures to BS EN 1993-1-9.
+
+BSI PD 6695-1-10:2009 Published Document – Recommendations for the design of structures to BS EN 1993-1-10.
+
+BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to  BS EN 1996-1-1 and BS EN 1996-2.
+
+BSI PD 6698:2009 Published Document – Recommendations for the design of structures for earthquake resistance to BS EN 1998.
+
+BS EN 1992-1-1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004.
+
+BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005.
+
+BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004.
+
+BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-1:2004+A1:2008.
+
+BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-1:2005+A1:2012.
+
+BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-
+
+1:2007+A1:2009.
+
+BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and  BS EN 1992-3.
+
+BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7.
+
+BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings.
+
+48
+
+Structure Approved Document AONLINE VERSIONONLINE VERSIONSTANDARDS REFERRED TO BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to  BS EN 1996-1-1 and BS EN 1996-2.
+
+BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1. Recommendations for the design of aluminium structures to BS EN 1999.
+
+A
+
+49
+
+Approved Document A StructureONLINE VERSIONONLINE VERSION
+

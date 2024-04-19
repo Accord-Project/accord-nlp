@@ -1,0 +1,1258 @@
+Section 0: Introduction
+
+Summary
+
+0.1  This approved document is Approved Document F, Volume 2: Buildings other than dwellings. It gives guidance on how to comply with Part F of Schedule 1 to the Building Regulations. For guidance relating to dwellings, use Approved Document F, Volume 1: Dwellings. 0.2  This approved document contains the following sections: Approved document section
+
+Section 0: Introduction
+
+Section 1: Ventilation provision Related Building Regulations requirements
+
+n/a
+
+Requirement F1(1)
+
+Section 2: Minimising the ingress of external pollutants
+
+Section 3: Work on existing buildings
+
+Section 4: Commissioning and providing information Requirement F1(2) and regulations 39 and 44
+
+Appendix A: Key terms
+
+Appendix B: Performance-based ventilation
+
+Appendix C: CO2 monitoring
+
+Appendix D: Standards referred to
+
+Appendix E: Documents referred to n/a
+
+n/a
+
+n/a
+
+n/a
+
+n/a
+
+Application 0.3  The guidance in Approved Document F, Volume 2 applies only to buildings other than dwellings. For blocks of flats with shared communal rooms, this approved document should be consulted for those rooms.  NOTE: Rooms for residential purposes and buildings that contain only rooms for residential purposes are not dwellings and are covered by the guidance in this approved document. Exemptions
+
+0.4  Certain types of building are exempt from the Part F requirements of the Building Regulations. These are outlined in paragraphs A7 to A13 of the Manual to the Building Regulations.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 1
+
+ONLINE VERSIONONLINE VERSIONHistoric and traditional buildings 0.5  Work to the following types of buildings may not need to comply fully with the ventilation standards in this approved document.
+
+a.  Those listed in accordance with section 1 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+b.  Those in a conservation area designated in accordance with section 69 of the Planning (Listed Buildings and Conservation Areas) Act 1990.
+
+c.  Other historic buildings with a vapour-permeable construction that both absorbs moisture and readily allows moisture to evaporate. These include those built with wattle and daub, cob or stone and constructions using lime render or mortar.
+
+0.6  Work to a building in paragraph 0.5 should comply with the ventilation standards in this approved document where reasonably practicable. The work should not result in either of the following outcomes.
+
+a.  Unacceptably affect the significance of the listed building, conservation area or scheduled monument.
+
+b. Increase the risk of long-term deterioration of the building fabric or fittings.
+
+0.7  New extensions to historic and traditional buildings should comply with all ventilation standards in this approved document unless there is a need to match the external appearance or character of the extension to that of the host building.
+
+0.8  The local authority’s conservation officer should be consulted when undertaking work to a building in paragraphs 0.5a or 0.5b.
+
+Emergency repairs
+
+0.9  For emergency repairs, if it is not possible to notify the building control body in advance, the building control body should be notified as soon as possible. If the installer is registered with a competent person scheme, see Chapter 5 in Volume 1 and Chapter C in Volume 2 of the Manual to the Building Regulations. Minor works
+
+0.10  Minor works must comply with the relevant requirements of the Building Regulations, but the building control body does not need to be notified.
+
+For mechanical ventilation and air-conditioning systems, minor works include any of the following.
+
+a.  Replacing parts.
+
+b.  Adding an output or control device if testing and adjusting the system would not affect its energy efficiency or would not be possible.
+
+c.  Providing a self-contained mechanical ventilation or air-conditioning appliance when all the following apply. i.  Any electrical work is exempt from a requirement to give advance notice to a building control body.
+
+ii.  Testing and adjusting the system would not affect its energy efficiency or would not be possible.
+
+iii.  The appliance is not installed in a room that contains an open-flued combustion appliance.  2  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+ONLINE VERSIONONLINE VERSIONLive/work units
+
+0.11  A unit that contains both living accommodation and space for commercial purposes (e.g. for a workshop or office) should be treated as a dwelling if the commercial part can be reverted to domestic use. 0.12  The commercial part of the building can be reverted to domestic use if all of the following apply. a.  There is direct access between the commercial space and the living accommodation.
+
+b.  The commercial space and living accommodation are within the same thermal envelope.
+
+c.  The living accommodation comprises a substantial proportion of the total area of the unit. What constitutes a ‘substantial proportion’ should be assessed on a case-by-case basis by the building control body.
+
+NOTE: A large non-domestic building that contains a small flat for a manager is not treated as a dwelling. A dwelling that contains a room used as an office or utility space is still treated as a dwelling. Mixed-use developments
+
+0.13  When constructing a dwelling as part of a larger building that contains other types of accommodation, sometimes called a mixed-use development, refer to the two volumes of Approved Document F as follows. a.  For guidance on each individual dwelling, use Approved Document F, Volume 1: Dwellings.
+
+b.  For guidance on the non-dwelling parts of the building, such as shared communal rooms and commercial or retail space, use this approved document: Approved Document F, Volume 2: Buildings other than dwellings. Selected key interactions with other parts of the Building Regulations 0.14  The approved documents set out what, in ordinary circumstances, may be accepted as one way to comply with the Building Regulations. Those designing or undertaking building work remain responsible for assessing, on a case-by-case basis, whether specific circumstances require additional or alternative measures to comply with the regulatory requirements. There are interactions between many of the requirements of the Building Regulations. Guidance on some key interactions is given below. Interaction with Part B
+
+0.15  The requirements of Part B apply if, for example, ducts pass through any of the following.
+
+a.  A fire resisting structure. b.  A fire compartment.
+
+c.  A protected stairway.
+
+0.16  This approved document gives guidance on window openings for ventilation. In addition, Approved Document B gives guidance on the size of escape windows. The larger of the window openings specified in Approved Document B or Approved Document F should be applied in all cases.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 3
+
+ONLINE VERSIONONLINE VERSIONInteraction with Part J
+
+0.17  Ventilation fans might cause combustion gases to spill from open-flued appliances. These combustion gases might fill the room instead of going up the flue or chimney, even if the combustion appliance and fan are in separate rooms.
+
+0.18  The guidance in Approved Document J should be followed when installing and testing ventilation appliances. Combustion appliances must operate safely whether or not fans are running.
+
+Interaction with Part L
+
+0.19  Energy efficiency should be considered when specifying ventilation systems. Energy efficiency, including the control of infiltration, is dealt with under Part L of the Building Regulations. Interaction with Part K and Part M
+
+0.20 Manual controls, where provided for a ventilation device, should be within reasonable reach of the occupants. Follow the guidance in Approved Documents K and M.
+
+Interaction with Part O
+
+0.21  This document sets minimum standards for purge ventilation for rapidly diluting indoor air pollutants and extracting water vapour where necessary in habitable rooms in buildings other than dwellings. For domestic-type buildings, Part O may require a higher standard than the guidance given in this document for purge ventilation to remove excess heat. In this case, the higher of the two standards should be followed.
+
+4  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+ONLINE VERSIONONLINE VERSIONRequirement F1(1): Means of ventilation
+
+This section deals with the requirements of Part F1(1) of Schedule 1 to the Building Regulations 2010.
+
+Requirement
+
+Requirement
+
+Means of ventilation
+
+F1.  (1)   There shall be adequate means of ventilation Limits on application
+
+Requirement F1 does not apply to a building or space within a building:
+
+provided for people in the building.
+
+a. into which people do not normally go;
+
+b.  which is used solely for storage; or
+
+c.  which is a garage used solely in connection with a single dwelling.
+
+Intention In the Secretary of State’s view, requirement F1(1) is met in a new building other than a dwelling if it has a means of ventilation that achieves all of the following.
+
+a.  Extracts water vapour and indoor air pollutants from areas where they are produced in significant quantities before they spread through the building, following the guidance on extract ventilation in Section 1 for the relevant building type.
+
+b.  Supplies a minimum level of outdoor air for occupants’ health, following the guidance for whole building ventilation in Section 1 for the relevant building type.
+
+c.  Rapidly dilutes indoor air pollutants and disperses water vapour when necessary in occupiable rooms and sanitary accommodation, following the guidance for purge ventilation in Section 1 for the relevant building type.
+
+d.  Monitors air quality in specific types of occupiable rooms, following the guidance in paragraphs 1.21 to 1.23.
+
+e.  Minimises the entry of external pollutants, following the guidance in Section 2.
+
+f.  Achieves all of the following, as far as is reasonably practicable. i.  Produces low levels of noise, following the guidance in paragraphs 1.5 and 1.6.
+
+ii.  Offers easy access for maintenance, following the guidance in paragraph 1.7.
+
+iii.  Provides protection from rain.
+
+iv.  Provides protection from cold draughts.
+
+v.  Does not significantly risk occupants’ health.
+
+In the Secretary of State’s view, requirement F1(1) is met for work on an existing building other than a dwelling by following the guidance in Section 3.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 5
+
+F1(1)ONLINE VERSIONONLINE VERSIONSection 1: Ventilation provision
+
+General
+
+1.1  The aim of requirement F1(1) is to protect the health of occupants of the building by providing adequate ventilation. Without adequate ventilation, mould and internal air pollution may become hazardous to health and the risk of transmission of airborne infection is increased.
+
+NOTE: The guidance in this approved document is not designed to deal with the products of tobacco smoking or vaping.
+
+1.2  This approved document sets out guidance for ventilation provision in the following types and uses of buildings and occupiable rooms.
+
+a.  Specific types of occupiable rooms – follow paragraphs 1.21 to 1.23.
+
+b.  Offices – follow paragraphs 1.24 to 1.37.
+
+c.  Car parks – follow paragraphs 1.38 to 1.40.
+
+d.  Building types other than offices or car parks – follow paragraph 1.41.
+
+1.3  Other ventilation solutions may be used, if it can be shown to the building control body that they satisfy requirement F1(1).
+
+1.4  The guidance set out in this approved document has been designed to meet the indoor pollutant levels in Appendix B where the outside air is of reasonable quality. In areas where the outside air is not of reasonable quality, Section 2 provides guidance on limiting the entry of external air pollutants. Noise
+
+1.5  Mechanical ventilation systems, including both continuous and intermittent mechanical ventilation, should be designed and installed to minimise noise. This includes doing all of the following. a.  Correctly sizing and joining ducts.
+
+b.  Ensuring that equipment is appropriately and securely fixed, such as using resilient mountings where noise carried by the structure of the building could be a problem.
+
+c.  Selecting appropriate equipment, including following paragraph 1.6. 1.6  For mechanical ventilation systems, fan units should be appropriately sized so that fans operating in normal background ventilation mode are not overly noisy, taking into consideration the use and likely background level of noise from other sources. This might require fans to be sized so that they do not operate near maximum capacity when in normal background ventilation mode.
+
+6  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)ONLINE VERSIONONLINE VERSIONAccess for maintenance
+
+1.7  Reasonable access should be provided for maintaining ventilation systems, including all of the following.
+
+a.  Providing access to replace filters, fans and coils.
+
+b.  Providing access points for cleaning ductwork.
+
+c.  Providing access for the general maintenance of plant.
+
+The ventilation strategy in this approved document 1.8  The ventilation strategy in this approved document relies on a combination of all of the following. a.  Extract ventilation from rooms where water vapour or pollutants are likely to be released (e.g. bathrooms, sanitary accommodation and kitchens in buildings other than dwellings), to minimise their spread to the rest of the building. Ventilation fans may be either intermittent operation or continuous operation.
+
+b.  Whole building ventilation to provide fresh air to the building and to dilute, disperse and remove water vapour and pollutants not removed by extract ventilation.
+
+c.  Purge ventilation to remove high concentrations of pollutants and water vapour. Purge ventilation is used intermittently and required only for pollutants produced by occasional activities (e.g. fumes from painting).
+
+d.  Monitoring of indoor air quality.
+
+1.9  Ventilation may be delivered through natural ventilation, mechanical ventilation or a combination of both. 1.10  Naturally ventilated buildings should follow additional guidance on ventilation in CIBSE’s AM10. Mixed mode buildings should follow additional guidance on ventilation in CIBSE’s AM13.
+
+1.11  The ventilation systems in this approved document are examples of systems that comply with Part F of the Building Regulations. Other ventilation systems may be acceptable if they can be shown to meet an equal level of performance. Performance-based guidance 1.12  Performance criteria for acceptable levels of moisture and pollutants are given in Appendix B. Ventilation rates designed to meet the performance criteria are given in this guidance or in the documents referred to.
+
+1.13  Some ventilation system designs can, in certain circumstances, result in lower ventilation rates than those stated in this guidance or in the documents referred to (e.g. systems with automatic controls). Where lower ventilation rates are proposed, expert advice should be obtained to demonstrate that the solution meets the performance standards in Appendix B. Building Regulations 2010   Approved Document F Volume 2, 2021 edition 7
+
+F1(1)ONLINE VERSIONONLINE VERSIONEquivalent area of ventilators 1.14  The size of background ventilators (including trickle ventilators) is given in this approved document as an equivalent area in mm2, not as a free area. BS EN 13141-1 includes a method of measuring the equivalent area of background ventilator openings. 1.15  Background ventilators should have the equivalent area marked where it will be easy to see from inside the building when installed, to aid verification by building control bodies. Installation of ventilation systems
+
+1.16  Ventilation systems should be installed to meet both of the following conditions.
+
+a.  Comply with the guidance in paragraphs 1.17 to 1.20.
+
+b.  Not compromise the performance of the system in use.
+
+1.17  Rigid ducts should be used wherever possible. Where necessary, flexible ducts may be used for final connections, but their lengths should be kept to a minimum. All flexible ductwork should meet the standards of BSRIA’s BG 43/2013.
+
+1.18  Ductwork installations should be designed and installed to minimise the overall pressure losses within the system by taking all of the following steps. a.  Minimising the overall length of duct.
+
+b.  Minimising the number of bends required.
+
+c. Installing appropriately sized ducts for the air flow rate.
+
+1.19  Duct connections should be both mechanically secured and adequately sealed to prevent leaks. Rigid connectors and jubilee clips should be used for flexible ducting to ensure a good seal.
+
+1.20  Mechanical ventilation systems must be commissioned in accordance with an approved procedure. See Section 4 of this approved document.
+
+Indoor air quality monitoring 1.21  In new buildings, the following types of occupiable room, unless they are rooms of the size described in paragraph 1.22, should have a means of monitoring the indoor air quality. This may be achieved using CO2 monitors or other means of measuring indoor air quality.
+
+a.  Occupiable rooms in offices.
+
+b.  Occupiable rooms where singing, loud speech or aerobic exercise or other aerosol generating activities are likely to take place. These may include rooms, for example, in gymnasiums, other indoor sports venues, dance studios, theatres, concert halls, public houses, nightclubs, places of assembly, as well as in other types of building. c.  Occupiable rooms where members of the public are likely to gather. These may include rooms, for example, in public buildings, hotels, gymnasiums, indoor sports venues, dance studios, theatres, concert halls, public houses, nightclubs, places of assembly, as well as in other types  of building.
+
+d.  Occupiable rooms which are maintained at both low temperatures and low levels of humidity. These may include rooms used for chilled food processing and occupied cold stores.
+
+8  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)ONLINE VERSIONONLINE VERSION1.22  The guidance in paragraph 1.21 does not apply to the following sizes of room.
+
+a.  Small spaces up to 125m3 volume, or 50m2 floor area.
+
+b.  Large spaces over 800m3 in volume, or 320m2 floor area.
+
+1.23  Where CO2 monitors are used, they should meet all of the following.
+
+a.  Be non-dispersive infrared (NDIR) type CO2 monitors.
+
+b.  Be mains powered.
+
+c.  Be placed at breathing height and away from windows, doors or ventilation openings where practicable.
+
+d.  Be placed at least 500mm from people where practicable.
+
+NOTE: Additional details on CO2 monitoring for indoor air quality can be found in Appendix C.
+
+Ventilation for offices
+
+Extract ventilation for offices
+
+1.24  Extract ventilation should be provided in offices in all the following areas. a.  Sanitary accommodation.
+
+b.  Bathrooms.
+
+c.  Washrooms.
+
+d.  Food and beverage preparation areas.
+
+e.  Rooms that are designed to contain printers and photocopiers in substantial use (more than  30 minutes per hour).
+
+NOTE: Rooms that are designed to contain printers and photocopiers in substantial use (more than 30 minutes per hour) should not be designed to be occupied.
+
+1.25  For rooms designed to contain printers and photocopiers in substantial use (more than 30 minutes per hour), both of the following should apply.
+
+a.  The air extract rate should be 20 litres per second per machine during use.
+
+b.  The whole building ventilation rate should be met.
+
+1.26  Sanitary accommodation and bathrooms should have an intermittent air extract rate of both of the following.
+
+a.  15 litres per second per shower or bath.
+
+b.  6 litres per second per WC pan or urinal.
+
+1.27  Extract ventilators in sanitary accommodation should be capable of continuous operation if required.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 9
+
+F1(1)ONLINE VERSIONONLINE VERSION1.28  Food and drink preparation areas should have an intermittent air extract rate of either of the following.
+
+a. If the area is only for using a microwave and preparing drinks: 15 litres per second.
+
+b. If the area is for using a domestic-type hob or cooker, either of the following.
+
+i. If the extract ventilator is adjacent to the hob/cooker: 30 litres per second.
+
+ii. If the extract ventilator is remote from the hob/cooker: 60 litres per second.
+
+NOTE: This guidance does not apply to commercial kitchens, which should follow the specific guidance in Table 1.1.
+
+1.29  Specialist buildings and spaces should follow the guidance in Table 1.1.
+
+1.30  For naturally ventilated offices that do not use mechanical supply and extract ventilation, both of the following should apply. a.  The locations of extract ventilators should be both of the following.
+
+i.  As high as practicable.
+
+ii.  A maximum of 400mm below the ceiling.
+
+b.  Where used, passive stack ventilation terminals should be located in the ceiling.
+
+1.31  For a room with no openable window, the extract ventilation should operate both: a.  while the room is occupied b.  for a minimum of 15 minutes after occupants have left the room.
+
+Whole building ventilation rates for offices
+
+1.32  Outdoor air should be supplied for occupiable rooms in offices at whichever of the following will provide the higher total rate.
+
+a.  10 litres per second per person.
+
+b.  1 litre per second per m2 floor area.
+
+1.33  Common spaces in offices, including rooms or spaces used solely or mainly for circulation, such as corridors and lift lobbies, should be provided with either of the following.
+
+a.  Natural ventilation by appropriately located ventilation opening(s) with a total opening area of at least 1/50 of the floor area of the common space. b.  Mechanical ventilation installed to provide a supply of outdoor air of 0.5 litres per second per m2 of floor area of the common space.
+
+1.34  If there are significant levels of pollutants other than body effluents/odour, additional ventilation may be required. The calculation method provided in CIBSE’s Guide A Environmental Design should be followed to determine the whole building ventilation rate.
+
+10  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)ONLINE VERSIONONLINE VERSIONPurge ventilation for offices
+
+1.35  Each office should have the means to provide purge ventilation, to reduce pollutants before the office space is occupied or after activities such as painting. The purged air should both:
+
+a.  be taken directly to the outside b.  not be recirculated to any other part of the building.
+
+Controls for offices
+
+1.36  Controls should be provided for ventilators so that the ventilation in each room can be adjusted. For mechanical supply and extract ventilation, either manual controls or automatic controls are acceptable.
+
+Recirculation of air within ventilation systems in offices
+
+1.37  Ventilation systems that, under normal operation, recirculate air between more than one space, room or zone should also be able to operate in a mode that reduces the risk of the transmission of airborne infection. This can be achieved by one or more of the following.
+
+a.  Systems capable of providing 100% outdoor air to the levels specified in paragraphs 1.32 to 1.34 to all occupiable rooms and common spaces, without recirculating air.
+
+b.  Systems incorporating a UV-C germicidal irradiation system that is able to disinfect the air that is being recirculated. This type of system is commonly located within the heating, ventilation and air conditioning (HVAC) system or ductwork.
+
+c.  Systems designed so that they can incorporate HEPA filters, if required, which are able to provide filtration of the recirculated air.
+
+NOTE: For some system types some recirculation is necessary or desirable in normal operation. Use of any full outdoor air mode, UV-C germicidal irradiation or HEPA filtration may not be necessary under normal conditions of operation. Ventilation of car parks
+
+1.38  For car parks below ground level, enclosed car parks and multi-storey car parks, the ventilation rate should be designed, and equipment installed, to limit carbon monoxide to both of the following. a.  Average concentration: a maximum of 30 parts per million over an eight-hour period.
+
+b.  Peak concentration, such as by ramps and exits: a maximum of 90 parts per million over a 15-minute period.
+
+NOTE: Guidance on the ventilation of car parks to manage the risk of fire is given in Approved Document B.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 11
+
+F1(1)ONLINE VERSIONONLINE VERSION1.39  As	an	alternative	to	paragraph	1.38,	either	of	the	following	may	be	considered	to	provide	adequate	
+
+ventilation.
+
+a.	
+
+If	the	car	park	has	natural	ventilation,	openings	at	each	car	parking	level	should	comply	with	
+
+both	of	the	following.	
+
+i.	 Have	a	minimum	aggregate	equivalent	area	of	1/20	of	the	floor	area	at	that	level.
+
+ii.	 Have	a	minimum	of	25%	of	the	aggregate	equivalent	area	on	each	of	two	opposing	walls.
+
+b.	
+
+If	the	car	park	has	mechanical	ventilation,	either	of	the	following	should	apply.	
+
+i.	 All	of	the	following.	
+
+•	 Permanent	natural	ventilation	openings	with	a	minimum	equivalent	area	of	1/40	of	the	
+
+floor	area.	
+
+•	 A	mechanical	ventilation	system	capable	of	at	least	three	air	changes	per	hour.	
+
+•	 For	exits	and	ramps,	where	cars	queue	inside	the	building,	provision	to	ensure	a	local	
+
+ventilation	rate	of	at	least	ten	air	changes	per	hour.
+
+ii.	 Both	of	the	following.
+
+•	 For	a	car	park	in	a	basement,	the	provision	of	a	mechanical	ventilation	system	capable	of	at	
+
+least	six	air	changes	per	hour.	
+
+•	 For	exits	and	ramps,	where	cars	queue	inside	the	building,	provision	to	ensure	a	local	
+
+ventilation	rate	of	at	least	ten	air	changes	per	hour.
+
+1.40  Further	guidance	can	be	found	in	the	following	documents.	
+
+a.	 The	Association	of	Petroleum	and	Explosives	Administrations’	Code of Practice for Ground Floor, Multi Storey and Underground Car Parks. b.	 CIBSE’s	Guide	B2	Ventilation and Ductwork.
+
+c.	 The	Health	and	Safety	Executive’s	publication	EH40/2005	Workplace Exposure Limits. d.	 ASHRAE’s	ASHRAE Handbook – HVAC Applications,	chapter	16	‘Enclosed	Vehicular	Facilities’.
+
+Ventilation	for	buildings	other	than	offices	and	car	parks
+
+1.41  Adequate	means	of	ventilation	in	buildings	other	than	offices	and	car	parks	may	be	demonstrated	
+
+by	meeting	the	relevant	standards	set	out	in	CIBSE’s	Guide	A.	Sources	of	further	guidance,	and	
+
+relevant	regulations,	are	listed	in	Table	1.1.		
+
+NOTE: For	residential	non-domestic	buildings	within	the	scope	of	Part	O	of	the	Building	
+
+Regulations	(overheating),	higher	purge	ventilation	rates	may	be	required.
+
+12	
+
+	Approved	Document	F	Volume	2,	2021	edition	
+
+Building	Regulations	2010
+
+F1(1)ONLINE VERSIONONLINE VERSIONBuilding/space/
+
+activity
+
+Regulations and guidance (also see CIBSE’s Guide A and Appendices D and E)
+
+Animal rooms
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Building services plant rooms
+
+Code of Practice for the Housing and Care of Animals Bred, Supplied or Used for Scientific Purposes (Home Office, 2014)
+
+Dangerous Substances and Explosive Atmospheres Regulations 2002 Provision for emergency ventilation to control dispersal of contaminating gas releases (e.g. refrigerant leak) is given in paragraphs 23 to 25 of HSE Guidance Note HSG 202 General Ventilation in the Workplace – Guidance for Employers. BS EN 378-3 Refrigerating systems and heat pumps. Safety and environmental requirements – Installation site and personal protection
+
+Follow manufacturers’ guidance for adequate provision of air for service equipment.
+
+Catering and commercial kitchens
+
+HSE Catering Information Sheet No. 10: Ventilation in catering kitchens (2017)
+
+BESA DW 172 Specification for Kitchen Ventilation Systems (2018)
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Cleanrooms
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Common  spaces(1)
+
+Either:
+
+a.  natural ventilation by appropriately located ventilation opening(s) with a total opening area of at least 1/50 of the floor area of the common space b.  mechanical ventilation installed to provide a supply of fresh air of 0.5 litres per second per m2 of floor area.
+
+Data centres
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Dealing rooms
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Factories and workshops
+
+Control of Substances Hazardous to Health (COSHH) Regulations 2002 Factories Act 1961
+
+Health and Safety at Work etc. Act 1974
+
+BESA TR 40 Guide to Good Practice for Local Exhaust Ventilation (2020) CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+NOTE: Requirements are often exceeded by other criteria, such as the ventilation requirements of the particular manufacturing process.
+
+Farms
+
+Welfare of Farmed Animals (England) Regulations 2007
+
+BS 5502 Buildings and structures for agriculture
+
+Gymnasiums
+
+Sport England Design Guidance Note: Fitness and Exercise Spaces (2008)
+
+Healthcare buildings: non-
+
+surgical
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+NHS Activity DataBase
+
+Health Technical Memorandum (HTM) 03-01 (Department of Health)
+
+Health Building Notes (HBN) – various (Department of Health)
+
+Hospitals
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+NHS Activity DataBase
+
+Health Technical Memorandum (HTM) 03-01 (Department of Health)
+
+Health Building Notes (HBN) – various (Department of Health)
+
+Hotels
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 13
+
+F1(1)Table 1.1 Ventilation for buildings other than offices and car parksONLINE VERSIONONLINE VERSIONBuilding/space/
+
+activity
+
+Regulations and guidance (also see CIBSE’s Guide A and Appendices D and E)
+
+Industrial ventilation
+
+Industrial Ventilation: A Manual of Recommended Practice for Design (American Conference of Government Industrial Hygienists, 2019)
+
+Industrial Ventilation: A Manual of Recommended Practice for Operation and Maintenance (American Conference of Government Industrial Hygienists, 2020) HSG 258 Controlling Airborne Contaminants at Work (HSE, 2017)
+
+Museums, libraries and art galleries
+
+BS 4971 Conservation and care of archive and library collections
+
+BS EN 16893 Conservation of Cultural Heritage. Specifications for location, construction and modification of buildings or rooms intended for the storage or use of heritage collections
+
+Places of assembly
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Prison cells
+
+PSI 17/2012 Certified Prisoner Accommodation (Ministry of Justice, 2012)
+
+Sanitary accommodation
+
+Schools and education
+
+Shops and general retail premises
+
+Sports centres and swimming pools
+
+Supermarkets and food stores
+
+Transportation buildings and facilities
+
+Same as for offices in paragraph 1.26: sanitary accommodation should have an intermittent air extract rate of both of the following. a.  15 litres per second per shower or bath.
+
+b.  6 litres per second per WC pan or urinal.
+
+Extract ventilators in sanitary accommodation should be capable of continuous operation if required.
+
+Education (School Premises) Regulations 1999 Building Bulletin 101 Guidelines on Ventilation, Thermal Comfort and Indoor Air Quality in Schools (ESFA, 2018) Building Bulletin 101 can also be used as a guide to the ventilation required in other educational buildings, such as further education establishments, where the accommodation is similar to that in schools, e.g. sixth form accommodation. However, the standards may not be appropriate for particular areas where more hazardous activities take place than are normally found in schools, e.g. some practical and vocational activities that require containment or fume extraction.
+
+Building Bulletin 101 can also be used for children’s centres and other early years settings, including day nurseries, playgroups, etc.
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+Sport England Sports Halls Design and Layouts: Updated and Combined Guidance (2012) CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+CIBSE Guide B2 Ventilation and Ductwork (2016)
+
+NOTE:
+
+1.  Common spaces are as defined in Appendix A.
+
+14  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)Table 1.1 ContinuedONLINE VERSIONONLINE VERSIONSection 2: Minimising the ingress of external pollutants
+
+2.1  Ventilation systems should be designed to minimise the intake of external air pollutants following paragraphs 2.2 to 2.6 if either of the following applies. a.  The pollutant values in the location of the building exceed any of the limits in Table 2.1. This may have been determined through an air quality assessment. Where modelling or monitoring data is required, expert advice should be sought.
+
+b.  The building is located near to any of the following sources of significant local pollution.
+
+i.  Road traffic, including traffic junctions and underground car parks. ii.  Combustion plant (such as heating appliances) running on conventional fuels, most commonly natural gas.
+
+iii.  Other combustion processes (for example, waste incineration, thermal oxidation abatement systems).
+
+iv.  Discharges from industrial processes.
+
+v.  Fugitive (i.e. not effectively controlled) discharges from industrial processes and other sources.
+
+vi.  Exhaust discharges from building ventilation systems.
+
+vii. Construction and demolition sites, which are a source of particles and vaporous discharges.
+
+viii. Other significant sources of local air pollution which may be detrimental to health.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 15
+
+F1(1)ONLINE VERSIONONLINE VERSIONPollutant
+
+Carbon monoxide
+
+Sulphur dioxide
+
+Nitrogen dioxide
+
+Benzene
+
+Lead
+
+PM2.5
+
+PM10
+
+Exposure limit
+
+10mg/m3
+
+350μg/m3
+
+125μg/m3
+
+200μg/m3
+
+40μg/m3
+
+5μg/m3
+
+0.5mg/m3
+
+25μg/m3
+
+50μg/m3
+
+40μg/m3
+
+Exposure time
+
+8-hour average
+
+1-hour average
+
+1-day average
+
+1-hour average
+
+1-year average
+
+1-year average
+
+1-year average
+
+1-year average
+
+1-day average
+
+1-year average
+
+NOTE: This section only gives guidance for typical situations. Expert advice may also be able to provide additional guidance on the suitability of other technologies to minimise the intake of external air pollutants, including filtration.
+
+NOTE: The Building Research Establishment’s Ventilation for Healthy Buildings: Reducing the Impact of Urban Air Pollution provides guidance on minimising the ingress of external pollutants into non-
+
+domestic urban buildings.
+
+Control of ventilation intakes
+
+2.2  Ventilation intakes should be located away from the direct impact of the sources of local pollution. NOTE: CIBSE’s TM64 and TM40 give further guidance.
+
+2.3  Where urban traffic is a source of pollution, the air intakes for buildings next to busy urban roads should be both of the following.
+
+a.  As high as possible.
+
+b.  Located on the less polluted side of the building.  Mechanical ventilation may be the most practical way of achieving this requirement.  2.4 If practicable, ventilation intakes should not be located in courtyards or enclosed urban spaces where air pollutants are discharged. If this is unavoidable, intakes should be located to meet both of the following conditions. a.  As far as possible from the source of pollutants.
+
+b. In an open or well-ventilated area.
+
+2.5 In areas where wind often comes from opposing directions (e.g. a valley), the air intakes should point in the opposite direction to the exhaust outlets. 2.6  Where sources of pollution vary with the time of day, such as urban road traffic, it may be acceptable, for time-limited periods, to take one of the following actions.
+
+a.  Reduce the flow of external air into ventilation intakes.
+
+16  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)Table 2.1  Limit values from Schedule 2 to the Air Quality Standards Regulations 2010ONLINE VERSIONONLINE VERSION b.  Close ventilation intakes when the concentrations of external pollutants are highest.
+
+NOTE: In these circumstances, expert advice should be sought.
+
+Location of exhaust outlets
+
+2.7  Exhaust outlets should be located so that both of the following are achieved.
+
+a.  Re-entry of exhaust air into a building, or entry into nearby buildings, is minimised.
+
+b.  There is no harmful effect on the surrounding area.
+
+2.8  Where there is a prevailing wind direction, exhaust outlets should be downwind of intakes.
+
+2.9  Exhaust outlets should not discharge into any of the following.
+
+a.  Courtyards.
+
+b.  Enclosures.
+
+c.  Architectural screens. NOTE: Chapter 13 of McGraw Hill’s Indoor Air Quality Handbook provides further guidance.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 17
+
+F1(1)ONLINE VERSIONONLINE VERSIONSection 3: Work on existing buildings
+
+General
+
+3.1  When building work in an existing building includes work on ventilation, for example:
+
+a.  building an extension
+
+b.  adding a wet room
+
+c.  replacing part of the ventilation system
+
+the work should meet the relevant standards in this approved document.
+
+3.2  When other building work is carried out that will affect the ventilation of the existing building,  for example:
+
+a.  replacing windows or doors
+
+b.  doing energy efficiency work
+
+the ventilation of the building should either:
+
+a.  meet the standards in the relevant approved document
+
+b.  not be less satisfactory than before the work was carried out.
+
+NOTE: Ventilation through infiltration should be considered to be part of the ventilation provision of a building. Reducing infiltration might reduce the indoor air quality of the building below the standards given in Appendix B.
+
+3.3  When a building undergoes a material change of use, Part F of Schedule 1 to the Building Regulations applies to the building or part of the building that has changed use. Guidance in Section 1 should be followed. NOTE: Ventilation equipment is considered to be a ‘controlled service or fitting’ and providing or extending this equipment in or in connection with a building is considered to be building work. NOTE: Some building work does not need to be notified to the local authority. Details of such work are set out in the Manual to the Building Regulations.
+
+3.4 If work is carried out which increases the energy efficiency of a building, airtightness may be increased. In these circumstances, any useful ventilation which was lost should be replaced in order to maintain a healthy indoor environment. When carrying out work which is likely to increase the airtightness of the building, it should be demonstrated to the building control body that the work meets the requirements of Part F1(1), where it is an applicable requirement. Refer to paragraphs 3.1 and 3.2 for the relevant standards that should be met. For domestic-type installation of common energy efficiency measures in existing buildings, Approved Document F, Volume 1: Dwellings contains guidance on meeting the requirements of Part F of the Building Regulations.
+
+18  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(1)ONLINE VERSIONONLINE VERSIONReplacing windows
+
+Existing windows with background ventilators
+
+3.5 If the existing windows have background ventilators, the replacement windows should include background ventilators. The new background ventilators should comply with the following conditions.
+
+a.  Not be smaller than the background ventilators in the original window.
+
+b.  Be controllable either automatically or by the occupant. If the size of the background ventilators in the existing window is not known, the ventilator sizes in paragraph 3.6 may be applied. Existing windows without background ventilators
+
+3.6  Replacing the windows is likely to increase the airtightness of the building. If ventilation is not provided via a mechanical ventilation system, then increasing the airtightness of the building may reduce beneficial ventilation in the building. In these circumstances, it is necessary to ensure that the ventilation provision in the building is no worse than it was before the work was carried out. This may be demonstrated in any of the following ways. a. Incorporating background ventilators in the replacement windows equivalent to the following.
+
+i.  Occupiable rooms. •	 For floor areas up to 10m2 – minimum 2500mm2 equivalent area.
+
+•	 For floor areas greater than 10m2 – minimum 250mm2 equivalent area per m2 of floor area.
+
+ii.  Domestic-type kitchen – minimum 8000mm2 equivalent area.
+
+iii.  Bathroom (with or without a toilet) and shower rooms – minimum 4000mm2 equivalent area per bath or shower.
+
+iv.  Sanitary accommodation (and/or washing facilities) – minimum 2000mm2 equivalent area per WC.
+
+b.  Other ventilation provisions, if it can be demonstrated to a building control body that they comply with the requirements of paragraph 3.2.
+
+NOTE: If it is not technically feasible to adopt the minimum equivalent areas set out in paragraph 3.6, the background ventilators should have equivalent areas as close to the minimum value as is feasible.
+
+NOTE: If an exposed façade is close to an area of sustained and loud noise (e.g. a main road), then a noise attenuating background ventilator should be fitted.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 19
+
+F1(1)ONLINE VERSIONONLINE VERSIONRequirement F1(2) and regulations 39 and 44
+
+This section deals with the requirements of Part F1(2) of Schedule 1 and regulations 39 and 44 of the Building Regulations 2010.
+
+Requirement
+
+Requirement
+
+Limits on application
+
+F1.  (2)   Fixed systems for mechanical ventilation and any associated controls must be commissioned by testing and adjusting as necessary to secure that the objective referred to in sub-paragraph (1) is met.
+
+Requirement F1 does not apply to a building or space within a building:
+
+a. into which people do not normally go;
+
+b.  which is used solely for storage; or
+
+c.  which is a garage used solely in connection with a single dwelling.
+
+Regulations
+
+Information about ventilation
+
+39.  (1)   This regulation applies where paragraph F1(1) of Schedule 1 imposes a requirement in relation to building work.
+
+(2)   The person carrying out the work shall not later than five days after the work has been completed give sufficient information to the owner about the building’s ventilation system and its maintenance requirements so that the ventilation system can be operated in such a manner as to provide adequate means of ventilation.
+
+Commissioning
+
+44.  (1)   This regulation applies to building work in relation to which paragraph F1(2) of Schedule 1 imposes a requirement, but does not apply to the provision or extension of any fixed system for mechanical ventilation or any associated controls where testing and adjustment is not possible. (2)   This regulation also applies to building work in relation to which paragraph L1(b) of Schedule 1 imposes a requirement, but does not apply to the provision or extension of any fixed building service where testing and adjustment is not possible or would not affect the energy efficiency of that fixed building service.
+
+(3)   Where this regulation applies the person carrying out the work shall, for the purpose of ensuring compliance with paragraph F1(2) or L1(b) of Schedule 1, give to the local authority a notice confirming that the fixed building services have been commissioned in accordance with a procedure approved by the Secretary of State.
+
+(4)  The notice shall be given to the local authority—
+
+(a)  not later than the date on which the notice required by regulation 16(4) is required to be given; or
+
+(b)  where that regulation does not apply, not more than 30 days after completion of the work.
+
+NOTE: Where the building control body is an approved inspector, see regulation 20 of the Building (Approved Inspectors etc.) Regulations 2010 (as amended). 20  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(2), R39, R44ONLINE VERSIONONLINE VERSION  Intention In the Secretary of State’s view, requirement F1(2) and regulation 44 are met if building work that involves installing a mechanical ventilation system, for a new or an existing building, follows the guidance in paragraphs 4.1 to 4.3 to achieve all of the following. a.  All fixed mechanical ventilation systems for which testing and adjustment is possible are tested and commissioned.
+
+b.  Commissioning results show that systems are operating as required to achieve adequate ventilation, including achieving the flow rates specified in this approved document. c.  Commissioning results show that controls are operating as required to achieve adequate ventilation.
+
+d.  The person carrying out the work gives notice to the building control body and building owner that commissioning has been carried out following the procedure given in this document.
+
+In the Secretary of State’s view, when building work that affects ventilation is carried out, the requirements of regulation 39 are met if the installer provides clear and simple written guidance  for the building owner on how to operate and maintain the ventilation system, as described in paragraphs 4.4 to 4.9. Building Regulations 2010   Approved Document F Volume 2, 2021 edition 21
+
+F1(2), R39, R44ONLINE VERSIONONLINE VERSIONSection 4: Commissioning and providing information
+
+Commissioning of ventilation systems
+
+4.1  Mechanical ventilation systems must be commissioned to provide adequate ventilation. A commissioning notice must be given to the building control body.
+
+4.2  Commissioning should be carried out in accordance with CIBSE’s Commissioning Code M.
+
+4.3  Ventilation ductwork commissioning should take account of guidance in BESA’s DW 144 for metal ductwork, DW 154 for plastic ductwork and DW 143 for ductwork air leakage testing.
+
+NOTE: When mechanical ventilation is commissioned, the use of fuel and power should also be considered in accordance with Part L of the Building Regulations (L1(b) of Schedule 1). Installers may provide notice of commissioning to cover Part F (F1(2) of Schedule 1) and Part L in the same document. Operating and maintenance instructions
+
+4.4  Sufficient information about the ventilation system and its maintenance requirements must be given to the building owner to allow the system to be operated effectively. This should include both design flow rates and maintenance requirements. 4.5  For new and existing buildings other than dwellings, information should be provided in a new or existing building log book. The log book should follow the guidance in CIBSE’s TM31. Guidance on building log books is given in Approved Document L, Volume 2: Buildings other than dwellings.
+
+4.6  A copy of the completed commissioning sheet should be given to the owner of the building. 4.7  The operation and maintenance information should contain specific instructions for the end user on how and when to use the ventilation system, including information on the intended uses for the available fan settings. Information should also be provided to suggest when, and how, the system components should be cleaned and maintained. 4.8  The following information should be provided where relevant.
+
+a.  Manufacturer’s contact details.
+
+b.  That background ventilators allow fresh air into the building and should be left open.
+
+c.  The location of automatic controls and how to set them.
+
+d.  The location of manual controls for the on/off and high rate settings for a mechanical ventilation system and how to use them.
+
+e.  How cleaning and maintenance of the system and its components should be carried out. This includes the location and specification of filters and how to assess when to replace filters.
+
+f.  How to access ducts for cleaning, how to undertake cleaning of plant and ducts and the intervals at which cleaning should be undertaken.
+
+22  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+F1(2), R39, R44ONLINE VERSIONONLINE VERSIONg.  The location of sensors and how to recalibrate them.
+
+h.  Design flow rates.
+
+i.  The use of and interpretation of results from CO2 or other air quality monitoring sensors.
+
+j.  Adjustment of outdoor air rate for recirculating systems.
+
+k.  Operation, maintenance and safety of any UV-C germicidal irradiation system installed.
+
+4.9  The operation and maintenance information should also contain relevant manufacturers’ literature, including the following, where relevant.
+
+a.  Component specifications.
+
+b. Installation guidance.
+
+c.  Operating instructions.
+
+d.  Maintenance schedules.
+
+e.  Guarantees.
+
+f.  Registration card.
+
+g.  Spare part lists.
+
+h. Instructions for obtaining spare parts.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 23
+
+F1(2), R39, R44ONLINE VERSIONONLINE VERSIONAppendix A: Key terms
+
+Except for the items marked * (which are from the Building Regulations 2010), these definitions apply only to Approved Document F, Volume 2: Buildings other than dwellings. Air permeability The measure of airtightness of the building fabric. It is defined as the air leakage rate per hour per m2 of envelope area at the test reference pressure differential of 50Pa. Airtightness The resistance of the building envelope to infiltration when ventilators are closed. The greater the airtightness at a given pressure difference across the envelope, the lower the infiltration. Automatic controls A system whereby a ventilation device is adjusted by a mechanical or electronic controller that responds to a relevant stimulus. That stimulus usually relates to the humidity of the air in a room, pollutant levels, occupancy of the space or pressure difference across the device.
+
+Background ventilator A small ventilation opening designed to provide controllable whole building ventilation. Bathroom A room that contains a bath or shower and which can also include sanitary accommodation.
+
+Building control body A local authority or an approved inspector.
+
+Common space A space where large numbers of people are expected to gather (e.g. a shopping mall or foyer of a cinema or theatre) or which is used mainly for circulation in buildings which do not contain dwellings (e.g. a corridor or lift lobby in an office building). This does not include areas used solely or principally for circulation in buildings containing dwellings, including corridors or lift lobbies in blocks of flats.
+
+Continuous operation Uninterrupted running of a mechanical ventilation device, such as mechanical extract ventilation or mechanical supply and extract ventilation. The air flow rate provided by mechanical ventilation need not be constant but may be varied, under either manual or automatic control, in response to the demand for removal of pollutants or water vapour.
+
+Dwelling A self-contained unit designed to accommodate a single household. Equivalent area A measure of the aerodynamic performance of a ventilator. It is the area of a sharp-edged circular orifice through which air would pass at the same volume flow rate, under an identical applied pressure difference, as through the opening under consideration.
+
+Expert advice Advice from a suitably qualified competent person. Examples from the ventilation industry of a person competent to give expert advice include a chartered or professional engineer, a building services specialist, a specialist ventilation manufacturer or members of professional trade bodies. Extract ventilation The removal of air directly from an internal space or spaces to the outside. Extract ventilation may be by natural means or by mechanical means (e.g. by an extract fan or a central system).
+
+Free area The geometric open area of a ventilator.
+
+Habitable room A room used for dwelling purposes but which is not solely a kitchen, utility room, bathroom, cellar or sanitary accommodation.
+
+Infiltration The uncontrolled exchange of air between the inside and outside of a building, through gaps and cracks.
+
+Intermittent operation When a mechanical ventilator does not run all the time, usually running only when there is a particular need to remove pollutants or water vapour (e.g. during cooking or bathing). Intermittent operation may be under either manual control or automatic control.
+
+24  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+AONLINE VERSIONONLINE VERSIONManual controls A system whereby a ventilation device is opened and closed, or switched on and off, or its performance is adjusted by the occupants of a room or building (see automatic controls).
+
+*Material change of use Defined in regulation 5 as: Where there is a change in the purposes for which or the circumstances in which a building is used, so that after that change:
+
+a.  the building is used as a dwelling, where previously it was not;
+
+b.  the building contains a flat, where previously it did not; c.  the building is used as an hotel or a boarding house, where previously it was not;
+
+d.  the building is used as an institution, where previously it was not;
+
+e.  the building is used as a public building, where previously it was not;
+
+f. the building is not a building described in classes 1 to 6 in Schedule 2, where previously it was;
+
+g.  the building, which contains at least one dwelling, contains a greater or lesser number of dwellings than it did previously;
+
+h.  the building contains a room for residential purposes, where previously it did not;
+
+i. the building, which contains at least one room for residential purposes, contains a greater or lesser number of such rooms than it did previously;
+
+j. the building is used as a shop, where it previously was not; or
+
+k.  the building is a building described in regulation 7(4)(a), where previously it was not.
+
+Mechanical supply and extract ventilation Any mechanically driven ventilation that both continuously supplies outdoor air to the inside of the building and continuously extracts indoor air and discharges it to the outside. This includes decentralised supply and extract ventilation, and mechanical ventilation with heat recovery (MVHR, a mechanical supply and extract ventilation system that includes a heat recovery mechanism).
+
+Natural ventilation Ventilation provided by thermal, wind or diffusion effects through doors, windows or other intentional openings without the use of mechanically driven equipment. For the purposes of this approved document, a natural ventilation strategy may include decentralised extract ventilation from rooms where water vapour or pollutants are likely to be released to minimise their spread to the rest of the building.
+
+Occupiable room A room in a building other than a dwelling that is occupied by people, such as an office, workroom, classroom or hotel bedroom. The following are not occupiable rooms: bathrooms, sanitary accommodation, utility rooms or rooms or spaces used solely or mainly for circulation, building services plant or storage purposes.
+
+Passive stack ventilation (PSV) A ventilation system using ducts from terminals in the ceiling of rooms to terminals on the roof that extract air to the outside by a combination of the natural stack effect and the pressure effects of wind passing over the roof of the building. (The stack effect is the pressure differential between inside and outside a building, caused by differences in the density of the air due to an indoor/outdoor temperature difference.)
+
+Purge ventilation Manually controlled ventilation of rooms or spaces at a relatively high rate to rapidly dilute pollutants and/or disperse water vapour. Purge ventilation may be provided by natural means (e.g. an openable window) or mechanical means (e.g. a fan).
+
+Purpose-provided ventilation That part of the ventilation of a building provided by ventilation devices designed into the building (e.g. background ventilators, PSV, extract fans, mechanical ventilation or air-conditioning systems).
+
+*Room for residential purposes Defined in regulation 2(1) as a room, or a suite of rooms, which is not a dwelling-house or a flat and which is used by one or more persons to live and sleep and includes a room in a hostel, an hotel, a boarding house, a hall of residence or a residential home, but does not include a room in a hospital, or other similar establishment, used for patient accommodation. Building Regulations 2010   Approved Document F Volume 2, 2021 edition 25
+
+AONLINE VERSIONONLINE VERSIONSanitary accommodation A space containing one or more flush toilets (WCs) or urinals. Sanitary accommodation containing one or more cubicles counts as one space if there is free circulation of air throughout the space.
+
+Shared communal rooms Rooms in buildings containing dwellings, which provide facilities for the residents, for example a laundry room, occupied lobby or gym. This does not include areas used solely or principally for circulation in buildings containing dwellings, including corridors or lift lobbies.
+
+Ventilation opening Any means of purpose-
+
+provided ventilation (whether permanent or closable) that opens directly to external air, such as the openable parts of a window, a louvre or a background ventilator. It also includes any door that opens directly to external air.
+
+Whole building ventilation (general ventilation)  Nominally continuous ventilation of rooms or spaces at a relatively low rate to dilute and remove pollutants and water vapour not removed by extract ventilation, purge ventilation or infiltration, as well as to supply outdoor air into the building. Surface water activity A measure of the availability of water to micro-organisms. Surface water activity is determined from the ratio of the vapour pressure of the water in the substrate to the vapour pressure of pure water at the same temperature and pressure. This ratio, in steady-
+
+state conditions, is numerically equal to the equilibrium relative humidity of the air, except that the latter is commonly expressed as a percentage.
+
+Thermal envelope The combination of thermal elements of a building which enclose a particular conditioned indoor space or groups of indoor spaces.
+
+Utility room A room containing a sink or other feature or equipment that may reasonably be expected to produce significant quantities of water vapour.
+
+Ventilation The supply and removal of air (by natural and/or mechanical means) to and from a space or spaces in a building. It normally comprises a combination of purpose-provided ventilation and infiltration.
+
+26  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+AONLINE VERSIONONLINE VERSIONAppendix B: Performance-based ventilation
+
+Introduction
+
+B1  This appendix sets out the levels of moisture and other pollutants that the provisions in this approved document are designed to control. The provisions are designed to control all of the following.
+
+a.  Bio-effluents, as described in paragraph B2a.
+
+b.  Moisture levels, as described in paragraph B2b.
+
+c. Indoor air pollutants, as described in paragraph B2d.
+
+NOTE: The guidance in this approved document may not be adequate to address pollutants from flueless combustion space heaters. This approved document does not directly address contamination from outdoor sources.
+
+NOTE: A strategy for achieving good indoor air quality includes reducing the release of water vapour and air pollutants. This approved document does not provide guidance on such strategies.
+
+Performance criteria for buildings other than dwellings
+
+B2  The main guidance within this approved document focuses on offices. The main performance criteria applied are as follows.
+
+a.  There should be a supply rate, in the absence of tobacco smoke or other excessive pollutants, of 10 litres per second per person. This will also satisfy the requirement of 8 litres per second per person needed to control higher levels of bio-effluents.
+
+b.  There should be no visible mould on the inner surfaces of external walls of a properly heated building with typical moisture generation.
+
+c.  Mould can grow whether the building is occupied or unoccupied, so the performance criteria for surface water activity (as given in Table B2) should be met at all times, regardless of whether there are occupants. The other pollutants listed in Table B1 are only of concern when the building is occupied.
+
+d.  The performance criteria for indoor air pollutants are given in Table B1. Building Regulations 2010   Approved Document F Volume 2, 2021 edition 27
+
+BONLINE VERSIONONLINE VERSIONTable B1  Indoor air pollutants guidance values(1)(2)
+
+Pollutant
+
+Exposure limit
+
+Exposure time
+
+Carbon monoxide (CO)
+
+100mg/m3
+
+15-minute average
+
+30mg/m3
+
+35mg/m3  (occupational exposure)
+
+1-hour average
+
+8-hour average
+
+Nitrogen dioxide (NO2)
+
+Formaldehyde (CH2O)
+
+TVOC(3)
+
+Ozone
+
+200μg/m3
+
+40μg/m3 100μg/m3
+
+10μg/m3
+
+300μg/m3
+
+100μg/m3
+
+1-hour average
+
+1-year average
+
+30-minute average
+
+1-year average
+
+8-hour average
+
+Guidance WHO, 2010
+
+WHO, 2010
+
+HSE, 2020
+
+WHO, 2010
+
+WHO, 2010
+
+WHO, 2010
+
+PHE, 2019
+
+ECA, 1992/WHO, 2010
+
+DETR, 1994
+
+NOTES:
+
+1.  No safe levels can be recommended for benzene or trichloroethylene so they have not been considered in the definition of ventilation rates in buildings. The best strategy for reducing their concentration indoors may be to control them at source.
+
+2.  Even if the designer and builder choose to reduce volatile organic compound (VOC) levels in buildings by controlling them at source, the ventilation requirements must still be met.
+
+3.  The total volatile organic compound (TVOC) metric is representative of all airborne indoor air VOC concentrations and should not be used as a direct indicator of health. The simplified metric is used as an indicator for the purposes of ventilation control strategies. As an alternative to the TVOC limit, individual VOC limits may be used where justified in accordance with the guidance in paragraph B3.
+
+B3  As an alternative to using TVOC, the individual VOCs may be applied where their use is supported by robust independent evidence. Public Health England’s Indoor Air Quality Guidelines for Selected Volatile Organic Compounds (VOCs) in the UK should be used. Testing against these metrics is likely to be more complex than testing against TVOC.
+
+Where the Health and Safety Executive gives guidance for specific situations, that guidance should be followed in preference to the guidance given here.
+
+28  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+BONLINE VERSIONONLINE VERSIONAssumptions used in applying performance criteria for offices in Section 1
+
+General
+
+B4  For the purposes of this approved document, for all offices (both new and existing, where Part F applies), the moisture criteria are likely to be met if, during the colder months of the year, the moving average surface water activity of the internal surfaces of external walls is always less than the value in Table B2, evaluated over each moving average period.
+
+Table B2  Surface water activity
+
+Moving average period
+
+Surface water activity
+
+1 month
+
+1 week
+
+1 day
+
+0.75
+
+0.85
+
+0.95
+
+Extract ventilation
+
+B5  Office equipment can emit pollutants, including ozone and organic compounds. For example, a study by Black and Wortham (1999) suggests the following emission rates for laser printers and dry paper copiers assuming 30 minutes use in an hour.
+
+a.  25mg/h for TVOC.
+
+b.  3mg/h for ozone.
+
+To meet the performance criteria for these pollutants requires an extract rate of 20 litres per second per machine during use.
+
+B6  For sanitary accommodation, the extract rates used for dwellings have been applied.
+
+B7  For food and beverage preparation areas, the extract rates used for dwellings have been applied.
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 29
+
+BONLINE VERSIONONLINE VERSIONAppendix C: CO2 monitoring
+
+NOTE: The guidance in this appendix is based on the Scientific Advisory Group for Emergencies (SAGE) EMG/SPI-B advisory group paper Application of CO2 monitoring as an approach to managing ventilation to mitigate SARS-CoV-2 transmission.
+
+People exhale carbon dioxide (CO2) when they breathe out. If there is a build-up of CO2 in an area it can indicate that ventilation needs to be improved.
+
+Checking levels of CO2 using a monitor can help to identify areas that are poorly ventilated.
+
+Types of CO2 monitor to use
+
+Many different types of CO2 monitor are available. The most appropriate portable devices for use in the workplace are non-dispersive infrared (NDIR) CO2 monitors.  How to use a CO2 monitor
+
+The level of CO2 in the air will vary within an indoor space. It is best to place CO2 monitors at head height and away from windows, doors or air supply openings.
+
+Monitors that are positioned too close to people may give a misleadingly high reading due to the CO2 in exhaled breath. Monitors should therefore be positioned at least 500mm away from room occupants. Measured levels of CO2 within a space can vary throughout the day due to changes in number of occupants, activities being performed or ventilation rates in the space. The opening and closing of doors and windows can also have an effect.
+
+The amount of CO2 in the air is measured in parts per million (ppm). If measurements in an occupied space seem very low (far below 400ppm) or very high (over 1500ppm), it is possible that the monitor is not in a suitable location. The monitor may need to be moved to another position within the space, to get a more accurate reading.
+
+Instantaneous or ‘snapshot’ CO2 readings can be misleading, so several measurements should be taken throughout the day. The frequency of measurements should be sufficient to ensure that changes in the use of the room or space throughout the day are represented in the readings. Levels of CO2 may also vary throughout the year, as outdoor temperatures, and therefore behaviour relating to opening windows and doors, change.
+
+How to get the most accurate readings
+
+a.  Check that monitors are within the recommended calibration period. b.  Follow the manufacturer’s instructions, including allowing the appropriate warm-up time for the device to stabilise
+
+c.  Know how to use the monitor correctly, including the time needed to provide a reading.
+
+d.  Take measurements at key times throughout the working day. e.  Record CO2 readings, number of occupants, the type of ventilation in use at the time and the date. These will help you use the CO2 records to decide if an area is poorly ventilated.
+
+30  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+CONLINE VERSIONONLINE VERSIONHow the measurements can help you take action
+
+CO2 measurements should be used as a broad guide to ventilation within a space, rather than treated as ‘safe thresholds’.
+
+Outdoor levels are around 400ppm. A consistent indoor CO2 value of less than 800ppm is likely to indicate that a space is well ventilated.
+
+An average CO2 concentration of 1500ppm over the period when a space is occupied is an indicator of poor ventilation. Action should be taken to improve ventilation if CO2 readings are consistently higher than 1500ppm.
+
+However, in locations where continuous talking or singing takes place, or there are high levels of physical activity (such as dancing, playing sport or exercising), providing ventilation sufficient to keep CO2 levels below 800ppm is recommended.
+
+Where CO2 monitors will be less effective
+
+CO2 monitors may not be suitable for use in areas that rely on air-cleaning units because these remove contaminants from the air but do not remove CO2.
+
+In large, open spaces and spaces with high ceilings, such as food production halls or warehouses, air may not be fully mixed and the measurements made by CO2 monitors may not be representative.
+
+CO2 monitors are of limited use in less populated areas. Building Regulations 2010   Approved Document F Volume 2, 2021 edition 31
+
+CONLINE VERSIONONLINE VERSIONAppendix D: Standards referred to
+
+BS 4971 Conservation and care of archive and library collections [2017] BS 5502 Buildings and structures for agriculture. Various relevant parts, including: BS 5502-33 Guide to the control of odour pollution [1991 + AMD 10014]
+
+BS 5502-52 Code of practice for design of alarm systems, emergency ventilation and smoke ventilation for livestock housing  [1991 + AMD 10014]
+
+BS EN 378-3 Refrigerating systems and heat pumps. Safety and environmental requirements – Installation site and personal protection  [2016 + A1: 2020] BS EN 13141-1 Ventilation for buildings. Performance testing of components/products for residential ventilation. Externally and internally mounted air transfer devices [2019]
+
+BS EN 16893 Conservation of Cultural Heritage. Specifications for location, construction and modification of buildings or rooms intended for the storage or use of heritage collections [2018]
+
+32  Approved Document F Volume 2, 2021 edition Building Regulations 2010
+
+DONLINE VERSIONONLINE VERSIONAppendix E: Documents referred to
+
+Legislation
+
+(available via www.legislation.gov.uk) Air Quality Standards Regulations 2010, SI 2010/1001
+
+Ancient Monuments and Archaeological Areas Act 1979, c. 46
+
+Control of Substances Hazardous to Health Regulations 2002, SI 2002/2677
+
+Dangerous Substances and Explosive Atmospheres Regulations 2002, SI 2002/2776 American Society of Heating, Refrigeration and Air-Conditioning Engineers (ASHRAE)
+
+(ashrae.org)
+
+ASHRAE Handbook – HVAC Applications [2019]
+
+Association of Petroleum and Explosives Administrations (APEA)
+
+(apea.org.uk)
+
+Code of Practice for Ground Floor, Multi Storey and Underground Car Parks. Second Edition [1995]
+
+Education (School Premises) Regulations 1999,  SI 1999/2
+
+Building and Engineering Services Association (BESA)
+
+Factories Act 1961, c. 34
+
+(thebesa.com)
+
+Health and Safety at Work etc. Act 1974, c. 37
+
+Planning (Listed Buildings and Conservation Areas) Act 1990, c. 9
+
+Welfare of Farmed Animals (England) Regulations 2007, SI 2007/2078
+
+Other documents
+
+American Conference of Government Industrial Hygienists (ACGIH) (acgih.org)
+
+Industrial Ventilation: A Manual of Recommended Practice for Design. Thirtieth Edition [2019]
+
+Industrial Ventilation: A Manual of Recommended Practice for Operation and Maintenance. Second Edition [2020]
+
+BESA DW 143 Guide to Good Practice – Ductwork Air Leakage Testing [2013]
+
+BESA DW 144 Specification for Sheet Metal Ductwork [2016]
+
+BESA DW 154 Specification of Plastics Ductwork [2000]
+
+BESA DW 172 Specification for Kitchen Ventilation Systems [2018]
+
+BESA TR 40 Guide to Good Practice for Local Exhaust Ventilation [2020]
+
+Building Research Establishment (BRE)
+
+(www.bre.co.uk)
+
+Ventilation for Healthy Buildings: Reducing the Impact of Urban Air Pollution [2011] Building Services Research and Information Association (BSRIA)
+
+(www.bsria.com)
+
+BG 43 Flexible Ductwork: A Guide to Specification, Procurement, Installation and Maintenance [2013]
+
+Building Regulations 2010   Approved Document F Volume 2, 2021 edition 33
+
+EONLINE VERSIONONLINE VERSION
+

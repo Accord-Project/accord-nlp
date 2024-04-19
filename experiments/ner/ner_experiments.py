@@ -1,10 +1,13 @@
-# Created by Hansi at 28/06/2023
+# Created by Hansi on 28/06/2023
+
+# NER train-test experiment
 import argparse
 import os
 import shutil
 
-import pandas as pd
 import torch
+from datasets import Dataset
+from datasets import load_dataset
 from sklearn.model_selection import train_test_split
 
 from accord_nlp.text_classification.ner.ner_model import NERModel
@@ -35,10 +38,8 @@ else:
     ner_args['wandb_kwargs'] = {
         'name': f"{MODEL_NAME.split('/')[-1]}_{ner_args['learning_rate']}_{ner_args['num_train_epochs']}"}
 
-train_file_path = "data/ner/train.csv"
-test_file_path = "data/ner/test.csv"
-train_df = pd.read_csv(train_file_path, encoding='utf-8')
-test_df = pd.read_csv(test_file_path, encoding='utf-8')
+train_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='train'))
+test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='test'))
 
 train, eval = train_test_split(train_df, test_size=0.1, random_state=SEED)
 print(f'train size: {train.shape}')

@@ -1,0 +1,1339 @@
+id,text
+0_UK_UK_Approved_Document_A,LOADING AND GROUND MOVEMENT The Requirements
+1_UK_UK_Approved_Document_A,This Approved Document deals with the following Requirements which are contained in the Building Regulations 2010.
+2_UK_UK_Approved_Document_A,A1/2
+3_UK_UK_Approved_Document_A,Requirement Loading
+4_UK_UK_Approved_Document_A,Limits on application
+5_UK_UK_Approved_Document_A,"The building shall be constructed so that the combined dead, imposed and wind loads are sustained and transmitted by it to the ground:"
+6_UK_UK_Approved_Document_A,safely; and
+7_UK_UK_Approved_Document_A,"without causing such deflection or deformation of any part of the building, or such movement of the ground, as will impair the stability of any part of another building."
+8_UK_UK_Approved_Document_A,In assessing whether a building complies with sub-paragraph (1) regard shall be had to the imposed and wind loads to which it is likely to be subjected in the ordinary course of its use for the purpose for which it is intended.
+9_UK_UK_Approved_Document_A,Ground movement
+10_UK_UK_Approved_Document_A,The building shall be constructed so that ground movement caused by:
+11_UK_UK_Approved_Document_A,"swelling, shrinkage or freezing of the subsoil; or"
+12_UK_UK_Approved_Document_A,"land-slip or subsidence (other than subsidence arising from shrinkage), in so far as the risk can be reasonably foreseen, will not impair the stability of any part of the building."
+13_UK_UK_Approved_Document_A,5
+14_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION 0.3 Grandstands and structures erected in places of public assembly may need to sustain the synchronous or rhythmic movement of numbers of people.
+15_UK_UK_Approved_Document_A,It is important to ensure that the design of the structure takes these factors into account so as to avoid the structure being impaired or causing alarm to people using the structure.
+16_UK_UK_Approved_Document_A,"Guidance on the design and testing of grandstands may be found in ‘Dynamic performance requirements for permanent grandstands subject to crowd action – Recommendations for management, design and assessment’ published by The Institution of Structural Engineers, December 2008."
+17_UK_UK_Approved_Document_A,A1/2
+18_UK_UK_Approved_Document_A,Guidance
+19_UK_UK_Approved_Document_A,Introduction 0.1 In the Secretary of State’s view the requirements of A1 and A2 will be met by following the recommendations given in the documents listed in Section 1 or by adopting the guidance in Sections 2-4:
+20_UK_UK_Approved_Document_A,"Section 1 is relevant to all building types and lists Codes, Standards and other references for structural design and construction but, where they do not give precise guidance, consideration should be given to paragraph 0.2."
+21_UK_UK_Approved_Document_A,Section 2 give sizes of structural elements for certain residential buildings and other small buildings of traditional construction.
+22_UK_UK_Approved_Document_A,Section 3 gives guidance on the support and fixing of wall cladding.
+23_UK_UK_Approved_Document_A,Section 4 gives guidance where roofs are to be re-covered as a material alteration as defined in the Regulations.
+24_UK_UK_Approved_Document_A,"The safety of a structure depends on the 0.2 successful combination of design and completed construction, particularly:"
+25_UK_UK_Approved_Document_A,The design should be based on identification of the hazards to which the structure is likely to be subjected and assessment of the risks.
+26_UK_UK_Approved_Document_A,The selection of relevant critical situations for design should be made reflecting the conditions that can reasonably be foreseen during future use.
+27_UK_UK_Approved_Document_A,Loading.
+28_UK_UK_Approved_Document_A,"Dead load, imposed load and wind load should be in accordance with the current Codes of practice referred to in Section 1 of this document."
+29_UK_UK_Approved_Document_A,Properties of materials.
+30_UK_UK_Approved_Document_A,Detailed design and assembly of the structure.
+31_UK_UK_Approved_Document_A,Safety factors.
+32_UK_UK_Approved_Document_A,Workmanship.
+33_UK_UK_Approved_Document_A,"The numeric values of safety factors, whether expressed explicitly or implicitly in design equations, or design values, should be derived from considerations of the above aspects of design and construction as a whole."
+34_UK_UK_Approved_Document_A,A change in any one of these aspects may disturb the safety of the structure.
+35_UK_UK_Approved_Document_A,"Loads used in calculations should allow for possible dynamic, concentrated and peak load effects that may occur."
+36_UK_UK_Approved_Document_A,6
+37_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION A1/2
+38_UK_UK_Approved_Document_A,"Section 1: Codes, standards and references for all building types"
+39_UK_UK_Approved_Document_A,Introduction
+40_UK_UK_Approved_Document_A,"and lists codes, standards and other references for structural design and construction."
+41_UK_UK_Approved_Document_A,This section is relevant to all building types References
+42_UK_UK_Approved_Document_A,Basis of structural design and loading:
+43_UK_UK_Approved_Document_A,Eurocode: Basis of Structural Design
+44_UK_UK_Approved_Document_A,BS EN 1990:2002+A1:2005
+45_UK_UK_Approved_Document_A,Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005
+46_UK_UK_Approved_Document_A,Eurocode 1: Actions on Structures
+47_UK_UK_Approved_Document_A,"BS EN 1991-1-1:2002 Eurocode 1: Actions on structures – Part 1.1: General actions – Densities, self weight, imposed loads for buildings; with UK National Annex to BS EN 1991-1-1:2002"
+48_UK_UK_Approved_Document_A,BSI PD 6688-1-1:2011 Published Document – Recommendations for the design of structures to BS EN 1991-1-1
+49_UK_UK_Approved_Document_A,BS EN 1991-1-3:2003 Eurocode 1: Actions on structures – Part 1.3: General actions – Snow loads; with UK National Annex to BS EN 1991-1-
+50_UK_UK_Approved_Document_A,3:2003
+51_UK_UK_Approved_Document_A,BS EN 1991-1-4:2005+A1:2010 Eurocode 1: Actions on structures – Part 1.4: General actions – Wind actions; with UK National Annex to BS EN 1991-1-4:2005+A1:2010
+52_UK_UK_Approved_Document_A,BSI PD 6688-1-4:2009 Published Document – Background information to the National Annex to BS EN 1991-1-4 and additional guidance
+53_UK_UK_Approved_Document_A,BS EN 1991-1-5:2003 Eurocode 1: Actions on structures – Part 1.5: General actions – Thermal actions; with UK National Annex to BS EN 1991-
+54_UK_UK_Approved_Document_A,1-5:2003
+55_UK_UK_Approved_Document_A,BS EN 1991-1-6:2005 Eurocode 1: Actions on structures – Part 1.6: General actions – Actions during execution; with UK National Annex to BS EN 1996-1-6:2005
+56_UK_UK_Approved_Document_A,BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006
+57_UK_UK_Approved_Document_A,BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7
+58_UK_UK_Approved_Document_A,BS EN 1991-3:2006 Eurocode 1: Actions on structures – Part 3: Actions induced by cranes and machinery; with UK National Annex to BS EN 1991-3:2006
+59_UK_UK_Approved_Document_A,"Structural work of reinforced, 1.3 pre-stressed or plain concrete:"
+60_UK_UK_Approved_Document_A,Eurocode 2: Design of Concrete Structures
+61_UK_UK_Approved_Document_A,BS EN 1992-1-
+62_UK_UK_Approved_Document_A,1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004
+63_UK_UK_Approved_Document_A,BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and BS EN 1992-3
+64_UK_UK_Approved_Document_A,BS EN 13670:2009 Execution of concrete structures
+65_UK_UK_Approved_Document_A,Structural work of steel:
+66_UK_UK_Approved_Document_A,Eurocode 3: Design of Steel Structures
+67_UK_UK_Approved_Document_A,BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005
+68_UK_UK_Approved_Document_A,BS EN 1993-1-3:2006 Eurocode 3: Design of steel structures – Part 1.3: General rules – Supplementary rules for cold-formed members and sheeting; with UK National Annex to BS EN 1993-1-3:2006
+69_UK_UK_Approved_Document_A,BS EN 1993-1-4:2006 Eurocode 3: Design of steel structures – Part 1.4: General rules – Supplementary rules for stainless steels; with UK National Annex to BS EN 1993-1-4:2006
+70_UK_UK_Approved_Document_A,BS EN 1993-1-5:2006 Eurocode 3: Design of steel structures – Part 1.5: Plated structural elements; with UK National Annex to BS EN 1993-1-5:2006
+71_UK_UK_Approved_Document_A,BS EN 1993-1-6:2007 Eurocode 3: Design of steel structures – Part 1.6: Strength and stability of shell structures
+72_UK_UK_Approved_Document_A,BS EN 1993-1-7:2007 Eurocode 3: Design of steel structures – Part 1.7: Plated structures subject to out of plane loading
+73_UK_UK_Approved_Document_A,BS EN 1993-1-8:2005 Eurocode 3: Design of steel structures – Part 1.8: Design of joints; with UK National Annex to BS EN 1993-1-8:2005
+74_UK_UK_Approved_Document_A,BS EN 1993-1-9:2005 Eurocode 3: Design of steel structures – Part 1.9: Fatigue; with UK National Annex to BS EN 1993-1-9:2005
+75_UK_UK_Approved_Document_A,BSI PD 6695-1-9:2008 Published Document – Recommendations for the design of structures to BS EN 1993-1-9
+76_UK_UK_Approved_Document_A,BS EN 1993-1-10:2005 Eurocode 3: Design of steel structures – Part 1.10: Material toughness and through-thickness properties; with UK National Annex to BS EN 1993-1-10:2005
+77_UK_UK_Approved_Document_A,7
+78_UK_UK_Approved_Document_A,"Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 CODES, STANDARDS AND REFERENCES FOR ALL BUILDING TYPES"
+79_UK_UK_Approved_Document_A,BSI PD 6695-1-10:2009 Published Document – Recommendations for the design of structures to BS EN 1993-1-10
+80_UK_UK_Approved_Document_A,BS EN 1993-1-11:2006 Eurocode 3: Design of steel structures – Part 1.11: Design of structures with tension components; with UK National Annex to BS EN 1993-1-11:2006
+81_UK_UK_Approved_Document_A,BS EN 1993-1-12:2007 Eurocode 3: Design of steel structures – Part 1.12: Additional rules for the extension of EN 1993 up to steel grades S 700; with UK National Annex to BS EN 1993-1-12:2007
+82_UK_UK_Approved_Document_A,BS EN 1993-5:2007 Eurocode 3: Design of steel structures – Part 5: Piling; with UK National Annex to BS EN 1993-5:2007+A1:2012
+83_UK_UK_Approved_Document_A,BS EN 1993-6:2007 Eurocode 3: Design of steel structures – Part 6: Crane supporting structures; with UK National Annex to BS EN 1993-6:2007
+84_UK_UK_Approved_Document_A,BS EN 1090-2:2008+A1:2011 Execution of steel structures and aluminium structures – Part 2: Technical requirements for the execution of steel structures
+85_UK_UK_Approved_Document_A,BRE Digest 437 Industrial platform floors: mezzanine and raised storage
+86_UK_UK_Approved_Document_A,Structural work of composite steel and 1.5 concrete:
+87_UK_UK_Approved_Document_A,Eurocode 4: Design of Composite Steel and Concrete Structures
+88_UK_UK_Approved_Document_A,BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004
+89_UK_UK_Approved_Document_A,Structural work of timber:
+90_UK_UK_Approved_Document_A,Eurocode 5: Design of Timber Structures
+91_UK_UK_Approved_Document_A,BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-
+92_UK_UK_Approved_Document_A,1:2004+A1:2008
+93_UK_UK_Approved_Document_A,BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings
+94_UK_UK_Approved_Document_A,BS 8103-3:2009 Structural design of low-rise buildings – Part 3: Code of practice for timber floors and roofs for housing
+95_UK_UK_Approved_Document_A,Structural work of masonry:
+96_UK_UK_Approved_Document_A,Eurocode 6: Design of Masonry Structures
+97_UK_UK_Approved_Document_A,BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-1:2005+A1:2012
+98_UK_UK_Approved_Document_A,"BS EN 1996-2:2006 Eurocode 6: Design of masonry structures – Part 2: Design considerations, selection of materials and execution of masonry; with UK National Annex to BS EN 1996-2:2006"
+99_UK_UK_Approved_Document_A,BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to BS EN 1996-1-1 and BS EN 1996-2
+100_UK_UK_Approved_Document_A,BS EN 1996-3:2006 Eurocode 6: Design of masonry structures – Part 3: Simplified calculation methods for unreinforced masonry structures; with UK National Annex to BS EN 1996-3:2006
+101_UK_UK_Approved_Document_A,"BS 8103-1:2011 Structural design of low-rise buildings – Part 1: Code of Practice for stability, site investigation, foundations, precast concrete floors and ground floor slabs for housing"
+102_UK_UK_Approved_Document_A,BS 8103-2:2005 Structural design of low-rise buildings – Part 2: Code of practice for masonry walls for housing
+103_UK_UK_Approved_Document_A,Geotechnical work and foundations:
+104_UK_UK_Approved_Document_A,Eurocode 7: Geotechnical Design
+105_UK_UK_Approved_Document_A,BS EN 1997-
+106_UK_UK_Approved_Document_A,1:2004 Eurocode 7: Geotechnical design – Part 1: General rules; with UK National Annex to BS EN 1997-1:2004
+107_UK_UK_Approved_Document_A,BS EN 1997-2:2007 Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing; with UK National Annex to BS EN 1997-2:2007
+108_UK_UK_Approved_Document_A,Seismic aspects:
+109_UK_UK_Approved_Document_A,Eurocode 8: Design of Structures for Earthquake Resistance
+110_UK_UK_Approved_Document_A,"BS EN 1998-1:2004+A1:2013 Eurocode 8: Design of structures for earthquake resistance – Part 1: General rules, seismic actions and rules for buildings; with UK National Annex to BS EN 1998-1:2004"
+111_UK_UK_Approved_Document_A,"BS EN 1998-5:2004 Eurocode 8: Design of structures for earthquake resistance – Part 5: Foundations, retaining structures and geotechnical aspects; with UK National Annex to BS EN 1998-5:2004"
+112_UK_UK_Approved_Document_A,BSI PD 6698:2009 Published Document – Recommendations for the design of structures for earthquake resistance to BS EN 1998
+113_UK_UK_Approved_Document_A,8
+114_UK_UK_Approved_Document_A,"Structure Approved Document AONLINE VERSIONONLINE VERSION CODES, STANDARDS AND REFERENCES FOR ALL BUILDING TYPES A1/2"
+115_UK_UK_Approved_Document_A,Structural work of aluminium:
+116_UK_UK_Approved_Document_A,Eurocode 9: Design of Aluminium Structures
+117_UK_UK_Approved_Document_A,BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-1:2007+A1:2009
+118_UK_UK_Approved_Document_A,BS EN 1999-1-3:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.3: Structures susceptible to fatigue; with UK National Annex to BS EN 1999-1-3:2007+A1:2011
+119_UK_UK_Approved_Document_A,BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1: Recommendations for the design of aluminium structures to BS EN 1999
+120_UK_UK_Approved_Document_A,BS EN 1999-1-4:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.4: Cold-
+121_UK_UK_Approved_Document_A,formed structural sheeting; with UK National Annex to BS EN 1999-1-4:2007
+122_UK_UK_Approved_Document_A,BS EN 1999-1-5:2007 Eurocode 9: Design of aluminium structures – Part 1.5: Shell structures; with UK National Annex to BS EN 1999-1-5:2007
+123_UK_UK_Approved_Document_A,BS EN 1090-3:2008 Execution of steel structures and aluminium structures – Part 3: Technical requirements for aluminium structures
+124_UK_UK_Approved_Document_A,BSI PD 6705-3:2009 Published Document – Structural use of steel and aluminium – Part 3: Recommendations for the execution of aluminium structures to BS EN 1090-3
+125_UK_UK_Approved_Document_A,Ground movement (Requirement A2b)
+126_UK_UK_Approved_Document_A,"There may be known or recorded conditions of ground instability, such as that arising from landslides, disused mines or unstable strata which, if ignored, can have a devastating effect on the safety of a building and its environs."
+127_UK_UK_Approved_Document_A,Such conditions should be taken into account in the design of the building and its foundations.
+128_UK_UK_Approved_Document_A,"Attention is drawn to DOE Planning Policy Guidance Note 14 Development on unstable land (obtainable from The Stationery Office), which sets out the broad planning and technical issues relating to development on unstable land."
+129_UK_UK_Approved_Document_A,"The Department has also sponsored a series of reviews aimed at determining the scale and nature of problems arising from mining instability, natural underground cavities and adverse foundation conditions."
+130_UK_UK_Approved_Document_A,"Databases of both subsidence incidents and subsidence potential produced from these reviews are available from the following licence holders: British Geological Survey, Sir Kingsley Dunham Centre, Keyworth, Nottingham NG12 5GG."
+131_UK_UK_Approved_Document_A,"Landmark, 7 Abbey Court, Eagle Way, Exeter, Devon EX2 7HY."
+132_UK_UK_Approved_Document_A,"Peter Brett Associates, 16 Westcote Road, Reading, Berkshire RG20 2DE."
+133_UK_UK_Approved_Document_A,"Catalytic Data Ltd, The Spinney, 19 Woodlands Road, Bickley, Kent BRI 2AD."
+134_UK_UK_Approved_Document_A,"The reports from these reviews, which include 1:250,000 scale maps showing the distribution of the physical constraints, are available from the following organisations:"
+135_UK_UK_Approved_Document_A,"Arup Geotechnics, 1991."
+136_UK_UK_Approved_Document_A,Review of mining instability in Great Britain.
+137_UK_UK_Approved_Document_A,"Obtainable from Arup Geotechnics, Bede House, All Saints, Newcastle-upon-Tyne NE1 2EB."
+138_UK_UK_Approved_Document_A,"Applied Geology Ltd, 1994."
+139_UK_UK_Approved_Document_A,Review of instability due to natural underground cavities in Great Britain.
+140_UK_UK_Approved_Document_A,"Obtainable from Kennedy & Donkin Ltd, 14 Calthorpe Road, Edgbaston, Birmingham B15 1TH."
+141_UK_UK_Approved_Document_A,"Wimpey Environmental Ltd, and National House Building Council, 1995."
+142_UK_UK_Approved_Document_A,"Foundation conditions in Great Britain, a guide for planners and developers."
+143_UK_UK_Approved_Document_A,"Obtainable from ESNR International Ltd, 16 Frogmore Road, Hemel Hempstead, Hertfordshire HP3 9RW."
+144_UK_UK_Approved_Document_A,Existing buildings
+145_UK_UK_Approved_Document_A,"Compliance with Part A (Structure) is required in certain classes of change of use of a building, subject to the control of Regulations 5 and 6."
+146_UK_UK_Approved_Document_A,Guidance relevant to structural appraisals related to ‘change of use’ is given in the following documents:
+147_UK_UK_Approved_Document_A,"BRE Digest 366: Structural Appraisal of Existing Buildings, Including for a Material Change of Use, 2012"
+148_UK_UK_Approved_Document_A,"The Institution of Structural Engineers Technical Publication Appraisal of Existing Structures (third edition), 2010"
+149_UK_UK_Approved_Document_A,Note: With reference to ‘design checks’ in the referenced Institution of Structural Engineers’ Technical Publication the choice of various partial factors should be made to suit the individual circumstances of each case.
+150_UK_UK_Approved_Document_A,9
+151_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 Section 2: Sizes of structural elements for certain residential buildings and other small buildings of traditional construction
+152_UK_UK_Approved_Document_A,"Pier A member which forms an integral part of a wall, in the form of a thickened section at intervals along the wall, so as to afford lateral support to the wall to which it is bonded or securely tied."
+153_UK_UK_Approved_Document_A,"Separating wall A wall or part of a wall which is common to adjoining buildings, and constructed to meet the requirements of regulation B3(2)."
+154_UK_UK_Approved_Document_A,"Spacing The distance between the longitudinal centres of any two adjacent timber members of the same type, measured in the plane of floor, ceiling or roof structure."
+155_UK_UK_Approved_Document_A,Span The distance measured along the centre line of a member between the centres of any two adjacent bearings or supports.
+156_UK_UK_Approved_Document_A,"Supported wall A wall to which lateral support is afforded by a combination of buttressing walls, piers or chimneys acting in conjunction with floor(s) or roof."
+157_UK_UK_Approved_Document_A,Wind load The load due to the effect of wind pressure or suction.
+158_UK_UK_Approved_Document_A,General
+159_UK_UK_Approved_Document_A,This section is presented as follows:
+160_UK_UK_Approved_Document_A,Section 2A
+161_UK_UK_Approved_Document_A,Basic requirements for stability.
+162_UK_UK_Approved_Document_A,Section 2B
+163_UK_UK_Approved_Document_A,Sizes of certain timber members in floors and roofs for dwellings.
+164_UK_UK_Approved_Document_A,Areas at risk from house longhorn beetle.
+165_UK_UK_Approved_Document_A,Section 2C
+166_UK_UK_Approved_Document_A,"Thickness of masonry walls in certain residential buildings of not more than three storeys, small single-storey non-residential buildings and annexes."
+167_UK_UK_Approved_Document_A,Section 2D
+168_UK_UK_Approved_Document_A,Proportions for masonry chimneys.
+169_UK_UK_Approved_Document_A,Section 2E
+170_UK_UK_Approved_Document_A,Foundations of plain concrete.
+171_UK_UK_Approved_Document_A,Section 2A gives general rules which must 2.2 be observed in following Sections 2B and 2C. Sections 2B to 2E may be used independently of each other.
+172_UK_UK_Approved_Document_A,Throughout this section the diagrams are only illustrative and do not show all the details of construction.
+173_UK_UK_Approved_Document_A,Definitions
+174_UK_UK_Approved_Document_A,throughout this section:
+175_UK_UK_Approved_Document_A,"The following meanings apply to terms Buttressing wall A wall designed and constructed to afford lateral support to another wall perpendicular to it, support being provided from the base to the top of the wall."
+176_UK_UK_Approved_Document_A,Cavity width The horizontal distance between the two leaves of a cavity wall.
+177_UK_UK_Approved_Document_A,Compartment wall A wall constructed as a compartment wall to meet the requirements of regulation B3(2).
+178_UK_UK_Approved_Document_A,"Dead load The load due to the weight of all walls, permanent partitions, floors, roofs and finishes including services, and all other permanent construction."
+179_UK_UK_Approved_Document_A,"Imposed load The load assumed to be produced by the intended occupancy or use, including the weight of movable partitions, distributed, concentrated, impact, inertia and snow loads, but excluding wind loads."
+180_UK_UK_Approved_Document_A,10
+181_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION Section 2A: Basic requirements for stability
+182_UK_UK_Approved_Document_A,A1/2
+183_UK_UK_Approved_Document_A,This section must be used in conjunction with sections 2B and 2C and its principles relate to all forms of low-rise residential buildings.
+184_UK_UK_Approved_Document_A,Adequate provision shall be made to ensure that the building is stable under the likely imposed and wind loading conditions.
+185_UK_UK_Approved_Document_A,This will commonly necessitate meeting the following requirements:
+186_UK_UK_Approved_Document_A,That the overall size and proportioning of the building are limited in accordance with the specific guidance for each form of construction.
+187_UK_UK_Approved_Document_A,That a suitable layout of walls (both internal and external) forming a robust 3 dimensional box structure in plan is constructed with restriction on the maximum size of cells measured in accordance with the specific guidance for each form of construction.
+188_UK_UK_Approved_Document_A,That the internal and external walls are adequately connected either by masonry bonding or by using mechanical connections.
+189_UK_UK_Approved_Document_A,That the intermediate floors and roof are of such construction and interconnection with the walls that they provide local support to the walls and also act as horizontal diaphragms capable of transferring the wind forces to buttressing elements of the building.
+190_UK_UK_Approved_Document_A,"Note: A traditional cut timber roof (i.e. using rafters, purlins and ceiling joists) generally has sufficient built in resistance to instability and wind forces (e.g. from hipped ends, tiling battens, rigid sarking or the like)."
+191_UK_UK_Approved_Document_A,"However, the need for diagonal rafter bracing equivalent to that recommended in BS EN 1995-1-1:2004 with its UK National Annex and additional guidance given in BSI Published Document PD 6693-1:2012 and BS 8103-3:2009 for trussed rafter roofs should be considered, especially for single-hipped and non-hipped roofs of greater than 40° pitch to detached houses."
+192_UK_UK_Approved_Document_A,11
+193_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+194_UK_UK_Approved_Document_A,Section 2B: Sizes of certain timber members in floors and roofs for dwellings.
+195_UK_UK_Approved_Document_A,Areas at risk from house longhorn beetle
+196_UK_UK_Approved_Document_A,Sizing of members
+197_UK_UK_Approved_Document_A,"Guidance on the sizing of certain members in floors and roofs is given in ‘Span tables for solid timber members in floors, ceilings and roofs (excluding trussed rafter roofs) for dwellings’, published by TRADA, available from Chiltern House, Stocking Lane, Hughenden Valley, High Wycombe, Bucks HP14 4ND."
+198_UK_UK_Approved_Document_A,Alternative guidance is available in BS EN 1995-
+199_UK_UK_Approved_Document_A,1-1:2004 Design of timber structures with its UK National Annex and additional guidance given in BSI Published Document PD 6693-1:2012 and also BS 8103-3:2009 Structural design of low-
+200_UK_UK_Approved_Document_A,"rise buildings, Code of practice for timber floors and roofs for housing."
+201_UK_UK_Approved_Document_A,In the geographical areas specified in House longhorn beetle
+202_UK_UK_Approved_Document_A,"Table 1, softwood timber for roof construction or fixed in the roof space, including ceiling joists within the void spaces of the roof, should be adequately treated to prevent infestation by the house longhorn beetle (Hylotrupes bajulus L.)."
+203_UK_UK_Approved_Document_A,"Guidance on suitable preservative treatments is given within The Wood Protection Association’s manual ‘Industrial Wood Preservation: Specification and Practice’ (2012), available from 5C Flemming Court, Castleford, West Yorkshire, WF10 5HW."
+204_UK_UK_Approved_Document_A,Table 1 Areas at risk from house longhorn beetle
+205_UK_UK_Approved_Document_A,Geographical area
+206_UK_UK_Approved_Document_A,In the Borough of Bracknell Forest the parishes of Sandhurst and Crowthorne.
+207_UK_UK_Approved_Document_A,The Borough of Elmbridge
+208_UK_UK_Approved_Document_A,"In the District of Hart, the parishes of Hawley and Yateley"
+209_UK_UK_Approved_Document_A,The District of Runnymede
+210_UK_UK_Approved_Document_A,The Borough of Spelthorne
+211_UK_UK_Approved_Document_A,The Borough of Surrey Heath
+212_UK_UK_Approved_Document_A,"In the Borough of Rushmoor, the area of the former district of Farnborough"
+213_UK_UK_Approved_Document_A,The Borough of Woking
+214_UK_UK_Approved_Document_A,12
+215_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION Section 2C:
+216_UK_UK_Approved_Document_A,Thickness of walls in certain small buildings
+217_UK_UK_Approved_Document_A,A1/2
+218_UK_UK_Approved_Document_A,Application
+219_UK_UK_Approved_Document_A,This section applies to the following building types:
+220_UK_UK_Approved_Document_A,residential buildings of not more than three storeys;
+221_UK_UK_Approved_Document_A,small single-storey non-residential buildings;
+222_UK_UK_Approved_Document_A,small buildings forming annexes to residential buildings (including garages and outbuildings).
+223_UK_UK_Approved_Document_A,Wall types
+224_UK_UK_Approved_Document_A,"Only the types of wall given in Table 2, which must extend to the full storey height, and parapet walls are considered in this section."
+225_UK_UK_Approved_Document_A,The use of this section
+226_UK_UK_Approved_Document_A,When using this section it should be noted that:
+227_UK_UK_Approved_Document_A,this section must be used in conjunction with section 2A;
+228_UK_UK_Approved_Document_A,"if wall thickness is to be determined according to paragraphs 2C5 to 2C13, all appropriate design conditions given in this section must be satisfied;"
+229_UK_UK_Approved_Document_A,"walls should comply with the relevant requirements of BS EN 1996-2:2006 with its UK National Annex and additional guidance given in BSI Published Document PD 6697:2010, except as regards the conditions given in paragraphs 2C4 and 2C14 to 2C38;"
+230_UK_UK_Approved_Document_A,in formulating the guidance of this section the worst combination of circumstances likely to arise was taken into account.
+231_UK_UK_Approved_Document_A,"If a requirement of this part is considered too onerous in a particular case it may be appropriate to consider a minor departure on the basis of judgement and experience, or to show adequacy by calculation in respect of the aspect of the wall which is subject to the departure rather than for the entire wall;"
+232_UK_UK_Approved_Document_A,the guidance given is based upon the compressive strengths of bricks and blocks being not less than indicated in Tables 6 and 7.
+233_UK_UK_Approved_Document_A,BS EN 1996-1-1:2005 with its UK National Annex gives design strengths for walls where the suitability for use of masonry units of other compressive strengths is being considered.
+234_UK_UK_Approved_Document_A,Conditions relating to the building of which the wall forms part
+235_UK_UK_Approved_Document_A,This section applies only to buildings having proportions within the following parameters (see Diagrams 1 and 2):
+236_UK_UK_Approved_Document_A,residential buildings of not more than three storeys:
+237_UK_UK_Approved_Document_A,"the maximum height of the building measured from the lowest finished ground level adjoining the building to the highest point of any wall or roof should not be greater than 15m, subject to the limits of paragraph 2C16;"
+238_UK_UK_Approved_Document_A,the height of the building H should not exceed twice the least width of the building W1;
+239_UK_UK_Approved_Document_A,the height of the wing H2 should not exceed twice the least width of the wing W2 where the projection P exceeds twice the width W2;
+240_UK_UK_Approved_Document_A,"small single-storey non-residential buildings: height H should not exceed 3m and W (being the greatest length or width of the building) should not exceed 9m (see Diagram 2), subject to the limits of paragraph 2C16;"
+241_UK_UK_Approved_Document_A,"annexes: height H as variously indicated in Diagram 2 should not exceed 3m, subject to the limits of paragraph 2C16."
+242_UK_UK_Approved_Document_A,Table 2 Wall types considered in this section
+243_UK_UK_Approved_Document_A,Residential buildings of up to three storeys
+244_UK_UK_Approved_Document_A,External walls
+245_UK_UK_Approved_Document_A,Internal load-bearing walls
+246_UK_UK_Approved_Document_A,Compartment walls
+247_UK_UK_Approved_Document_A,Separating walls
+248_UK_UK_Approved_Document_A,Small single-storey non-residential buildings and annexes
+249_UK_UK_Approved_Document_A,External walls
+250_UK_UK_Approved_Document_A,Internal load-bearing walls
+251_UK_UK_Approved_Document_A,13
+252_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+253_UK_UK_Approved_Document_A,Diagram 1 Size and proportion of residential buildings of not more than three storeys
+254_UK_UK_Approved_Document_A,See para 2C4
+255_UK_UK_Approved_Document_A,Thickness of walls
+256_UK_UK_Approved_Document_A,General wall thickness may be determined according to this section provided:
+257_UK_UK_Approved_Document_A,"conditions relating to the building of which the wall forms part (see paragraphs 2C4, 2C14 to 2C16, 2C38); and"
+258_UK_UK_Approved_Document_A,conditions relating to the wall (see paragraphs 2C17 to 2C37) are met.
+259_UK_UK_Approved_Document_A,(See Diagram 3.)
+260_UK_UK_Approved_Document_A,"Solid external walls, compartment walls and separating walls in coursed brickwork or blockwork: Solid walls constructed of coursed brickwork or blockwork should be at least as thick as 1/16 of the storey height."
+261_UK_UK_Approved_Document_A,Further requirements are given in Table 3.
+262_UK_UK_Approved_Document_A,"Solid external walls, compartment walls and separating walls in uncoursed stone, flints, etc.:"
+263_UK_UK_Approved_Document_A,"The thickness of walls constructed in uncoursed stone, flints, clunches, bricks or other burnt or vitrified material should not be less than 1.33 times the thickness determined by paragraph 2C6."
+264_UK_UK_Approved_Document_A,Cavity walls in coursed brickwork or blockwork: All cavity walls should have leaves at least 90mm thick and cavities at least 50mm wide.
+265_UK_UK_Approved_Document_A,"The wall ties should have a horizontal spacing of 900mm and a vertical spacing of 450mm, or alternatively should be spaced such that the number of wall ties per square metre is not less than 2.5 ties/m2."
+266_UK_UK_Approved_Document_A,"Wall ties should also be provided, spaced not more than 300mm apart vertically, within a distance of 225mm from the vertical edges of all openings, movement joints and roof verges."
+267_UK_UK_Approved_Document_A,For selection of wall ties for use in a range of cavity widths refer to Table 5.
+268_UK_UK_Approved_Document_A,For specification of cavity wall ties refer to paragraph 2C19.
+269_UK_UK_Approved_Document_A,"For external walls, compartment walls and separating walls in cavity construction, the combined thickness of the two leaves plus 10mm should not be less than the thickness determined by paragraph 2C6 and Table 3 for a solid wall of the same height and length."
+270_UK_UK_Approved_Document_A,"Walls providing vertical support to other walls: Irrespective of the material used in the construction, a wall should not be less in thickness than any part of the wall to which it gives vertical support."
+271_UK_UK_Approved_Document_A,Internal load-bearing walls in brickwork or blockwork (except compartment walls or separating walls): All internal load-bearing walls should have a thickness not less than: (specified thickness from Table 3) 2
+272_UK_UK_Approved_Document_A,5mm
+273_UK_UK_Approved_Document_A,Continued on page 17
+274_UK_UK_Approved_Document_A,14
+275_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+276_UK_UK_Approved_Document_A,Diagram 2 Size and proportion of non-residential buildings and annexes
+277_UK_UK_Approved_Document_A,See paras 2C4b and 2C4c
+278_UK_UK_Approved_Document_A,15
+279_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+280_UK_UK_Approved_Document_A,Diagram 3 Determination of wall thickness
+281_UK_UK_Approved_Document_A,See para 2C5
+282_UK_UK_Approved_Document_A,"Table 3 Minimum thickness of certain external walls, compartment walls and separating walls"
+283_UK_UK_Approved_Document_A,Height of wall Not exceeding 3.5m Length of wall Minimum thickness of wall
+284_UK_UK_Approved_Document_A,Not exceeding 12m 190mm for whole of its height
+285_UK_UK_Approved_Document_A,Exceeding 3.5m but not exceeding 9m Not exceeding 9m 190mm for whole of its height
+286_UK_UK_Approved_Document_A,Exceeding 9m but not exceeding 12m 290mm from the base for the height of
+287_UK_UK_Approved_Document_A,one storey and 190mm for the rest of its height
+288_UK_UK_Approved_Document_A,Exceeding 9m but not exceeding 12m Not exceeding 9m 290mm from the base for the height of
+289_UK_UK_Approved_Document_A,one storey and 190mm for the rest of its height
+290_UK_UK_Approved_Document_A,Exceeding 9m but not exceeding 12m 290mm from the base for the height of two storeys and 190mm for the rest of its height
+291_UK_UK_Approved_Document_A,16
+292_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+293_UK_UK_Approved_Document_A,Diagram 4 Parapet walls: height
+294_UK_UK_Approved_Document_A,See para 2C11
+295_UK_UK_Approved_Document_A,"except for a wall in the lowest storey of a three storey building, carrying load from both upper storeys, which should have a thickness as determined by the equation or 140mm whichever is the greatest."
+296_UK_UK_Approved_Document_A,"Maximum floor area: The guidance of this section assumes that no floor enclosed by structural walls on all sides exceeds 70m2, and that no floor without a structural wall on one side exceeds 36m2."
+297_UK_UK_Approved_Document_A,(See Diagram 5.)
+298_UK_UK_Approved_Document_A,Parapet walls: The minimum thickness and maximum height of parapet walls should be as given in Diagram 4.
+299_UK_UK_Approved_Document_A,Single leaves of certain external walls: The single leaf of external walls of small single-
+300_UK_UK_Approved_Document_A,"storey non-residential buildings and of annexes need be only 90mm thick, notwithstanding paragraphs 2C38."
+301_UK_UK_Approved_Document_A,"Modular bricks and blocks: Where walls are constructed of bricks or blocks having modular dimensions, wall thicknesses prescribed in this section which derive from a dimension of brick or block may be reduced by an amount not exceeding the deviation from work size permitted by a British Standard relating to equivalent sized bricks or blocks made of the same material."
+302_UK_UK_Approved_Document_A,"Imposed loads on roofs, floors and ceilings: The design considerations given in this section are intended to be adequate for the imposed loads given in Table 4."
+303_UK_UK_Approved_Document_A,Maximum height of buildings: The design guidance in this section is based on BS EN 1991-1-4:2005 with its UK National Annex.
+304_UK_UK_Approved_Document_A,The maximum heights of buildings given in Table c of Diagram 7 correlate to various site exposure conditions and wind speeds.
+305_UK_UK_Approved_Document_A,A map showing wind speeds is given in Figure 1 of Diagram 6.
+306_UK_UK_Approved_Document_A,Conditions relating to the wall
+307_UK_UK_Approved_Document_A,"Maximum allowable length and height of the wall: This section does not deal with walls longer than 12m, measured from centre to centre of buttressing walls, piers or chimneys providing restraint, or with walls exceeding 12m in height (see also Table 3)."
+308_UK_UK_Approved_Document_A,17
+309_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+310_UK_UK_Approved_Document_A,Diagram 5 Maximum floor area enclosed by structural walls
+311_UK_UK_Approved_Document_A,See para 2C14
+312_UK_UK_Approved_Document_A,Distributed load: 2.00kN/m²
+313_UK_UK_Approved_Document_A,concrete bricks or blocks to BS EN 771-3 or Table 4 Imposed loads
+314_UK_UK_Approved_Document_A,Element Roof Floors Ceilings Loading
+315_UK_UK_Approved_Document_A,Distributed loads
+316_UK_UK_Approved_Document_A,00kN/m² for spans not exceeding 12m
+317_UK_UK_Approved_Document_A,5kN/m² for spans not exceeding 6m
+318_UK_UK_Approved_Document_A,Distributed load: 0.25kN/m²
+319_UK_UK_Approved_Document_A,together with concentrated load: 0.9kN
+320_UK_UK_Approved_Document_A,Rules of measurement for heights of walls and storeys: The height of a wall or a storey should be measured in accordance with the rules in Diagram 8.
+321_UK_UK_Approved_Document_A,Construction materials and workmanship
+322_UK_UK_Approved_Document_A,Wall ties: Wall ties should comply with BS EN 845-1 and should be material references 1 or 3 in BS EN 845-1 Table A1 austenitic stainless steel.
+323_UK_UK_Approved_Document_A,Wall ties should be selected in accordance with Table 5 of this Approved Document.
+324_UK_UK_Approved_Document_A,18
+325_UK_UK_Approved_Document_A,Masonry units: Walls should be properly bonded and solidly put together with mortar and constructed of masonry units conforming to:
+326_UK_UK_Approved_Document_A,clay bricks or blocks to BS EN 771-1;
+327_UK_UK_Approved_Document_A,calcium silicate bricks or blocks to BS EN 771-2;
+328_UK_UK_Approved_Document_A,BS EN 771-4;
+329_UK_UK_Approved_Document_A,manufactured stone to BS EN 771-5;
+330_UK_UK_Approved_Document_A,square dressed natural stone to the appropriate requirements described in BS EN 771-6.
+331_UK_UK_Approved_Document_A,"Compressive strength of masonry units: Minimum compressive strength requirements for masonry units according to BS EN Standards are given in Diagram 9, where the masonry units indicated for Conditions A, B and C should have declared compressive strengths of not less than the values given in Table 6."
+332_UK_UK_Approved_Document_A,Normalised compressive strengths for block sized clay and calcium silicate masonry units not complying with brick dimensional format are given in Table 7.
+333_UK_UK_Approved_Document_A,Continued on page 25
+334_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+335_UK_UK_Approved_Document_A,Diagram 6 Map showing wind speeds in m/s for maximum height of buildings
+336_UK_UK_Approved_Document_A,See para 2C16
+337_UK_UK_Approved_Document_A,5
+338_UK_UK_Approved_Document_A,24
+339_UK_UK_Approved_Document_A,24
+340_UK_UK_Approved_Document_A,5
+341_UK_UK_Approved_Document_A,5
+342_UK_UK_Approved_Document_A,23
+343_UK_UK_Approved_Document_A,5
+344_UK_UK_Approved_Document_A,23
+345_UK_UK_Approved_Document_A,22
+346_UK_UK_Approved_Document_A,5
+347_UK_UK_Approved_Document_A,5
+348_UK_UK_Approved_Document_A,5
+349_UK_UK_Approved_Document_A,5
+350_UK_UK_Approved_Document_A,23
+351_UK_UK_Approved_Document_A,22
+352_UK_UK_Approved_Document_A,5
+353_UK_UK_Approved_Document_A,5
+354_UK_UK_Approved_Document_A,Figure 2 Orographic zones for Factor O
+355_UK_UK_Approved_Document_A,Note: A more detailed approach for obtaining Factor O is given by Figure 3 Diagram 6.
+356_UK_UK_Approved_Document_A,19
+357_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+358_UK_UK_Approved_Document_A,Diagram 6 Map showing wind speeds in m/s for maximum height of buildings
+359_UK_UK_Approved_Document_A,O
+360_UK_UK_Approved_Document_A,r
+361_UK_UK_Approved_Document_A,o
+362_UK_UK_Approved_Document_A,t
+363_UK_UK_Approved_Document_A,c
+364_UK_UK_Approved_Document_A,a
+365_UK_UK_Approved_Document_A,F
+366_UK_UK_Approved_Document_A,y
+367_UK_UK_Approved_Document_A,h
+368_UK_UK_Approved_Document_A,p
+369_UK_UK_Approved_Document_A,a
+370_UK_UK_Approved_Document_A,r
+371_UK_UK_Approved_Document_A,g
+372_UK_UK_Approved_Document_A,o
+373_UK_UK_Approved_Document_A,r
+374_UK_UK_Approved_Document_A,O
+375_UK_UK_Approved_Document_A,O
+376_UK_UK_Approved_Document_A,r
+377_UK_UK_Approved_Document_A,o
+378_UK_UK_Approved_Document_A,t
+379_UK_UK_Approved_Document_A,c
+380_UK_UK_Approved_Document_A,a
+381_UK_UK_Approved_Document_A,F
+382_UK_UK_Approved_Document_A,y
+383_UK_UK_Approved_Document_A,h
+384_UK_UK_Approved_Document_A,p
+385_UK_UK_Approved_Document_A,a
+386_UK_UK_Approved_Document_A,r
+387_UK_UK_Approved_Document_A,g
+388_UK_UK_Approved_Document_A,o
+389_UK_UK_Approved_Document_A,r
+390_UK_UK_Approved_Document_A,O
+391_UK_UK_Approved_Document_A,Steep slope < 1/3.3
+392_UK_UK_Approved_Document_A,40
+393_UK_UK_Approved_Document_A,35
+394_UK_UK_Approved_Document_A,30
+395_UK_UK_Approved_Document_A,25
+396_UK_UK_Approved_Document_A,20
+397_UK_UK_Approved_Document_A,15
+398_UK_UK_Approved_Document_A,10
+399_UK_UK_Approved_Document_A,05
+400_UK_UK_Approved_Document_A,00
+401_UK_UK_Approved_Document_A,5z
+402_UK_UK_Approved_Document_A,z
+403_UK_UK_Approved_Document_A,5Ld
+404_UK_UK_Approved_Document_A,Orography significant in shaded area
+405_UK_UK_Approved_Document_A,-X
+406_UK_UK_Approved_Document_A,Lu
+407_UK_UK_Approved_Document_A,+X
+408_UK_UK_Approved_Document_A,Ld
+409_UK_UK_Approved_Document_A,Moderate slope = 1/5
+410_UK_UK_Approved_Document_A,Shallow slope ≤ 1/10
+411_UK_UK_Approved_Document_A,-1
+412_UK_UK_Approved_Document_A,-0.5
+413_UK_UK_Approved_Document_A,X/Lu
+414_UK_UK_Approved_Document_A,0
+415_UK_UK_Approved_Document_A,5
+416_UK_UK_Approved_Document_A,1
+417_UK_UK_Approved_Document_A,5
+418_UK_UK_Approved_Document_A,X/Ld
+419_UK_UK_Approved_Document_A,Figure 3a Orography Factor O for hills and ridges
+420_UK_UK_Approved_Document_A,5Ld
+421_UK_UK_Approved_Document_A,5z
+422_UK_UK_Approved_Document_A,z
+423_UK_UK_Approved_Document_A,-X
+424_UK_UK_Approved_Document_A,Lu
+425_UK_UK_Approved_Document_A,+X
+426_UK_UK_Approved_Document_A,Orography significant in shaded area
+427_UK_UK_Approved_Document_A,Moderate slope = 1/5
+428_UK_UK_Approved_Document_A,Steep slope < 1/3.3
+429_UK_UK_Approved_Document_A,40
+430_UK_UK_Approved_Document_A,35
+431_UK_UK_Approved_Document_A,30
+432_UK_UK_Approved_Document_A,25
+433_UK_UK_Approved_Document_A,20
+434_UK_UK_Approved_Document_A,15
+435_UK_UK_Approved_Document_A,10
+436_UK_UK_Approved_Document_A,05
+437_UK_UK_Approved_Document_A,00
+438_UK_UK_Approved_Document_A,Shallow slope ≤ 1/10
+439_UK_UK_Approved_Document_A,-1
+440_UK_UK_Approved_Document_A,-0.5
+441_UK_UK_Approved_Document_A,0
+442_UK_UK_Approved_Document_A,5
+443_UK_UK_Approved_Document_A,1
+444_UK_UK_Approved_Document_A,5
+445_UK_UK_Approved_Document_A,2
+446_UK_UK_Approved_Document_A,5
+447_UK_UK_Approved_Document_A,X/Lu
+448_UK_UK_Approved_Document_A,Figure 3b Orography Factor O for cliffs and escarpments (interpolation between curves may be used)
+449_UK_UK_Approved_Document_A,Figure 3 Alternative graphical method for determining Orography Factor O
+450_UK_UK_Approved_Document_A,20
+451_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+452_UK_UK_Approved_Document_A,Diagram 7 Maximum height of buildings
+453_UK_UK_Approved_Document_A,Find the orographic
+454_UK_UK_Approved_Document_A,zone for the site from Figure 2 Diagram 6 and
+455_UK_UK_Approved_Document_A,obtain Factor O from
+456_UK_UK_Approved_Document_A,Table a (or use Figure 3
+457_UK_UK_Approved_Document_A,Diagram 6)
+458_UK_UK_Approved_Document_A,Obtain value
+459_UK_UK_Approved_Document_A,of Factor A
+460_UK_UK_Approved_Document_A,from Table b
+461_UK_UK_Approved_Document_A,Calculate value
+462_UK_UK_Approved_Document_A,of Factor S from:
+463_UK_UK_Approved_Document_A,S = V × O × A
+464_UK_UK_Approved_Document_A,Obtain maximum
+465_UK_UK_Approved_Document_A,allowable
+466_UK_UK_Approved_Document_A,building height
+467_UK_UK_Approved_Document_A,from Table c
+468_UK_UK_Approved_Document_A,Table a Factor O
+469_UK_UK_Approved_Document_A,Orographic category and average slope of whole
+470_UK_UK_Approved_Document_A,"hillside, ridge, cliff or escarpment"
+471_UK_UK_Approved_Document_A,Factor O
+472_UK_UK_Approved_Document_A,Zone 2 Zone 3
+473_UK_UK_Approved_Document_A,Zone 1
+474_UK_UK_Approved_Document_A,"Category 1: Nominally flat terrain, average slope < 1/20"
+475_UK_UK_Approved_Document_A,"Category 2: Shallow terrain, average slope < 1/10"
+476_UK_UK_Approved_Document_A,"Category 3: Moderately steep terrain, average slope < 1/5"
+477_UK_UK_Approved_Document_A,"Category 4: Steep terrain, average slope > 1/5"
+478_UK_UK_Approved_Document_A,0
+479_UK_UK_Approved_Document_A,12
+480_UK_UK_Approved_Document_A,24
+481_UK_UK_Approved_Document_A,36
+482_UK_UK_Approved_Document_A,0
+483_UK_UK_Approved_Document_A,07
+484_UK_UK_Approved_Document_A,13
+485_UK_UK_Approved_Document_A,20
+486_UK_UK_Approved_Document_A,0
+487_UK_UK_Approved_Document_A,05
+488_UK_UK_Approved_Document_A,10
+489_UK_UK_Approved_Document_A,15
+490_UK_UK_Approved_Document_A,Table c Maximum allowable building height in metres
+491_UK_UK_Approved_Document_A,0
+492_UK_UK_Approved_Document_A,50
+493_UK_UK_Approved_Document_A,100
+494_UK_UK_Approved_Document_A,150
+495_UK_UK_Approved_Document_A,200
+496_UK_UK_Approved_Document_A,300
+497_UK_UK_Approved_Document_A,400
+498_UK_UK_Approved_Document_A,500
+499_UK_UK_Approved_Document_A,00
+500_UK_UK_Approved_Document_A,05
+501_UK_UK_Approved_Document_A,10
+502_UK_UK_Approved_Document_A,15
+503_UK_UK_Approved_Document_A,20
+504_UK_UK_Approved_Document_A,30
+505_UK_UK_Approved_Document_A,40
+506_UK_UK_Approved_Document_A,50
+507_UK_UK_Approved_Document_A,S
+508_UK_UK_Approved_Document_A,≤ 25
+509_UK_UK_Approved_Document_A,26
+510_UK_UK_Approved_Document_A,27
+511_UK_UK_Approved_Document_A,28
+512_UK_UK_Approved_Document_A,29
+513_UK_UK_Approved_Document_A,30
+514_UK_UK_Approved_Document_A,31
+515_UK_UK_Approved_Document_A,32
+516_UK_UK_Approved_Document_A,33
+517_UK_UK_Approved_Document_A,34
+518_UK_UK_Approved_Document_A,35
+519_UK_UK_Approved_Document_A,36
+520_UK_UK_Approved_Document_A,37
+521_UK_UK_Approved_Document_A,38
+522_UK_UK_Approved_Document_A,39
+523_UK_UK_Approved_Document_A,40
+524_UK_UK_Approved_Document_A,41
+525_UK_UK_Approved_Document_A,42
+526_UK_UK_Approved_Document_A,43
+527_UK_UK_Approved_Document_A,44
+528_UK_UK_Approved_Document_A,< 2km
+529_UK_UK_Approved_Document_A,to 20km > 50km
+530_UK_UK_Approved_Document_A,< 2km 2 to 20km > 50km
+531_UK_UK_Approved_Document_A,15
+532_UK_UK_Approved_Document_A,5
+533_UK_UK_Approved_Document_A,8
+534_UK_UK_Approved_Document_A,5
+535_UK_UK_Approved_Document_A,4
+536_UK_UK_Approved_Document_A,3
+537_UK_UK_Approved_Document_A,15
+538_UK_UK_Approved_Document_A,5
+539_UK_UK_Approved_Document_A,11
+540_UK_UK_Approved_Document_A,8
+541_UK_UK_Approved_Document_A,5
+542_UK_UK_Approved_Document_A,5
+543_UK_UK_Approved_Document_A,4
+544_UK_UK_Approved_Document_A,5
+545_UK_UK_Approved_Document_A,3
+546_UK_UK_Approved_Document_A,15
+547_UK_UK_Approved_Document_A,15
+548_UK_UK_Approved_Document_A,5
+549_UK_UK_Approved_Document_A,11
+550_UK_UK_Approved_Document_A,5
+551_UK_UK_Approved_Document_A,5
+552_UK_UK_Approved_Document_A,5
+553_UK_UK_Approved_Document_A,5
+554_UK_UK_Approved_Document_A,5
+555_UK_UK_Approved_Document_A,3
+556_UK_UK_Approved_Document_A,15
+557_UK_UK_Approved_Document_A,15
+558_UK_UK_Approved_Document_A,15
+559_UK_UK_Approved_Document_A,15
+560_UK_UK_Approved_Document_A,5
+561_UK_UK_Approved_Document_A,10
+562_UK_UK_Approved_Document_A,5
+563_UK_UK_Approved_Document_A,7
+564_UK_UK_Approved_Document_A,6
+565_UK_UK_Approved_Document_A,5
+566_UK_UK_Approved_Document_A,5
+567_UK_UK_Approved_Document_A,4
+568_UK_UK_Approved_Document_A,5
+569_UK_UK_Approved_Document_A,3
+570_UK_UK_Approved_Document_A,15
+571_UK_UK_Approved_Document_A,15
+572_UK_UK_Approved_Document_A,15
+573_UK_UK_Approved_Document_A,15
+574_UK_UK_Approved_Document_A,15
+575_UK_UK_Approved_Document_A,5
+576_UK_UK_Approved_Document_A,11
+577_UK_UK_Approved_Document_A,5
+578_UK_UK_Approved_Document_A,8
+579_UK_UK_Approved_Document_A,7
+580_UK_UK_Approved_Document_A,5
+581_UK_UK_Approved_Document_A,5
+582_UK_UK_Approved_Document_A,5
+583_UK_UK_Approved_Document_A,5
+584_UK_UK_Approved_Document_A,4
+585_UK_UK_Approved_Document_A,5
+586_UK_UK_Approved_Document_A,3
+587_UK_UK_Approved_Document_A,15
+588_UK_UK_Approved_Document_A,15
+589_UK_UK_Approved_Document_A,15
+590_UK_UK_Approved_Document_A,15
+591_UK_UK_Approved_Document_A,15
+592_UK_UK_Approved_Document_A,15
+593_UK_UK_Approved_Document_A,5
+594_UK_UK_Approved_Document_A,5
+595_UK_UK_Approved_Document_A,10
+596_UK_UK_Approved_Document_A,5
+597_UK_UK_Approved_Document_A,5
+598_UK_UK_Approved_Document_A,5
+599_UK_UK_Approved_Document_A,6
+600_UK_UK_Approved_Document_A,5
+601_UK_UK_Approved_Document_A,5
+602_UK_UK_Approved_Document_A,5
+603_UK_UK_Approved_Document_A,4
+604_UK_UK_Approved_Document_A,5
+605_UK_UK_Approved_Document_A,5
+606_UK_UK_Approved_Document_A,3
+607_UK_UK_Approved_Document_A,"Notes: Table a – Outside of the zones shown in Table a, Factor O = 1.0."
+608_UK_UK_Approved_Document_A,Table b – For elevated sites where orography is significant a more accurate assessment of Factor A can be
+609_UK_UK_Approved_Document_A,"obtained by using the altitude at the base of the topographic feature instead of the altitude at the site, Table c – see Figure 2 Diagram 6 or, alternatively, Figure 3 Diagram 6."
+610_UK_UK_Approved_Document_A,Sites in town less than 300m from the edge of the town should be assumed to be in country terrain.
+611_UK_UK_Approved_Document_A,Where a site is closer than 1km to an inland area of water which extends more than 1km in the wind
+612_UK_UK_Approved_Document_A,"direction, the distance to the coast should be taken as < 2km."
+613_UK_UK_Approved_Document_A,Interpolation may be used in Tables b and c.
+614_UK_UK_Approved_Document_A,21
+615_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+616_UK_UK_Approved_Document_A,Diagram 8 Measuring storey and wall heights
+617_UK_UK_Approved_Document_A,See para 2C18
+618_UK_UK_Approved_Document_A,22
+619_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+620_UK_UK_Approved_Document_A,BS EN 845-1 tie
+621_UK_UK_Approved_Document_A,"Type 1, 2, 3 or 4 to BSI PD 6697:2010 and selected on the basis of the design loading and design cavity width."
+622_UK_UK_Approved_Document_A,Table 5 Cavity wall ties
+623_UK_UK_Approved_Document_A,Nominal cavity width mm
+624_UK_UK_Approved_Document_A,(Note 1)
+625_UK_UK_Approved_Document_A,Tie length mm
+626_UK_UK_Approved_Document_A,(Note 2)
+627_UK_UK_Approved_Document_A,to 75
+628_UK_UK_Approved_Document_A,to 100
+629_UK_UK_Approved_Document_A,to 125
+630_UK_UK_Approved_Document_A,to 150
+631_UK_UK_Approved_Document_A,to 175
+632_UK_UK_Approved_Document_A,to 300
+633_UK_UK_Approved_Document_A,Notes:
+634_UK_UK_Approved_Document_A,200
+635_UK_UK_Approved_Document_A,225
+636_UK_UK_Approved_Document_A,250
+637_UK_UK_Approved_Document_A,275
+638_UK_UK_Approved_Document_A,300
+639_UK_UK_Approved_Document_A,(See Note 3)
+640_UK_UK_Approved_Document_A,Where face insulated blocks are used the cavity width should be measured from the face of the masonry unit.
+641_UK_UK_Approved_Document_A,The embedment depth of the tie should not be less than 50mm in both leaves.
+642_UK_UK_Approved_Document_A,For cavities wider than 175mm calculate the length as the nominal cavity width plus 125mm and select the nearest stock length.
+643_UK_UK_Approved_Document_A,"For wall ties requiring embedment depths in excess of 50mm, increase the calculated tie length accordingly."
+644_UK_UK_Approved_Document_A,Table 6 Declared compressive strength of masonry units complying with BS EN 771-1 to -5 (N/mm2)
+645_UK_UK_Approved_Document_A,Masonry unit Clay masonry units to BS EN 771-1 Calcium silicate masonry units to BS EN 771-2 Autoclaved Manufactured
+646_UK_UK_Approved_Document_A,Aggregate concrete masonry units to aerated conc.
+647_UK_UK_Approved_Document_A,masonry units to BS EN 771-3 BS EN 771-4 BS EN 771-5
+648_UK_UK_Approved_Document_A,stone
+649_UK_UK_Approved_Document_A,masonry
+650_UK_UK_Approved_Document_A,units to
+651_UK_UK_Approved_Document_A,Condition A (See Diagram 9)
+652_UK_UK_Approved_Document_A,Brick Block Group 1 6.0 Group 2 9.0 Group 1 6.0 Group 2 9.0 6.0 See Table 7 See Table 7 See Table 7 See Table 7 2.9* Condition B (See Diagram 9)
+653_UK_UK_Approved_Document_A,Brick Block Group 1 9.0 Group 2 13.0 Group 1 9.0 Group 2 13.0
+654_UK_UK_Approved_Document_A,See Table 7 See Table 7 See Table 7 See Table 7 7.3* Condition C (See Diagram 9)
+655_UK_UK_Approved_Document_A,Brick Block Group 1 18.0 Group 2 25.0 Group 1 18.0 Group 2 25.0
+656_UK_UK_Approved_Document_A,See Table 7 See Table 7 See Table 7 See Table 7 7.3* – 2.9
+657_UK_UK_Approved_Document_A,3
+658_UK_UK_Approved_Document_A,3
+659_UK_UK_Approved_Document_A,These values are dry strengths to BS EN 772-1
+660_UK_UK_Approved_Document_A,Notes:
+661_UK_UK_Approved_Document_A,This table applies to Group 1 and Group 2 units.
+662_UK_UK_Approved_Document_A,l
+663_UK_UK_Approved_Document_A,l
+664_UK_UK_Approved_Document_A,i
+665_UK_UK_Approved_Document_A,w
+666_UK_UK_Approved_Document_A,5
+667_UK_UK_Approved_Document_A,-
+668_UK_UK_Approved_Document_A,1
+669_UK_UK_Approved_Document_A,7
+670_UK_UK_Approved_Document_A,7
+671_UK_UK_Approved_Document_A,N
+672_UK_UK_Approved_Document_A,E
+673_UK_UK_Approved_Document_A,S
+674_UK_UK_Approved_Document_A,B
+675_UK_UK_Approved_Document_A,h
+676_UK_UK_Approved_Document_A,t
+677_UK_UK_Approved_Document_A,i
+678_UK_UK_Approved_Document_A,i
+679_UK_UK_Approved_Document_A,w
+680_UK_UK_Approved_Document_A,g
+681_UK_UK_Approved_Document_A,n
+682_UK_UK_Approved_Document_A,y
+683_UK_UK_Approved_Document_A,p
+684_UK_UK_Approved_Document_A,m
+685_UK_UK_Approved_Document_A,o
+686_UK_UK_Approved_Document_A,c
+687_UK_UK_Approved_Document_A,l
+688_UK_UK_Approved_Document_A,t
+689_UK_UK_Approved_Document_A,i
+690_UK_UK_Approved_Document_A,n
+691_UK_UK_Approved_Document_A,u
+692_UK_UK_Approved_Document_A,y
+693_UK_UK_Approved_Document_A,n
+694_UK_UK_Approved_Document_A,A
+695_UK_UK_Approved_Document_A,C
+696_UK_UK_Approved_Document_A,d
+697_UK_UK_Approved_Document_A,n
+698_UK_UK_Approved_Document_A,a
+699_UK_UK_Approved_Document_A,B
+700_UK_UK_Approved_Document_A,","
+701_UK_UK_Approved_Document_A,A
+702_UK_UK_Approved_Document_A,s
+703_UK_UK_Approved_Document_A,n
+704_UK_UK_Approved_Document_A,o
+705_UK_UK_Approved_Document_A,i
+706_UK_UK_Approved_Document_A,t
+707_UK_UK_Approved_Document_A,i
+708_UK_UK_Approved_Document_A,d
+709_UK_UK_Approved_Document_A,n
+710_UK_UK_Approved_Document_A,o
+711_UK_UK_Approved_Document_A,c
+712_UK_UK_Approved_Document_A,r
+713_UK_UK_Approved_Document_A,o
+714_UK_UK_Approved_Document_A,f
+715_UK_UK_Approved_Document_A,l
+716_UK_UK_Approved_Document_A,e
+717_UK_UK_Approved_Document_A,b
+718_UK_UK_Approved_Document_A,a
+719_UK_UK_Approved_Document_A,t
+720_UK_UK_Approved_Document_A,p
+721_UK_UK_Approved_Document_A,e
+722_UK_UK_Approved_Document_A,c
+723_UK_UK_Approved_Document_A,c
+724_UK_UK_Approved_Document_A,a
+725_UK_UK_Approved_Document_A,e
+726_UK_UK_Approved_Document_A,b
+727_UK_UK_Approved_Document_A,For the EN 771 series of standards for masonry units the values of declared compressive strengths (N/mm²) given in Table 6 are mean values.
+728_UK_UK_Approved_Document_A,Brick: a masonry unit having work sizes not exceeding 337.5mm in length or 112.5mm in height.
+729_UK_UK_Approved_Document_A,Block: a masonry unit exceeding either of the limiting work sizes of a brick and with a minimum height of 190mm.
+730_UK_UK_Approved_Document_A,"For blocks with smaller heights, excluding cuts or make up units, the strength requirements are as for brick except for solid external walls where the blocks should have a compressive strength at least equal to that shown for block for an inner leaf of a cavity wall in the same position."
+731_UK_UK_Approved_Document_A,Group 1 masonry units have not more than 25% formed voids (20% for frogged bricks).
+732_UK_UK_Approved_Document_A,"Group 2 masonry units have formed voids greater than 25%, but not more than 55%."
+733_UK_UK_Approved_Document_A,23
+734_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+735_UK_UK_Approved_Document_A,Diagram 9 Declared compressive strength of masonry units
+736_UK_UK_Approved_Document_A,See para 2C21
+737_UK_UK_Approved_Document_A,24
+738_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+739_UK_UK_Approved_Document_A,Table 7 Normalised compressive strength of masonry units of clay and calcium silicate blocks complying with BS EN 771-1 and 2 (N/mm2)
+740_UK_UK_Approved_Document_A,Standard Condition (See Diagram 9)
+741_UK_UK_Approved_Document_A,Group 1 masonry units
+742_UK_UK_Approved_Document_A,Group 2 masonry units
+743_UK_UK_Approved_Document_A,Clay masonry units to BS EN 771-1 Calcium silicate masonry units to BS EN 771-2
+744_UK_UK_Approved_Document_A,Notes:
+745_UK_UK_Approved_Document_A,A
+746_UK_UK_Approved_Document_A,B
+747_UK_UK_Approved_Document_A,C
+748_UK_UK_Approved_Document_A,0
+749_UK_UK_Approved_Document_A,5
+750_UK_UK_Approved_Document_A,0
+751_UK_UK_Approved_Document_A,0
+752_UK_UK_Approved_Document_A,0
+753_UK_UK_Approved_Document_A,0
+754_UK_UK_Approved_Document_A,Values in this table are normalised compressive strengths (N/mm²).
+755_UK_UK_Approved_Document_A,Compressive strengths of masonry units should be derived according to EN 772-1.
+756_UK_UK_Approved_Document_A,The table applies to clay and calcium silicate block masonry units where the work size exceeds 337.5mm in length or 112.5mm in height.
+757_UK_UK_Approved_Document_A,Group 1 masonry units have not more than 25% formed voids (20% for frogged bricks).
+758_UK_UK_Approved_Document_A,"Group 2 masonry units have formed voids greater than 25%, but not more than 55%."
+759_UK_UK_Approved_Document_A,Mortar: Mortar should be:
+760_UK_UK_Approved_Document_A,one of the following:
+761_UK_UK_Approved_Document_A,Mortar designation (iii) according to BS EN 1996-1-1:2005 with its UK National Annex;
+762_UK_UK_Approved_Document_A,Strength class M4 according to BS EN 998-2:2010;
+763_UK_UK_Approved_Document_A,"1:1:5 to 6 CEM I, lime, and fine aggregate measured by volume of dry materials, or"
+764_UK_UK_Approved_Document_A,of equivalent or greater strength and durability to the specifications in a. above.
+765_UK_UK_Approved_Document_A,Loading on walls
+766_UK_UK_Approved_Document_A,Maximum span of floors: The maximum span for any floor supported by a wall is 6m where the span is measured centre to centre of bearing (see Diagram 10).
+767_UK_UK_Approved_Document_A,Other loading conditions:
+768_UK_UK_Approved_Document_A,Vertical loading on walls should be distributed.
+769_UK_UK_Approved_Document_A,"This may be assumed for concrete floor slabs, precast concrete floors, and timber floors designed in accordance with section 2B, and where the bearing length for lintels is 150mm or greater."
+770_UK_UK_Approved_Document_A,Where a lintel has a clear span of 1200mm or less the bearing length may be reduced to 100mm.
+771_UK_UK_Approved_Document_A,Differences in level of ground or other solid construction between one side of the wall and the other should be less than 4 times the thickness of the wall as shown in Diagram 11.
+772_UK_UK_Approved_Document_A,The combined dead and imposed load should not exceed 70kN/m at base of wall (see Diagram 11).
+773_UK_UK_Approved_Document_A,"Walls should not be subjected to lateral load other than from wind, and that covered by paragraph 2C24(b)."
+774_UK_UK_Approved_Document_A,Diagram 10 Maximum span of floors
+775_UK_UK_Approved_Document_A,See para 2C23
+776_UK_UK_Approved_Document_A,End restraint
+777_UK_UK_Approved_Document_A,Vertical lateral restraint to walls
+778_UK_UK_Approved_Document_A,"The ends of every wall should be bonded or otherwise securely tied throughout their full height to a buttressing wall, pier or chimney."
+779_UK_UK_Approved_Document_A,"Long walls may be provided with intermediate buttressing walls, piers or chimneys dividing the wall into distinct lengths within each storey; each distinct length is a supported wall for the purposes of this section."
+780_UK_UK_Approved_Document_A,"The intermediate buttressing walls, piers or chimneys should provide lateral restraint to the full height of the supported wall, but they may be staggered at each storey."
+781_UK_UK_Approved_Document_A,Buttressing walls
+782_UK_UK_Approved_Document_A,If the buttressing wall is not itself a supported wall its thickness T2 should not be less than:
+783_UK_UK_Approved_Document_A,Continued on page 27
+784_UK_UK_Approved_Document_A,25
+785_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+786_UK_UK_Approved_Document_A,Diagram 11 Differences in ground levels
+787_UK_UK_Approved_Document_A,See para 2C24b
+788_UK_UK_Approved_Document_A,26
+789_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+790_UK_UK_Approved_Document_A,Diagram 12 Openings in a buttressing wall
+791_UK_UK_Approved_Document_A,See para 2C26
+792_UK_UK_Approved_Document_A,half the thickness required by this section for an external or separating wall of similar height and length less 5mm; or
+793_UK_UK_Approved_Document_A,75mm if the wall forms part of a dwelling house and does not exceed 6m in total height and 10m in length; and
+794_UK_UK_Approved_Document_A,90mm in other cases.
+795_UK_UK_Approved_Document_A,"The length of the buttressing wall should be at least 1/6 of the overall height of the supported wall and be bonded or securely tied to the supporting wall and at the other end to a buttressing wall, pier or chimney."
+796_UK_UK_Approved_Document_A,The size of any opening in the buttressing wall should be restricted as shown in Diagram 12.
+797_UK_UK_Approved_Document_A,Design criteria for piers and chimneys providing restraint:
+798_UK_UK_Approved_Document_A,"piers should measure at least 3 times the thickness of the supported wall and chimneys twice the thickness, measured at right angles to the wall."
+799_UK_UK_Approved_Document_A,Piers should have a minimum width of 190mm (see Diagram 13);
+800_UK_UK_Approved_Document_A,"the sectional area on plan of chimneys (excluding openings for fireplaces and flues) should be not less than the area required for a pier in the same wall, and the overall thickness should not be less than twice the required thickness of the supported wall (see Diagram 13)."
+801_UK_UK_Approved_Document_A,"Openings, recesses, overhangs and chases"
+802_UK_UK_Approved_Document_A,General:
+803_UK_UK_Approved_Document_A,"The number, size and position of openings and recesses should not impair the stability of a wall or the lateral restraint afforded by a buttressing wall to a supported wall."
+804_UK_UK_Approved_Document_A,Construction over openings and recesses should be adequately supported.
+805_UK_UK_Approved_Document_A,27
+806_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+807_UK_UK_Approved_Document_A,Diagram 13 Buttressing
+808_UK_UK_Approved_Document_A,See para 2C27
+809_UK_UK_Approved_Document_A,Dimensional criteria for openings and recesses:
+810_UK_UK_Approved_Document_A,The dimensional criteria are given in Diagram 14 and Table 8.
+811_UK_UK_Approved_Document_A,"No openings should be provided in walls below ground floor except for small holes for services and ventilation, etc. which should be limited to a maximum area of 0.1m² at not less than 2m centres."
+812_UK_UK_Approved_Document_A,Chases:
+813_UK_UK_Approved_Document_A,"vertical chases should not be deeper than 1/3 of the wall thickness or, in cavity walls, 1/3 of the thickness of the leaf;"
+814_UK_UK_Approved_Document_A,horizontal chases should not be deeper than 1/6 of the thickness of the leaf of the wall;
+815_UK_UK_Approved_Document_A,"chases should not be so positioned as to impair the stability of the wall, particularly where hollow blocks are used."
+816_UK_UK_Approved_Document_A,Overhangs:
+817_UK_UK_Approved_Document_A,The amount of any projection should not impair the stability of the wall.
+818_UK_UK_Approved_Document_A,Lateral support by roofs and floors
+819_UK_UK_Approved_Document_A,"A wall in each storey of a building should extend to the full height of that storey, and have horizontal lateral supports to restrict movement of the wall at right angles to its plane."
+820_UK_UK_Approved_Document_A,Floors and roofs should:
+821_UK_UK_Approved_Document_A,"act to transfer lateral forces from walls to buttressing walls, piers or chimneys; and"
+822_UK_UK_Approved_Document_A,be secured to the supported wall by connections specified in paragraphs 2C34 and 2C35.
+823_UK_UK_Approved_Document_A,The requirements for lateral restraint of walls at roof and floor levels are given in Table 9 and guidance on satisfying the requirements is given in paragraphs 2C35 and 2C36. 2C35
+824_UK_UK_Approved_Document_A,"Walls should be strapped to floors above ground level, at intervals not exceeding 2m and as shown in Diagram 15, by tension straps conforming to BS EN 845-1."
+825_UK_UK_Approved_Document_A,"For corrosion resistance purposes, the tension straps should be material reference 14 or 16.1 or 16.2 (galvanised steel) or other more resistant Continued on page 30"
+826_UK_UK_Approved_Document_A,28
+827_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+828_UK_UK_Approved_Document_A,Diagram 14 Sizes of openings and recesses
+829_UK_UK_Approved_Document_A,See para 2C29
+830_UK_UK_Approved_Document_A,"Take the value of the Factor X from Table 8, or it can be given the value 6, provided the declared compressive strength of the bricks or blocks (in the case of a cavity wall – in the loaded leaf) is not less than 7.3N/mm2."
+831_UK_UK_Approved_Document_A,Table 8 Value of Factor ‘X’ (see Diagram 14)
+832_UK_UK_Approved_Document_A,Nature of roof span Minimum thickness of roof span (m) wall inner (mm)
+833_UK_UK_Approved_Document_A,Maximum Roof spans parallel to wall Not applicable
+834_UK_UK_Approved_Document_A,Timber roof spans into wall
+835_UK_UK_Approved_Document_A,Table 9 Lateral support for walls
+836_UK_UK_Approved_Document_A,Span of floor
+837_UK_UK_Approved_Document_A,is parallel to wall Span of timber floor into wall Span of concrete
+838_UK_UK_Approved_Document_A,floor into wall
+839_UK_UK_Approved_Document_A,max 4.5m max 6.0m max 4.5m max
+840_UK_UK_Approved_Document_A,0m
+841_UK_UK_Approved_Document_A,Value of Factor ‘X’
+842_UK_UK_Approved_Document_A,6
+843_UK_UK_Approved_Document_A,5
+844_UK_UK_Approved_Document_A,3
+845_UK_UK_Approved_Document_A,3
+846_UK_UK_Approved_Document_A,Wall type Wall length Lateral support required
+847_UK_UK_Approved_Document_A,Solid or cavity: external compartment separating Any length Roof lateral support by every roof forming a junction with the supported wall
+848_UK_UK_Approved_Document_A,Greater than 3m Floor lateral support by every floor forming a junction with the
+849_UK_UK_Approved_Document_A,supported wall
+850_UK_UK_Approved_Document_A,Internal load-bearing wall (not being a compartment or separating wall)
+851_UK_UK_Approved_Document_A,Any length Roof or floor lateral support at the top of each storey 29
+852_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+853_UK_UK_Approved_Document_A,Diagram 15 Lateral support by floors
+854_UK_UK_Approved_Document_A,See para 2C35
+855_UK_UK_Approved_Document_A,Restraint of internal walls
+856_UK_UK_Approved_Document_A,specifications including material references 1 or 3 (austenitic stainless steel).
+857_UK_UK_Approved_Document_A,The declared tensile strength of tension straps should not be less than 8kN.
+858_UK_UK_Approved_Document_A,"Tension straps need not be provided: a. in the longitudinal direction of joists in houses of not more than 2 storeys, if the joists are at not more than 1.2m centres and have at least 90mm bearing on the supported walls or 75mm bearing on a timber wall-plate at each end, and b. in the longitudinal direction of joists in houses of not more than 2 storeys, if the joists are carried on the supported wall by joist hangers in accordance with BS EN 845-1 of the restraint type described by additional guidance given in BSI Published Document PD 6697:2010 and shown in Diagram 15(c), and are incorporated at not more than 2m centres, and"
+859_UK_UK_Approved_Document_A,"when a concrete floor has at least 90mm bearing on the supported wall (see Diagram 15(d)), and"
+860_UK_UK_Approved_Document_A,"where floors are at or about the same level on each side of a supported wall, and contact between the floors and wall is either continuous or at intervals not exceeding 2m. Where contact is intermittent, the points of contact should be in line or nearly in line on plan (see Diagram 15(e))."
+861_UK_UK_Approved_Document_A,Gable walls should be strapped to roofs as shown in Diagram 16(a) and (b) by tension straps as described in 2C35.
+862_UK_UK_Approved_Document_A,Vertical strapping at least 1m in length should be provided at eaves level at intervals not exceeding 2m as shown in Diagram 16(c) and (d).
+863_UK_UK_Approved_Document_A,Vertical strapping may be omitted if the roof:
+864_UK_UK_Approved_Document_A,"has a pitch of 15° or more, and"
+865_UK_UK_Approved_Document_A,"is tiled or slated, and"
+866_UK_UK_Approved_Document_A,"is of a type known by local experience to be resistant to wind gusts, and"
+867_UK_UK_Approved_Document_A,has main timber members spanning onto the supported wall at not more than 1.2m centres.
+868_UK_UK_Approved_Document_A,30
+869_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+870_UK_UK_Approved_Document_A,Diagram 16 Lateral support at roof level
+871_UK_UK_Approved_Document_A,See para 2C36
+872_UK_UK_Approved_Document_A,Interruption of lateral support
+873_UK_UK_Approved_Document_A,"Where an opening in a floor or roof for a stairway or the like adjoins a supported wall and interrupts the continuity of lateral support, the following conditions should be satisfied for the purposes of Section 2C:"
+874_UK_UK_Approved_Document_A,"the maximum permitted length of the opening is to be 3m, measured parallel to the supported wall, and"
+875_UK_UK_Approved_Document_A,"where a connection is provided by means other than by anchor, this should be provided throughout the length of each portion of the wall situated on each side of the opening, and"
+876_UK_UK_Approved_Document_A,"where a connection is provided by mild steel anchors, these should be spaced closer than 2m on each side of the opening to provide the same number of anchors as if there were no opening, and"
+877_UK_UK_Approved_Document_A,there should be no other interruption of lateral support.
+878_UK_UK_Approved_Document_A,Small single-storey non-residential buildings and annexes
+879_UK_UK_Approved_Document_A,Size and proportion
+880_UK_UK_Approved_Document_A,General
+881_UK_UK_Approved_Document_A,The guidance given applies in the following circumstances:
+882_UK_UK_Approved_Document_A,The floor area of the building or annexe does not exceed 36m².
+883_UK_UK_Approved_Document_A,The walls are solidly constructed in brickwork or blockwork using materials which comply with paragraphs 2C19 to 2C22.
+884_UK_UK_Approved_Document_A,Where the floor area of the building or annexe exceeds 10m² the walls have a mass of not less than 130kg/m².
+885_UK_UK_Approved_Document_A,Note: There is no surface mass limitation recommended for floor areas of 10m² or less.
+886_UK_UK_Approved_Document_A,Access to the roof is only for the purposes of maintenance and repair.
+887_UK_UK_Approved_Document_A,The only lateral loads are wind loads.
+888_UK_UK_Approved_Document_A,31
+889_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+890_UK_UK_Approved_Document_A,Diagram 17 Size and location of openings
+891_UK_UK_Approved_Document_A,See para 2C38
+892_UK_UK_Approved_Document_A,The maximum length or width of the building or annexe does not exceed 9m.
+893_UK_UK_Approved_Document_A,Published Document PD 6693-1:2012 or BS 8103-3:2009.
+894_UK_UK_Approved_Document_A,The height of the building or annexe does not exceed the lower value derived from Diagram 2.
+895_UK_UK_Approved_Document_A,"The roof is braced at rafter level, horizontally at eaves level and at the base of any gable by roof decking, rigid sarking or diagonal timber bracing, as appropriate, in accordance with BS EN 1995-1-1:2004 with its UK National Annex and additional guidance given in BSI i. Walls are tied to the roof structure vertically and horizontally in accordance with paragraphs 2C32 to 2C36 and with horizontal lateral restraint at roof level in accordance with paragraph (iv) below."
+896_UK_UK_Approved_Document_A,The roof structure of an annexe is secured to the structure of the main building at both rafter and eaves level.
+897_UK_UK_Approved_Document_A,32
+898_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS A1/2
+899_UK_UK_Approved_Document_A,Diagram 18 Wall thickness
+900_UK_UK_Approved_Document_A,See para 2C38
+901_UK_UK_Approved_Document_A,Size and location of openings
+902_UK_UK_Approved_Document_A,One or two major openings not more than 2.1m in height are permitted in one wall of the building or annexe only.
+903_UK_UK_Approved_Document_A,The width of a single opening or the combined width of two openings should not exceed 5m.
+904_UK_UK_Approved_Document_A,The only other openings permitted in a building or annexe are for windows and a single leaf door.
+905_UK_UK_Approved_Document_A,The size and location of these openings should be in accordance with Diagram 17.
+906_UK_UK_Approved_Document_A,Wall thickness and recommendations for piers
+907_UK_UK_Approved_Document_A,The walls should have a minimum thickness of 90mm.
+908_UK_UK_Approved_Document_A,33
+909_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2 THICKNESS OF WALLS IN CERTAIN SMALL BUILDINGS
+910_UK_UK_Approved_Document_A,Diagram 19 Lateral restraint at roof level
+911_UK_UK_Approved_Document_A,See para 2C38
+912_UK_UK_Approved_Document_A,Walls which do not contain a major opening but exceed 2.5m in length or height should be bonded or tied to piers for their full height at not more than 3m centres as shown in Diagram 18a.
+913_UK_UK_Approved_Document_A,Walls which contain one or two major openings should in addition have piers as shown in Diagrams 18b and 18c.
+914_UK_UK_Approved_Document_A,"Where ties are used to connect piers to walls they should be flat, 20mm x 3mm in cross section, be in stainless steel in accordance with paragraph 2C19, be placed in pairs and be spaced at not more than 300mm centre vertically."
+915_UK_UK_Approved_Document_A,Horizontal lateral restraint at roof level
+916_UK_UK_Approved_Document_A,"Walls should be tied horizontally at no more than 2m centres to the roof structure at eaves level, base of gables and along roof slopes as shown in Diagram 19 with straps fixed in accordance with paragraphs 2C35 and 2C36."
+917_UK_UK_Approved_Document_A,Where straps cannot pass through a wall they should be adequately secured to the masonry using suitable fixings.
+918_UK_UK_Approved_Document_A,Isolated columns should also be tied to the roof structure (see Diagram 19).
+919_UK_UK_Approved_Document_A,34
+920_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION A1/2
+921_UK_UK_Approved_Document_A,Section 2D: Proportions for masonry chimneys above the roof surface
+922_UK_UK_Approved_Document_A,Height to width relationship
+923_UK_UK_Approved_Document_A,"Where a chimney is not adequately supported by ties or securely restrained in any way, its height if measured from the highest point of intersection with the roof surface, gutter, etc. should not exceed 4.5W, provided the density of the masonry is greater than 1500kg/m3, where:"
+924_UK_UK_Approved_Document_A,"W is the least horizontal dimension of the chimney measured at the same point of intersection, and"
+925_UK_UK_Approved_Document_A,H is measured to the top of any chimney pot or other flue terminal (see Diagram 20).
+926_UK_UK_Approved_Document_A,Diagram 20 Proportions for masonry chimneys
+927_UK_UK_Approved_Document_A,See para 2D1
+928_UK_UK_Approved_Document_A,35
+929_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+930_UK_UK_Approved_Document_A,Section 2E: Foundations of plain concrete
+931_UK_UK_Approved_Document_A,Diagram 21 Elevation of stepped foundation
+932_UK_UK_Approved_Document_A,See paras 2E2d
+933_UK_UK_Approved_Document_A,and e
+934_UK_UK_Approved_Document_A,Diagram 22 Piers and chimneys
+935_UK_UK_Approved_Document_A,See para 2E2f
+936_UK_UK_Approved_Document_A,Diagram 23 Foundation dimensions
+937_UK_UK_Approved_Document_A,See para 2E2c
+938_UK_UK_Approved_Document_A,Conditions relating to the ground
+939_UK_UK_Approved_Document_A,There should not be:
+940_UK_UK_Approved_Document_A,non-engineered fill (as described in BRE Digest 427) or wide variation in ground conditions within the loaded area; nor
+941_UK_UK_Approved_Document_A,weaker or more compressible ground at such a depth below the foundation as could impair the stability of the structure.
+942_UK_UK_Approved_Document_A,Design provisions
+943_UK_UK_Approved_Document_A,The following design provisions relate to foundations:
+944_UK_UK_Approved_Document_A,the foundations should be situated centrally under the wall;
+945_UK_UK_Approved_Document_A,for foundations in chemically aggressive soil conditions guidance in BS 8500-1 and BRE Special Digest 1 should be followed.
+946_UK_UK_Approved_Document_A,"In non-aggressive soils, concrete should be composed of Portland cement to BS EN 197-1 and -2 and fine and coarse aggregate conforming to BS EN 12620 and the mix should comply with one of the following recommendations:"
+947_UK_UK_Approved_Document_A,in proportion of 50kg of Portland cement to not more than 200kg (0.1m3) of fine aggregate and 400kg (0.2m3) of coarse aggregate; or
+948_UK_UK_Approved_Document_A,grade ST2 or grade GEN I concrete to BS 8500-2;
+949_UK_UK_Approved_Document_A,"minimum thickness T of concrete foundation should be 150mm or P, whichever is the greater, where P is derived using Table 10 and Diagram 23."
+950_UK_UK_Approved_Document_A,Trench fill foundations may be used as an acceptable alternative to strip foundations;
+951_UK_UK_Approved_Document_A,"foundations stepped on elevation should overlap by twice the height of the step, by the thickness of the foundation, or 300mm, whichever is greater (see Diagram 21)."
+952_UK_UK_Approved_Document_A,"For trench fill foundations the overlap should be twice the height of the step or 1m, whichever is greater;"
+953_UK_UK_Approved_Document_A,steps in foundations should not be of greater height than the thickness of the foundation (see Diagram 21);
+954_UK_UK_Approved_Document_A,"foundations for piers, buttresses and chimneys should project as indicated in Diagram 22 and the projection X should never be less than the value of P where there is no local thickening of the wall."
+955_UK_UK_Approved_Document_A,Minimum width of strip foundations
+956_UK_UK_Approved_Document_A,The recommended minimum widths of foundations given in Table 10 may be used.
+957_UK_UK_Approved_Document_A,36
+958_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION FOUNDATIONS OF PLAIN CONCRETE A1/2
+959_UK_UK_Approved_Document_A,Table 10 Minimum width of strip footings
+960_UK_UK_Approved_Document_A,"Type of ground (including Condition engineered fill) of ground Field test applicable I Rock Not inferior to Requires at least a pneumatic sandstone, limestone or other mechanically operated"
+961_UK_UK_Approved_Document_A,or firm chalk pick for excavation
+962_UK_UK_Approved_Document_A,Total load of load-bearing walling not more than (kN/linear metre)
+963_UK_UK_Approved_Document_A,70
+964_UK_UK_Approved_Document_A,Minimum width of strip foundations (mm)
+965_UK_UK_Approved_Document_A,In each case equal to the width of wall
+966_UK_UK_Approved_Document_A,II Gravel or sand Medium dense Requires pick for excavation.
+967_UK_UK_Approved_Document_A,Wooden peg 50mm square in cross
+968_UK_UK_Approved_Document_A,section hard to drive beyond 150mm
+969_UK_UK_Approved_Document_A,650
+970_UK_UK_Approved_Document_A,III Clay Sandy clay IV Clay Sandy clay V Sand Silty sand Clayey sand VI Silt Clay Sandy clay Clay or silt VII Silt Clay Sandy clay Clay or silt Stiff
+971_UK_UK_Approved_Document_A,Stiff
+972_UK_UK_Approved_Document_A,Firm
+973_UK_UK_Approved_Document_A,Firm
+974_UK_UK_Approved_Document_A,Loose Loose Loose Soft Soft
+975_UK_UK_Approved_Document_A,Soft
+976_UK_UK_Approved_Document_A,Soft
+977_UK_UK_Approved_Document_A,Very soft
+978_UK_UK_Approved_Document_A,Very soft
+979_UK_UK_Approved_Document_A,Very soft
+980_UK_UK_Approved_Document_A,Very soft
+981_UK_UK_Approved_Document_A,Can be indented slightly by thumb 250 300 400 500 600 650 Thumb makes impression easily 300 350 450 600 750 850
+982_UK_UK_Approved_Document_A,Can be excavated with a spade.
+983_UK_UK_Approved_Document_A,Wooden peg 50mm square in
+984_UK_UK_Approved_Document_A,cross section can be easily driven 400 600
+985_UK_UK_Approved_Document_A,Finger pushed in up to 10mm 450 650 Note:
+986_UK_UK_Approved_Document_A,Foundations on soil types V
+987_UK_UK_Approved_Document_A,and VI do not fall within the
+988_UK_UK_Approved_Document_A,provisions of this section if the
+989_UK_UK_Approved_Document_A,total load exceeds 30kN/m.
+990_UK_UK_Approved_Document_A,Finger easily pushed in up to 25mm Refer to specialist advice
+991_UK_UK_Approved_Document_A,The table is applicable only within the strict terms of the criteria described within it.
+992_UK_UK_Approved_Document_A,Minimum depth of strip foundations
+993_UK_UK_Approved_Document_A,"Except where strip foundations are founded on rock, the strip foundations should have a minimum depth of 0.45m to their underside to avoid the action of frost."
+994_UK_UK_Approved_Document_A,"This depth, however, will commonly need to be increased in areas subject to long periods of frost or in order to transfer the loading onto satisfactory ground."
+995_UK_UK_Approved_Document_A,"In clay soils subject to volume change on drying (‘shrinkable clays’, with Modified Plasticity Index greater than or equal to 10%), strip foundations should be taken to a depth where anticipated ground movements will not impair the stability of any part of the building taking due consideration of the influence of vegetation and trees on the ground."
+996_UK_UK_Approved_Document_A,"The depth to the underside of foundations on clay soils should not be less than 0.75m on low shrinkage clay soils, 0.9m on medium shrinkage clay soils and 1.0m on high shrinkage clay soils, although these depths may need to be increased in order to transfer the loading onto satisfactory ground, or where there are trees nearby."
+997_UK_UK_Approved_Document_A,37
+998_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+999_UK_UK_Approved_Document_A,Section 3: Wall cladding
+1000_UK_UK_Approved_Document_A,"vehicle barrier, then account should be taken of the additional imposed loading, as stipulated in Approved Document K, Protection from falling, collision and impact."
+1001_UK_UK_Approved_Document_A,"Where the wall cladding is required to safely withstand lateral pressures from crowds, an appropriate design loading is given in BS EN 1991-1-1:2002 with its UK National Annex and the Guide to Safety at Sports Grounds (4th Edition, 1997)."
+1002_UK_UK_Approved_Document_A,The selection of fixings for supporting Fixings
+1003_UK_UK_Approved_Document_A,cladding should be determined from a consideration of the proven performance of the fixing and the risks associated with the particular application.
+1004_UK_UK_Approved_Document_A,In this regard applications should be designated as being either non-redundant (where the failure of a single fixing could lead to the detachment of the cladding) or redundant (where failure or excessive movement of one fixing results in load sharing by adjacent fixings) and the required reliability of the fixing determined accordingly.
+1005_UK_UK_Approved_Document_A,Note: Attention is drawn to the availability of anchors with an ETA gained in accordance with the requirements of ETAG 001
+1006_UK_UK_Approved_Document_A,"Guideline for European Technical Approval Metal Anchors for use in Concrete Parts 1-5, which cover both redundant and non-redundant applications, and Part 6 which covers ‘Anchors for multiple use in non-structural applications’ and which can effectively be regarded as covering redundant use."
+1007_UK_UK_Approved_Document_A,The UK definition of ‘multiple use’ is contained in an annexe to ETAG Part 6 and is framed in such a way that all applications can be validated as to whether or not they conform to this category without calculation.
+1008_UK_UK_Approved_Document_A,All ETAG parts may be downloaded in English from www.eota.be.
+1009_UK_UK_Approved_Document_A,"The strength of fixings should be derived from tests using materials representative of the material into which the fixing is to be anchored, taking account of any inherent weaknesses that may affect the strength of the fixing, e.g. cracks in concrete due to shrinkage and flexure, or voids in masonry construction."
+1010_UK_UK_Approved_Document_A,The design loads will generally be available from the manufacturer’s test data determined from an ETA or an extant British Standard.
+1011_UK_UK_Approved_Document_A,Note: ETAs are available which cover use either in both cracked and non-cracked concrete or in non-cracked concrete only.
+1012_UK_UK_Approved_Document_A,Those which cover both cracked and non-cracked concrete allow higher loads for use in non-cracked than in cracked concrete.
+1013_UK_UK_Approved_Document_A,General
+1014_UK_UK_Approved_Document_A,Wall cladding presents a hazard if it becomes detached from the building.
+1015_UK_UK_Approved_Document_A,This section provides guidance on the support and fixing of wall cladding.
+1016_UK_UK_Approved_Document_A,An acceptable level of safety can be achieved by different means depending on the type and location of the cladding.
+1017_UK_UK_Approved_Document_A,"The guidance given relates to all forms of cladding, including curtain walling and glass facades."
+1018_UK_UK_Approved_Document_A,"It is not intended to provide guidance concerning the weather resistance of wall cladding which is included in Approved Document C, Site preparation and resistance to contaminants and moisture, or guidance on resistance to spread of fire which is included in Approved Document B, Fire safety, or guidance in relation to sound insulation, which is included in Approved Document E, Resistance to the passage of sound."
+1019_UK_UK_Approved_Document_A,Technical approach
+1020_UK_UK_Approved_Document_A,requirement if:
+1021_UK_UK_Approved_Document_A,"The cladding will meet the safety a. the cladding is capable of safely sustaining and transmitting to the supporting structure of the building all dead, imposed and wind loads, and"
+1022_UK_UK_Approved_Document_A,the cladding is securely fixed to and supported by the structure of the building.
+1023_UK_UK_Approved_Document_A,"This shall comprise both vertical support and horizontal restraint, and"
+1024_UK_UK_Approved_Document_A,"provision is made, where necessary, to accommodate differential movement of the cladding and the supporting structure of the building, and"
+1025_UK_UK_Approved_Document_A,the cladding and its fixings (including any support components) are of durable materials; the design life of the fixings being not less than that of the cladding.
+1026_UK_UK_Approved_Document_A,Fixings shall be corrosion resistant and of a material type appropriate for the local environment.
+1027_UK_UK_Approved_Document_A,Loading
+1028_UK_UK_Approved_Document_A,Wind loading on the cladding should be derived from BS EN 1991-1-4:2005 with its UK National Annex with due consideration given to local increases in wind suction arising from funnelling of the wind through gaps between buildings.
+1029_UK_UK_Approved_Document_A,"Where the cladding is required to support other fixtures, e.g. handrails, and fittings, e.g. antennae and signboards, account should be taken of the loads and forces arising from such fixtures and fittings."
+1030_UK_UK_Approved_Document_A,"Where the wall cladding is required to function as pedestrian guarding to stairs, ramps, vertical drops of more than 600mm in dwellings or more than the height of two risers (or 380mm if not part of a stair) in other buildings, or as a 38"
+1031_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION A1/2
+1032_UK_UK_Approved_Document_A,Guidance notes published by the Construction Fixings Association www.fixingscfa.co.uk.
+1033_UK_UK_Approved_Document_A,Guidance Note: Procedure for Site Testing Construction Fixings (1994).
+1034_UK_UK_Approved_Document_A,Guidance Note: European Technical Approvals for Construction Fixings (1998).
+1035_UK_UK_Approved_Document_A,Guidance Note: Anchor Selection (1995).
+1036_UK_UK_Approved_Document_A,Guidance Note: Fixings and Fire (1998).
+1037_UK_UK_Approved_Document_A,Guidance Note: Anchor Installation (1996).
+1038_UK_UK_Approved_Document_A,Guidance Note: Bonded Anchors (1999).
+1039_UK_UK_Approved_Document_A,Guidance Note: Heavy Duty Expansion Anchors (1997).
+1040_UK_UK_Approved_Document_A,Guidance Note: Fixings for Brickwork and Blockwork (1997).
+1041_UK_UK_Approved_Document_A,Guidance Note: Undercut Anchors (1998).
+1042_UK_UK_Approved_Document_A,Guidance Note: Fixings and Corrosion (2002).
+1043_UK_UK_Approved_Document_A,WALL CLADDING Further guidance
+1044_UK_UK_Approved_Document_A,The use of large panels of glass in 3.9 cladding of walls and roofs where the cladding is not divided into small areas by load-bearing framing requires special consideration.
+1045_UK_UK_Approved_Document_A,Guidance is given in the following documents:
+1046_UK_UK_Approved_Document_A,"The Institution of Structural Engineers’ Report on ‘Structural use of glass in buildings’ dated 1999, available from 11 Upper Belgrave Street, London SW1X 8BH."
+1047_UK_UK_Approved_Document_A,‘Nickel sulfide in toughened glass’ published by the Centre for Window Cladding and Technology dated 2000.
+1048_UK_UK_Approved_Document_A,Further guidance on cladding is given in the following documents:
+1049_UK_UK_Approved_Document_A,The Institution of Structural Engineers’ Report on ‘Aspects of Cladding’ dated 1995.
+1050_UK_UK_Approved_Document_A,The Institution of Structural Engineers’ Report on ‘Guide to the structural use of adhesives’ dated 1999.
+1051_UK_UK_Approved_Document_A,BS 8297:2000 Code of practice for the design and installation of non-load-bearing precast concrete cladding.
+1052_UK_UK_Approved_Document_A,BS 8298:2010 Code of practice for the design and installation of natural stone cladding and lining.
+1053_UK_UK_Approved_Document_A,Additional guidance on fixings is given in the following documents:
+1054_UK_UK_Approved_Document_A,"ETAG No. 001 1997 Guideline for European Technical Approvals of Metal Anchors for use in Concrete, European Organisation for Technical Assessment (EOTA), Brussels."
+1055_UK_UK_Approved_Document_A,All EOTA parts may be downloaded in English from www.eota.be.
+1056_UK_UK_Approved_Document_A,Part 1 Anchors in general.
+1057_UK_UK_Approved_Document_A,Part 2 Torque controlled anchors.
+1058_UK_UK_Approved_Document_A,Part 3 Undercut anchors.
+1059_UK_UK_Approved_Document_A,Part 4 Deformation controlled anchors.
+1060_UK_UK_Approved_Document_A,Part 5 Bonded anchors.
+1061_UK_UK_Approved_Document_A,Part 6 Metal anchors for redundant use in concrete for lightweight systems.
+1062_UK_UK_Approved_Document_A,BS 5080-1:1993 Structural fixings in concrete and masonry.
+1063_UK_UK_Approved_Document_A,Method of test for tensile loading.
+1064_UK_UK_Approved_Document_A,CIRIA Report RP 566 Cladding Fixings: Good practice guidance.
+1065_UK_UK_Approved_Document_A,CIRIA Reports C579 and C589 Retention of masonry facades – Best practice guide.
+1066_UK_UK_Approved_Document_A,39
+1067_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A1/2
+1068_UK_UK_Approved_Document_A,Section 4: Roof covering
+1069_UK_UK_Approved_Document_A,Materials
+1070_UK_UK_Approved_Document_A,"All materials used to cover roofs, excluding windows of glass in residential buildings with roof pitches of not less than 15°, shall be capable of safely withstanding the concentrated imposed loads upon roofs specified in BS EN 1991-1-"
+1071_UK_UK_Approved_Document_A,1:2002 with its UK National Annex.
+1072_UK_UK_Approved_Document_A,Transparent or translucent covering materials for roofs not accessible except for normal maintenance and repair are excluded from the requirement to carry the concentrated imposed load upon roofs if they are non-fragile or are otherwise suitably protected against collapse.
+1073_UK_UK_Approved_Document_A,The re-covering of roofs is commonly Re-covering of roofs
+1074_UK_UK_Approved_Document_A,undertaken to extend the useful life of buildings.
+1075_UK_UK_Approved_Document_A,Roof structures may be required to carry underdrawing or insulation provided at a time later than their initial construction.
+1076_UK_UK_Approved_Document_A,This section provides guidance on determining whether such work to a roof constitutes a material alteration under the Building Regulations.
+1077_UK_UK_Approved_Document_A,Where the work involves a significant change in the applied loading the structural integrity of the roof structure and the supporting structure should be checked to ensure that upon completion of the work the building is not less compliant with Requirement A1 than the original building.
+1078_UK_UK_Approved_Document_A,A significant change in roof loading is 4.4 when the loading upon the roof is increased by more than 15%.
+1079_UK_UK_Approved_Document_A,Consideration might also be given to whether the roof covering being replaced is the original as-built covering.
+1080_UK_UK_Approved_Document_A,"Where such checking of the existing roof structure indicates that the construction is unable to sustain any proposed increase in loading (e.g. due to overstressed members or unacceptable deflection leading to ponding), appropriate strengthening work or replacement of roofing members should be undertaken."
+1081_UK_UK_Approved_Document_A,This is classified as a material alteration.
+1082_UK_UK_Approved_Document_A,In carrying out the checks mentioned in 4.6 paragraph 4.3 an increase of stress in a structural member arising from increased loading does not necessarily indicate that the roof structure is less compliant than the original roof provided an adequate factor of safety is maintained.
+1083_UK_UK_Approved_Document_A,"Where work will significantly decrease the roof dead loading, the roof structure and its anchorage to the supporting structure should be checked to ensure that an adequate factor of safety is maintained against uplift of the roof under imposed wind loading."
+1084_UK_UK_Approved_Document_A,40
+1085_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION DISPROPORTIONATE COLLAPSE The Requirement
+1086_UK_UK_Approved_Document_A,This Approved Document deals with the following Requirements which are contained in the Building Regulations 2010.
+1087_UK_UK_Approved_Document_A,Requirement Limits on application
+1088_UK_UK_Approved_Document_A,Disproportionate collapse
+1089_UK_UK_Approved_Document_A,The building shall be constructed so that in the event of an accident the building will not suffer collapse to an extent disproportionate to the cause. A3
+1090_UK_UK_Approved_Document_A,41
+1091_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A3
+1092_UK_UK_Approved_Document_A,Guidance
+1093_UK_UK_Approved_Document_A,Performance
+1094_UK_UK_Approved_Document_A,In the Secretary of State’s view the Requirement of A3 will be met by an appropriate choice of measures to reduce the sensitivity of a building to disproportionate collapse should an accident occur.
+1095_UK_UK_Approved_Document_A,Introduction
+1096_UK_UK_Approved_Document_A,means of meeting this performance criterion.
+1097_UK_UK_Approved_Document_A,The guidance in Section 5 deals with the 42
+1098_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION A3
+1099_UK_UK_Approved_Document_A,Section 5: Reducing the sensitivity of the building to disproportionate collapse in the event of an accident
+1100_UK_UK_Approved_Document_A,"The requirement will be met by adopting the following approach for ensuring that the building is sufficiently robust to sustain a limited extent of damage or failure, depending on the consequence class of the building, without collapse."
+1101_UK_UK_Approved_Document_A,Determine the building’s consequence class from Table 11.
+1102_UK_UK_Approved_Document_A,"For Consequence Class 1 buildings – Provided the building has been designed and constructed in accordance with the rules given in this Approved Document, or other guidance referenced under Section 1, for meeting compliance with Requirement A1 and A2 in normal use, no additional measures are likely to be necessary."
+1103_UK_UK_Approved_Document_A,"For Consequence Class 2a buildings – In addition to the Consequence Class 1 measures, provide effective horizontal ties, or effective anchorage of suspended floors to walls, as described in the Standards listed under paragraph 5.2 for framed and load-"
+1104_UK_UK_Approved_Document_A,bearing wall construction (the latter being defined in paragraph 5.3 below).
+1105_UK_UK_Approved_Document_A,"For Consequence Class 2b buildings – In addition to the Consequence Class 1 measures, provide effective horizontal ties, as described in the Standards listed under paragraph 5.2 for framed and load-bearing wall construction (the latter being defined in paragraph 5.3 below), together with effective vertical ties, as defined in the Standards listed under paragraph 5.2, in all supporting columns and walls."
+1106_UK_UK_Approved_Document_A,"Alternatively, check that upon the notional removal of each supporting column and each beam supporting one or more columns, or any nominal length of load-bearing wall (one at a time in each storey of the building), the building remains stable and that the area of floor at any storey at risk of collapse does not exceed 15% of the floor area of that storey or 100m2, whichever is smaller, and does not extend further than the immediate adjacent storeys (see Diagram 24)."
+1107_UK_UK_Approved_Document_A,Critical situations for design should be selected that reflect the conditions that can reasonably be foreseen as possible during the life of the building.
+1108_UK_UK_Approved_Document_A,The structural form and concept and any protective measures should then be chosen and the detailed design of the structure and its elements undertaken in accordance with the recommendations given in the Standards given in paragraph 5.2.
+1109_UK_UK_Approved_Document_A,Further guidance is given in Annexes A and B to BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006 and BS EN 1990:2002+A1:2005
+1110_UK_UK_Approved_Document_A,Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005.
+1111_UK_UK_Approved_Document_A,"Details of the effective horizontal and vertical ties including tie force determination, together with the design approaches for checking the integrity of the building following the notional removal of vertical members and the design of key elements, are given in the following Standards:"
+1112_UK_UK_Approved_Document_A,BS EN 1990:2002+A1:2005
+1113_UK_UK_Approved_Document_A,Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005
+1114_UK_UK_Approved_Document_A,BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7: 2006 and BSI PD 6688-1-7: 2009
+1115_UK_UK_Approved_Document_A,BS EN 1992-1-
+1116_UK_UK_Approved_Document_A,1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004 and BSI PD 6687-1:2010
+1117_UK_UK_Approved_Document_A,BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005
+1118_UK_UK_Approved_Document_A,BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004
+1119_UK_UK_Approved_Document_A,"Where the notional removal of such columns and lengths of walls would result in an extent of damage in excess of the above limit, then such elements should be designed as a ‘key element’ as defined in paragraph 5.3 below."
+1120_UK_UK_Approved_Document_A,BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-
+1121_UK_UK_Approved_Document_A,1:2004+A1:2008 and BSI PD 6693-1:2012
+1122_UK_UK_Approved_Document_A,"For Consequence Class 3 buildings – A systematic risk assessment of the building should be undertaken taking into account all the normal hazards that may reasonably be foreseen, together with any abnormal hazards."
+1123_UK_UK_Approved_Document_A,BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-1:2005+A1:2012 and BSI PD 6697:2010
+1124_UK_UK_Approved_Document_A,43
+1125_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A3 REDUCING THE SENSITIVITY OF THE BUILDING TO DISPROPORTIONATE COLLAPSE IN THE EVENT OF AN ACCIDENT
+1126_UK_UK_Approved_Document_A,BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-1:2007+A1:2009 and BSI PD 6702-1:2009
+1127_UK_UK_Approved_Document_A,Definitions
+1128_UK_UK_Approved_Document_A,Nominal length of load-bearing wall
+1129_UK_UK_Approved_Document_A,The nominal length of load-bearing wall construction referred to in 5.1d should be taken as follows:
+1130_UK_UK_Approved_Document_A,"− − in the case of a reinforced concrete wall, the distance between lateral supports subject to a maximum length not exceeding 2.25H,"
+1131_UK_UK_Approved_Document_A,"in the case of an external masonry wall, or timber or steel stud wall, the length measured between vertical lateral supports,"
+1132_UK_UK_Approved_Document_A,"− in the case of an internal masonry wall, or timber or steel stud wall, a length not exceeding 2.25H,"
+1133_UK_UK_Approved_Document_A,where H is the storey height in metres.
+1134_UK_UK_Approved_Document_A,Note: Annex A of BS EN 1991-1-7:2006 with its UK National Annex provides corresponding guidance.
+1135_UK_UK_Approved_Document_A,key elements
+1136_UK_UK_Approved_Document_A,"A ‘key element’, as referred to in paragraph 5.1d, should be capable of sustaining an accidental design loading of 34kN/m2 applied in the horizontal and vertical directions (in one direction at a time) to the member and any attached components (e.g. cladding etc.)"
+1137_UK_UK_Approved_Document_A,having regard to the ultimate strength of such components and their connections.
+1138_UK_UK_Approved_Document_A,Such accidental design loading should be assumed to act simultaneously with all other design loadings (i.e. wind and imposed loading) in accidental actions loading combination.
+1139_UK_UK_Approved_Document_A,Table 11 Building consequence classes
+1140_UK_UK_Approved_Document_A,Consequence Classes Building type and occupancy
+1141_UK_UK_Approved_Document_A,Houses not exceeding 4 storeys
+1142_UK_UK_Approved_Document_A,Agricultural buildings
+1143_UK_UK_Approved_Document_A,"Buildings into which people rarely go, provided no part of the building is closer to another building, or area where people do go, than a distance of 1.5 times the building height"
+1144_UK_UK_Approved_Document_A,Lower Risk Group 5 storey single occupancy houses
+1145_UK_UK_Approved_Document_A,Hotels not exceeding 4 storeys
+1146_UK_UK_Approved_Document_A,"Flats, apartments and other residential buildings not exceeding 4 storeys"
+1147_UK_UK_Approved_Document_A,Offices not exceeding 4 storeys
+1148_UK_UK_Approved_Document_A,Industrial buildings not exceeding 3 storeys
+1149_UK_UK_Approved_Document_A,Retailing premises not exceeding 3 storeys of less than 2000m² floor area in each storey
+1150_UK_UK_Approved_Document_A,Single-storey educational buildings
+1151_UK_UK_Approved_Document_A,All buildings not exceeding 2 storeys to which members of the public are admitted and which contain floor areas not exceeding 2000m² at each storey
+1152_UK_UK_Approved_Document_A,"Upper Risk Group Hotels, blocks of flats, apartments and other residential buildings greater than 4 storeys but not exceeding 15 storeys"
+1153_UK_UK_Approved_Document_A,Educational buildings greater than 1 storey but not exceeding 15 storeys
+1154_UK_UK_Approved_Document_A,Retailing premises greater than 3 storeys but not exceeding 15 storeys
+1155_UK_UK_Approved_Document_A,Hospitals not exceeding 3 storeys
+1156_UK_UK_Approved_Document_A,Offices greater than 4 storeys but not exceeding 15 storeys
+1157_UK_UK_Approved_Document_A,All buildings to which members of the public are admitted which contain floor areas exceeding 2000m² but less than 5000m² at each storey
+1158_UK_UK_Approved_Document_A,Car parking not exceeding 6 storeys
+1159_UK_UK_Approved_Document_A,All buildings defined above as Consequence Class 2a and 2b that exceed the limits on area and/or number of storeys
+1160_UK_UK_Approved_Document_A,Grandstands accommodating more than 5000 spectators
+1161_UK_UK_Approved_Document_A,Buildings containing hazardous substances and/or processes
+1162_UK_UK_Approved_Document_A,Notes:
+1163_UK_UK_Approved_Document_A,For buildings intended for more than one type of use the Consequence Class should be that pertaining to the most onerous type.
+1164_UK_UK_Approved_Document_A,"In determining the number of storeys in a building, basement storeys may be excluded provided such basement storeys fulfil the robustness requirements of Consequence Class 2b buildings."
+1165_UK_UK_Approved_Document_A,BS EN 1991-1-7:2006 with its UK National Annex also provides guidance that is comparable to Table 11.
+1166_UK_UK_Approved_Document_A,44
+1167_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION REDUCING THE SENSITIVITY OF THE BUILDING TO
+1168_UK_UK_Approved_Document_A,DISPROPORTIONATE COLLAPSE IN THE EVENT OF AN ACCIDENT A3
+1169_UK_UK_Approved_Document_A,BS EN 1990:2002+A1:2005 with its UK National Annex provides guidance on accidental design loading and accidental actions loading combination for ‘key elements’ and expressions 6.11a and 6.11b of that Standard are relevant.
+1170_UK_UK_Approved_Document_A,Note: Annex A of BS EN 1991-1-7:2006 with its UK National Annex provides corresponding guidance for ‘key elements’.
+1171_UK_UK_Approved_Document_A,Load-bearing construction
+1172_UK_UK_Approved_Document_A,For the purposes of this Guidance the term ‘load-
+1173_UK_UK_Approved_Document_A,bearing wall construction’ includes masonry cross-wall construction and walls comprising close centred timber or lightweight steel section studs.
+1174_UK_UK_Approved_Document_A,Alternative approach
+1175_UK_UK_Approved_Document_A,"As an alternative to Table 11, for any building which does not fall into the classes listed under Table 11, or for which the consequences of collapse may warrant particular examination of the risks involved, performance may be demonstrated using the recommendations given in the following Reports and Publication:"
+1176_UK_UK_Approved_Document_A,"‘Guidance on Robustness and Provision against Accidental Actions’, dated July 1999."
+1177_UK_UK_Approved_Document_A,‘Proposed Revised Guidance on meeting Compliance with the requirements of Building Regulation Part A3’.
+1178_UK_UK_Approved_Document_A,Revision of the Allott and Lomax proposals.
+1179_UK_UK_Approved_Document_A,Project Report No. 205966.
+1180_UK_UK_Approved_Document_A,Both of the above documents are available on www.planningportal.gov.uk
+1181_UK_UK_Approved_Document_A,‘Practical Guide to Structural Robustness and Disproportionate Collapse in Buildings’ dated October 2010.
+1182_UK_UK_Approved_Document_A,"Published by The Institution of Structural Engineers, London."
+1183_UK_UK_Approved_Document_A,Seismic design
+1184_UK_UK_Approved_Document_A,"Seismic design is not usually required for buildings classified by Table 11 as being in Consequence Classes 1, 2a and 2b."
+1185_UK_UK_Approved_Document_A,"For buildings classified as Consequence Class 3 the risk assessment should consider if there is any need to carry out seismic design, although such a need is not an explicit requirement for these buildings."
+1186_UK_UK_Approved_Document_A,Diagram 24 Area at risk of collapse in the event of an accident
+1187_UK_UK_Approved_Document_A,See para 5.1d
+1188_UK_UK_Approved_Document_A,Area at risk of collapse
+1189_UK_UK_Approved_Document_A,limited to 15% of the floor area of that storey
+1190_UK_UK_Approved_Document_A,"or 100m2, whichever is"
+1191_UK_UK_Approved_Document_A,"the lesser, and does not"
+1192_UK_UK_Approved_Document_A,extend further than the
+1193_UK_UK_Approved_Document_A,immediate adjacent
+1194_UK_UK_Approved_Document_A,storeys
+1195_UK_UK_Approved_Document_A,45
+1196_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A
+1197_UK_UK_Approved_Document_A,Standards referred to
+1198_UK_UK_Approved_Document_A,A1/2
+1199_UK_UK_Approved_Document_A,BS 5080-1:1993 Structural fixings in concrete and masonry.
+1200_UK_UK_Approved_Document_A,Method of test for tensile loading.
+1201_UK_UK_Approved_Document_A,BS 8103-1:2011 Structural design of low-rise buildings.
+1202_UK_UK_Approved_Document_A,"Code of practice for stability, site investigation, foundations, precast concrete floors and ground floor slabs for housing."
+1203_UK_UK_Approved_Document_A,BS 8103-2:2005 Structural design of low-rise buildings.
+1204_UK_UK_Approved_Document_A,Code of practice for masonry walls for housing.
+1205_UK_UK_Approved_Document_A,BS 8103-3:2009 Structural design of low-rise buildings.
+1206_UK_UK_Approved_Document_A,Code of practice for timber floors and roofs for housing.
+1207_UK_UK_Approved_Document_A,BS 8297:2000 Code of practice for design and installation of non-loadbearing precast concrete cladding.
+1208_UK_UK_Approved_Document_A,"AMD 11064 2000, AMD 13018 2000."
+1209_UK_UK_Approved_Document_A,BS 8298-1:2010 Code of practice for the design and installation of natural stone cladding and lining.
+1210_UK_UK_Approved_Document_A,General.
+1211_UK_UK_Approved_Document_A,BS 8298-2:2010 Code of practice for the design and installation of natural stone cladding and lining.
+1212_UK_UK_Approved_Document_A,Traditional handset external cladding.
+1213_UK_UK_Approved_Document_A,BS 8298-3:2010 Code of practice for the design and installation of natural stone cladding and lining.
+1214_UK_UK_Approved_Document_A,Stone-faced pre-cast concrete cladding systems.
+1215_UK_UK_Approved_Document_A,BS 8298-4:2010 Code of practice for the design and installation of natural stone cladding and lining.
+1216_UK_UK_Approved_Document_A,Rainscreen and stone on metal frame cladding systems.
+1217_UK_UK_Approved_Document_A,BS 8500-1:2006+A1:2012 Concrete.
+1218_UK_UK_Approved_Document_A,Complementary British Standard to BS EN 206-1.
+1219_UK_UK_Approved_Document_A,Method of specifying and guidance for the specifier.
+1220_UK_UK_Approved_Document_A,BS 8500-2:2006+A1:2012 Concrete.
+1221_UK_UK_Approved_Document_A,Complementary British Standard to BS EN 206-1.
+1222_UK_UK_Approved_Document_A,Specification for constituent materials and concrete.
+1223_UK_UK_Approved_Document_A,BS EN 197-1:2011 Cement.
+1224_UK_UK_Approved_Document_A,"Composition, specifications and conformity criteria for common elements."
+1225_UK_UK_Approved_Document_A,BS EN 197-2:2000 Cement.
+1226_UK_UK_Approved_Document_A,Conformity evaluation.
+1227_UK_UK_Approved_Document_A,BS EN 771-1:2011 Specification for masonry units.
+1228_UK_UK_Approved_Document_A,Clay masonry units.
+1229_UK_UK_Approved_Document_A,BS EN 771-2:2011 Specification for masonry units.
+1230_UK_UK_Approved_Document_A,Calcium silicate masonry units.
+1231_UK_UK_Approved_Document_A,46
+1232_UK_UK_Approved_Document_A,BS EN 771-3:2011 Specification for masonry units.
+1233_UK_UK_Approved_Document_A,Aggregate concrete masonry units (dense and light-weight aggregates).
+1234_UK_UK_Approved_Document_A,AMD 16001.
+1235_UK_UK_Approved_Document_A,BS EN 771-4:2011 Specification for masonry units.
+1236_UK_UK_Approved_Document_A,Autoclaved aerated concrete masonry units.
+1237_UK_UK_Approved_Document_A,BS EN 771-5:2011 Specification for masonry units.
+1238_UK_UK_Approved_Document_A,Manufactured stone masonry units.
+1239_UK_UK_Approved_Document_A,BS EN 771-6:2011 Specification for masonry units.
+1240_UK_UK_Approved_Document_A,Natural stone masonry units.
+1241_UK_UK_Approved_Document_A,BS EN 845-1:2003+A1:2008 Specification for ancillary components for masonry.
+1242_UK_UK_Approved_Document_A,"Ties, tension straps, hangers and brackets."
+1243_UK_UK_Approved_Document_A,"AMD 14736 2003, AMD 15539 2006."
+1244_UK_UK_Approved_Document_A,BS EN 845-2:2003 Specification for ancillary components for masonry.
+1245_UK_UK_Approved_Document_A,Lintels.
+1246_UK_UK_Approved_Document_A,BS EN 845-3:2003+A1:2008 Specification for ancillary components for masonry.
+1247_UK_UK_Approved_Document_A,Bed joint reinforcement of steel meshwork.
+1248_UK_UK_Approved_Document_A,BS EN 998-2:2010 Specification for mortar for masonry.
+1249_UK_UK_Approved_Document_A,Masonry mortar.
+1250_UK_UK_Approved_Document_A,AMD July 2011.
+1251_UK_UK_Approved_Document_A,BS EN 1090-2:2008+A1:2011 Execution of steel structures and aluminium structures – Part 2: Technical requirements for the execution of steel structures.
+1252_UK_UK_Approved_Document_A,BS EN 1090-3:2008 Execution of steel structures and aluminium structures – Part 3: Technical requirements for aluminium structures.
+1253_UK_UK_Approved_Document_A,BS EN 1990:2002+A1:2005
+1254_UK_UK_Approved_Document_A,Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005.
+1255_UK_UK_Approved_Document_A,"BS EN 1991-1-1:2002 Eurocode 1: Actions on structures – Part 1.1: General actions – Densities, self weight, imposed loads for buildings; with UK National Annex to BS EN 1991-1-1:2002."
+1256_UK_UK_Approved_Document_A,BS EN 1991-1-3:2003 Eurocode 1: Actions on structures – Part 1.3: General actions – Snow loads; with UK National Annex to BS EN 1991-1-3:2003.
+1257_UK_UK_Approved_Document_A,BS EN 1991-1-4:2005+A1:2010 Eurocode 1: Actions on structures – Part 1.4: General actions – Wind actions; with UK National Annex to BS EN 1991-1-4:2005+A1:2010.
+1258_UK_UK_Approved_Document_A,BS EN 1991-1-5:2003 Eurocode 1: Actions on structures – Part 1.5: General actions – Thermal actions; with UK National Annex to BS EN 1991-1-5:2003.
+1259_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION STANDARDS REFERRED TO BS EN 1991-1-6:2005 Eurocode 1: Actions on structures – Part 1.6: General actions – Actions during execution; with UK National Annex to BS EN 1996-1-6:2005.
+1260_UK_UK_Approved_Document_A,BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006.
+1261_UK_UK_Approved_Document_A,BS EN 1991-3:2006 Eurocode 1: Actions on structures – Part 3: Actions induced by cranes and machinery; with UK National Annex to BS EN 1991-3:2006.
+1262_UK_UK_Approved_Document_A,BS EN 1992-1-
+1263_UK_UK_Approved_Document_A,1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004.
+1264_UK_UK_Approved_Document_A,BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005.
+1265_UK_UK_Approved_Document_A,BS EN 1993-1-3:2006 Eurocode 3: Design of steel structures – Part 1.3: General rules – Supplementary rules for cold-
+1266_UK_UK_Approved_Document_A,formed members and sheeting; with UK National Annex to BS EN 1993-1-3:2006.
+1267_UK_UK_Approved_Document_A,BS EN 1993-1-4:2006 Eurocode 3: Design of steel structures – Part 1.4: General rules – Supplementary rules for stainless steels; with UK National Annex to BS EN 1993-1-
+1268_UK_UK_Approved_Document_A,4:2006.
+1269_UK_UK_Approved_Document_A,BS EN 1993-1-5:2006 Eurocode 3: Design of steel structures – Part 1.5: Plated structural elements; with UK National Annex to BS EN 1993-1-5:2006.
+1270_UK_UK_Approved_Document_A,BS EN 1993-1-6:2007 Eurocode 3: Design of steel structures – Part 1.6: Strength and stability of shell structures.
+1271_UK_UK_Approved_Document_A,BS EN 1993-1-7:2007 Eurocode 3: Design of steel structures – Part 1.7: Plated structures subject to out of plane loading.
+1272_UK_UK_Approved_Document_A,BS EN 1993-1-8:2005 Eurocode 3: Design of steel structures – Part 1.8: Design of joints; with UK National Annex to BS EN 1993-1-8:2005.
+1273_UK_UK_Approved_Document_A,BS EN 1993-1-9:2005 Eurocode 3: Design of steel structures – Part 1.9: Fatigue; with UK National Annex to BS EN 1993-
+1274_UK_UK_Approved_Document_A,1-9:2005.
+1275_UK_UK_Approved_Document_A,BS EN 1993-1-10:2005 Eurocode 3: Design of steel structures – Part 1.10: Material toughness and through-thickness properties; with UK National Annex to BS EN 1993-1-10:2005.
+1276_UK_UK_Approved_Document_A,BS EN 1993-1-11:2006 Eurocode 3: Design of steel structures – Part 1.11: Design of structures with tension components; with UK National Annex to BS EN 1993-1-11:2006.
+1277_UK_UK_Approved_Document_A,A
+1278_UK_UK_Approved_Document_A,BS EN 1993-1-12:2007 Eurocode 3: Design of steel structures – Part 1.12: Additional rules for the extension of EN 1993 up to steel grades S 700; with UK National Annex to BS EN 1993-1-12:2007.
+1279_UK_UK_Approved_Document_A,BS EN 1993-5:2007 Eurocode 3: Design of steel structures – Part 5: Piling; with UK National Annex to BS EN 1993-
+1280_UK_UK_Approved_Document_A,5:2007+A1:2012.
+1281_UK_UK_Approved_Document_A,BS EN 1993-6:2007 Eurocode 3: Design of steel structures – Part 6: Crane supporting structures; with UK National Annex to BS EN 1993-6:2007.
+1282_UK_UK_Approved_Document_A,BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004.
+1283_UK_UK_Approved_Document_A,BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-1:2004+A1:2008.
+1284_UK_UK_Approved_Document_A,BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-
+1285_UK_UK_Approved_Document_A,1:2005+A1:2012.
+1286_UK_UK_Approved_Document_A,"BS EN 1996-2:2006 Eurocode 6: Design of masonry structures – Part 2: Design considerations, selection of materials and execution of masonry; with UK National Annex to BS EN 1996-2:2006."
+1287_UK_UK_Approved_Document_A,BS EN 1996-3:2006 Eurocode 6: Design of masonry structures – Part 3: Simplified calculation methods for unreinforced masonry structures; with UK National Annex to BS EN 1996-3:2006.
+1288_UK_UK_Approved_Document_A,BS EN 1997-
+1289_UK_UK_Approved_Document_A,1:2004 Eurocode 7: Geotechnical design – Part 1: General rules; with UK National Annex to BS EN 1997-1:2004.
+1290_UK_UK_Approved_Document_A,BS EN 1997-2:2007 Eurocode 7: Geotechnical design – Part 2: Ground investigation and testing; with UK National Annex to BS EN 1997-2:2007.
+1291_UK_UK_Approved_Document_A,"BS EN 1998-1:2004+A1:2013 Eurocode 8: Design of structures for earthquake resistance – Part 1: General rules, seismic actions and rules for buildings; with UK National Annex to BS EN 1998-1:2004."
+1292_UK_UK_Approved_Document_A,BS EN 1998-5:2004 Eurocode 8: Design of structures for earthquake resistance – Part 5.
+1293_UK_UK_Approved_Document_A,"Foundations, retaining structures and geotechnical aspects; with UK National Annex to BS EN 1998-5:2004."
+1294_UK_UK_Approved_Document_A,47
+1295_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION A STANDARDS REFERRED TO
+1296_UK_UK_Approved_Document_A,BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-
+1297_UK_UK_Approved_Document_A,1:2007+A1:2009.
+1298_UK_UK_Approved_Document_A,BS EN 1999-1-3:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.3: Structures susceptible to fatigue; with UK National Annex to BS EN 1999-1-
+1299_UK_UK_Approved_Document_A,3:2007+A1:2011.
+1300_UK_UK_Approved_Document_A,BS EN 1999-1-4:2007+A1:2011 Eurocode 9: Design of aluminium structures – Part 1.4: Cold-formed structural sheeting; with UK National Annex to BS EN 1999-1-4:2007.
+1301_UK_UK_Approved_Document_A,BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1: Recommendations for the design of aluminium structures to BS EN 1999.
+1302_UK_UK_Approved_Document_A,BSI PD 6705-3:2009 Published Document – Structural use of steel and aluminium – Part 3: Recommendations for the execution of aluminium structures to BS EN 1090-3.
+1303_UK_UK_Approved_Document_A,A3
+1304_UK_UK_Approved_Document_A,BS EN 1990:2002+A1:2005
+1305_UK_UK_Approved_Document_A,Eurocode – Basis of structural design; with UK National Annex to BS EN 1990:2002+A1:2005.
+1306_UK_UK_Approved_Document_A,BS EN 1999-1-5:2007 Eurocode 9: Design of aluminium structures – Part 1.5: Shell structures; with UK National Annex to BS EN 1999-1-5:2007.
+1307_UK_UK_Approved_Document_A,BS EN 1991-1-7:2006 Eurocode 1: Actions on structures – Part 1.7: General actions – Accidental actions; with UK National Annex to BS EN 1991-1-7:2006.
+1308_UK_UK_Approved_Document_A,BS EN 12620:2002+A1:2008 Aggregates for concrete.
+1309_UK_UK_Approved_Document_A,AMD 15333 2004.
+1310_UK_UK_Approved_Document_A,BS EN 13670:2009 Execution of concrete structures.
+1311_UK_UK_Approved_Document_A,BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and BS EN 1992-3.
+1312_UK_UK_Approved_Document_A,BSI PD 6688-1-1:2011 Published Document – Recommendations for the design of structures to BS EN 1991-1-1.
+1313_UK_UK_Approved_Document_A,BSI PD 6688-1-4:2009 Published Document – Background information the National Annex to BS EN 1991-1-4 and additional guidance.
+1314_UK_UK_Approved_Document_A,BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7.
+1315_UK_UK_Approved_Document_A,BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings.
+1316_UK_UK_Approved_Document_A,BSI PD 6695-1-9:2008 Published Document – Recommendations for the design of structures to BS EN 1993-1-9.
+1317_UK_UK_Approved_Document_A,BSI PD 6695-1-10:2009 Published Document – Recommendations for the design of structures to BS EN 1993-1-10.
+1318_UK_UK_Approved_Document_A,BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to BS EN 1996-1-1 and BS EN 1996-2.
+1319_UK_UK_Approved_Document_A,BSI PD 6698:2009 Published Document – Recommendations for the design of structures for earthquake resistance to BS EN 1998.
+1320_UK_UK_Approved_Document_A,BS EN 1992-1-
+1321_UK_UK_Approved_Document_A,1:2004 Eurocode 2: Design of concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1992-1-1:2004.
+1322_UK_UK_Approved_Document_A,BS EN 1993-1-1:2005 Eurocode 3: Design of steel structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1993-1-1:2005.
+1323_UK_UK_Approved_Document_A,BS EN 1994-1-1:2004 Eurocode 4: Design of composite steel and concrete structures – Part 1.1: General rules and rules for buildings; with UK National Annex to BS EN 1994-1-1:2004.
+1324_UK_UK_Approved_Document_A,BS EN 1995-1-1:2004+A1:2008 Eurocode 5: Design of timber structures – Part 1.1: General – Common rules and rules for buildings; with UK National Annex to BS EN 1995-1-1:2004+A1:2008.
+1325_UK_UK_Approved_Document_A,BS EN 1996-1-1:2005+A1:2012 Eurocode 6: Design of masonry structures – Part 1.1: General rules for reinforced and unreinforced masonry structures; with UK National Annex to BS EN 1996-1-1:2005+A1:2012.
+1326_UK_UK_Approved_Document_A,BS EN 1999-1-1:2007+A1:2009 Eurocode 9: Design of aluminium structures – Part 1.1: General structural rules; with UK National Annex to BS EN 1999-1-
+1327_UK_UK_Approved_Document_A,1:2007+A1:2009.
+1328_UK_UK_Approved_Document_A,BSI PD 6687-1:2010 Published Document – Background paper to the UK National Annexes to BS EN 1992-1 and BS EN 1992-3.
+1329_UK_UK_Approved_Document_A,BSI PD 6688-1-7:2009 Published Document – Recommendations for the design of structures to BS EN 1991-1-7.
+1330_UK_UK_Approved_Document_A,BSI PD 6693-1:2012 Published Document – Recommendations for the design of timber structures to Eurocode 5: Design of timber structures Part 1: General – Common rules and rules for buildings.
+1331_UK_UK_Approved_Document_A,48
+1332_UK_UK_Approved_Document_A,Structure Approved Document AONLINE VERSIONONLINE VERSION STANDARDS REFERRED TO BSI PD 6697:2010 Published Document – Recommendations for the design of masonry structures to BS EN 1996-1-1 and BS EN 1996-2.
+1333_UK_UK_Approved_Document_A,BSI PD 6702-1:2009 Published Document – Structural use of aluminium – Part 1.
+1334_UK_UK_Approved_Document_A,Recommendations for the design of aluminium structures to BS EN 1999.
+1335_UK_UK_Approved_Document_A,A
+1336_UK_UK_Approved_Document_A,49
+1337_UK_UK_Approved_Document_A,Approved Document A StructureONLINE VERSIONONLINE VERSION
