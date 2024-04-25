@@ -1,11 +1,10 @@
-# ACCORD NLP Framework
+# ACCORD-NLP Framework
 
-This repository contains the NLP framework developed by the ACCORD project. 
+ACCORD-NLP is a Natural Language Processing (NLP) framework developed as a part of the Horizon European project for  Automated Compliance Checks for Construction, Renovation or Demolition Works ([ACCORD](https://accordproject.eu/)) to facilitate Automated Compliance Checking (ACC) within the Architecture, Engineering, and Construction (AEC) sector.
 
-The optimisation of Automated Compliance Checking (ACC) within the Architecture, Engineering, and Construction (AEC) 
-sector necessitates the interpretation of building codes, regulations, and standards into machine-processable formats. 
-As these codes primarily exist in textual form, Natural Language Processing (NLP) is integral to decoding this data while 
-capturing the underlying linguistics and domain-specific characteristics.
+Compliance checking plays a pivotal role in the AEC sector, ensuring the safety, reliability, stability, and usability of building designs. Traditionally, this process relied on manual approaches, which are resource-intensive and time-consuming. Thus, attention has shifted towards automated methods to streamline compliance checks. Automating these processes necessitates the transformation of building regulations written in text aiming domain experts into machine-processable formats. However, this has been challenging, primarily due to the inherent complexities and unstructured nature of natural languages. Moreover, regulatory texts often exhibit domain-specific characteristics, ambiguities, and intricate clausal structures, further complicating the task.
+
+ACCORD-NLP offers data, AI models and workflows developed using state-of-the-art NLP techniques to extract rules from textual data, supporting ACC.
 
 ## Installation <a name="installation"> </a>
 
@@ -35,8 +34,7 @@ pip install accord-nlp
 
 ### Data Augmentation <a name="da"> </a>
 
-Data augmentation supports the synthetic oversampling of relation annotated data within a domain-specific context. It 
-can be used using the following code. The original experiment script is available [here]().
+Data augmentation supports the synthetic oversampling of relation-annotated data within a domain-specific context. It can be used using the following code. The original experiment script is available [here](https://github.com/Accord-Project/accord-nlp/blob/main/experiments/data_augmentation/da_experiment.py).
 
 ```python
 from accord_nlp.data_augmentation import RelationDA
@@ -52,9 +50,7 @@ rda.replace_entities(relations_path, entities_path, output_path, n=12)
 
 #### Available Datasets
 
-The data augmentation approach was applied to the relation-annotated training data in the CODE-ACCORD corpus. 2,912 
-synthetic data samples were generated, resulting in a training set of 6,375 relations. More details about the data 
-statistics are available in our paper.
+The data augmentation approach was applied to the relation-annotated training data in the [CODE-ACCORD](https://github.com/Accord-Project/CODE-ACCORD) corpus. It generated 2,912 synthetic data samples, resulting in a training set of 6,375 relations. Our paper, listed below, provides more details about the data statistics.
 
 The augmented training dataset can be loaded into a Pandas DataFrame using the following code.
 
@@ -68,55 +64,13 @@ augmented_train = Dataset.to_pandas(load_dataset("ACCORD-NLP/CODE-ACCORD-Relatio
 
 ### Entity Classification <a name="ner"> </a>
 
-The entity classification problem is formulated as a sequence labelling problem and fine-tuned the following transformer-based 
-architecture to build entity classifiers. 
+We adapted the transformer's sequence labelling architecture to fine-tune the entity classifier, following its remarkable results in the NLP domain. The general transformer architecture was modified by adding individual softmax layers per output token to support entity classification. 
 
-The table below summarises the pre-trained transformer models that were experimented with and their performance details. 
-Our paper provides more details about the experiments and evaluations conducted. 
-
-<table>
-    <thead>
-        <tr>
-            <th>Transformer</th>
-            <th>Validation F1</th>
-            <th>Test F1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>BERT</td>
-            <td>0.5686</td>
-            <td>0.3649</td>
-        </tr>
-        <tr>
-            <td>ELECTRA</td>
-            <td>0.5964</td>
-            <td>0.3059</td>
-        </tr>
-        <tr>
-            <td>ALBERT</td>
-            <td>0.6176</td>
-            <td>0.3791</td>
-        </tr>
-        <tr>
-            <td>ROBERTA</td>
-            <td><b>0.6400</b></td>
-            <td><b>0.3922</b></td>
-        </tr>
-        <tr>
-            <td colspan="3"><center><i>Model Optimisation</i></center></td>
-        </tr>
-        <tr>
-            <td>ROBERTA</td>
-            <td><b>0.7351</b></td>
-            <td><b>0.4444</b></td>
-        </tr>
-    </tbody>
-</table>
-
+Our paper, listed below, provides more details about the model architecture, fine-tuning process, experiments and evaluations. 
 
 #### Available Models
 
+We fine-tuned four pre-trained transformer models (i.e. BERT, ELECTRA, ALBERT and ROBERTA) for entity classification.
 All the fine-tuned models are available in [HuggingFace](https://huggingface.co/ACCORD-NLP), and can be accessed using the following code.
 
 ```python
@@ -129,67 +83,13 @@ print(predictions)
 
 ### Relation Classification <a name="re"> </a>
 
-The following transformer-based architecture is adapted for relation classification. Four additional tokens: <e1>, </e1>, 
-<e2> and </e2> are involved to format the model's input.
+Relation classification aims to predict the semantic relationship between two entities within a context. We introduced four special tokens (i.e. \<e1>, \</e1>, \<e2> and \</e2>) to format the input text with an entity pair to facilitate relation classification. Both \<e1> and \</e1> mark the start and end of the first entity in the selected text sequence, while \<e2> and \</e2> mark the start and end of the second entity. The transformer output corresponds to \<e1> and \<e2> were passed through a softmax layer to predict the relation category. 
 
-The table below summarises the pre-trained transformer models that we experimented with and their performance details. 
-Our paper provides more details about the experiments and evaluations conducted.
-
-<table>
-    <thead>
-        <tr>
-            <th>Transformer</th>
-            <th>Validation F1</th>
-            <th>Test F1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>BERT</td>
-            <td>0.5144</td>
-            <td>0.5243</td>
-        </tr>
-        <tr>
-            <td>ALBERT</td>
-            <td>0.5590</td>
-            <td>0.5122</td>
-        </tr>
-        <tr>
-            <td>ROBERTA</td>
-            <td><b>0.5903</b></td>
-            <td><b>0.5498</b></td>
-        </tr>
-        <tr>
-            <td colspan="3"><center><i>Data Augmentation</i></center></td>
-        </tr>
-        <tr>
-            <td>BERT</td>
-            <td>0.9207</td>
-            <td>0.8009</td>
-        </tr>
-        <tr>
-            <td>ALBERT</td>
-            <td>0.9109</td>
-            <td>0.7556</td>
-        </tr>
-        <tr>
-            <td>ROBERTA</td>
-            <td><b>0.9450</b></td>
-            <td><b>0.8011</b></td>
-        </tr>
-        <tr>
-            <td colspan="3"><center><i>Model Optimisation</i></center></td>
-        </tr>
-        <tr>
-            <td>ROBERTA</td>
-            <td><b>0.9450</b></td>
-            <td><b>0.8011</b></td>
-        </tr>
-    </tbody>
-</table>
+Our paper, listed below, provides more details about the model architecture, fine-tuning process, experiments and evaluations.
 
 #### Available Models
 
+We fine-tuned three pre-trained transformer models (i.e. BERT, ALBERT and ROBERTA) for relation classification. 
 All the fine-tuned models are available in [HuggingFace](https://huggingface.co/ACCORD-NLP), and can be accessed using the following code.
 
 ```python
@@ -202,10 +102,10 @@ print(predictions)
 
 ### Information Extraction <a name="ie"> </a>
 
-The Information Extraction(IE) pipeline comprises four integral components: (1) entity classifier, (2) entity pairer, 
-(3) relation classifier and (4) graph builder, as illustrated in the following figure. Overall, when provided with a 
-regulatory sentence as input, the IE pipeline produces a machine-readable output (i.e. an entity-relation graph) that 
-encapsulates the information expressed in natural language. Our paper provides more details about each of the components. 
+Our information extraction pipeline aims to transform a regulatory sentence into a machine-processable output (i.e., a knowledge graph of entities and relations). It utilises the entity and relation classifiers mentioned above to sequentially extract information from the text to build the final graph. 
+
+Our paper, listed below, provides more details about the pipeline, including its individual components. 
+
 
 The default pipeline configurations are set to the best-performed entity and relation classification models, and the 
 default pipeline can be accessed using the following code.
@@ -219,7 +119,7 @@ ie = InformationExtractor()
 ie.sentence_to_graph(sentence)
 ```
 
-The following code can be used to access the pipeline with different configurations. Please refer to the [ie_pipeline.py]() 
+The following code can be used to access the pipeline with different configurations. Please refer to the [ie_pipeline.py](https://github.com/Accord-Project/accord-nlp/blob/main/accord_nlp/information_extraction/ie_pipeline.py) 
 for more details about the input parameters. 
 
 ```python
@@ -235,6 +135,11 @@ ie.sentence_to_graph(sentence)
 ```
 
 Also, a live demo of the Information Extractor is available in [HuggingFace](https://huggingface.co/spaces/ACCORD-NLP/information-extractor). 
+
+
+## Reference
+
+*Please note that the corresponding paper for this work is currently in progress and will be made available soon. Thank you for your patience and interest.*
 
 
 

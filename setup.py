@@ -5,15 +5,16 @@ with open("README.md", "r") as fh:
 
 setup(
     distname="accord-nlp",
-    version="0.1.8",
+    version="1.0.0",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",
-    description="ACCORD - Information extraction from text",
+    description="ACCORD-NLP: Transformer/language model-based information extraction from regulatory text",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Accord-Project/NLP-Framework",
-    keywords=['NLP', 'NER', 'Relation Extraction'],
-    packages=find_packages(exclude=("data_annotation", "experiments", "data_preparation")),
+    url="https://github.com/Accord-Project/accord-nlp",
+    keywords=['NLP', 'NER', 'Relation Extraction', 'Information Extraction'],
+    packages=find_packages(exclude=("data", "data_annotation", "experiments", "data_preparation", "data_processing",
+                                    "rase-to-json", "sentence-classification", "text-to-rase")),
     classifiers=[
         "Intended Audience :: Science/Research",
         "License :: OSI Approved :: Apache Software License",
@@ -32,6 +33,7 @@ setup(
         "tensorboardX",
         "wandb",
         "sentencepiece",
+        "datasets"
         "graphviz"
     ],
 )
