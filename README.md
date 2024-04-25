@@ -2,9 +2,9 @@
 
 ACCORD-NLP is a Natural Language Processing (NLP) framework developed as a part of the Horizon European project for  Automated Compliance Checks for Construction, Renovation or Demolition Works ([ACCORD](https://accordproject.eu/)) to facilitate Automated Compliance Checking (ACC) within the Architecture, Engineering, and Construction (AEC) sector.
 
-Compliance checking is an essential process within the AEC sector to ensure the safety, reliability, stability and usability of building designs. This process was initiated with manual checking approaches. However, their high human resource demand and time consumption have shifted the focus to automated approaches to facilitate more effective compliance checking processes. To automate the compliance checking processes, it is integral to transform the building regulations written in text targeting domain experts into machine-processable formats. However, this has been challenging due to natural languages' inherent complexities and unstructured nature. Furthermore, the regulatory texts are composed of domain-specific characteristics, ambiguities and complex clausal structures, making this task more challenging.
+Compliance checking plays a pivotal role in the AEC sector, ensuring the safety, reliability, stability, and usability of building designs. Traditionally, this process relied on manual approaches, which are resource-intensive and time-consuming. Thus, attention has shifted towards automated methods to streamline compliance checks. Automating these processes necessitates the transformation of building regulations written in text aiming domain experts into machine-processable formats. However, this has been challenging, primarily due to the inherent complexities and unstructured nature of natural languages. Moreover, regulatory texts often exhibit domain-specific characteristics, ambiguities, and intricate clausal structures, further complicating the task.
 
-ACCORD-NLP offers data, AI models and workflows developed using state-of-the-art NLP techniques to facilitate rule extraction from textual data. 
+ACCORD-NLP offers data, AI models and workflows developed using state-of-the-art NLP techniques to extract rules from textual data, supporting ACC.
 
 ## Installation <a name="installation"> </a>
 
