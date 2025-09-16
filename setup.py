@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     distname="accord-nlp",
-    version="1.0.0",
+    version="1.0.1",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",
     description="ACCORD-NLP: Transformer/language model-based information extraction from regulatory text",
@@ -28,7 +28,7 @@ setup(
         "matplotlib",
         "openpyxl",
         "nltk",
-        "transformers==4.16.2",
+        "transformers==4.40.2",
         "seqeval",
         "tensorboardX",
         "wandb",
