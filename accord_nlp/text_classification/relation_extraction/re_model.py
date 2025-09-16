@@ -29,10 +29,10 @@ from sklearn.metrics import (
     matthews_corrcoef,
 )
 from tensorboardX import SummaryWriter
+from torch.optim import AdamW
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 from tqdm.auto import tqdm, trange
 from transformers import (
-    AdamW,
     AlbertConfig,
     AlbertTokenizer,
     BertConfig,
