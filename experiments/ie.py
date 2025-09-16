@@ -1,9 +1,9 @@
 # Created by Hansi on 26/03/2024
 from accord_nlp.information_extraction.ie_pipeline import InformationExtractor
 
-# import nltk
+import nltk
 # nltk.download('punkt')
-# nltk.download('averaged_perceptron_tagger')
+# nltk.download('averaged_perceptron_tagger_eng')
 
 if __name__ == '__main__':
     # sentence = 'Perimeter insulation should be continuous and have a minimum thickness of 25mm.'

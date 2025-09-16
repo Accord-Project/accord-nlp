@@ -22,10 +22,10 @@ from seqeval.metrics import classification_report, f1_score, precision_score, re
 from seqeval.scheme import IOB2
 from tensorboardX import SummaryWriter
 from torch.nn import CrossEntropyLoss
+from torch.optim import AdamW
 from torch.utils.data import DataLoader, RandomSampler, SequentialSampler, TensorDataset
 from tqdm.auto import tqdm, trange
 from transformers import (
-    AdamW,
     AutoConfig,
     AutoModelForTokenClassification,
     AutoTokenizer,
