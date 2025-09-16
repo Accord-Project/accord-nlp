@@ -33,7 +33,7 @@ setup(
         "tensorboardX",
         "wandb",
         "sentencepiece",
-        "datasets"
+        "datasets",
         "graphviz"
     ],
 )
