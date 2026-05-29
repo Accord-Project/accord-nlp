@@ -139,7 +139,21 @@ Also, a live demo of the Information Extractor is available in [HuggingFace](htt
 
 ## Reference
 
-*Please note that the corresponding paper for this work is currently in progress and will be made available soon. Thank you for your patience and interest.*
+If you found the ACCORD-NLP framework useful in your research, please consider citing:
+
+```
+@article{hettiarachchi-etal-2026-snowtec,
+  title={{SNOWTEC}: Synthetic Natural language Oversampling With Transformer-based information ExtraCtion for automated compliance checking},
+  author={Hettiarachchi, Hansi and Gaber, Mohamed Medhat and Parsafard, Pouyan and Vakaj, Edlira},
+  journal={Machine Learning with Applications},
+  volume = {24},
+  pages={100911},
+  year={2026},
+  issn = {2666-8270},
+  doi = {https://doi.org/10.1016/j.mlwa.2026.100911},
+  publisher={Elsevier}
+}
+```
 
 
 
