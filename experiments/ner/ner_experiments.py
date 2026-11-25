@@ -57,7 +57,7 @@ model.train_model(train_token_df, eval_df=eval_token_df, cls_report=cls_report, 
 
 model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=ner_args['labels_list'],
                  use_cuda=torch.cuda.is_available(), cuda_device=cuda_device, args=ner_args)
-predictions, raw_outputs = model.predict(test_df["content"].tolist())
+predictions, raw_outputs = model.predict(test_df["processed_content"].tolist())
 final_predictions = []
 for prediction in predictions:
     raw_prediction = []

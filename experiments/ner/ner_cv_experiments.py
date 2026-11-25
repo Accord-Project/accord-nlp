@@ -5,6 +5,7 @@ import argparse
 import os
 import shutil
 
+import pandas as pd
 from datasets import Dataset
 from datasets import load_dataset
 from sklearn.model_selection import KFold, train_test_split
@@ -36,7 +37,7 @@ folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
 train_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='train'))
 test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Entities', split='test'))
-data_df = train_df.append(test_df, ignore_index=True)
+data_df = pd.concat([train_df, test_df], ignore_index=True)
 print(f'data size: {data_df.shape}')
 
 splits = folds.split(data_df)
@@ -75,7 +76,7 @@ for train, test in splits:
     model.train_model(train_token_df, eval_df=eval_token_df)
 
     model = NERModel(MODEL_TYPE, ner_args['best_model_dir'], labels=tags, args=ner_args)
-    predictions, raw_outputs = model.predict(test_df["content"].tolist())
+    predictions, raw_outputs = model.predict(test_df["processed_content"].tolist())
     final_predictions = []
     for prediction in predictions:
         raw_prediction = []

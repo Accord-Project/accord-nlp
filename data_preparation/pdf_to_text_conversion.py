@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # created by Amna Dridi on 02 Feb 2023
-pip install pdfminer.six
+# pip install pdfminer.six
 
 from pdfminer.high_level import extract_text
 chapter = 'Approved_Document_A-Content2'

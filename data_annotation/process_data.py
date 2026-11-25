@@ -45,7 +45,7 @@ def group_entities(file_path, output_foler):
     for tag in tags:
         df_tag = df[df['tag'] == tag]
         freq_data = df_tag['value'].value_counts()
-        df_freq = pd.DataFrame(freq_data, columns=['value'])
+        df_freq = freq_data.rename('value').to_frame()
         df_freq.to_csv(os.path.join(output_foler, f'{tag}.csv'), encoding='utf-8')
 
 

@@ -70,7 +70,11 @@ class InformationExtractor:
         entity_pair_df = entity_pairing(sentence, ner_predictions[0])
 
         # relation extraction
-        re_predictions, re_raw_outputs = self.re_model.predict(entity_pair_df['output'].tolist())
+        if len(entity_pair_df) == 0:
+            logger.info('Fewer than two entities were found, so no relations can be extracted.')
+            re_predictions = []
+        else:
+            re_predictions, re_raw_outputs = self.re_model.predict(entity_pair_df['output'].tolist())
         entity_pair_df['prediction'] = re_predictions
         if self.debug:
             logger.info('Relation predictions:')

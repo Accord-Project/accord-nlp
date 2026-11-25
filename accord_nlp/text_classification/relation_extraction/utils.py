@@ -431,6 +431,7 @@ def convert_examples_to_features(
     pad_to_max_length=True,
     args=None,
     special_entity_tokens=None,
+    drop_incomplete=True,
 ):
     """ Loads a data file into a list of `InputBatch`s
         `cls_token_at_end` define the location of the CLS token:
@@ -477,7 +478,8 @@ def convert_examples_to_features(
                     )
                 )
             if flatten:
-                features = [feature for feature_set in features for feature in feature_set]
+                features = [feature for feature_set in features if feature_set is not None
+                            for feature in feature_set]
         else:
             with Pool(process_count) as p:
                 features = list(
@@ -493,12 +495,15 @@ def convert_examples_to_features(
                 convert_example_to_feature_sliding_window(example) for example in tqdm(examples, disable=silent)
             ]
             if flatten:
-                features = [feature for feature_set in features for feature in feature_set]
+                features = [feature for feature_set in features if feature_set is not None
+                            for feature in feature_set]
         else:
             features = [convert_example_to_feature(example) for example in tqdm(examples, disable=silent)]
 
-    # remove features which are not completely processed due to inconsistencies
-    features = [f for f in features if f is not None]
+    # Examples whose entity tags were truncated cannot be processed and are returned as None.
+    # They are removed unless the caller needs to keep the positions of the inputs (e.g. for prediction).
+    if drop_incomplete:
+        features = [f for f in features if f is not None]
     return features
 
 

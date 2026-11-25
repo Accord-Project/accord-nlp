@@ -74,6 +74,7 @@ def read_examples_from_file(data_file, mode, bbox=False):
     with open(file_path, encoding="utf-8") as f:
         words = []
         labels = []
+        x0, y0, x1, y1 = [], [], [], []
         for line in f:
             if bbox:
                 if line.startswith("-DOCSTART-") or line == "" or line == "\n":
@@ -101,10 +102,10 @@ def read_examples_from_file(data_file, mode, bbox=False):
                     words.append(splits[0])
                     if len(splits) > 1:
                         labels.append(splits[1].replace("\n", ""))
-                        x0.append(split[2].replace("\n", ""))
-                        y0.append(split[3].replace("\n", ""))
-                        x1.append(split[4].replace("\n", ""))
-                        y1.append(split[5].replace("\n", ""))
+                        x0.append(splits[2].replace("\n", ""))
+                        y0.append(splits[3].replace("\n", ""))
+                        x1.append(splits[4].replace("\n", ""))
+                        y1.append(splits[5].replace("\n", ""))
                     else:
                         # Examples could have no label for mode = "test"
                         labels.append("O")
@@ -129,11 +130,11 @@ def read_examples_from_file(data_file, mode, bbox=False):
             if bbox:
                 examples.append(
                     InputExample(
-                        guid="%s-%d".format(mode, guid_index), words=words, labels=labels, x0=x0, y0=y0, x1=x1, y1=y1
+                        guid="{}-{}".format(mode, guid_index), words=words, labels=labels, x0=x0, y0=y0, x1=x1, y1=y1
                     )
                 )
             else:
-                examples.append(InputExample(guid="%s-%d".format(mode, guid_index), words=words, labels=labels))
+                examples.append(InputExample(guid="{}-{}".format(mode, guid_index), words=words, labels=labels))
     return examples
 
 
@@ -409,7 +410,7 @@ class LazyNERDataset(Dataset):
                 # Examples could have no label for mode = "test"
                 labels.append("O")
         if words:
-            example = InputExample(guid="%s-%d".format("train", idx), words=words, labels=labels)
+            example = InputExample(guid="{}-{}".format("train", idx), words=words, labels=labels)
 
         label_map = {label: i for i, label in enumerate(self.args.labels_list)}
 

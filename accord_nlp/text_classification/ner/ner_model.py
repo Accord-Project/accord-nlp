@@ -579,7 +579,7 @@ class NERModel:
                             best_eval_metric = results[args.early_stopping_metric]
                             self.save_model(args.best_model_dir, optimizer, scheduler, model=model, results=results)
                         if best_eval_metric and args.early_stopping_metric_minimize:
-                            if results[args.early_stopping_metric] - best_eval_metric < args.early_stopping_delta:
+                            if best_eval_metric - results[args.early_stopping_metric] > args.early_stopping_delta:
                                 best_eval_metric = results[args.early_stopping_metric]
                                 self.save_model(
                                     args.best_model_dir, optimizer, scheduler, model=model, results=results
@@ -674,7 +674,7 @@ class NERModel:
                     best_eval_metric = results[args.early_stopping_metric]
                     self.save_model(args.best_model_dir, optimizer, scheduler, model=model, results=results)
                 if best_eval_metric and args.early_stopping_metric_minimize:
-                    if results[args.early_stopping_metric] - best_eval_metric < args.early_stopping_delta:
+                    if best_eval_metric - results[args.early_stopping_metric] > args.early_stopping_delta:
                         best_eval_metric = results[args.early_stopping_metric]
                         self.save_model(args.best_model_dir, optimizer, scheduler, model=model, results=results)
                         early_stopping_counter = 0
