@@ -49,6 +49,8 @@ def entity_pairing(sentence, entities):
 
     # getting out entities and number of their occurrences and getting ready to find out different combinations
     original_text = []
+    none_entityType_text = []
+    counting_noneEntityType_text = []
     for subtree in ne_tree:
         # skipping 'O' tags
         if type(subtree) == Tree:
@@ -80,7 +82,7 @@ def entity_pairing(sentence, entities):
     # making index of entity dictionary --> entity_index_dictionary
     entity_index_dictionary = {}
     for _ in set(none_entityType_text):
-        result = re.finditer(_, sentence)
+        result = re.finditer(re.escape(_), sentence)
         entity_index_dictionary[_] = {}
         if len([x for x in none_entityType_text if x == _]) > 1:
             counter_below = 1
@@ -159,6 +161,14 @@ def graph_building(df, view=True):
     # taking out nulls
     new_df = new_df[new_df['prediction'].isnull() == False].reset_index(drop=True)
 
+    # graphviz treats ':' in node names as a port separator, so nodes are registered under safe ids
+    node_ids = {}
+
+    def node_id(name):
+        if name not in node_ids:
+            node_ids[name] = f'n{len(node_ids)}'
+        return node_ids[name]
+
     # looping over df to draw graph
     if sentenceBySentence:
         for i in range(len(new_df)):
@@ -168,11 +178,11 @@ def graph_building(df, view=True):
                 new_df.loc[i, '<e2>_startIndex']) + '\n|' + str(new_df.loc[i, 'sentence'])
             splitted_nodeA = nodeA.split('|')
             splitted_nodeB = nodeB.split('|')
-            graph.node(nodeA, label=splitted_nodeA[0] + splitted_nodeA[1], style='filled',
+            graph.node(node_id(nodeA), label=splitted_nodeA[0] + splitted_nodeA[1], style='filled',
                        fillcolor=dict_entityColors[new_df.loc[i, '<e1>_tag']])
-            graph.node(nodeB, label=splitted_nodeB[0] + splitted_nodeB[1], style='filled',
+            graph.node(node_id(nodeB), label=splitted_nodeB[0] + splitted_nodeB[1], style='filled',
                        fillcolor=dict_entityColors[new_df.loc[i, '<e2>_tag']])
-            graph.edge(nodeA, nodeB, label=str(new_df.loc[i, 'prediction']))
+            graph.edge(node_id(nodeA), node_id(nodeB), label=str(new_df.loc[i, 'prediction']))
 
     if view:
         graph.render(view=view)

@@ -22,7 +22,7 @@ try:
         with open('Cleaned-'+chapter, 'w') as fw:
             for line in lines:
                 if len(line.strip('\n')) > min_len:
-                    new_line = re.sub(r"[^a-zA-Z0-9\.,;:/)('-' ]", "", line)
+                    new_line = re.sub(r"[^a-zA-Z0-9\.,;:/)('\- ]", "", line)
                     #new_line = new_line.lower()
                     for word in removal_list:
                       new_line = new_line.replace(word, "")

@@ -27,10 +27,33 @@ def regex_escape_chars(text):
     :param text:
     :return:
     """
-    text = text.replace(".", "\.")
-    text = text.replace("(", "\(")
-    text = text.replace(")", "\)")
-    return text
+    return re.escape(text)
+
+
+def find_token_spans(token, text, offset=0):
+    """
+    Find the character spans of a token in text.
+    NLTK's tokeniser rewrites double quotes as `` and '', which do not occur in the original text.
+    """
+    if token in ('``', "''"):
+        pattern = '"|``|' + "''"
+    else:
+        pattern = regex_escape_chars(token)
+    return [(offset + ele.start(), offset + ele.end()) for ele in re.finditer(pattern, text)]
+
+
+def select_span(index_pairs, last_end):
+    """
+    Select the span closest to (and not before) the end of the previously processed token
+    """
+    if not index_pairs:
+        raise ValueError('a token could not be located in the text')
+    if len(index_pairs) == 1:
+        return index_pairs[0]
+    candidates = [(pair[0] - last_end, i) for i, pair in enumerate(index_pairs) if pair[0] - last_end >= 0]
+    if not candidates:
+        return index_pairs[-1]
+    return index_pairs[min(candidates)[1]]
 
 
 def process_sentence(sentence):
@@ -62,17 +85,8 @@ def process_sentence(sentence):
                 for sub_token in sub_tokens:
                     final_tokens.append(sub_token)
 
-                    escaped_sub_token = regex_escape_chars(sub_token)
-                    # final_indices.append([(token_start + ele.start(), token_start + ele.end()) for ele in
-                    #                       re.finditer(escaped_sub_token, tokens[i])][0])
-                    index_pairs = [(token_start + ele.start(), token_start + ele.end()) for ele in
-                                   re.finditer(escaped_sub_token, tokens[i])]
-                    if len(index_pairs) == 1:
-                        index_pair = index_pairs[0]
-                    else:
-                        diffs = [pair[0] - last_index_pair[1] for pair in index_pairs]
-                        min_positive_lst_index = diffs.index(min(filter(lambda x: x >= 0, diffs)))
-                        index_pair = index_pairs[min_positive_lst_index]
+                    index_pairs = find_token_spans(sub_token, tokens[i], token_start)
+                    index_pair = select_span(index_pairs, last_index_pair[1])
                     final_indices.append(index_pair)
                     last_index_pair = index_pair
             else:
@@ -82,7 +96,7 @@ def process_sentence(sentence):
         for i in range(len(final_tokens)):
             dict_tokens[f'{final_tokens[i]}-{final_indices[i][0]}-{final_indices[i][1]}'] = final_tokens[i]
     else:
-        print(f'Error: Mismatching tokens and indices were found for Sentence {id}.')
+        print(f'Error: Mismatching tokens and indices were found for sentence "{sentence[:60]}".')
         error = 1
 
     return error, dict_tokens
@@ -107,18 +121,8 @@ def process_entities(sentence, filtered_df):
         i = 0
         last_index_pair = (0, 0)
         for entity_token in entity_tokens:
-            escaped_sub_token = regex_escape_chars(entity_token)
-            # index_pairs = [(int(row['start']) + ele.start(), int(row['start']) + ele.end()) for ele in
-            #               re.finditer(r'\b{}\b'.format(escaped_sub_token), entity_text)]
-            index_pairs = [(int(row['start']) + ele.start(), int(row['start']) + ele.end()) for ele in
-                          re.finditer(escaped_sub_token, entity_text)]
-
-            if len(index_pairs) == 1:
-                index_pair = index_pairs[0]
-            else:
-                diffs = [pair[0]-last_index_pair[1] for pair in index_pairs]
-                min_positive_lst_index = diffs.index(min(filter(lambda x: x >= 0, diffs)))
-                index_pair = index_pairs[min_positive_lst_index]
+            index_pairs = find_token_spans(entity_token, entity_text, int(row['start']))
+            index_pair = select_span(index_pairs, last_index_pair[1])
 
             if i == 0:
                 dict_entities[f'{entity_token}-{index_pair[0]}-{index_pair[1]}'] = [entity_token, f'B-{label}']
@@ -150,10 +154,14 @@ def format_iob(input_path, output_path):
         row0 = filtered_df.iloc[0]
         sentence = row0['content']
         metadata = row0['metadata']
-        error, dict_tokens = process_sentence(sentence)
+        try:
+            error, dict_tokens = process_sentence(sentence)
+            dict_entities = process_entities(sentence, filtered_df) if error != 1 else None
+        except ValueError as e:
+            print(f'Error: {e} in sentence {id}.')
+            continue
 
         if error != 1:
-            dict_entities = process_entities(sentence, filtered_df)
 
             processed_sentence = ' '.join(dict_tokens.values())
             iob_string = ''
@@ -174,7 +182,7 @@ def format_iob(input_path, output_path):
             else:
                 print(f'Error: Mismatching tokens and labels were found for Sentence {id}.')
 
-        output_df.to_csv(output_path, encoding='utf-8', index=False)
+    output_df.to_csv(output_path, encoding='utf-8', index=False)
 
 
 if __name__ == '__main__':

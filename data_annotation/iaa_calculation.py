@@ -72,7 +72,7 @@ def entity_pairwise_agreement(annotator_ids, json_path):
 
     all_annotations = sum(map(lambda x: x['annotations'], examples), [])
 
-    iaa_data_df = pd.io.json.json_normalize(all_annotations,
+    iaa_data_df = pd.json_normalize(all_annotations,
                                         meta=['tagged_token_id', 'example_id', 'tag', 'value', 'start', 'end'],
                                         record_path='annotated_by')
     annotations_df = iaa_data_df[['example_id', 'tagged_token_id', 'annotator_id', 'start', 'end', 'value', 'tag']]

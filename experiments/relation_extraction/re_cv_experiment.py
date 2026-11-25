@@ -6,6 +6,7 @@ import os
 import shutil
 
 import torch
+import pandas as pd
 from datasets import Dataset
 from datasets import load_dataset
 from sklearn.model_selection import KFold, train_test_split
@@ -37,7 +38,7 @@ folds = KFold(n_splits=k_folds, shuffle=True, random_state=SEED)
 
 train_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='train'))
 test_df = Dataset.to_pandas(load_dataset('ACCORD-NLP/CODE-ACCORD-Relations', split='test'))
-data_df = train_df.append(test_df, ignore_index=True)
+data_df = pd.concat([train_df, test_df], ignore_index=True)
 
 data_df = data_df.rename(columns={'tagged_sentence': 'text', 'relation_type': 'labels'})
 data_df = data_df[['example_id', 'text', 'labels']]

@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setup(
-    distname="accord-nlp",
+    name="accord-nlp",
     version="1.0.2",
     author="Hansi Hettiarachchi",
     author_email="hansi.h.hettiarachchi@gmail.com",

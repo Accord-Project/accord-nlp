@@ -22,7 +22,6 @@ from pathlib import Path
 import numpy as np
 import pandas as pd
 import torch
-from scipy.stats import mode
 from sklearn.metrics import (
     confusion_matrix,
     label_ranking_average_precision_score,
@@ -211,6 +210,7 @@ class REModel:
                 self.args.quantized_model = True
 
         self.results = {}
+        self._dropped_example_indices = []
 
         if not use_cuda:
             self.args.fp16 = False
@@ -720,6 +720,12 @@ class REModel:
                                         )
 
             epoch_number += 1
+
+            if args.save_recent_only:
+                del_paths = glob.glob(os.path.join(output_dir, 'checkpoint-*'))
+                for del_path in del_paths:
+                    shutil.rmtree(del_path)
+
             output_dir_current = os.path.join(output_dir, "checkpoint-{}-epoch-{}".format(global_step, epoch_number))
 
             if args.save_model_every_epoch or args.evaluate_during_training:
@@ -736,11 +742,6 @@ class REModel:
                     wandb_log=False,
                     **kwargs,
                 )
-
-                if args.save_recent_only:
-                    del_paths = glob.glob(os.path.join(output_dir, 'checkpoint-*'))
-                    for del_path in del_paths:
-                        shutil.rmtree(del_path)
 
                 self.save_model(output_dir_current, optimizer, scheduler, results=results)
 
@@ -1016,11 +1017,7 @@ class REModel:
             preds = [np.argmax(pred, axis=1) for pred in preds]
             final_preds = []
             for pred_row in preds:
-                mode_pred, counts = mode(pred_row)
-                if len(counts) > 1 and counts[0] == counts[1]:
-                    final_preds.append(args.tie_value)
-                else:
-                    final_preds.append(mode_pred[0])
+                final_preds.append(self._majority_vote(pred_row))
             preds = np.array(final_preds)
         elif not multi_label and args.regression is True:
             preds = np.squeeze(preds)
@@ -1146,12 +1143,22 @@ class REModel:
                 pad_to_max_length=bool(len(examples) > 1),
                 args=args,
                 special_entity_tokens=special_entity_tokens,
+                drop_incomplete=False,
             )
             if verbose and args.sliding_window:
                 logger.info(f" {len(features)} features created from {len(examples)} samples.")
 
             if not no_cache:
                 torch.save(features, cached_features_file)
+
+        # Examples whose entity tags were truncated (max_seq_length) cannot be converted to features.
+        self._dropped_example_indices = [i for i, f in enumerate(features) if f is None]
+        if self._dropped_example_indices:
+            warnings.warn(
+                f"{len(self._dropped_example_indices)} example(s) were skipped because their entity tags "
+                f"do not fit within max_seq_length={args.max_seq_length}."
+            )
+        features = [f for f in features if f is not None]
 
         if args.sliding_window and evaluate:
             features = [
@@ -1252,6 +1259,10 @@ class REModel:
         model = self.model
         args = self.args
 
+        if len(to_predict) == 0:
+            return [], np.empty((0, self.num_labels))
+        self._dropped_example_indices = []
+
         eval_loss = 0.0
         nb_eval_steps = 0
         preds = np.empty((len(to_predict), self.num_labels))
@@ -1333,6 +1344,13 @@ class REModel:
                 #     eval_dataset = self.load_and_cache_examples(
                 #         eval_examples, evaluate=True, multi_label=multi_label, no_cache=True
                 #     )
+
+                # examples with truncated entity tags are not part of the dataset
+                preds = np.empty((len(eval_dataset), self.num_labels))
+                if multi_label:
+                    out_label_ids = np.empty((len(eval_dataset), self.num_labels))
+                else:
+                    out_label_ids = np.empty((len(eval_dataset)))
 
             eval_sampler = SequentialSampler(eval_dataset)
             eval_dataloader = DataLoader(eval_dataset, sampler=eval_sampler, batch_size=args.eval_batch_size)
@@ -1423,7 +1441,7 @@ class REModel:
                     #     preds = np.append(preds, logits.detach().cpu().numpy(), axis=0)
                     #     out_label_ids = np.append(out_label_ids, inputs["labels"].detach().cpu().numpy(), axis=0)
 
-            eval_loss = eval_loss / nb_eval_steps
+            eval_loss = eval_loss / max(nb_eval_steps, 1)
 
             if args.sliding_window:
                 count = 0
@@ -1439,11 +1457,7 @@ class REModel:
                 preds = [np.argmax(pred, axis=1) for pred in preds]
                 final_preds = []
                 for pred_row in preds:
-                    mode_pred, counts = mode(pred_row)
-                    if len(counts) > 1 and counts[0] == counts[1]:
-                        final_preds.append(args.tie_value)
-                    else:
-                        final_preds.append(mode_pred[0])
+                    final_preds.append(self._majority_vote(pred_row))
                 preds = np.array(final_preds)
             elif not multi_label and args.regression is True:
                 preds = np.squeeze(preds)
@@ -1465,6 +1479,21 @@ class REModel:
         if self.args.labels_map and not self.args.regression:
             inverse_labels_map = {value: key for key, value in self.args.labels_map.items()}
             preds = [inverse_labels_map[pred] for pred in preds]
+
+        dropped = set(self._dropped_example_indices)
+        if dropped:
+            # keep the outputs aligned with the inputs; skipped examples get the 'none' label (if available)
+            fill = "none" if self.args.labels_map and "none" in self.args.labels_map else None
+            preds_iter, outputs_iter = iter(preds), iter(model_outputs)
+            full_preds, full_outputs = [], []
+            for i in range(len(to_predict)):
+                if i in dropped:
+                    full_preds.append(fill)
+                    full_outputs.append(None)
+                else:
+                    full_preds.append(next(preds_iter))
+                    full_outputs.append(next(outputs_iter))
+            preds, model_outputs = full_preds, full_outputs
 
         if self.config.output_hidden_states:
             return preds, model_outputs, all_embedding_outputs, all_layer_hidden_states
@@ -1506,6 +1535,13 @@ class REModel:
         self.tokenizer.save_pretrained(output_dir)
         self.config.save_pretrained(output_dir)
         self.save_model_args(output_dir)
+
+    def _majority_vote(self, pred_row):
+        """Most frequent prediction across the windows of a sample; ties resolve to args.tie_value."""
+        values, counts = np.unique(pred_row, return_counts=True)
+        if (counts == counts.max()).sum() > 1:
+            return self.args.tie_value
+        return values[counts.argmax()]
 
     def _threshold(self, x, threshold):
         if x >= threshold:
